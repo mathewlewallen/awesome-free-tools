@@ -1,4 +1,4 @@
-# Awesome Free Apps [![Awesome](https://awesome.re/badge.svg)](https://github.com/Axorax/awesome-free-apps)
+# Awesome Free Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Curated list of the best free apps for Windows, Mac and Linux
 
