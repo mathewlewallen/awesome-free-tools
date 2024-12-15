@@ -33,9 +33,7 @@
 ### Audio Players
 
 - [MusicBee](https://getmusicbee.com/) - Feature-rich music player and manager for Windows. ![Windows](win.svg)
-- [VLC Media Player](https://www.videolan.org/vlc/) - Media player supporting nearly all audio formats. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [AIMP](https://aimp.ru/) - Music player for Windows with a clean interface and powerful features. ![Windows](win.svg)
-- [Clementine](https://www.clementine-player.org/) - Music player and organizer with cloud and streaming support. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Audacious](https://audacious-media-player.org/) - Lightweight audio player for simple music playback. ![Windows](win.svg) ![Linux](nix.svg)
 - [Strawberry Music Player](https://www.strawberrymusicplayer.org/) - Music player for organizing and playing your audio collection. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 
@@ -44,7 +42,6 @@
 - [Audacity](https://www.audacityteam.org/download/) - Open-source audio editor for recording and editing sounds. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Ocenaudio](https://www.ocenaudio.com/) - Easy-to-use audio editor for recording and analyzing sounds. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Wavosaur](https://www.wavosaur.com/) - Simple audio editor for recording, editing, and processing sound. ![Windows](win.svg)
-- [Ardour](https://ardour.org/) - Multi-track DAW for recording and editing audio. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 
 ### DJ Software
 
@@ -109,7 +106,7 @@
 - [GOG Galaxy](https://www.gog.com/galaxy) - Game launcher and store with DRM-free games and cross-platform library management. ![Windows](win.svg) ![macOS](mac.svg)
 - [Battle.net](https://www.blizzard.com/en-us/apps/battle.net/desktop) - Blizzard’s platform for games like World of Warcraft, Diablo, and Overwatch. ![Windows](win.svg) ![macOS](mac.svg)
 - [Origin](https://www.origin.com/) - EA’s game launcher for managing and playing their titles. ![Windows](win.svg) ![macOS](mac.svg)
-- [Xbox App](https://www.xbox.com/en-US/apps/xbox-app-for-pc) - Microsoft’s platform for accessing Xbox Game Pass and managing PC games. ![Windows](win.svg)
+- [Xbox App](https://www.xbox.com/en-US/apps/xbox-app-for-pc) - Microsofts platform for accessing Xbox Game Pass and managing PC games. ![Windows](win.svg)
 - [Itch.io](https://itch.io/app) - Open marketplace for indie games with a dedicated desktop app. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Amazon Games](https://gaming.amazon.com/) - Platform for managing games from Amazon Prime Gaming. ![Windows](win.svg)
 - [Humble App](https://www.humblebundle.com/app) - Launcher for accessing games purchased through Humble Bundle. ![Windows](win.svg)
@@ -166,7 +163,6 @@
 - [RealPlayer](https://www.real.com/) - Versatile media player for playing videos and streaming. ![Windows](win.svg) ![macOS](mac.svg)  
 - [Bomi Player](https://bomi-player.github.io/) - Advanced media player that supports a variety of video formats. ![Linux](nix.svg)  
 - [Clementine Player](https://www.clementine-player.org/) - Music and video player with a user-friendly interface. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
-- [PotPlayer](https://potplayer.daum.net/) - Feature-rich multimedia player with extensive support for video codecs and streaming protocols. ![Windows](win.svg)  
 - [ScreenToGif](https://www.screentogif.com/) - Screen recording software that allows you to capture GIFs and videos with customizable export options. ![Windows](win.svg)  
 - [Videotape](https://usuaia.com/videotape) - Simple and minimalist video player for quick playback of local video files. ![Windows](win.svg)  
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - Media player with the ability to remember playback settings and support for various video formats. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
