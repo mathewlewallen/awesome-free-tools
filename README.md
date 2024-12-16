@@ -18,6 +18,7 @@
 - [Communication](#communication)
     - [Messaging](#messaging)
     - [Email Clients](#email-clients)
+- [Compression and Archiving](#compression-and-archiving)
 - [Customize](#customize)
     - [System Customization](#system-customization)
     - [Wallpaper Tools](#wallpaper-tools)
@@ -25,6 +26,7 @@
     - [API Development](#api-development)
     - [Network Analysis](#network-analysis)
     - [Game Engines](#game-engines)
+    - [Virtualization](#virtualization)
 - [Documents](#documents)
     - [PDF Tools](#pdf-tools)
 - [Games](#games)
@@ -146,6 +148,18 @@
 - [Edison Mail](https://mail.edison.tech/mac) - Customizable, simple, and intuitive email client with smart features. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Skiff Mail](https://skiff.com/mail) - Encrypted and decentralized email service available on multiple platforms. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 
+## Compression and Archiving
+
+- [7-Zip](https://www.7-zip.org/) - Free and open-source archive manager supporting 7z, ZIP, and other major formats. Ideal for compression and extraction tasks. ![Windows](win.svg)
+- [Bandizip](https://www.bandisoft.com/bandizip/) - Fast, lightweight, and versatile archive manager with extensive format support. ![Windows](win.svg)
+- [NanaZip](https://apps.microsoft.com/detail/9n8g7tscl18r?hl=en-us&gl=US) - A modern derivative of 7-Zip, optimized for Windows 10/11 with additional functionality. ![Windows](win.svg)
+- [PeaZip](https://peazip.github.io/) - Open-source archive manager supporting over 180 file formats, with encryption and compression features. ![Windows](win.svg) ![Linux](nix.svg)
+- [Keka](https://www.keka.io) - Free macOS archive manager that supports ZIP, 7Z, TAR, GZIP, and RAR, with compression and extraction tools. ![Mac](mac.svg)
+- [muCommander](http://www.mucommander.com) - Lightweight, dual-pane file manager with archive handling features for macOS. ![Mac](mac.svg)
+- [The Unarchiver](https://theunarchiver.com/) - Simple tool for extracting various archive formats like ZIP, RAR, and ISO on macOS. ![Mac](mac.svg)
+- [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - Multi-format decompression tool for macOS with QuickLook integration. ![Mac](mac.svg)
+- [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - Open-source tool for tagging and organizing PDF documents on macOS. ![Mac](mac.svg)
+
 ## Customize
 
 ### System Customization
@@ -220,11 +234,31 @@
 - [Flixel](https://flixel.org/) - Open-source 2D game engine built with Haxe, suitable for platformers and action games. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Gosu](https://www.libgosu.org/) - Simple 2D game development library that works with Ruby or C++. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 
+### Virtualization
+
+- [Docker](https://www.docker.com/) - Open-source containerization platform that enables operating-system-level virtualization. ![Windows](win.svg) ![Linux](nix.svg) ![Mac](mac.svg)
+- [Multipass](https://multipass.run/) - Quickly launch and manage Ubuntu virtual machines on demand. ![Windows](win.svg) ![Linux](nix.svg) ![Mac](mac.svg)
+- [OrbStack](https://orbstack.dev/) - Lightweight and fast virtualization solution for running Docker containers and Linux machines on macOS. ![Mac](mac.svg)
+- [Lima](https://github.com/lima-vm/lima) - Open-source tool for launching Linux VMs on macOS with file sharing and port forwarding. ![Mac](mac.svg)
+- [QEMU](https://www.qemu.org/) - Open-source emulator and virtualizer for hardware and system virtualization. ![Windows](win.svg) ![Linux](nix.svg) ![Mac](mac.svg)
+- [UTM](https://mac.getutm.app/) - Open-source GUI for QEMU, designed for running various VMs including ARM64 and x64 on macOS. ![Mac](mac.svg)
+- [Vagrant](https://www.vagrantup.com) - Open-source tool for building and managing reproducible development environments using virtual machines. ![Windows](win.svg) ![Linux](nix.svg) ![Mac](mac.svg)
+- [Rancher Desktop](https://rancherdesktop.io) - Open-source application for managing containers and Kubernetes on the desktop. ![Windows](win.svg) ![Linux](nix.svg) ![Mac](mac.svg)
+- [Podman Desktop](https://podman.io/) - Open-source desktop alternative to Docker for managing containers. ![Windows](win.svg) ![Linux](nix.svg) ![Mac](mac.svg)
+- [VirtualBox](http://www.virtualbox.org) - Free and powerful x86 and AMD64/Intel64 virtualization software for creating and managing virtual machines. ![Windows](win.svg) ![Linux](nix.svg) ![Mac](mac.svg)
+
 ## Documents
 
 ### PDF Tools
 
-- [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) - Fast & small PDF reader that also supports epub, mobi, cbz & more. ![Windows](win.svg)
+- [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) - Fast and lightweight PDF reader that supports EPUB, MOBI, CBZ, and more. ![Windows](win.svg)
+- [MuPDF](https://mupdf.com/) - Lightweight open-source PDF viewer and toolkit for rendering and managing PDF files. ![Windows](win.svg) ![Linux](nix.svg)
+- [Okular](https://okular.kde.org/) - Open-source universal document viewer for PDFs, eBooks, and more, developed by KDE. ![Windows](win.svg) ![Linux](nix.svg) ![Mac](mac.svg)
+- [Foxit PDF Reader](https://www.foxit.com/pdf-reader/) - Free, fast, and secure PDF viewer with annotation and form-filling features. ![Windows](win.svg)
+- [qpdfview](https://launchpad.net/qpdfview) - Tabbed document viewer for PDF, PostScript, and DjVu files. ![Linux](nix.svg)
+- [Skim](https://skim-app.sourceforge.io/) - PDF reader and note-taker for macOS, designed for viewing and annotating PDFs. ![Mac](mac.svg)
+- [Xournal++](https://xournalpp.github.io/) - Open-source handwriting and annotation tool for PDFs, perfect for note-taking. ![Windows](win.svg) ![Linux](nix.svg) ![Mac](mac.svg)
+- [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - Open-source PDF editor for splitting, merging, rotating, and reordering PDF documents. ![Windows](win.svg) ![Linux](nix.svg)
 
 ## Games  
 
@@ -250,9 +284,9 @@
 
 ### Cloud Gaming  
 
-- [NVIDIA GeForce NOW](https://www.nvidia.com/en-us/geforce-now/) - Free tier for streaming supported games from the cloud. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
-- [Xbox Cloud Gaming](https://www.xbox.com/en-US/play) - Free trial with limited titles via the cloud. ![Windows](win.svg) ![macOS](mac.svg)  
-- [Boosteroid](https://boosteroid.com/) - Free plan available for limited game streaming. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
+- [NVIDIA GeForce NOW](https://www.nvidia.com/en-us/geforce-now/) - Free tier for streaming supported games from the cloud. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Xbox Cloud Gaming](https://www.xbox.com/en-US/play) - Free trial with limited titles via the cloud. ![Windows](win.svg) ![macOS](mac.svg)
+- [Boosteroid](https://boosteroid.com/) - Free plan available for limited game streaming. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Antstream Arcade](https://www.antstream.com/) - Free tier with retro games playable via the cloud. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Sunshine](https://app.lizardbyte.dev/Sunshine/?lng=en) - Self-hosted game stream host for Moonlight. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Parsec](https://parsec.app/) - Free for personal use. Provides seamless 4k experience at up to 60 frames/second with near-zero latency. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
@@ -314,6 +348,8 @@
 ## Image viewers
 
 - [Irfanview](https://www.irfanview.com/) - Simple image viewer with some editing abilities. ![Windows](win.svg)
+- [FlowVision](https://github.com/netdcy/FlowVision) - Waterfall-style image viewer. ![macOS](mac.svg)
+- [qView](https://interversehq.com/qview/) - Visually minimal and space efficient. [Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 
 ## Text Editors
 
@@ -352,59 +388,61 @@
 
 ## Video
 
+- [FreeTube](https://freetubeapp.io/) - Private YouTube client with no ads. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+
 ### Video Editors  
 
-- [Shotcut](https://shotcut.org/) - Open-source video editor with a wide range of features. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
-- [OpenShot](https://www.openshot.org/) - Easy-to-use, open-source video editor with support for multiple video tracks. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
-- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional video editor with advanced color correction and effects. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
+- [Shotcut](https://shotcut.org/) - Open-source video editor with a wide range of features. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [OpenShot](https://www.openshot.org/) - Easy-to-use, open-source video editor with support for multiple video tracks. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional video editor with advanced color correction and effects. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Capcut Desktop](https://www.capcut.com/tools/desktop-video-editor) - Simple video editor with many builtin effects. ![Windows](win.svg) ![macOS](mac.svg)
-- [Kdenlive](https://kdenlive.org/en/) - Open-source video editor with multi-track editing and a powerful interface. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
-- [Lightworks](https://www.lwks.com/) - Professional video editor with advanced features for filmmaking. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
-- [HitFilm Express](https://fxhome.com/product/hitfilm-express) - Feature-packed video editor with visual effects and compositing tools. ![Windows](win.svg) ![macOS](mac.svg)  
-- [VSDC Free Video Editor](https://www.videosoftdev.com/free-video-editor) - Non-linear video editor with a rich set of editing tools. ![Windows](win.svg)  
-- [Olive Video Editor](https://www.olivevideoeditor.org/) - Open-source non-linear video editor with powerful features and an intuitive interface. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
-- [Avidemux](https://avidemux.sourceforge.net/) - Video editor designed for simple cutting, filtering and encoding tasks. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
+- [Kdenlive](https://kdenlive.org/en/) - Open-source video editor with multi-track editing and a powerful interface. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Lightworks](https://www.lwks.com/) - Professional video editor with advanced features for filmmaking. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [HitFilm Express](https://fxhome.com/product/hitfilm-express) - Feature-packed video editor with visual effects and compositing tools. ![Windows](win.svg) ![macOS](mac.svg)
+- [VSDC Free Video Editor](https://www.videosoftdev.com/free-video-editor) - Non-linear video editor with a rich set of editing tools. ![Windows](win.svg)
+- [Olive Video Editor](https://www.olivevideoeditor.org/) - Open-source non-linear video editor with powerful features and an intuitive interface. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Avidemux](https://avidemux.sourceforge.net/) - Video editor designed for simple cutting, filtering and encoding tasks. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 
 ### Video Players  
 
 - [VLC Media Player](https://www.videolan.org/vlc/) - Open-source media player supporting almost all video formats. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg) 
 - [Kodi](https://kodi.tv/) - Open-source media center that allows you to play and view most videos, music, podcasts, and other digital media files. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [ScreenBox ](https://apps.microsoft.com/detail/9ntsnmsvcb5l?hl=en-US&gl=US) - Basically VLC but with a modern UI. ![Windows](win.svg)
-- [MPV](https://mpv.io/) - Open-source, cross-platform media player with a simple interface. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
-- [KMPlayer](https://www.kmplayer.com/) - Media player supporting various video formats and streaming protocols. ![Windows](win.svg) ![macOS](mac.svg)  
-- [PotPlayer](https://potplayer.daum.net/) - Feature-rich video player with advanced playback options. ![Windows](win.svg)  
-- [MPC-HC](https://github.com/clsid2/mpc-hc) - Lightweight video player with support for all common formats. ![Windows](win.svg)  
-- [GOM Player](https://www.gomlab.com/gomplayer-media-player/) - Popular media player with support for most video formats and customizable features. ![Windows](win.svg) ![macOS](mac.svg)  
-- [RealPlayer](https://www.real.com/) - Versatile media player for playing videos and streaming. ![Windows](win.svg) ![macOS](mac.svg)  
-- [Bomi Player](https://bomi-player.github.io/) - Advanced media player that supports a variety of video formats. ![Linux](nix.svg)  
-- [Clementine Player](https://www.clementine-player.org/) - Music and video player with a user-friendly interface. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
-- [ScreenToGif](https://www.screentogif.com/) - Screen recording software that allows you to capture GIFs and videos with customizable export options. ![Windows](win.svg)  
-- [Videotape](https://usuaia.com/videotape) - Simple and minimalist video player for quick playback of local video files. ![Windows](win.svg)  
+- [MPV](https://mpv.io/) - Open-source, cross-platform media player with a simple interface. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [KMPlayer](https://www.kmplayer.com/) - Media player supporting various video formats and streaming protocols. ![Windows](win.svg) ![macOS](mac.svg)
+- [PotPlayer](https://potplayer.daum.net/) - Feature-rich video player with advanced playback options. ![Windows](win.svg)
+- [MPC-HC](https://github.com/clsid2/mpc-hc) - Lightweight video player with support for all common formats. ![Windows](win.svg)
+- [GOM Player](https://www.gomlab.com/gomplayer-media-player/) - Popular media player with support for most video formats and customizable features. ![Windows](win.svg) ![macOS](mac.svg)
+- [RealPlayer](https://www.real.com/) - Versatile media player for playing videos and streaming. ![Windows](win.svg) ![macOS](mac.svg)
+- [Bomi Player](https://bomi-player.github.io/) - Advanced media player that supports a variety of video formats. ![Linux](nix.svg)
+- [Clementine Player](https://www.clementine-player.org/) - Music and video player with a user-friendly interface. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [ScreenToGif](https://www.screentogif.com/) - Screen recording software that allows you to capture GIFs and videos with customizable export options. ![Windows](win.svg)
+- [Videotape](https://usuaia.com/videotape) - Simple and minimalist video player for quick playback of local video files. ![Windows](win.svg)
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - Media player with the ability to remember playback settings and support for various video formats. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [IINA](https://iina.io/) - Open-source media player for MacOS. Performs better than VLC. ![macOS](mac.svg)
 
 ### Video Streaming and Recording  
 
-- [OBS Studio](https://obsproject.com/) - Open-source software for live streaming and video recording. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
-- [Streamlabs Desktop](https://streamlabs.com/) - Open-source streaming software with a customizable interface for live broadcasts. ![Windows](win.svg) ![macOS](mac.svg)  
-- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Open-source video conferencing and streaming solution. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
-- [XSplit Broadcaster](https://www.xsplit.com/) - Free live streaming and recording tool with advanced features. ![Windows](win.svg)  
-- [Zoom](https://zoom.us/) - Video conferencing tool with live streaming capabilities. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
-- [Nginx RTMP](https://github.com/arut/nginx-rtmp-module) - Open-source media streaming server using NGINX. ![Linux](nix.svg)  
-- [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility to stream video from various platforms. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
-- [Kaltura](https://kaltura.com/) - Open-source video streaming platform for creating and managing content. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
+- [OBS Studio](https://obsproject.com/) - Open-source software for live streaming and video recording. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Streamlabs Desktop](https://streamlabs.com/) - Open-source streaming software with a customizable interface for live broadcasts. ![Windows](win.svg) ![macOS](mac.svg)
+- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Open-source video conferencing and streaming solution. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [XSplit Broadcaster](https://www.xsplit.com/) - Free live streaming and recording tool with advanced features. ![Windows](win.svg)
+- [Zoom](https://zoom.us/) - Video conferencing tool with live streaming capabilities. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Nginx RTMP](https://github.com/arut/nginx-rtmp-module) - Open-source media streaming server using NGINX. ![Linux](nix.svg)
+- [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility to stream video from various platforms. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Kaltura](https://kaltura.com/) - Open-source video streaming platform for creating and managing content. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 
 
 ### Video Converters  
 
-- [HandBrake](https://handbrake.fr/) - Open-source video transcoder for converting video formats. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
-- [FFmpeg](https://ffmpeg.org/) - Command-line tool for video and audio processing with wide format support. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
-- [Any Video Converter](https://www.any-video-converter.com/) - Free video converter that supports multiple formats. ![Windows](win.svg) ![macOS](mac.svg)  
-- [Format Factory](http://www.pcfreetime.com/formatfactory/) - Multifunctional converter supporting video, audio, and image formats. ![Windows](win.svg)  
-- [Freemake Video Converter](https://www.freemake.com/free_video_converter/) - Easy-to-use video converter with format support for most devices. ![Windows](win.svg)  
-- [XMedia Recode](https://www.xmedia-recode.de/en/) - All-in-one video and audio converter with wide format support. ![Windows](win.svg)  
-- [Shutter Encoder](https://www.shutterencoder.com/) - Multi-functional media conversion tool for video, audio, and image formats with advanced processing options. ![Windows](win.svg) ![macOS](mac.svg)  
-- [VidCoder](https://vidcoder.net/) - Open-source video transcoder based on HandBrake, with a user-friendly interface. ![Windows](win.svg) ![macOS](mac.svg)  
+- [HandBrake](https://handbrake.fr/) - Open-source video transcoder for converting video formats. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [FFmpeg](https://ffmpeg.org/) - Command-line tool for video and audio processing with wide format support. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Any Video Converter](https://www.any-video-converter.com/) - Free video converter that supports multiple formats. ![Windows](win.svg) ![macOS](mac.svg)
+- [Format Factory](http://www.pcfreetime.com/formatfactory/) - Multifunctional converter supporting video, audio, and image formats. ![Windows](win.svg)
+- [Freemake Video Converter](https://www.freemake.com/free_video_converter/) - Easy-to-use video converter with format support for most devices. ![Windows](win.svg)
+- [XMedia Recode](https://www.xmedia-recode.de/en/) - All-in-one video and audio converter with wide format support. ![Windows](win.svg)
+- [Shutter Encoder](https://www.shutterencoder.com/) - Multi-functional media conversion tool for video, audio, and image formats with advanced processing options. ![Windows](win.svg) ![macOS](mac.svg)
+- [VidCoder](https://vidcoder.net/) - Open-source video transcoder based on HandBrake, with a user-friendly interface. ![Windows](win.svg) ![macOS](mac.svg)
 
 ## VPN and Proxy Tools
 
@@ -428,7 +466,7 @@
 
 - [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Collection of utilities including tools for file renaming, bulk resizing, and a quick launcher to enhance Windows productivity. ![Windows](win.svg)
 - [AutoHotkey](https://www.autohotkey.com/) - Powerful scripting language for automating tasks and creating custom keyboard shortcuts. ![Windows](win.svg)
-- [Nirsoft](https://www.nirsoft.net/utils/index.html) - Collection of utility softwares ![Windows](win.svg)
+- [Nirsoft](https://www.nirsoft.net/utils/index.html) - Collection of utility softwares. ![Windows](win.svg)
 
 ### Clipboard Management
 
