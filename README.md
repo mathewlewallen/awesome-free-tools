@@ -16,16 +16,23 @@
     - [Music Production](#music-production)
 - [Browsers](#browsers)
 - [Communication](#communication)
+    - [Messaging](#messaging)
     - [Email Clients](#email-clients)
+- [Customize](#customize)
+    - [System Customization](#system-customization)
+    - [Wallpaper Tools](#wallpaper-tools)
 - [Developer Tools](#developer-tools)
     - [API Development](#api-development)
     - [Network Analysis](#network-analysis)
     - [Game Engines](#game-engines)
+- [Documents](#documents)
+    - [PDF Tools](#pdf-tools)
 - [Games](#games)
     - [Cloud Gaming](#cloud-gaming)
     - [Mobile Emulators](#mobile-emulators)
     - [Other Emulators](#other-emulators)
 - [Graphics Tools](#graphics-tools)
+- [Image Viewers](#image-viewers)
 - [Text Editors](#text-editors)
 - [Video](#video)
     - [Video Editors](#video-editors)
@@ -33,9 +40,12 @@
     - [Video Streaming and Recording](#video-streaming-and-recording)
     - [Video Converters](#video-converters)
 - [VPN and Proxy Tools](#vpn-and-proxy-tools)
-- [Window Management](#window-management)
 - [Utility](#utility)
+    - [Clipboard Management](#clipboard-management)
+    - [Window Management](#window-management)
     - [File Management](#file-management)
+    - [Screenshot](#screenshot)
+    - [Space Visualizer](#space-visualizer)
 
 ## Audio
 
@@ -136,6 +146,30 @@
 - [Edison Mail](https://mail.edison.tech/mac) - Customizable, simple, and intuitive email client with smart features. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Skiff Mail](https://skiff.com/mail) - Encrypted and decentralized email service available on multiple platforms. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 
+## Customize
+
+### System Customization
+
+- [Winaero](https://winaerotweaker.com/) - All-in-one app for tuning Windows 11, Windows 10, Windows 8, and Windows 7 ![Windows](win.svg)
+- [Windhawk](https://windhawk.net/) - Customization marketplace for Windows and programs. ![Windows](win.svg)
+- [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hide the Windows 10 volume bar ![Windows](win.svg)
+- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - Restores and enhances the classic Windows taskbar and other system elements. ![Windows](win.svg)
+- [Hidden Bar](https://github.com/dwarvesf/hidden) - Simple macOS app to organize and declutter your menu bar. ![macOS](mac.svg)
+- [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - macOS utility for enabling hidden system preferences. ![macOS](mac.svg)
+- [TaskbarX](https://chrisandriessen.nl/taskbarx) - Personalize the Windows taskbar with center alignment, transparency, and animations. ![Windows](win.svg)
+- [MacPilot](https://www.koingosw.com/products/macpilot/) - Unlock hidden macOS settings and system tweaks. ![macOS](mac.svg)
+- [FluentFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - Replaces default Windows volume, brightness, and media flyouts with customizable modern ones. ![Windows](win.svg)
+
+### Wallpaper Tools
+
+- [Rainmeter](https://www.rainmeter.net/) - Open-source desktop customization tool for Windows, offering widgets, skins, and live stats. ![Windows](win.svg)
+- [Lively Wallpaper](https://www.rocksdanister.com/lively/) - Open-source tool to set animated and interactive wallpapers on Windows. ![Windows](win.svg)
+- [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop feature to Windows. ![Windows](win.svg)
+- [ScreenPlay](https://github.com/kelteseth/ScreenPlay) - Open-source wallpaper and widget engine for Windows and Linux. ![Windows](win.svg) ![Linux](nix.svg)
+- [Plash](https://sindresorhus.com/plash) - Open-source macOS app to set websites as wallpapers. ![macOS](mac.svg)
+- [Komorebi](https://github.com/cheesecakeufo/komorebi) - Open-source animated wallpaper manager for Linux. ![Linux](nix.svg)
+- [Variety](https://github.com/varietywalls/variety) - Wallpaper changer with features for downloading and managing wallpapers. ![Linux](nix.svg)
+
 ## Developer Tools
 
 ### API Development  
@@ -186,6 +220,12 @@
 - [Flixel](https://flixel.org/) - Open-source 2D game engine built with Haxe, suitable for platformers and action games. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Gosu](https://www.libgosu.org/) - Simple 2D game development library that works with Ruby or C++. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 
+## Documents
+
+### PDF Tools
+
+- [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) - Fast & small PDF reader that also supports epub, mobi, cbz & more. ![Windows](win.svg)
+
 ## Games  
 
 - [Steam](https://store.steampowered.com/) - Popular platform for buying, managing, and playing PC games. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
@@ -204,7 +244,7 @@
 - [EA App](https://www.ea.com/ea-app) - Modern launcher alternative to Origin. ![Windows](win.svg)
 - [Playnite](https://playnite.link/) - Unified game library manager for multiple launchers. ![Windows](win.svg)
 - [Lutris](https://lutris.net/) - Open-source game manager for Linux with support for Windows games. ![Linux](nix.svg)
-- [Heroic Games Launcher](https://heroicgameslauncher.com/) - Open-source launcher for Epic Games Store and GOG on Linux and Windows. ![Windows](win.svg) ![Linux](nix.svg)
+- [Heroic Games Launcher](https://heroicgameslauncher.com/) - Open-source launcher for Epic Games, Amazon games and GOG on Linux and Windows. ![Windows](win.svg) ![Linux](nix.svg)
 - [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) - Tool for managing Proton and Wine compatibility layers for Steam and Linux games. ![Linux](nix.svg)
 - [Porting Kit](https://www.portingkit.com/) - Install Windows Games inside your Mac. ![macOS](mac.svg)
 
@@ -271,6 +311,10 @@
 - [Pencil2D](https://www.pencil2d.org) - Simple and intuitive tool for creating 2D hand-drawn animations. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Pixen](https://pixenapp.com/mac/) - Native pixel art and animation editor designed for macOS. ![macOS](mac.svg)
 
+## Image viewers
+
+- [Irfanview](https://www.irfanview.com/) - Simple image viewer with some editing abilities. ![Windows](win.svg)
+
 ## Text Editors
 
 - [Notepad++](https://notepad-plus-plus.org/) - A free, open-source text editor with syntax highlighting and advanced editing features for developers. ![Windows](win.svg)
@@ -286,7 +330,6 @@
 - [Fastedit](https://github.com/FrozenAssassine/Fastedit) - Code editor that looks like notepad and has frost background. ![Windows](win.svg)
 - [Bluefish](https://bluefish.openoffice.org/) - A powerful text editor targeted at web developers, supporting various programming languages. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Aurora Editor](https://auroraeditor.com/) - A lightweight, fast code editor for macOS with a modern interface. ![macOS](mac.svg)
-- [Bootstrap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework. ![Windows](win.svg) ![macOS](mac.svg)
 - [Brackets](http://brackets.io) - A modern, open-source text editor focused on web development. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [CodeEdit](https://www.codeedit.app/) - A free and open-source, lightweight native code editor for macOS. ![macOS](mac.svg)
 - [CotEditor](https://coteditor.com) - A lightweight plain-text editor designed for macOS. ![macOS](mac.svg)
@@ -314,11 +357,13 @@
 - [Shotcut](https://shotcut.org/) - Open-source video editor with a wide range of features. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
 - [OpenShot](https://www.openshot.org/) - Easy-to-use, open-source video editor with support for multiple video tracks. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional video editor with advanced color correction and effects. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
+- [Capcut Desktop](https://www.capcut.com/tools/desktop-video-editor) - Simple video editor with many builtin effects. ![Windows](win.svg) ![macOS](mac.svg)
 - [Kdenlive](https://kdenlive.org/en/) - Open-source video editor with multi-track editing and a powerful interface. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
 - [Lightworks](https://www.lwks.com/) - Professional video editor with advanced features for filmmaking. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
 - [HitFilm Express](https://fxhome.com/product/hitfilm-express) - Feature-packed video editor with visual effects and compositing tools. ![Windows](win.svg) ![macOS](mac.svg)  
 - [VSDC Free Video Editor](https://www.videosoftdev.com/free-video-editor) - Non-linear video editor with a rich set of editing tools. ![Windows](win.svg)  
 - [Olive Video Editor](https://www.olivevideoeditor.org/) - Open-source non-linear video editor with powerful features and an intuitive interface. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
+- [Avidemux](https://avidemux.sourceforge.net/) - Video editor designed for simple cutting, filtering and encoding tasks. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
 
 ### Video Players  
 
@@ -365,14 +410,13 @@
 
 - [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Open-source OpenVPN client for macOS with a user-friendly interface. ![macOS](mac.svg)
 - [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN setup for secure cloud usage. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
-- [Cloudflare WARP](https://1.1.1.1) - Fast, free VPN and DNS service to improve privacy and security. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Cloudflare WARP](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) - Fast, free VPN and DNS service to improve privacy and security. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [ProtonVPN](https://protonvpn.com/) - Swiss-based high-speed VPN with enhanced privacy protections. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Open-source simplified rule-based proxy tool for macOS. ![macOS](mac.svg)
 - [Specht](https://github.com/zhuhaow/Specht) - Open-source rule-based proxy app for macOS using Network Extension. ![macOS](mac.svg)
 - [Twingate](https://www.twingate.com/) - Zero trust network access solution for secure private network connections. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Open-source modern Shadowsocks client with enhanced features for macOS. ![macOS](mac.svg)
 - [rvc-mac](https://github.com/riboseinc/cryptode-mac) - Open-source Ribose VPN Client for macOS, providing secure VPN connections. ![macOS](mac.svg)
-- [clashX](https://github.com/yichengchen/clashX) - Open-source rule-based custom proxy for macOS based on Clash with a GUI. ![macOS](mac.svg)
 - [WireGuard](https://www.wireguard.com/) - Fast, modern, and secure VPN tunnel protocol designed for simplicity and performance. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Proxifier](https://www.proxifier.com/) - Windows-based proxy client that allows network applications to connect via a proxy server. ![Windows](win.svg)
 - [Psiphon](https://psiphon.ca/) - Free VPN and proxy tool designed to bypass censorship. ![Windows](win.svg) ![macOS](mac.svg)
@@ -380,7 +424,24 @@
 - [OpenVPN](https://openvpn.net/community-downloads/) - Open-source VPN solution for secure internet connections. ![Windows](win.svg)
 - [SoftEther VPN](https://www.softether.org/) - Free, open-source VPN software with multiple protocol support. ![Windows](win.svg)
 
-## Window Management
+## Utility
+
+- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Collection of utilities including tools for file renaming, bulk resizing, and a quick launcher to enhance Windows productivity. ![Windows](win.svg)
+- [AutoHotkey](https://www.autohotkey.com/) - Powerful scripting language for automating tasks and creating custom keyboard shortcuts. ![Windows](win.svg)
+- [Nirsoft](https://www.nirsoft.net/utils/index.html) - Collection of utility softwares ![Windows](win.svg)
+
+### Clipboard Management
+
+- [Ditto](https://ditto-cp.sourceforge.io/) - Extension to the standard Windows clipboard that provides advanced functionality. ![Windows](win.svg)
+- [Clipy](https://clipy-app.com/) - Lightweight and open-source clipboard manager for macOS. ![macOS](mac.svg)
+- [CopyQ](https://hluk.github.io/CopyQ/) - Advanced clipboard manager with editing and scripting capabilities. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Maccy](https://maccy.app/) - Simple, lightweight, and open-source clipboard manager for macOS. ![macOS](mac.svg)
+- [ClipAngel](https://sourceforge.net/projects/clip-angel/) - Powerful clipboard manager with rich text, HTML, and image support for Windows. ![Windows](win.svg)
+- [Parcellite](https://parcellite.sourceforge.io/) - Lightweight clipboard manager for Linux with basic functionality. ![Linux](nix.svg)
+- [Diodon](https://github.com/diodon-dev/diodon) - Simple and lightweight clipboard manager for Linux. ![Linux](nix.svg)
+- [Clipboard Fusion](https://www.clipboardfusion.com/) - Feature-rich clipboard manager for organizing and transforming clipboard data. ![Windows](win.svg) ![macOS](mac.svg)
+
+### Window Management
 
 - [AltSnap](https://github.com/RamonUnch/AltSnap) - A lightweight window management tool for snapping windows to predefined positions using keyboard shortcuts. ![Windows](win.svg)
 - [AquaSnap](https://www.nurgo-software.com/products/aquasnap) - Enhances window management with docking, snapping, and stretching features for Windows. ![Windows](win.svg)
@@ -392,21 +453,17 @@
 - [Sway](https://github.com/swaywm/sway) - A tiling Wayland compositor for Linux, similar to i3, designed for use with Wayland. ![Linux](nix.svg)
 - [KWin](https://kde.org/plasma-desktop) - A powerful window manager for KDE that supports tiling and a range of window management features for Linux. ![Linux](nix.svg)
 - [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - A simple app to display a portion of your screen on top of other windows. ![Windows](win.svg)
-- [Tiling WM](https://github.com/tiling-wm/tiling) - A minimalist tiling window manager for Linux that optimizes space and productivity. ![Linux](nix.svg)
+- [KDE Mover-Sizer](https://corz.org/windows/software/accessories/KDE-resizing-moving-for-Windows.php#section-Download) - Application that emulates the behaviour of KDE. ![Windows](win.svg)
 
-## Utility
-
-- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Collection of utilities including tools for file renaming, bulk resizing, and a quick launcher to enhance Windows productivity. ![Windows](win.svg)
-- [AutoHotkey](https://www.autohotkey.com/) - Powerful scripting language for automating tasks and creating custom keyboard shortcuts. ![Windows](win.svg)
-
-### File management
+### File Management
 
 - [Everything](https://www.voidtools.com/) - Lightning-fast file and folder search tool that indexes your entire Windows file system for instant access. ![Windows](win.svg)
+- [Files](https://github.com/files-community/Files) - Modern file manager that helps users organize their files and folders. ![Windows](win.svg)
 - [Double Commander](https://doublecmd.sourceforge.io/) - Dual-pane file manager with extensive functionality like tabbed browsing, built-in text editor, and advanced search. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Xftp 7](https://www.netsarang.com/en/xftp/) - Lightweight and flexible SFTP/FTP client with advanced features for efficient file transfers. ![Windows](win.svg)
 - [FreeFileSync](https://freefilesync.org/) - Open-source file synchronization tool designed to compare and sync files or folders efficiently. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Syncthing](https://github.com/syncthing/syncthing) - Continuous file synchronization program for two or more computers. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [FileZilla](https://filezilla-project.org/) - Fast and reliable FTP, FTPS, and SFTP client for managing remote files. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
-- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - Visual disk space analyzer that helps identify large files and folders with an intuitive tree map. ![Windows](win.svg)
 - [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - Multi-pane file manager offering up to four directory views simultaneously for enhanced productivity. ![Windows](win.svg)
 - [rclone](https://rclone.org/) - Command-line tool for managing and syncing files across local and cloud storage platforms with encryption support. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [WinSCP](https://winscp.net/) - Open-source SFTP, FTP, WebDAV, and SCP client with a user-friendly interface. ![Windows](win.svg)
@@ -417,6 +474,14 @@
 - [ShareX](https://getsharex.com/) - A powerful, open-source screenshot and screen recording tool with advanced editing options. ![Windows](win.svg)
 - [Flameshot](https://flameshot.org/) - A customizable screenshot tool with an easy-to-use interface and built-in editor. ![Linux](nix.svg) ![Windows](win.svg) ![macOS](mac.svg)
 - [Lightshot](https://app.prntscr.com/en/index.html) - A fast and intuitive screenshot tool that allows capturing and editing images instantly. ![Windows](win.svg) ![macOS](mac.svg)
-- [Snipping Tool](https://support.microsoft.com/en-us/windows/take-a-screen-capture-using-snipping-tool) - A built-in Windows tool for capturing screenshots with basic annotation features. ![Windows](win.svg)
 - [Shutter](https://launchpad.net/shutter) - A feature-rich screenshot tool for Linux with an integrated editor for quick annotations. ![Linux](nix.svg)
 - [Monosnap](https://monosnap.com/) - A simple screenshot tool that includes cloud integration for easy sharing. ![Windows](win.svg) ![macOS](mac.svg)
+
+### Space Visualizer
+
+- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - Visual disk space analyzer that helps identify large files and folders with an intuitive tree map. ![Windows](win.svg)
+- [WizTree](https://diskanalyzer.com/) - Fast disk space analyzer that scans drives and shows file size distribution. ![Windows](win.svg)
+- [TreeSize Free](https://www.jam-software.com/treesize_free) - Visualizes disk space usage in a tree-like structure for easy file management. ![Windows](win.svg)
+- [DiskSavvy](https://www.disksavvy.com/) - Disk space analyzer with various reporting and filtering options. ![Windows](win.svg)
+- [JDiskReport](http://www.jgoodies.com/freeware/jdiskreport/) - Tool for visualizing disk usage with a variety of charts and graphs. ![Windows](win.svg) ![Linux](nix.svg)
+- [Filelight](https://www.kde.org/applications/utilities/org.kde.filelight) - Disk usage analyzer for Linux with a circular sunburst chart to visualize file system space usage. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
