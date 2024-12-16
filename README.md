@@ -167,7 +167,8 @@
 - [Clementine Player](https://www.clementine-player.org/) - Music and video player with a user-friendly interface. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
 - [ScreenToGif](https://www.screentogif.com/) - Screen recording software that allows you to capture GIFs and videos with customizable export options. ![Windows](win.svg)  
 - [Videotape](https://usuaia.com/videotape) - Simple and minimalist video player for quick playback of local video files. ![Windows](win.svg)  
-- [SMPlayer](https://sourceforge.net/projects/smplayer/) - Media player with the ability to remember playback settings and support for various video formats. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)  
+- [SMPlayer](https://sourceforge.net/projects/smplayer/) - Media player with the ability to remember playback settings and support for various video formats. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [IINA] (https://iina.io/) - Open-source media player. Written in Swift for MacOS. Performs better than VLC. ![macOS](mac.svg)
 
 ### Video Streaming Tools  
 
