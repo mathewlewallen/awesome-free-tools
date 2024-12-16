@@ -25,6 +25,8 @@
     - [Video Players](#video-players)
     - [Video Streaming Tools](#video-streaming-tools)
     - [Video Converters](#video-converters)
+- [Utility](#utility)
+    - [File Management](#file-management)
 
 ## Audio
 
@@ -190,3 +192,15 @@
 - [Shutter Encoder](https://www.shutterencoder.com/) - Multi-functional media conversion tool for video, audio, and image formats with advanced processing options. ![Windows](win.svg) ![macOS](mac.svg)  
 - [VidCoder](https://vidcoder.net/) - Open-source video transcoder based on HandBrake, with a user-friendly interface. ![Windows](win.svg) ![macOS](mac.svg)  
   
+## Utility
+
+- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Collection of utilities including tools for file renaming, bulk resizing, and a quick launcher to enhance Windows productivity. ![Windows](win.svg)
+
+### File management
+
+- [Everything](https://www.voidtools.com/) - Lightning-fast file and folder search tool that indexes your entire Windows file system for instant access. ![Windows](win.svg)
+- [Double Commander](https://doublecmd.sourceforge.io/) - Dual-pane file manager with extensive functionality like tabbed browsing, built-in text editor, and advanced search. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [FreeFileSync](https://freefilesync.org/) - Open-source file synchronization tool designed to compare and sync files or folders efficiently. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - Visual disk space analyzer that helps identify large files and folders with an intuitive tree map. ![Windows](win.svg)
+- [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - Multi-pane file manager offering up to four directory views simultaneously for enhanced productivity. ![Windows](win.svg)
+- [rclone](https://rclone.org/) - Command-line tool for managing and syncing files across local and cloud storage platforms with encryption support. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
