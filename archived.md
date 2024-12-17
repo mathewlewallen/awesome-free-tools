@@ -7,3 +7,5 @@ Deferred - App needs to be checked before getting added to main list.
 - [RX Explorer](https://github.com/zhuxb711/RX-Explorer) - File explorer ![Windows](win.svg) (Unmaintained)
 - [SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Launcher for Syncthing (Unmaintained + Subpar)
 - [Baobab](https://wiki.gnome.org/Apps/DiskUsageAnalyzer) - Disk usage analyzer for Linux that provides a visual overview of file systems. ![Linux](nix.svg) (Deferred)
+- [Immunet](https://www.immunet.com/) - Cloud-based antivirus that works alongside existing security tools. ![Windows](win.svg)
+ (Unmaintained)

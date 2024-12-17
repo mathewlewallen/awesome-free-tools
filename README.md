@@ -31,6 +31,7 @@
     - [Game Engines](#game-engines)
     - [Virtualization](#virtualization)
 - [Documents](#documents)
+    - [Office Suites](#office-suites)
     - [E-book](#e-book)
     - [PDF Tools](#pdf-tools)
 - [Download Managers](#download-managers)
@@ -39,6 +40,10 @@
     - [Mobile Emulators](#mobile-emulators)
     - [Other Emulators](#other-emulators)
 - [Graphics Tools](#graphics-tools)
+- [3D Modeling and Animation](#3d-modeling-and-animation)
+- [Security](#security)
+    - [Antivirus](#antivirus)
+    - [Password Managers](#password-managers)
 - [Image Viewers](#image-viewers)
 - [Remote Access](#remote-access)
 - [Text Editors](#text-editors)
@@ -104,14 +109,14 @@
 
 ## Browsers
 
-- [Arc](https://arc.net) - Vertical tab-focused browser designed for modern productivity. ![macOS](mac.svg) ![Linux](nix.svg)
+- [Arc](https://arc.net) - Vertical tab-focused browser designed for modern productivity. ![Windows](win.svg) ![macOS](mac.svg)
 - [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Chrome](https://www.google.com/chrome/) - Chrome, developed by Google, offers fast browsing with integrated Google services. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Chromium](https://www.chromium.org/Home) - Open-source browser project that powers Chrome. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Privacy-focused version of Chromium with Google services stripped out. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Firefox](https://www.firefox.com/) - Free, open-source browser with a focus on privacy and customization. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [LibreWolf](https://librewolf.net) - A privacy-focused fork of Firefox with enhanced security. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
-- [Microsoft Edge](https://www.microsoft.com/edge) - Chromium-based browser with enhancements. (everyone hates it though) ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Microsoft Edge](https://www.microsoft.com/edge) - Chromium-based browser with enhancements (everyone hates it though). ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Min](https://minbrowser.org/) - Fast, minimal browser that protects your privacy. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Opera](https://www.opera.com) - Browser with built-in ad-blocking, VPN, and a focus on speed. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Orion](https://browser.kagi.com/) - Lightweight WebKit-based browser with support for Chrome and Firefox extensions. ![macOS](mac.svg) ![Linux](nix.svg)
@@ -184,6 +189,7 @@
 - [Sizer](https://www.brianapps.net/sizer/) - Resize any window to an exact, predefined size. ![Windows](win.svg)
 - [FluentFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - Replaces default Windows volume, brightness, and media flyouts with customizable modern ones. ![Windows](win.svg)
 - [Flow Launcher](https://www.flowlauncher.com/) - Quick File Search & App Launcher like spotlight. ![Windows](win.svg)
+- [RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows. ![Windows](win.svg)
 
 ### Wallpaper Tools
 
@@ -258,6 +264,7 @@
 - [Scirra Construct](https://www.construct.net/) - Powerful game engine with drag-and-drop features and a visual scripting language for 2D games. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Flixel](https://flixel.org/) - Open-source 2D game engine built with Haxe, suitable for platformers and action games. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Gosu](https://www.libgosu.org/) - Simple 2D game development library that works with Ruby or C++. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Roblox Studio](https://create.roblox.com/) - Engine to make games on Roblox. ![Windows](win.svg) ![macOS](mac.svg)
 
 ### Virtualization
 
@@ -275,6 +282,18 @@
 ## Documents
 
 - [CDisplayEx](https://www.cdisplayex.com/) - Lightweight comic book reader (.cbr, .cbz, .pdf, manga). ![Windows](win.svg)
+
+### Office Suites
+
+- [LibreOffice](https://www.libreoffice.org/) - Private, free and open source office suite – the successor project to OpenOffice. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [OnlyOffice](https://www.onlyoffice.com/) - Free and open-source office suite with advanced collaboration features for documents, spreadsheets, and presentations. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Apache OpenOffice](https://www.openoffice.org/) - Open-source office suite for word processing, spreadsheets, presentations, and more. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Calligra Suite](https://calligra.org/) - Office suite by KDE, offering applications for word processing, spreadsheets, presentations, and vector graphics. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [WPS Office](https://www.wps.com/) - Lightweight office suite compatible with Microsoft Office file formats. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [FreeOffice](https://www.freeoffice.com/) - Free office suite with compatibility for Microsoft Office formats and excellent performance. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Etherpad](https://etherpad.org/) - Web-based collaborative text editor designed for real-time team editing. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Google Workspace](https://workspace.google.com/) - Cloud-based suite including Docs, Sheets, Slides, and more with real-time collaboration. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Collabora Online](https://www.collaboraoffice.com/) - Enterprise-ready version of LibreOffice for collaborative editing in the cloud. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 
 ### E-book
 
@@ -302,6 +321,7 @@
 ## Download Managers
 
 - [Free Download Manager](https://www.freedownloadmanager.org/) - Powerful modern download accelerator and organizer. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [JDownloader](https://jdownloader.org/) - Open-source download management tool with a huge community. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 
 ## Games
 
@@ -381,11 +401,39 @@
 - [inklet](https://tenonedesign.com/inklet.php) - Use your Mac's trackpad as a drawing board for creative work. ![macOS](mac.svg)
 - [macSVG](https://macsvg.org/) - Design HTML5 SVG art and animations with this easy-to-use tool. ![macOS](mac.svg)
 - [MagicaVoxel](https://ephtracy.github.io/) - Lightweight voxel editor and interactive path tracing renderer for 3D models. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
-- [MakeHuman](http://www.makehumancommunity.org) - Free 3D human modeler for creating realistic human characters. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Monodraw](http://monodraw.helftone.com) - ASCII art editor for creating and editing text-based drawings. ![macOS](mac.svg)
 - [Paintbrush](http://paintbrush.sourceforge.net/) - Bitmap image editor with basic drawing tools and pixel-level manipulation. ![Windows](win.svg)
 - [Pencil2D](https://www.pencil2d.org) - Simple and intuitive tool for creating 2D hand-drawn animations. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Pixen](https://pixenapp.com/mac/) - Native pixel art and animation editor designed for macOS. ![macOS](mac.svg)
+
+## 3D Modeling and Animation
+
+- [Blender](https://www.blender.org/) - Open-source 3D creation tool supporting modeling, animation, rendering, video editing, and more. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Wings 3D](http://www.wings3d.com/) - Open-source 3D modeling software focusing on subdivision modeling. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [FreeCAD](https://www.freecadweb.org/) - Parametric 3D CAD modeler for designing real-life objects of any size. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [MakeHuman](https://static.makehumancommunity.org/makehuman.html) - Open-source 3D human modeler for creating realistic character models. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [OpenSCAD](https://openscad.org/) - Script-based 3D CAD modeler for creating precise solid geometry. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+
+## Security
+
+### Antivirus
+
+- [Avast](https://www.avast.com/free-antivirus-download) - Antivirus to help detect and isolate potential cyberthreats. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [ClamAV](https://www.clamav.net/) - Open-source antivirus engine for detecting malware, viruses, and other threats. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [AVG Antivirus](https://www.avg.com/en-us/free-antivirus-download) - Free antivirus software to protect against viruses, malware, and spyware. ![Windows](win.svg) ![macOS](mac.svg)
+- [Bitdefender](https://www.bitdefender.com/solutions/free.html) - Lightweight and powerful antivirus for essential protection. ![Windows](win.svg) ![macOS](mac.svg)
+- [Malwarebytes Free](https://www.malwarebytes.com/) - Malware removal tool offering real-time protection and cleanup. ![Windows](win.svg) ![macOS](mac.svg)
+
+### Password Managers
+
+- [Bitwarden](https://bitwarden.com/) - Password manager for securely storing, managing, and sharing sensitive online data. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [KeePass](https://keepass.info/) - Lightweight and open-source password manager for secure storage of passwords in encrypted databases. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [KeePassXC](https://keepassxc.org/) - Modern community fork of KeePass with cross-platform support and enhanced features. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [LastPass](https://www.lastpass.com/) - Cloud-based password manager with secure password sharing and autofill features. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [1Password](https://1password.com/) - Intuitive and secure password management tool for storing and organizing credentials. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Passbolt](https://www.passbolt.com/) - Open-source, team-oriented password manager for sharing and storing passwords securely. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [NordPass](https://nordpass.com/) - Secure password manager with autofill and password health insights. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [RoboForm](https://www.roboform.com/) - Password manager and form filler with multi-platform synchronization. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 
 ## Image viewers
 
@@ -568,15 +616,17 @@
 - [FileZilla](https://filezilla-project.org/) - Fast and reliable FTP, FTPS, and SFTP client for managing remote files. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - Multi-pane file manager offering up to four directory views simultaneously for enhanced productivity. ![Windows](win.svg)
 - [WinSCP](https://winscp.net/) - Open-source SFTP, FTP, WebDAV, and SCP client with a user-friendly interface. ![Windows](win.svg)
+- [Far Manager](https://www.farmanager.com/) - Program for managing files and archives in Windows. ![Windows](win.svg)
 
 ### Screenshot
 
-- [Greenshot](https://getgreenshot.org/) - A free and open-source screenshot tool for Windows that allows capturing, annotating, and editing screenshots. ![Windows](win.svg)
-- [ShareX](https://getsharex.com/) - A powerful, open-source screenshot and screen recording tool with advanced editing options. ![Windows](win.svg)
-- [Flameshot](https://flameshot.org/) - A customizable screenshot tool with an easy-to-use interface and built-in editor. ![Linux](nix.svg) ![Windows](win.svg) ![macOS](mac.svg)
+- [Greenshot](https://getgreenshot.org/) - Open-source screenshot tool for Windows that allows capturing, annotating, and editing screenshots. ![Windows](win.svg)
+- [ShareX](https://getsharex.com/) - Powerful, open-source screenshot and screen recording tool with advanced editing options. ![Windows](win.svg)
+- [Flameshot](https://flameshot.org/) - Customizable screenshot tool with an easy-to-use interface and built-in editor. ![Linux](nix.svg) ![Windows](win.svg) ![macOS](mac.svg)
 - [Lightshot](https://app.prntscr.com/en/index.html) - A fast and intuitive screenshot tool that allows capturing and editing images instantly. ![Windows](win.svg) ![macOS](mac.svg)
-- [Shutter](https://launchpad.net/shutter) - A feature-rich screenshot tool for Linux with an integrated editor for quick annotations. ![Linux](nix.svg)
-- [Monosnap](https://monosnap.com/) - A simple screenshot tool that includes cloud integration for easy sharing. ![Windows](win.svg) ![macOS](mac.svg)
+- [Shutter](https://launchpad.net/shutter) - Feature-rich screenshot tool for Linux with an integrated editor for quick annotations. ![Linux](nix.svg)
+- [Capter](https://github.com/decipher3114/Capter) - Super simple screenshot tool. ![Windows](win.svg) ![macOS](mac.svg)
+- [Monosnap](https://monosnap.com/) - Simple screenshot tool that includes cloud integration for easy sharing. ![Windows](win.svg) ![macOS](mac.svg)
 
 ### Space Visualizer
 
