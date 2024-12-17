@@ -435,7 +435,7 @@
 - [NordPass](https://nordpass.com/) - Secure password manager with autofill and password health insights. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [RoboForm](https://www.roboform.com/) - Password manager and form filler with multi-platform synchronization. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 
-## Image viewers
+## Image Viewers
 
 - [Irfanview](https://www.irfanview.com/) - Simple image viewer with some editing abilities. ![Windows](win.svg)
 - [FlowVision](https://github.com/netdcy/FlowVision) - Waterfall-style image viewer. ![macOS](mac.svg)
@@ -462,8 +462,8 @@
 - [Notepad++](https://notepad-plus-plus.org/) - A free, open-source text editor with syntax highlighting and advanced editing features for developers. ![Windows](win.svg)
 - [Sublime Text](https://www.sublimetext.com/) - A fast and customizable text editor with support for a wide range of programming languages. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Visual Studio Code](https://code.visualstudio.com/) - A powerful and extensible code editor developed by Microsoft, featuring debugging, version control, and support for numerous languages. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
-- [Atom](https://atom.io/) - A hackable text editor for the 21st century, with features like Git integration and an extensive plugin ecosystem. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
-- [Vim](https://www.vim.org/) - A highly configurable, command-line-based text editor that is especially favored by developers for its efficiency. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Atom](https://atom.io/) - Hackable text editor with features like Git integration and an extensive plugin ecosystem. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Vim](https://www.vim.org/) - Highly configurable, command-line-based text editor that is especially favored by developers for its efficiency. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Emacs](https://www.gnu.org/software/emacs/) - A powerful, extensible text editor with a broad range of features and customization options. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Geany](https://www.geany.org/) - A lightweight, fast text editor that supports many programming languages, with a built-in terminal and project management features. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Brackets](http://brackets.io/) - An open-source text editor focused on web development, with live preview and preprocessor support. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
@@ -472,10 +472,9 @@
 - [Fastedit](https://github.com/FrozenAssassine/Fastedit) - Code editor that looks like notepad and has frost background. ![Windows](win.svg)
 - [Bluefish](https://bluefish.openoffice.org/) - A powerful text editor targeted at web developers, supporting various programming languages. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Aurora Editor](https://auroraeditor.com/) - A lightweight, fast code editor for macOS with a modern interface. ![macOS](mac.svg)
-- [Brackets](http://brackets.io) - A modern, open-source text editor focused on web development. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [CodeEdit](https://www.codeedit.app/) - A free and open-source, lightweight native code editor for macOS. ![macOS](mac.svg)
 - [CotEditor](https://coteditor.com) - A lightweight plain-text editor designed for macOS. ![macOS](mac.svg)
-- [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Popular Unix-based text editor for programmers and system administrators. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [Emacs](https://www.emacswiki.org/emacs/EmacsFormacOS) - Popular Unix-based text editor for programmers and system administrators. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - Code editor with a canvas UI for better code understanding. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Helix](https://helix-editor.com/) - A post-modern modal text editor with extensibility and performance. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Lapce](https://lapce.dev/) - A fast, powerful code editor designed for modern workflows. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
@@ -488,7 +487,6 @@
 - [SubEthaEdit](https://subethaedit.net/) - A collaborative text editor that allows real-time editing. ![macOS](mac.svg)
 - [TextMate](https://macromates.com) - A versatile, flexible text editor for macOS with advanced features. ![macOS](mac.svg)
 - [Tot](https://tot.rocks/) - A simple, elegant app for collecting and editing text snippets. ![macOS](mac.svg)
-- [Vim](http://www.vim.org/) - A terminal-based, highly configurable text editor popular among developers. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Vimr](http://vimr.org/) - A refined Vim experience designed for macOS. ![macOS](mac.svg)
 - [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 
@@ -514,7 +512,7 @@
 - [VLC Media Player](https://www.videolan.org/vlc/) - Open-source media player supporting almost all video formats. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg) 
 - [Kodi](https://kodi.tv/) - Open-source media center that allows you to play and view most videos, music, podcasts, and other digital media files. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Stremio](https://www.stremio.com/) - Provides a secure, modern and seamless entertainment experience. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
-- [ScreenBox ](https://apps.microsoft.com/detail/9ntsnmsvcb5l?hl=en-US&gl=US) - Basically VLC but with a modern UI. ![Windows](win.svg)
+- [ScreenBox](https://apps.microsoft.com/detail/9ntsnmsvcb5l?hl=en-US&gl=US) - Basically VLC but with a modern UI. ![Windows](win.svg)
 - [MPV](https://mpv.io/) - Open-source, cross-platform media player with a simple interface. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [KMPlayer](https://www.kmplayer.com/) - Media player supporting various video formats and streaming protocols. ![Windows](win.svg) ![macOS](mac.svg)
 - [PotPlayer](https://potplayer.daum.net/) - Feature-rich video player with advanced playback options. ![Windows](win.svg)
@@ -526,7 +524,7 @@
 - [ScreenToGif](https://www.screentogif.com/) - Screen recording software that allows you to capture GIFs and videos with customizable export options. ![Windows](win.svg)
 - [Videotape](https://usuaia.com/videotape) - Simple and minimalist video player for quick playback of local video files. ![Windows](win.svg)
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - Media player with the ability to remember playback settings and support for various video formats. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
-- [IINA](https://iina.io/) - Open-source media player for MacOS. Performs better than VLC. ![macOS](mac.svg)
+- [IINA](https://iina.io/) - Open-source media player for macOS. Performs better than VLC. ![macOS](mac.svg)
 
 ### Video Streaming and Recording  
 
@@ -617,6 +615,7 @@
 - [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - Multi-pane file manager offering up to four directory views simultaneously for enhanced productivity. ![Windows](win.svg)
 - [WinSCP](https://winscp.net/) - Open-source SFTP, FTP, WebDAV, and SCP client with a user-friendly interface. ![Windows](win.svg)
 - [Far Manager](https://www.farmanager.com/) - Program for managing files and archives in Windows. ![Windows](win.svg)
+- [Free Commander](https://freecommander.com/en/summary/) - Alternative to the standard windows file manager. ![Windows](win.svg)
 
 ### Screenshot
 
