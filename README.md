@@ -27,6 +27,7 @@
     - [Sync and Clone](#sync-and-clone)
 - [Developer Tools](#developer-tools)
     - [API Development](#api-development)
+    - [Database](#database)
     - [Network Analysis](#network-analysis)
     - [Game Engines](#game-engines)
     - [Virtualization](#virtualization)
@@ -55,6 +56,7 @@
 - [VPN and Proxy Tools](#vpn-and-proxy-tools)
 - [Utility](#utility)
     - [Clipboard Management](#clipboard-management)
+    - [Metadata](#metadata)
     - [Window Management](#window-management)
     - [File Management](#file-management)
     - [Screenshot](#screenshot)
@@ -232,6 +234,10 @@
 - [Mockoon](https://mockoon.com/) - Desktop tool for creating and testing mock REST APIs. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
 - [Apidog](https://apidog.com/) - All-in-one workspace for API design, testing, and documentation. ![Windows](win.svg)
 
+### Database
+
+- [DBeaver](https://dbeaver.io/) - Universal database tool for SQL databases like MySQL, MariaDB, PostgreSQL, SQLite, Apache Family, and more. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+
 ### Network Analysis  
 
 - [Wireshark](https://www.wireshark.org/) - Leading tool for capturing and analyzing network traffic. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
@@ -277,7 +283,8 @@
 - [Vagrant](https://www.vagrantup.com) - Open-source tool for building and managing reproducible development environments using virtual machines. ![Windows](win.svg) ![Linux](nix.svg) ![Mac](mac.svg)
 - [Rancher Desktop](https://rancherdesktop.io) - Open-source application for managing containers and Kubernetes on the desktop. ![Windows](win.svg) ![Linux](nix.svg) ![Mac](mac.svg)
 - [Podman Desktop](https://podman.io/) - Open-source desktop alternative to Docker for managing containers. ![Windows](win.svg) ![Linux](nix.svg) ![Mac](mac.svg)
-- [VirtualBox](http://www.virtualbox.org) - Free and powerful x86 and AMD64/Intel64 virtualization software for creating and managing virtual machines. ![Windows](win.svg) ![Linux](nix.svg) ![Mac](mac.svg)
+- [VirtualBox](http://www.virtualbox.org) - Powerful x86 and AMD64/Intel64 virtualization software for creating and managing virtual machines. ![Windows](win.svg) ![Linux](nix.svg) ![Mac](mac.svg)
+- [VMWare Workstation](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) - Virtualization software with advanced features. ![Windows](win.svg) ![Linux](nix.svg) ![Mac](mac.svg)
 
 ## Documents
 
@@ -589,6 +596,12 @@
 - [Parcellite](https://parcellite.sourceforge.io/) - Lightweight clipboard manager for Linux with basic functionality. ![Linux](nix.svg)
 - [Diodon](https://github.com/diodon-dev/diodon) - Simple and lightweight clipboard manager for Linux. ![Linux](nix.svg)
 - [Clipboard Fusion](https://www.clipboardfusion.com/) - Feature-rich clipboard manager for organizing and transforming clipboard data. ![Windows](win.svg) ![macOS](mac.svg)
+
+### Metadata
+
+- [ExifTool](https://exiftool.org/) - Powerful command-line application for reading, writing, and editing meta information in image, audio, and video files. ![Windows](win.svg) ![macOS](mac.svg) ![Linux](nix.svg)
+- [PhotoME](https://www.photome.de/) - An EXIF and metadata viewer for photos, with some editing capabilities. ![Windows](win.svg)
+- [Metadata++](https://metadata.en.softonic.com/) - Allows for viewing, editing, and removing metadata from photos and files. ![Windows](win.svg)
 
 ### Window Management
 
