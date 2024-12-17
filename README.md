@@ -2,9 +2,9 @@
 
 > Curated list of the best free apps for Windows, Mac, and Linux
 
-🪟 means the app has builds for Windows. <br>
-🍎 means the app has builds for macOS. <br>
-🐧 means the app has builds for Linux. <br>
+🪟 means the app is available on Windows. <br>
+🍎 means the app is available on macOS. <br>
+🐧 means the app is available on Linux. <br>
 ⭐ means the app is recommended by us.
 
 ## Contents
@@ -155,12 +155,12 @@
 - [Nylas Mail](https://nylas.com/nylas-mail/) - Extensible desktop email app built on modern web technologies. 🪟 🍎 🐧
 - [Postbox](https://postbox-inc.com/) - Advanced email management application with a focus on productivity and organization. 🪟 🍎
 - [Polymail](https://polymail.io/) - Simple, beautiful, and powerful email client with modern features. 🪟 🍎 🐧
-- [Wino Mail](https://apps.microsoft.com/detail/9ncrcvjc50wl?hl=en-US&gl=BD) - Email client following fluent design with Mica effect 🪟
+- [Wino Mail](https://apps.microsoft.com/detail/9ncrcvjc50wl?hl=en-US&gl=BD) - Email client following fluent design with Mica effect. 🪟
 - [Spark](https://sparkmailapp.com/) - Fast, intelligent email client for Mac and iOS with team collaboration features. 🍎 🐧
 - [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - Open-source email client that makes managing your emails easier and faster. 🪟 🍎 🐧
 - [Mailbird](https://www.mailbird.com/) - IMAP and POP3 email client with customization options and multi-language support. 🪟
 - [Tutanota](https://tutanota.com/) - Encrypted email service focused on privacy and security. 🪟 🍎 🐧
-- [MicroSoft Outlook](https://apps.microsoft.com/detail/9nrx63209r7b?ocid=pdpshare&hl=en-US&gl=US) - Email client for Windows by the company behind Windows 🪟
+- [MicroSoft Outlook](https://apps.microsoft.com/detail/9nrx63209r7b?ocid=pdpshare&hl=en-US&gl=US) - Email client for Windows by the company behind Windows. 🪟
 - [Edison Mail](https://mail.edison.tech/mac) - Customizable, simple, and intuitive email client with smart features. 🪟 🍎 🐧
 - [Skiff Mail](https://skiff.com/mail) - Encrypted and decentralized email service available on multiple platforms. 🪟 🍎 🐧
 
@@ -181,9 +181,9 @@
 
 ### System Customization
 
-- [Winaero](https://winaerotweaker.com/) - All-in-one app for tuning Windows 11, Windows 10, Windows 8, and Windows 7 🪟
+- [Winaero](https://winaerotweaker.com/) - All-in-one app for tuning Windows 11, Windows 10, Windows 8, and Windows 7. 🪟
 - [Windhawk](https://windhawk.net/) - Customization marketplace for Windows and programs. 🪟
-- [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hide the Windows 10 volume bar 🪟
+- [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hide the Windows 10 volume bar. 🪟
 - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - Restores and enhances the classic Windows taskbar and other system elements. 🪟
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Simple macOS app to organize and declutter your menu bar. 🍎
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - macOS utility for enabling hidden system preferences. 🍎
@@ -275,17 +275,17 @@
 
 ### Virtualization
 
-- [Docker](https://www.docker.com/) - Open-source containerization platform that enables operating-system-level virtualization. 🪟 🐧 🍎
-- [Multipass](https://multipass.run/) - Quickly launch and manage Ubuntu virtual machines on demand. 🪟 🐧 🍎
+- [Docker](https://www.docker.com/) - Open-source containerization platform that enables operating-system-level virtualization. 🪟 🍎 🐧
+- [Multipass](https://multipass.run/) - Quickly launch and manage Ubuntu virtual machines on demand. 🪟 🍎 🐧
 - [OrbStack](https://orbstack.dev/) - Lightweight and fast virtualization solution for running Docker containers and Linux machines on macOS. 🍎
 - [Lima](https://github.com/lima-vm/lima) - Open-source tool for launching Linux VMs on macOS with file sharing and port forwarding. 🍎
-- [QEMU](https://www.qemu.org/) - Open-source emulator and virtualizer for hardware and system virtualization. 🪟 🐧 🍎
+- [QEMU](https://www.qemu.org/) - Open-source emulator and virtualizer for hardware and system virtualization. 🪟 🍎 🐧
 - [UTM](https://mac.getutm.app/) - Open-source GUI for QEMU, designed for running various VMs including ARM64 and x64 on macOS. 🍎
-- [Vagrant](https://www.vagrantup.com) - Open-source tool for building and managing reproducible development environments using virtual machines. 🪟 🐧 🍎
-- [Rancher Desktop](https://rancherdesktop.io) - Open-source application for managing containers and Kubernetes on the desktop. 🪟 🐧 🍎
-- [Podman Desktop](https://podman.io/) - Open-source desktop alternative to Docker for managing containers. 🪟 🐧 🍎
-- [VirtualBox](http://www.virtualbox.org) - Powerful x86 and AMD64/Intel64 virtualization software for creating and managing virtual machines. 🪟 🐧 🍎
-- [VMWare Workstation](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) - Virtualization software with advanced features. 🪟 🐧 🍎
+- [Vagrant](https://www.vagrantup.com) - Open-source tool for building and managing reproducible development environments using virtual machines. 🪟 🍎 🐧
+- [Rancher Desktop](https://rancherdesktop.io) - Open-source application for managing containers and Kubernetes on the desktop. 🪟 🍎 🐧
+- [Podman Desktop](https://podman.io/) - Open-source desktop alternative to Docker for managing containers. 🪟 🍎 🐧
+- [VirtualBox](http://www.virtualbox.org) - Powerful x86 and AMD64/Intel64 virtualization software for creating and managing virtual machines. 🪟 🍎 🐧
+- [VMWare Workstation](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) - Virtualization software with advanced features. 🪟 🍎 🐧
 
 ## Documents
 
@@ -305,25 +305,25 @@
 
 ### E-book
 
-- [Calibre](https://calibre-ebook.com/) - Powerful and easy to use e-book manager. 🪟 🐧 🍎
+- [Calibre](https://calibre-ebook.com/) - Powerful and easy to use e-book manager. 🪟 🍎 🐧
 - [iChm](https://github.com/NSGod/ichm) - Open-source eBook reader for CHM (Microsoft Compiled HTML Help) files. 🍎
 - [Kindle App](https://www.amazon.com/l/16571048011) - Official Amazon app for reading Kindle books. 🪟 🍎
 - [Klib](http://klib.me/) - Organize and manage Kindle and iBooks highlights effectively. 🍎
-- [Koodo Reader](https://www.koodoreader.com/en) - All-in-one eBook reader supporting 15+ formats, including EPUB and MOBI. 🪟 🐧 🍎
-- [Readest](https://github.com/chrox/readest) - Cross-platform eBook reader with powerful tools and an intuitive interface. 🪟 🐧 🍎
-- [Scribus](https://www.scribus.net/) - Open-source professional layout and publishing software. 🪟 🐧 🍎
-- [Sigil](https://sigil-ebook.com/) - Open-source EPUB editor for creating and modifying eBooks. 🪟 🐧 🍎
+- [Koodo Reader](https://www.koodoreader.com/en) - All-in-one eBook reader supporting 15+ formats, including EPUB and MOBI. 🪟 🍎 🐧
+- [Readest](https://github.com/chrox/readest) - Cross-platform eBook reader with powerful tools and an intuitive interface. 🪟 🍎 🐧
+- [Scribus](https://www.scribus.net/) - Open-source professional layout and publishing software. 🪟 🍎 🐧
+- [Sigil](https://sigil-ebook.com/) - Open-source EPUB editor for creating and modifying eBooks. 🪟 🍎 🐧
 - [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12) - Lightweight reader for PDF, CBZ, and CBR formats with Live Text search. 🍎
 
 ### PDF Tools
 
 - [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) - Fast and lightweight PDF reader that supports EPUB, MOBI, CBZ, and more. 🪟
 - [MuPDF](https://mupdf.com/) - Lightweight open-source PDF viewer and toolkit for rendering and managing PDF files. 🪟 🐧
-- [Okular](https://okular.kde.org/) - Open-source universal document viewer for PDFs, eBooks, and more, developed by KDE. 🪟 🐧 🍎
+- [Okular](https://okular.kde.org/) - Open-source universal document viewer for PDFs, eBooks, and more, developed by KDE. 🪟 🍎 🐧
 - [Foxit PDF Reader](https://www.foxit.com/pdf-reader/) - Free, fast, and secure PDF viewer with annotation and form-filling features. 🪟
 - [qpdfview](https://launchpad.net/qpdfview) - Tabbed document viewer for PDF, PostScript, and DjVu files. 🐧
 - [Skim](https://skim-app.sourceforge.io/) - PDF reader and note-taker for macOS, designed for viewing and annotating PDFs. 🍎
-- [Xournal++](https://xournalpp.github.io/) - Open-source handwriting and annotation tool for PDFs, perfect for note-taking. 🪟 🐧 🍎
+- [Xournal++](https://xournalpp.github.io/) - Open-source handwriting and annotation tool for PDFs, perfect for note-taking. 🪟 🍎 🐧
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - Open-source PDF editor for splitting, merging, rotating, and reordering PDF documents. 🪟 🐧
 
 ## Download Managers
@@ -387,8 +387,8 @@
 - [DuckStation](https://github.com/stenzek/duckstation) - PlayStation 1 emulator with focus on speed, accuracy, and modern enhancements. 🪟 🍎 🐧
 - [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PlayStation 1 emulator aimed at advanced debugging and better game compatibility. 🪟 🐧
 - [Mednafen](https://mednafen.github.io/) - Multi-system emulator with a focus on precision and compatibility. 🪟 🐧
-- [MelonDS](https://melonds.kuribo64.net/) - Nintendo DS emulator with accurate performance and Wi-Fi support. 🪟 🐧 🍎
-- [BSNES](https://bsnes.dev/) - SNES emulator with cycle-accurate emulation for high compatibility. 🪟 🐧 🍎
+- [MelonDS](https://melonds.kuribo64.net/) - Nintendo DS emulator with accurate performance and Wi-Fi support. 🪟 🍎 🐧
+- [BSNES](https://bsnes.dev/) - SNES emulator with cycle-accurate emulation for high compatibility. 🪟 🍎 🐧
 
 ## Graphics Tools
 
@@ -453,15 +453,15 @@
 
 ## Remote Access
 
-- [AnyDesk](https://anydesk.com) - Remote access solution for multiple devices, providing fast and secure connections. 🪟 🐧 🍎
-- [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - Open-source GameStream client for Windows, Mac, Linux, and Steam Link. 🪟 🐧 🍎
-- [Parsec](https://parsec.app) - High-performance remote desktop solution with 4k streaming at 60fps and low latency. 🪟 🐧 🍎
-- [RealVNC](https://www.realvnc.com) - Secure remote access for desktop and mobile devices. 🪟 🐧 🍎
+- [AnyDesk](https://anydesk.com) - Remote access solution for multiple devices, providing fast and secure connections. 🪟 🍎 🐧
+- [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - Open-source GameStream client for Windows, Mac, Linux, and Steam Link. 🪟 🍎 🐧
+- [Parsec](https://parsec.app) - High-performance remote desktop solution with 4k streaming at 60fps and low latency. 🪟 🍎 🐧
+- [RealVNC](https://www.realvnc.com) - Secure remote access for desktop and mobile devices. 🪟 🍎 🐧
 - [RoyalTSX](https://www.royalapps.com/ts/mac/features) - Remote access tool for IT professionals, supporting multiple protocols. 🍎
-- [RustDesk](https://rustdesk.com/) - Open-source remote desktop software with a focus on simplicity and security. 🪟 🐧 🍎
-- [Steam Link](https://apps.apple.com/us/app/steam-link/id1246969117) - Play your Steam games across devices using the Steam Link app. 🪟 🐧 🍎
-- [Sunshine](https://github.com/LizardByte/Sunshine) - Open-source self-hosted game streaming server for use with Moonlight. 🪟 🐧 🍎
-- [TeamViewer](https://www.teamviewer.com/en) - Popular remote control software for desktop sharing and file transfer. 🪟 🐧 🍎
+- [RustDesk](https://rustdesk.com/) - Open-source remote desktop software with a focus on simplicity and security. 🪟 🍎 🐧
+- [Steam Link](https://apps.apple.com/us/app/steam-link/id1246969117) - Play your Steam games across devices using the Steam Link app. 🪟 🍎 🐧
+- [Sunshine](https://github.com/LizardByte/Sunshine) - Open-source self-hosted game streaming server for use with Moonlight. 🪟 🍎 🐧
+- [TeamViewer](https://www.teamviewer.com/en) - Popular remote control software for desktop sharing and file transfer. 🪟 🍎 🐧
 - [Windows Remote Desktop](https://apps.apple.com/us/app/windows-app/id1295203466) - Connect to remote PCs, virtual apps, and desktops with ease. 🪟
 - [wmWebStack](https://webstack.wikimint.com) - Local server stack with one-click live publishing and remote device access. 🪟
 
@@ -586,6 +586,7 @@
 - [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/) - High-precision scientific calculator featuring a fast, keyboard-driven user interface. 🪟 🍎 🐧
 - [LocalSend](https://localsend.org/) - Share files to nearby devices. 🪟 🍎 🐧
 - [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) - Reliable and free network scanner to analyze LAN. 🪟
+- [PuTTY](https://www.putty.org/) - SSH and telnet client for Windows. 🪟
 
 ### Clipboard Management
 

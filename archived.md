@@ -9,3 +9,4 @@ Deferred - App needs to be checked before getting added to main list.
 - [Baobab](https://wiki.gnome.org/Apps/DiskUsageAnalyzer) - Disk usage analyzer for Linux that provides a visual overview of file systems. ![Linux](nix.svg) (Deferred)
 - [Immunet](https://www.immunet.com/) - Cloud-based antivirus that works alongside existing security tools. ![Windows](win.svg)
  (Unmaintained)
+- [Honeyview](https://en.bandisoft.com/honeyview/) - Fast, powerful, and free image viewer. (Unmaintained)
