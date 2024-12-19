@@ -325,6 +325,7 @@
 - [Skim](https://skim-app.sourceforge.io/) - PDF reader and note-taker for macOS, designed for viewing and annotating PDFs. 🍎
 - [Xournal++](https://xournalpp.github.io/) - Open-source handwriting and annotation tool for PDFs, perfect for note-taking. 🪟 🍎 🐧
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - Open-source PDF editor for splitting, merging, rotating, and reordering PDF documents. 🪟 🐧
+- [PDF24](https://www.pdf24.org/en/) - Easy to use PDF tools. 🪟
 
 ## Download Managers
 
