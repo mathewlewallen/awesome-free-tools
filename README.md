@@ -91,6 +91,7 @@
 - [DJ ProDecks](https://www.djprodecks.com/) - DJ software for mixing music and adding effects. 🪟
 - [UltraMixer Free](https://www.ultramixer.com/en/free-version/) - DJ software for mixing audio and video with a simple interface. 🪟 🍎
 - [Serato DJ Lite](https://www.serato.com/dj/lite) - DJ software for beginners to mix music with ease. 🪟 🍎
+- [Rekordbox](https://rekordbox.com/en/) - Software that enables a comfortable DJ workflow with AI, cloud, and automation tech. 🪟 🍎
 
 ### Music Notation
 
@@ -122,6 +123,7 @@
 - [Microsoft Edge](https://www.microsoft.com/edge) - Chromium-based browser with enhancements (everyone hates it though). 🪟 🍎 🐧
 - [Min](https://minbrowser.org/) - Fast, minimal browser that protects your privacy. 🪟 🍎 🐧
 - [Opera](https://www.opera.com) - Browser with built-in ad-blocking, VPN, and a focus on speed. 🪟 🍎 🐧
+- [Pale Moon](https://www.palemoon.org/) - Open Source, Goanna-based web browser. 🪟 🍎 🐧
 - [Orion](https://browser.kagi.com/) - Lightweight WebKit-based browser with support for Chrome and Firefox extensions. 🍎 🐧
 - [qutebrowser](https://www.qutebrowser.org/) - Keyboard-driven, vim-like browser built with Python and Qt. 🪟 🍎 🐧
 - [Safari](https://www.apple.com/safari/) - Native browser for Macs with seamless integration across Apple devices. 🍎
@@ -588,6 +590,8 @@
 - [LocalSend](https://localsend.org/) - Share files to nearby devices. 🪟 🍎 🐧
 - [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) - Reliable and free network scanner to analyze LAN. 🪟
 - [PuTTY](https://www.putty.org/) - SSH and telnet client for Windows. 🪟
+- [Legacy Update](https://legacyupdate.net/) - Software to install all relevant updates necessary to fix access to the Windows Update service on unsupported versions. 🪟
+- [Twinkle Tray](https://twinkletray.com/) - Easily manage the brightness levels of multiple monitors. 🪟
 
 ### Clipboard Management
 
