@@ -110,6 +110,7 @@
 - [Qtractor](https://qtractor.org/) - Multi-track DAW for Linux for audio and MIDI recording. 🐧
 - [Cakewalk by BandLab](https://www.bandlab.com/products/cakewalk) - Full-featured DAW for music recording and editing. 🪟
 - [Stargate DAW](https://github.com/stargatedaw/stargate) - Innovation-first DAW, instrument and effect plugins. 🪟 🍎 🐧
+- [Reaper](https://www.reaper.fm/) - Complete digital audio production application for computers, offering a full multitrack audio and MIDI recording. 🪟 🍎 🐧
 
 ## Browsers
 
