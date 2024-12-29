@@ -593,6 +593,7 @@
 - [PuTTY](https://www.putty.org/) - SSH and telnet client for Windows. 🪟
 - [Legacy Update](https://legacyupdate.net/) - Software to install all relevant updates necessary to fix access to the Windows Update service on unsupported versions. 🪟
 - [Twinkle Tray](https://twinkletray.com/) - Easily manage the brightness levels of multiple monitors. 🪟
+- [Rocket](https://matthewpalmer.net/rocket/) - Type emojis using colon (:) anywhere. 🍎
 
 ### Clipboard Management
 
