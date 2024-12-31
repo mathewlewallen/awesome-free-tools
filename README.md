@@ -597,6 +597,7 @@
 
 ### Clipboard Management
 
+- [Qopy](https://github.com/0pandadev/qopy) - The fixed clipboard manager with a clean and minimalistic UI as well as very unique features. 🪟 🍎 🐧
 - [Ditto](https://ditto-cp.sourceforge.io/) - Extension to the standard Windows clipboard that provides advanced functionality. 🪟
 - [Clipy](https://clipy-app.com/) - Lightweight and open-source clipboard manager for macOS. 🍎
 - [CopyQ](https://hluk.github.io/CopyQ/) - Advanced clipboard manager with editing and scripting capabilities. 🪟 🍎 🐧
