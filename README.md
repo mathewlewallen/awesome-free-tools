@@ -343,7 +343,6 @@
 - [GOG Galaxy](https://www.gog.com/galaxy) - Game launcher and store with DRM-free games and cross-platform library management. 🪟 🍎
 - [Battle.net](https://www.blizzard.com/en-us/apps/battle.net/desktop) - Platform for games like World of Warcraft, Diablo, and Overwatch. 🪟 🍎
 - [Origin](https://www.origin.com/) - Game launcher for managing and playing EA titles. 🪟 🍎
-- [Xbox App](https://www.xbox.com/en-US/apps/xbox-app-for-pc) - Microsofts platform for accessing Xbox Game Pass and managing PC games. 🪟
 - [Itch.io](https://itch.io/app) - Open marketplace for indie games with a dedicated desktop app. 🪟 🍎 🐧
 - [Amazon Games](https://gaming.amazon.com/) - Platform for managing games from Amazon Prime Gaming. 🪟
 - [Humble App](https://www.humblebundle.com/app) - Launcher for accessing games purchased through Humble Bundle. 🪟
