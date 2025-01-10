@@ -166,6 +166,7 @@
 - [MicroSoft Outlook](https://apps.microsoft.com/detail/9nrx63209r7b?ocid=pdpshare&hl=en-US&gl=US) - Email client for Windows by the company behind Windows. 🪟
 - [Edison Mail](https://mail.edison.tech/mac) - Customizable, simple, and intuitive email client with smart features. 🪟 🍎 🐧
 - [Skiff Mail](https://skiff.com/mail) - Encrypted and decentralized email service available on multiple platforms. 🪟 🍎 🐧
+- [MS Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) - Professional email client with calendar, contacts and task management features. 🪟 🍎
 
 ## Compression and Archiving
 
@@ -254,6 +255,7 @@
 - [Proxyman](https://proxyman.io/) - Modern HTTP proxy with an intuitive UI for macOS. 🍎
 - [Sniffnet](https://www.sniffnet.net/) - Tool for monitoring and analyzing network traffic. 🪟 🍎 🐧
 - [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload) - The class-leading vulnerability scanning, penetration testing, and web app security platform. 🪟 🍎 🐧
+- [Naps2](https://www.naps2.com/) - Free and open source scanning software. 🪟 🍎 🐧
 
 ### Game Engines
 
@@ -469,6 +471,7 @@
 - [TeamViewer](https://www.teamviewer.com/en) - Popular remote control software for desktop sharing and file transfer. 🪟 🍎 🐧
 - [Windows Remote Desktop](https://apps.apple.com/us/app/windows-app/id1295203466) - Connect to remote PCs, virtual apps, and desktops with ease. 🪟
 - [wmWebStack](https://webstack.wikimint.com) - Local server stack with one-click live publishing and remote device access. 🪟
+- [Remmina](https://remmina.org/) - Remote access screen and file sharing to your desktop. 🐧
 
 ## Text Editors
 
