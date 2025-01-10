@@ -119,7 +119,7 @@
 - [Chrome](https://www.google.com/chrome/) - Chrome, developed by Google, offers fast browsing with integrated Google services. 🪟 🍎 🐧
 - [Chromium](https://www.chromium.org/Home) - Open-source browser project that powers Chrome. 🪟 🍎 🐧
 - [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Privacy-focused version of Chromium with Google services stripped out. 🪟 🍎 🐧
-- [Firefox](https://www.firefox.com/) - Free, open-source browser with a focus on privacy and customization. 🪟 🍎 🐧
+- [Firefox](https://www.mozilla.org/en-US/firefox/) - Free, open-source browser with a focus on privacy and customization. 🪟 🍎 🐧
 - [LibreWolf](https://librewolf.net) - A privacy-focused fork of Firefox with enhanced security. 🪟 🍎 🐧
 - [Microsoft Edge](https://www.microsoft.com/edge) - Chromium-based browser with enhancements (everyone hates it though). 🪟 🍎 🐧
 - [Min](https://minbrowser.org/) - Fast, minimal browser that protects your privacy. 🪟 🍎 🐧
