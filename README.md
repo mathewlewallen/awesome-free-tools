@@ -166,6 +166,7 @@
 - [MicroSoft Outlook](https://apps.microsoft.com/detail/9nrx63209r7b?ocid=pdpshare&hl=en-US&gl=US) - Email client for Windows by the company behind Windows. 🪟
 - [Edison Mail](https://mail.edison.tech/mac) - Customizable, simple, and intuitive email client with smart features. 🪟 🍎 🐧
 - [Skiff Mail](https://skiff.com/mail) - Encrypted and decentralized email service available on multiple platforms. 🪟 🍎 🐧
+- [MS Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) - Professional email client with calendar, contacts and task management features. 🪟 🍎
 
 ## Compression and Archiving
 
