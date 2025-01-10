@@ -1,4 +1,4 @@
-# Awesome Free Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Free Apps
 
 > Curated list of the best free apps for Windows, Mac, and Linux
 
@@ -6,6 +6,9 @@
 🍎 means the app is available on macOS. <br>
 🐧 means the app is available on Linux. <br>
 ⭐ means the app is recommended by us.
+
+> [!IMPORTANT]
+> Maintaining this project requires a lot of time. [Donate to support me!](https://patreon.com/axorax) ❤️
 
 ## Contents
 
