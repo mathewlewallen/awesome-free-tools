@@ -223,6 +223,7 @@
 ## Developer Tools
 
 - [Diffinity](https://truehumandesign.se/s_diffinity.php) - Diff and merging tool with focus on accurate and easy to read source code diffs. 🪟
+- [Meld](https://meldmerge.org/) - Visual diff and merge tool. Helps you compare files, directories, and version controlled project. 🪟 🍎 🐧
 
 ### API Development  
 
