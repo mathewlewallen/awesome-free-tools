@@ -241,6 +241,7 @@
 ### Database
 
 - [DBeaver](https://dbeaver.io/) - Universal database tool for SQL databases like MySQL, MariaDB, PostgreSQL, SQLite, Apache Family, and more. 🪟 🍎 🐧
+- [Beekeeper Studio](https://www.beekeeperstudio.io/) - Is a modern (aesthetic) and lightweight SQL client that supports MySQL, Postgres, SQLite, SQL Server, etc. 🪟 🍎 🐧
 
 ### Network Analysis  
 
