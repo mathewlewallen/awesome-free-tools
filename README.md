@@ -253,6 +253,7 @@
 - [Proxie](https://proxie.app/) - HTTP debugging proxy for tracking requests on macOS. 🍎
 - [Proxyman](https://proxyman.io/) - Modern HTTP proxy with an intuitive UI for macOS. 🍎
 - [Sniffnet](https://www.sniffnet.net/) - Tool for monitoring and analyzing network traffic. 🪟 🍎 🐧
+- [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload) - The class-leading vulnerability scanning, penetration testing, and web app security platform. 🪟 🍎 🐧
 
 ### Game Engines
 
