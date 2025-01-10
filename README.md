@@ -119,7 +119,7 @@
 - [Chrome](https://www.google.com/chrome/) - Chrome, developed by Google, offers fast browsing with integrated Google services. 🪟 🍎 🐧
 - [Chromium](https://www.chromium.org/Home) - Open-source browser project that powers Chrome. 🪟 🍎 🐧
 - [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Privacy-focused version of Chromium with Google services stripped out. 🪟 🍎 🐧
-- [Firefox](https://www.firefox.com/) - Free, open-source browser with a focus on privacy and customization. 🪟 🍎 🐧
+- [Firefox](https://www.mozilla.org/en-US/firefox/) - Free, open-source browser with a focus on privacy and customization. 🪟 🍎 🐧
 - [LibreWolf](https://librewolf.net) - A privacy-focused fork of Firefox with enhanced security. 🪟 🍎 🐧
 - [Microsoft Edge](https://www.microsoft.com/edge) - Chromium-based browser with enhancements (everyone hates it though). 🪟 🍎 🐧
 - [Min](https://minbrowser.org/) - Fast, minimal browser that protects your privacy. 🪟 🍎 🐧
@@ -160,7 +160,7 @@
 - [Polymail](https://polymail.io/) - Simple, beautiful, and powerful email client with modern features. 🪟 🍎 🐧
 - [Wino Mail](https://apps.microsoft.com/detail/9ncrcvjc50wl?hl=en-US&gl=BD) - Email client following fluent design with Mica effect. 🪟
 - [Spark](https://sparkmailapp.com/) - Fast, intelligent email client for Mac and iOS with team collaboration features. 🍎 🐧
-- [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - Open-source email client that makes managing your emails easier and faster. 🪟 🍎 🐧
+- [ThunderBird](https://www.thunderbird.net/) - Open-source email client that makes managing your emails easier and faster. 🪟 🍎 🐧
 - [Mailbird](https://www.mailbird.com/) - IMAP and POP3 email client with customization options and multi-language support. 🪟
 - [Tutanota](https://tutanota.com/) - Encrypted email service focused on privacy and security. 🪟 🍎 🐧
 - [MicroSoft Outlook](https://apps.microsoft.com/detail/9nrx63209r7b?ocid=pdpshare&hl=en-US&gl=US) - Email client for Windows by the company behind Windows. 🪟
@@ -241,6 +241,7 @@
 ### Database
 
 - [DBeaver](https://dbeaver.io/) - Universal database tool for SQL databases like MySQL, MariaDB, PostgreSQL, SQLite, Apache Family, and more. 🪟 🍎 🐧
+- [Beekeeper Studio](https://www.beekeeperstudio.io/) - Is a modern (aesthetic) and lightweight SQL client that supports MySQL, Postgres, SQLite, SQL Server, etc. 🪟 🍎 🐧
 
 ### Network Analysis  
 
@@ -252,6 +253,7 @@
 - [Proxie](https://proxie.app/) - HTTP debugging proxy for tracking requests on macOS. 🍎
 - [Proxyman](https://proxyman.io/) - Modern HTTP proxy with an intuitive UI for macOS. 🍎
 - [Sniffnet](https://www.sniffnet.net/) - Tool for monitoring and analyzing network traffic. 🪟 🍎 🐧
+- [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload) - The class-leading vulnerability scanning, penetration testing, and web app security platform. 🪟 🍎 🐧
 
 ### Game Engines
 
