@@ -160,7 +160,7 @@
 - [Polymail](https://polymail.io/) - Simple, beautiful, and powerful email client with modern features. 🪟 🍎 🐧
 - [Wino Mail](https://apps.microsoft.com/detail/9ncrcvjc50wl?hl=en-US&gl=BD) - Email client following fluent design with Mica effect. 🪟
 - [Spark](https://sparkmailapp.com/) - Fast, intelligent email client for Mac and iOS with team collaboration features. 🍎 🐧
-- [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - Open-source email client that makes managing your emails easier and faster. 🪟 🍎 🐧
+- [ThunderBird](https://www.thunderbird.net/) - Open-source email client that makes managing your emails easier and faster. 🪟 🍎 🐧
 - [Mailbird](https://www.mailbird.com/) - IMAP and POP3 email client with customization options and multi-language support. 🪟
 - [Tutanota](https://tutanota.com/) - Encrypted email service focused on privacy and security. 🪟 🍎 🐧
 - [MicroSoft Outlook](https://apps.microsoft.com/detail/9nrx63209r7b?ocid=pdpshare&hl=en-US&gl=US) - Email client for Windows by the company behind Windows. 🪟
