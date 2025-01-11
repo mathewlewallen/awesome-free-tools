@@ -2,13 +2,13 @@
     <img alt="Logo" src="./afa.png">
 </p>
 
+<p align="center"><a href="windows-only.md">Windows Only</a> — <a href="macOS-only.md">macOS Only</a> — <a href="linux-only.md">Linux Only</a> — <a href="open-source-only.md">Open-source Only</a> — <a href="recommended-only.md">Recommended Only</a></p>
+
 | Icon | Meaning              | Icon | Meaning              |
 |------|----------------------|------|----------------------|
 | 🪟   | Available on Windows | 🟢   | Open-source          |
 | 🍎   | Available on macOS   | ⭐   | Recommended by us    |
 | 🐧   | Available on Linux   |      |                      |
-
-[Windows Only](windows-only.md) — [macOS Only](macOS-only.md) — [Linux Only](linux-only.md) — [Open-source Only](open-source-only.md) — [Recommended Only](recommended-only.md)
 
 > [!IMPORTANT]
 > Maintaining this project requires a lot of time. [Donate to support me!](https://patreon.com/axorax) ❤️
