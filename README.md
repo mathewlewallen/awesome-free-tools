@@ -168,10 +168,8 @@
 - [ThunderBird](https://www.thunderbird.net/) - Email client for easier management. 🪟 🍎 🐧 🟢
 - [Mailbird](https://www.mailbird.com/) - IMAP/POP3 email client with customization options. 🪟
 - [Tutanota](https://tutanota.com/) - Encrypted email service focused on privacy. 🪟 🍎 🐧
-- [MicroSoft Outlook](https://apps.microsoft.com/detail/9nrx63209r7b?ocid=pdpshare&hl=en-US&gl=US) - Email client from the creators of Windows. 🪟
 - [Edison Mail](https://mail.edison.tech/mac) - Customizable, intuitive email client with smart features. 🪟 🍎 🐧
 - [Skiff Mail](https://skiff.com/mail) - Encrypted, decentralized email service. 🪟 🍎 🐧
-- [MS Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) - Professional email with calendar and task management. 🪟 🍎
 
 ## Compression and Archiving
 
@@ -216,7 +214,7 @@
 
 ### Copy and Move
 
-- [TeraCopy](https://www.codesector.com/teracopy) - Copy files faster and more securely. 🪟 🍎
+- [TeraCopy](https://www.codesector.com/teracopy) - Copy and move multiple files. 🪟 🍎
 
 ### Sync and Clone
 
@@ -226,6 +224,7 @@
 
 ## Developer Tools
 
+- [WinMerge](https://sourceforge.net/projects/winmerge/) - Windows visual diff and merge for files and directories. 🪟
 - [Diffinity](https://truehumandesign.se/s_diffinity.php) - Diff and merging tool with focus on accurate and easy-to-read source code diffs. 🪟
 - [Meld](https://meldmerge.org/) - Visual diff and merge tool. Helps you compare files, directories, and version-controlled projects. 🪟 🍎 🐧
 - [TkForge](https://github.com/Axorax/tkforge) - Drag & drop in Figma to create a Python GUI with ease. 🪟 🍎 🐧 🟢 ⭐
@@ -459,6 +458,7 @@
 - [qView](https://interversehq.com/qview/) - Visually minimal and space efficient. 🪟 🍎 🐧
 - [JPEGView](https://sourceforge.net/projects/jpegview/) - Lean, fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images. 🪟
 - [XnView](https://www.xnview.com/en/) - Image resizer, batch image converter. 🪟 🍎 🐧
+- [ImageGlass](https://imageglass.org/) - Lightweight, versatile image viewer. 🪟 🟢
 
 ## Remote Access
 
@@ -527,13 +527,13 @@
 
 ### Video Players  
 
-- [VLC Media Player](https://www.videolan.org/vlc/) - Media player supporting almost all video formats. 🪟 🍎 🐧 🟢 ⭐
+- [VLC Media Player](https://www.videolan.org/vlc/) - Media player supporting almost all video formats. 🪟 🍎 🐧 🟢
 - [Kodi](https://kodi.tv/) - Media center that allows you to play and view most videos, music, podcasts, and other digital media files. 🪟 🍎 🐧 🟢
 - [Stremio](https://www.stremio.com/) - Provides a secure, modern and seamless entertainment experience. 🪟 🍎 🐧
 - [ScreenBox](https://apps.microsoft.com/detail/9ntsnmsvcb5l?hl=en-US&gl=US) - Basically VLC but with a modern UI. 🪟
 - [MPV](https://mpv.io/) - Cross-platform media player with a simple interface. 🪟 🍎 🐧 🟢
 - [KMPlayer](https://www.kmplayer.com/) - Media player supporting various video formats and streaming protocols. 🪟 🍎
-- [PotPlayer](https://potplayer.daum.net/) - Feature-rich video player with advanced playback options. 🪟
+- [PotPlayer](https://potplayer.daum.net/) - Feature-rich video player with advanced playback options. 🪟 ⭐
 - [MPC-HC](https://github.com/clsid2/mpc-hc) - Lightweight video player with support for all common formats. 🪟 🟢
 - [GOM Player](https://www.gomlab.com/gomplayer-media-player/) - Popular media player with support for most video formats and customizable features. 🪟 🍎
 - [RealPlayer](https://www.real.com/) - Versatile media player for playing videos and streaming. 🪟 🍎
@@ -562,7 +562,6 @@
 - [HandBrake](https://handbrake.fr/) - Video transcoder for converting video formats. 🪟 🍎 🐧 🟢
 - [Any Video Converter](https://www.any-video-converter.com/) - Free video converter that supports multiple formats. 🪟 🍎
 - [Format Factory](http://www.pcfreetime.com/formatfactory/) - Multifunctional converter supporting video, audio, and image formats. 🪟
-- [Freemake Video Converter](https://www.freemake.com/free_video_converter/) - Easy-to-use video converter with format support for most devices. 🪟
 - [XMedia Recode](https://www.xmedia-recode.de/en/) - All-in-one video and audio converter with wide format support. 🪟
 - [Shutter Encoder](https://www.shutterencoder.com/) - Multi-functional media conversion tool for video, audio, and image formats with advanced processing options. 🪟 🍎
 - [VidCoder](https://vidcoder.net/) - Video transcoder based on HandBrake, with a user-friendly interface. 🪟 🍎 🟢
@@ -660,8 +659,8 @@
 
 ### Space Visualizer
 
+- [WizTree](https://diskanalyzer.com/) - Fast disk space analyzer that scans drives and shows file size distribution. 🪟 ⭐
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - Identify large files and folders with an intuitive tree map. 🪟
-- [WizTree](https://diskanalyzer.com/) - Fast disk space analyzer that scans drives and shows file size distribution. 🪟
 - [TreeSize Free](https://www.jam-software.com/treesize_free) - Visualizes disk space usage in a tree-like structure for easy file management. 🪟
 - [DiskSavvy](https://www.disksavvy.com/) - Disk space analyzer with various reporting and filtering options. 🪟
 - [JDiskReport](http://www.jgoodies.com/freeware/jdiskreport/) - Tool for visualizing disk usage with a variety of charts and graphs. 🪟 🐧
