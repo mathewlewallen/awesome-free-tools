@@ -42,6 +42,8 @@
     - [Office Suites](#office-suites)
     - [E-book](#e-book)
     - [PDF Tools](#pdf-tools)
+- [Note taking](#note-taking)
+- [Text Editors](#text-editors)
 - [Download Managers](#download-managers)
 - [Games](#games)
     - [Cloud Gaming](#cloud-gaming)
@@ -54,7 +56,6 @@
     - [Password Managers](#password-managers)
 - [Image Viewers](#image-viewers)
 - [Remote Access](#remote-access)
-- [Text Editors](#text-editors)
 - [Video](#video)
     - [Video Editors](#video-editors)
     - [Video Players](#video-players)
@@ -159,6 +160,12 @@
 
 ### PDF Tools
 
+## Note Taking
+
+
+## Text Editors
+
+
 ### Download Managers
 
 ### Games
@@ -194,9 +201,6 @@
 ## Remote Access
 
 
-## Text Editors
-
-
 ## Video
 
 
@@ -206,7 +210,7 @@
 
 ### Video Players  
 
-- [VLC Media Player](https://www.videolan.org/vlc/) - Media player supporting almost all video formats. 🪟 🍎 🐧 🟢 ⭐
+- [PotPlayer](https://potplayer.daum.net/) - Feature-rich video player with advanced playback options. 🪟 ⭐
 
 ### Video Streaming and Recording  
 
@@ -244,3 +248,4 @@
 
 ### Space Visualizer
 
+- [WizTree](https://diskanalyzer.com/) - Fast disk space analyzer that scans drives and shows file size distribution. 🪟 ⭐

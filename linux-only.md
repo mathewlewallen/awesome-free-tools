@@ -42,6 +42,8 @@
     - [Office Suites](#office-suites)
     - [E-book](#e-book)
     - [PDF Tools](#pdf-tools)
+- [Note taking](#note-taking)
+- [Text Editors](#text-editors)
 - [Download Managers](#download-managers)
 - [Games](#games)
     - [Cloud Gaming](#cloud-gaming)
@@ -54,7 +56,6 @@
     - [Password Managers](#password-managers)
 - [Image Viewers](#image-viewers)
 - [Remote Access](#remote-access)
-- [Text Editors](#text-editors)
 - [Video](#video)
     - [Video Editors](#video-editors)
     - [Video Players](#video-players)
@@ -265,6 +266,33 @@
 - [Xournal++](https://xournalpp.github.io/) - Handwriting and annotation tool for PDFs. 🪟 🍎 🐧
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - PDF editor for splitting, merging. 🪟 🐧 🟢
 
+## Note Taking
+
+- [Obsidian](https://obsidian.md/) - A knowledge base app with powerful linking and markdown support. 🪟 🍎 🐧
+- [Notion](https://www.notion.so/) - All-in-one workspace for notes, tasks, databases, and collaboration. 🪟 🍎 🐧
+- [RemNote](https://www.remnote.io/) - A knowledge management app with note-taking and spaced repetition features. 🪟 🍎 🐧
+- [Simplenote](https://simplenote.com/) - A minimalist note-taking app that syncs across devices. 🪟 🍎 🐧
+
+## Text Editors
+
+- [Sublime Text](https://www.sublimetext.com/) - Fast and customizable text editor with support for a wide range of programming languages. 🪟 🍎 🐧
+- [Visual Studio Code](https://code.visualstudio.com/) - A powerful and extensible code editor developed by Microsoft, featuring debugging, version control, and support for numerous languages. 🪟 🍎 🐧 🟢
+- [Atom](https://atom.io/) - Hackable text editor with features like Git integration and an extensive plugin ecosystem. 🪟 🍎 🐧 🟢
+- [Vim](https://www.vim.org/) - Highly configurable, command-line-based text editor that is especially favored by developers for its efficiency. 🪟 🍎 🐧 🟢
+- [Emacs](https://www.gnu.org/software/emacs/) - A powerful, extensible text editor with a broad range of features and customization options. 🪟 🍎 🐧 🟢
+- [Geany](https://www.geany.org/) - A lightweight, fast text editor that supports many programming languages, with a built-in terminal and project management features. 🪟 🍎 🐧
+- [Brackets](http://brackets.io/) - Text editor focused on web development, with live preview and preprocessor support. 🪟 🍎 🐧 🟢
+- [Bluefish](https://bluefish.openoffice.org/) - A powerful text editor targeted at web developers, supporting various programming languages. 🪟 🍎 🐧
+- [Emacs](https://www.emacswiki.org/emacs/EmacsFormacOS) - Popular Unix-based text editor for programmers and system administrators. 🪟 🍎 🐧
+- [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - Code editor with a canvas UI for better code understanding. 🪟 🍎 🐧 🟢
+- [Helix](https://helix-editor.com/) - A post-modern modal text editor with extensibility and performance. 🪟 🍎 🐧
+- [Lapce](https://lapce.dev/) - A fast, powerful code editor designed for modern workflows. 🪟 🍎 🐧
+- [LightTable](http://lighttable.com/) - Next-generation code editor focused on instant feedback. 🪟 🍎 🐧
+- [micro](https://micro-editor.github.io) - A modern, intuitive terminal-based text editor. 🪟 🍎 🐧
+- [Neovim](https://github.com/neovim/neovim) - A modern, extensible terminal-based code editor. 🪟 🍎 🐧 🟢
+- [Sublime Text](http://www.sublimetext.com/3) - A popular, sleek editor with a plugin ecosystem for developers. 🪟 🍎 🐧
+- [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom. 🪟 🍎 🐧
+
 ### Download Managers
 - [Free Download Manager](https://www.freedownloadmanager.org/) - Modern download accelerator. 🪟 🍎 🐧
 - [JDownloader](https://jdownloader.org/) - Popular download manager. 🪟 🍎 🐧 🟢
@@ -362,26 +390,6 @@
 - [TeamViewer](https://www.teamviewer.com/en) - Popular remote control software for desktop sharing and file transfer. 🪟 🍎 🐧
 - [Remmina](https://remmina.org/) - Remote access screen and file sharing to your desktop. 🐧
 
-## Text Editors
-
-- [Sublime Text](https://www.sublimetext.com/) - Fast and customizable text editor with support for a wide range of programming languages. 🪟 🍎 🐧
-- [Visual Studio Code](https://code.visualstudio.com/) - A powerful and extensible code editor developed by Microsoft, featuring debugging, version control, and support for numerous languages. 🪟 🍎 🐧 🟢
-- [Atom](https://atom.io/) - Hackable text editor with features like Git integration and an extensive plugin ecosystem. 🪟 🍎 🐧 🟢
-- [Vim](https://www.vim.org/) - Highly configurable, command-line-based text editor that is especially favored by developers for its efficiency. 🪟 🍎 🐧 🟢
-- [Emacs](https://www.gnu.org/software/emacs/) - A powerful, extensible text editor with a broad range of features and customization options. 🪟 🍎 🐧 🟢
-- [Geany](https://www.geany.org/) - A lightweight, fast text editor that supports many programming languages, with a built-in terminal and project management features. 🪟 🍎 🐧
-- [Brackets](http://brackets.io/) - Text editor focused on web development, with live preview and preprocessor support. 🪟 🍎 🐧 🟢
-- [Bluefish](https://bluefish.openoffice.org/) - A powerful text editor targeted at web developers, supporting various programming languages. 🪟 🍎 🐧
-- [Emacs](https://www.emacswiki.org/emacs/EmacsFormacOS) - Popular Unix-based text editor for programmers and system administrators. 🪟 🍎 🐧
-- [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - Code editor with a canvas UI for better code understanding. 🪟 🍎 🐧 🟢
-- [Helix](https://helix-editor.com/) - A post-modern modal text editor with extensibility and performance. 🪟 🍎 🐧
-- [Lapce](https://lapce.dev/) - A fast, powerful code editor designed for modern workflows. 🪟 🍎 🐧
-- [LightTable](http://lighttable.com/) - Next-generation code editor focused on instant feedback. 🪟 🍎 🐧
-- [micro](https://micro-editor.github.io) - A modern, intuitive terminal-based text editor. 🪟 🍎 🐧
-- [Neovim](https://github.com/neovim/neovim) - A modern, extensible terminal-based code editor. 🪟 🍎 🐧 🟢
-- [Sublime Text](http://www.sublimetext.com/3) - A popular, sleek editor with a plugin ecosystem for developers. 🪟 🍎 🐧
-- [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom. 🪟 🍎 🐧
-
 ## Video
 
 - [FreeTube](https://freetubeapp.io/) - Private YouTube client with no ads. 🪟 🍎 🐧
@@ -398,7 +406,7 @@
 
 ### Video Players  
 
-- [VLC Media Player](https://www.videolan.org/vlc/) - Media player supporting almost all video formats. 🪟 🍎 🐧 🟢 ⭐
+- [VLC Media Player](https://www.videolan.org/vlc/) - Media player supporting almost all video formats. 🪟 🍎 🐧 🟢
 - [Kodi](https://kodi.tv/) - Media center that allows you to play and view most videos, music, podcasts, and other digital media files. 🪟 🍎 🐧 🟢
 - [Stremio](https://www.stremio.com/) - Provides a secure, modern and seamless entertainment experience. 🪟 🍎 🐧
 - [MPV](https://mpv.io/) - Cross-platform media player with a simple interface. 🪟 🍎 🐧 🟢

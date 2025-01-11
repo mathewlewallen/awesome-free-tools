@@ -42,6 +42,8 @@
     - [Office Suites](#office-suites)
     - [E-book](#e-book)
     - [PDF Tools](#pdf-tools)
+- [Note taking](#note-taking)
+- [Text Editors](#text-editors)
 - [Download Managers](#download-managers)
 - [Games](#games)
     - [Cloud Gaming](#cloud-gaming)
@@ -54,7 +56,6 @@
     - [Password Managers](#password-managers)
 - [Image Viewers](#image-viewers)
 - [Remote Access](#remote-access)
-- [Text Editors](#text-editors)
 - [Video](#video)
     - [Video Editors](#video-editors)
     - [Video Players](#video-players)
@@ -162,10 +163,8 @@
 - [ThunderBird](https://www.thunderbird.net/) - Email client for easier management. 🪟 🍎 🐧 🟢
 - [Mailbird](https://www.mailbird.com/) - IMAP/POP3 email client with customization options. 🪟
 - [Tutanota](https://tutanota.com/) - Encrypted email service focused on privacy. 🪟 🍎 🐧
-- [MicroSoft Outlook](https://apps.microsoft.com/detail/9nrx63209r7b?ocid=pdpshare&hl=en-US&gl=US) - Email client from the creators of Windows. 🪟
 - [Edison Mail](https://mail.edison.tech/mac) - Customizable, intuitive email client with smart features. 🪟 🍎 🐧
 - [Skiff Mail](https://skiff.com/mail) - Encrypted, decentralized email service. 🪟 🍎 🐧
-- [MS Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) - Professional email with calendar and task management. 🪟 🍎
 
 ## Compression and Archiving
 
@@ -199,7 +198,7 @@
 
 ### Copy and Move
 
-- [TeraCopy](https://www.codesector.com/teracopy) - Copy files faster and more securely. 🪟 🍎
+- [TeraCopy](https://www.codesector.com/teracopy) - Copy and move multiple files. 🪟 🍎
 
 ### Sync and Clone
 
@@ -209,6 +208,7 @@
 
 ## Developer Tools
 
+- [WinMerge](https://sourceforge.net/projects/winmerge/) - Windows visual diff and merge for files and directories. 🪟
 - [Diffinity](https://truehumandesign.se/s_diffinity.php) - Diff and merging tool with focus on accurate and easy-to-read source code diffs. 🪟
 - [Meld](https://meldmerge.org/) - Visual diff and merge tool. Helps you compare files, directories, and version-controlled projects. 🪟 🍎 🐧
 - [TkForge](https://github.com/Axorax/tkforge) - Drag & drop in Figma to create a Python GUI with ease. 🪟 🍎 🐧 🟢 ⭐
@@ -306,6 +306,37 @@
 - [Xournal++](https://xournalpp.github.io/) - Handwriting and annotation tool for PDFs. 🪟 🍎 🐧
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - PDF editor for splitting, merging. 🪟 🐧 🟢
 - [PDF24](https://www.pdf24.org/en/) - Easy PDF tools. 🪟
+
+## Note Taking
+
+- [Obsidian](https://obsidian.md/) - A knowledge base app with powerful linking and markdown support. 🪟 🍎 🐧
+- [Notion](https://www.notion.so/) - All-in-one workspace for notes, tasks, databases, and collaboration. 🪟 🍎 🐧
+- [Craft Docs](https://www.craft.do/) - Beautiful and powerful tool for creating and organizing documents and notes. 🪟 🍎
+- [RemNote](https://www.remnote.io/) - A knowledge management app with note-taking and spaced repetition features. 🪟 🍎 🐧
+- [Simplenote](https://simplenote.com/) - A minimalist note-taking app that syncs across devices. 🪟 🍎 🐧
+
+## Text Editors
+
+- [Notepad++](https://notepad-plus-plus.org/) - Text editor with syntax highlighting and advanced editing features for developers. 🪟 🟢
+- [Sublime Text](https://www.sublimetext.com/) - Fast and customizable text editor with support for a wide range of programming languages. 🪟 🍎 🐧
+- [Visual Studio Code](https://code.visualstudio.com/) - A powerful and extensible code editor developed by Microsoft, featuring debugging, version control, and support for numerous languages. 🪟 🍎 🐧 🟢
+- [Atom](https://atom.io/) - Hackable text editor with features like Git integration and an extensive plugin ecosystem. 🪟 🍎 🐧 🟢
+- [Vim](https://www.vim.org/) - Highly configurable, command-line-based text editor that is especially favored by developers for its efficiency. 🪟 🍎 🐧 🟢
+- [Emacs](https://www.gnu.org/software/emacs/) - A powerful, extensible text editor with a broad range of features and customization options. 🪟 🍎 🐧 🟢
+- [Geany](https://www.geany.org/) - A lightweight, fast text editor that supports many programming languages, with a built-in terminal and project management features. 🪟 🍎 🐧
+- [Brackets](http://brackets.io/) - Text editor focused on web development, with live preview and preprocessor support. 🪟 🍎 🐧 🟢
+- [FluentEdit](https://apps.microsoft.com/detail/9nwl9m9jpq36?hl=en-US&gl=BD) - Code editor based on fluent design and notepad. 🪟
+- [Fastedit](https://github.com/FrozenAssassine/Fastedit) - Code editor that looks like notepad and has frost background. 🪟 🟢
+- [Bluefish](https://bluefish.openoffice.org/) - A powerful text editor targeted at web developers, supporting various programming languages. 🪟 🍎 🐧
+- [Emacs](https://www.emacswiki.org/emacs/EmacsFormacOS) - Popular Unix-based text editor for programmers and system administrators. 🪟 🍎 🐧
+- [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - Code editor with a canvas UI for better code understanding. 🪟 🍎 🐧 🟢
+- [Helix](https://helix-editor.com/) - A post-modern modal text editor with extensibility and performance. 🪟 🍎 🐧
+- [Lapce](https://lapce.dev/) - A fast, powerful code editor designed for modern workflows. 🪟 🍎 🐧
+- [LightTable](http://lighttable.com/) - Next-generation code editor focused on instant feedback. 🪟 🍎 🐧
+- [micro](https://micro-editor.github.io) - A modern, intuitive terminal-based text editor. 🪟 🍎 🐧
+- [Neovim](https://github.com/neovim/neovim) - A modern, extensible terminal-based code editor. 🪟 🍎 🐧 🟢
+- [Sublime Text](http://www.sublimetext.com/3) - A popular, sleek editor with a plugin ecosystem for developers. 🪟 🍎 🐧
+- [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom. 🪟 🍎 🐧
 
 ### Download Managers
 - [Free Download Manager](https://www.freedownloadmanager.org/) - Modern download accelerator. 🪟 🍎 🐧
@@ -418,6 +449,7 @@
 - [qView](https://interversehq.com/qview/) - Visually minimal and space efficient. 🪟 🍎 🐧
 - [JPEGView](https://sourceforge.net/projects/jpegview/) - Lean, fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images. 🪟
 - [XnView](https://www.xnview.com/en/) - Image resizer, batch image converter. 🪟 🍎 🐧
+- [ImageGlass](https://imageglass.org/) - Lightweight, versatile image viewer. 🪟 🟢
 
 ## Remote Access
 
@@ -431,30 +463,6 @@
 - [TeamViewer](https://www.teamviewer.com/en) - Popular remote control software for desktop sharing and file transfer. 🪟 🍎 🐧
 - [Windows Remote Desktop](https://apps.apple.com/us/app/windows-app/id1295203466) - Connect to remote PCs, virtual apps, and desktops with ease. 🪟
 - [wmWebStack](https://webstack.wikimint.com) - Local server stack with one-click live publishing and remote device access. 🪟
-
-## Text Editors
-
-- [Notepad++](https://notepad-plus-plus.org/) - Text editor with syntax highlighting and advanced editing features for developers. 🪟 🟢
-- [Sublime Text](https://www.sublimetext.com/) - Fast and customizable text editor with support for a wide range of programming languages. 🪟 🍎 🐧
-- [Visual Studio Code](https://code.visualstudio.com/) - A powerful and extensible code editor developed by Microsoft, featuring debugging, version control, and support for numerous languages. 🪟 🍎 🐧 🟢
-- [Atom](https://atom.io/) - Hackable text editor with features like Git integration and an extensive plugin ecosystem. 🪟 🍎 🐧 🟢
-- [Vim](https://www.vim.org/) - Highly configurable, command-line-based text editor that is especially favored by developers for its efficiency. 🪟 🍎 🐧 🟢
-- [Emacs](https://www.gnu.org/software/emacs/) - A powerful, extensible text editor with a broad range of features and customization options. 🪟 🍎 🐧 🟢
-- [Geany](https://www.geany.org/) - A lightweight, fast text editor that supports many programming languages, with a built-in terminal and project management features. 🪟 🍎 🐧
-- [Brackets](http://brackets.io/) - Text editor focused on web development, with live preview and preprocessor support. 🪟 🍎 🐧 🟢
-- [Notepad](https://www.microsoft.com/en-us/p/notepad/) - A simple, no-frills text editor included in Windows for quick editing. 🪟
-- [FluentEdit](https://apps.microsoft.com/detail/9nwl9m9jpq36?hl=en-US&gl=BD) - Code editor based on fluent design and notepad. 🪟
-- [Fastedit](https://github.com/FrozenAssassine/Fastedit) - Code editor that looks like notepad and has frost background. 🪟 🟢
-- [Bluefish](https://bluefish.openoffice.org/) - A powerful text editor targeted at web developers, supporting various programming languages. 🪟 🍎 🐧
-- [Emacs](https://www.emacswiki.org/emacs/EmacsFormacOS) - Popular Unix-based text editor for programmers and system administrators. 🪟 🍎 🐧
-- [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - Code editor with a canvas UI for better code understanding. 🪟 🍎 🐧 🟢
-- [Helix](https://helix-editor.com/) - A post-modern modal text editor with extensibility and performance. 🪟 🍎 🐧
-- [Lapce](https://lapce.dev/) - A fast, powerful code editor designed for modern workflows. 🪟 🍎 🐧
-- [LightTable](http://lighttable.com/) - Next-generation code editor focused on instant feedback. 🪟 🍎 🐧
-- [micro](https://micro-editor.github.io) - A modern, intuitive terminal-based text editor. 🪟 🍎 🐧
-- [Neovim](https://github.com/neovim/neovim) - A modern, extensible terminal-based code editor. 🪟 🍎 🐧 🟢
-- [Sublime Text](http://www.sublimetext.com/3) - A popular, sleek editor with a plugin ecosystem for developers. 🪟 🍎 🐧
-- [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom. 🪟 🍎 🐧
 
 ## Video
 
@@ -475,13 +483,13 @@
 
 ### Video Players  
 
-- [VLC Media Player](https://www.videolan.org/vlc/) - Media player supporting almost all video formats. 🪟 🍎 🐧 🟢 ⭐
+- [VLC Media Player](https://www.videolan.org/vlc/) - Media player supporting almost all video formats. 🪟 🍎 🐧 🟢
 - [Kodi](https://kodi.tv/) - Media center that allows you to play and view most videos, music, podcasts, and other digital media files. 🪟 🍎 🐧 🟢
 - [Stremio](https://www.stremio.com/) - Provides a secure, modern and seamless entertainment experience. 🪟 🍎 🐧
 - [ScreenBox](https://apps.microsoft.com/detail/9ntsnmsvcb5l?hl=en-US&gl=US) - Basically VLC but with a modern UI. 🪟
 - [MPV](https://mpv.io/) - Cross-platform media player with a simple interface. 🪟 🍎 🐧 🟢
 - [KMPlayer](https://www.kmplayer.com/) - Media player supporting various video formats and streaming protocols. 🪟 🍎
-- [PotPlayer](https://potplayer.daum.net/) - Feature-rich video player with advanced playback options. 🪟
+- [PotPlayer](https://potplayer.daum.net/) - Feature-rich video player with advanced playback options. 🪟 ⭐
 - [MPC-HC](https://github.com/clsid2/mpc-hc) - Lightweight video player with support for all common formats. 🪟 🟢
 - [GOM Player](https://www.gomlab.com/gomplayer-media-player/) - Popular media player with support for most video formats and customizable features. 🪟 🍎
 - [RealPlayer](https://www.real.com/) - Versatile media player for playing videos and streaming. 🪟 🍎
@@ -507,7 +515,6 @@
 - [HandBrake](https://handbrake.fr/) - Video transcoder for converting video formats. 🪟 🍎 🐧 🟢
 - [Any Video Converter](https://www.any-video-converter.com/) - Free video converter that supports multiple formats. 🪟 🍎
 - [Format Factory](http://www.pcfreetime.com/formatfactory/) - Multifunctional converter supporting video, audio, and image formats. 🪟
-- [Freemake Video Converter](https://www.freemake.com/free_video_converter/) - Easy-to-use video converter with format support for most devices. 🪟
 - [XMedia Recode](https://www.xmedia-recode.de/en/) - All-in-one video and audio converter with wide format support. 🪟
 - [Shutter Encoder](https://www.shutterencoder.com/) - Multi-functional media conversion tool for video, audio, and image formats with advanced processing options. 🪟 🍎
 - [VidCoder](https://vidcoder.net/) - Video transcoder based on HandBrake, with a user-friendly interface. 🪟 🍎 🟢
@@ -588,8 +595,8 @@
 
 ### Space Visualizer
 
+- [WizTree](https://diskanalyzer.com/) - Fast disk space analyzer that scans drives and shows file size distribution. 🪟 ⭐
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - Identify large files and folders with an intuitive tree map. 🪟
-- [WizTree](https://diskanalyzer.com/) - Fast disk space analyzer that scans drives and shows file size distribution. 🪟
 - [TreeSize Free](https://www.jam-software.com/treesize_free) - Visualizes disk space usage in a tree-like structure for easy file management. 🪟
 - [DiskSavvy](https://www.disksavvy.com/) - Disk space analyzer with various reporting and filtering options. 🪟
 - [JDiskReport](http://www.jgoodies.com/freeware/jdiskreport/) - Tool for visualizing disk usage with a variety of charts and graphs. 🪟 🐧

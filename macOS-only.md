@@ -42,6 +42,8 @@
     - [Office Suites](#office-suites)
     - [E-book](#e-book)
     - [PDF Tools](#pdf-tools)
+- [Note taking](#note-taking)
+- [Text Editors](#text-editors)
 - [Download Managers](#download-managers)
 - [Games](#games)
     - [Cloud Gaming](#cloud-gaming)
@@ -54,7 +56,6 @@
     - [Password Managers](#password-managers)
 - [Image Viewers](#image-viewers)
 - [Remote Access](#remote-access)
-- [Text Editors](#text-editors)
 - [Video](#video)
     - [Video Editors](#video-editors)
     - [Video Players](#video-players)
@@ -158,7 +159,6 @@
 - [Tutanota](https://tutanota.com/) - Encrypted email service focused on privacy. 🪟 🍎 🐧
 - [Edison Mail](https://mail.edison.tech/mac) - Customizable, intuitive email client with smart features. 🪟 🍎 🐧
 - [Skiff Mail](https://skiff.com/mail) - Encrypted, decentralized email service. 🪟 🍎 🐧
-- [MS Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) - Professional email with calendar and task management. 🪟 🍎
 
 ## Compression and Archiving
 
@@ -185,7 +185,7 @@
 
 ### Copy and Move
 
-- [TeraCopy](https://www.codesector.com/teracopy) - Copy files faster and more securely. 🪟 🍎
+- [TeraCopy](https://www.codesector.com/teracopy) - Copy and move multiple files. 🪟 🍎
 
 ### Sync and Clone
 
@@ -292,6 +292,44 @@
 - [Okular](https://okular.kde.org/) - Universal document viewer by KDE. 🪟 🍎 🐧
 - [Skim](https://skim-app.sourceforge.io/) - PDF viewer for annotation. 🍎
 - [Xournal++](https://xournalpp.github.io/) - Handwriting and annotation tool for PDFs. 🪟 🍎 🐧
+
+## Note Taking
+
+- [Obsidian](https://obsidian.md/) - A knowledge base app with powerful linking and markdown support. 🪟 🍎 🐧
+- [Notion](https://www.notion.so/) - All-in-one workspace for notes, tasks, databases, and collaboration. 🪟 🍎 🐧
+- [Plain Text Editor](https://sindresorhus.com/plain-text-editor) - Simple, distraction-free text editor for quick note-taking. 🍎  
+- [Tot](https://tot.rocks/) - A simple, elegant app for collecting and editing text snippets. 🍎  
+- [Craft Docs](https://www.craft.do/) - Beautiful and powerful tool for creating and organizing documents and notes. 🪟 🍎
+- [RemNote](https://www.remnote.io/) - A knowledge management app with note-taking and spaced repetition features. 🪟 🍎 🐧
+- [Simplenote](https://simplenote.com/) - A minimalist note-taking app that syncs across devices. 🪟 🍎 🐧
+- [NotePlan](https://noteplan.co/) - A markdown-based planner with to-do list and calendar integration. 🍎  
+
+## Text Editors
+
+- [Sublime Text](https://www.sublimetext.com/) - Fast and customizable text editor with support for a wide range of programming languages. 🪟 🍎 🐧
+- [Visual Studio Code](https://code.visualstudio.com/) - A powerful and extensible code editor developed by Microsoft, featuring debugging, version control, and support for numerous languages. 🪟 🍎 🐧 🟢
+- [Atom](https://atom.io/) - Hackable text editor with features like Git integration and an extensive plugin ecosystem. 🪟 🍎 🐧 🟢
+- [Vim](https://www.vim.org/) - Highly configurable, command-line-based text editor that is especially favored by developers for its efficiency. 🪟 🍎 🐧 🟢
+- [Emacs](https://www.gnu.org/software/emacs/) - A powerful, extensible text editor with a broad range of features and customization options. 🪟 🍎 🐧 🟢
+- [Geany](https://www.geany.org/) - A lightweight, fast text editor that supports many programming languages, with a built-in terminal and project management features. 🪟 🍎 🐧
+- [Brackets](http://brackets.io/) - Text editor focused on web development, with live preview and preprocessor support. 🪟 🍎 🐧 🟢
+- [Bluefish](https://bluefish.openoffice.org/) - A powerful text editor targeted at web developers, supporting various programming languages. 🪟 🍎 🐧
+- [Aurora Editor](https://auroraeditor.com/) - A lightweight, fast code editor for macOS with a modern interface. 🍎
+- [CodeEdit](https://www.codeedit.app/) - Lightweight native code editor for macOS. 🍎 🟢
+- [CotEditor](https://coteditor.com) - A lightweight plain-text editor designed for macOS. 🍎
+- [Emacs](https://www.emacswiki.org/emacs/EmacsFormacOS) - Popular Unix-based text editor for programmers and system administrators. 🪟 🍎 🐧
+- [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - Code editor with a canvas UI for better code understanding. 🪟 🍎 🐧 🟢
+- [Helix](https://helix-editor.com/) - A post-modern modal text editor with extensibility and performance. 🪟 🍎 🐧
+- [Lapce](https://lapce.dev/) - A fast, powerful code editor designed for modern workflows. 🪟 🍎 🐧
+- [LightTable](http://lighttable.com/) - Next-generation code editor focused on instant feedback. 🪟 🍎 🐧
+- [micro](https://micro-editor.github.io) - A modern, intuitive terminal-based text editor. 🪟 🍎 🐧
+- [Neovim](https://github.com/neovim/neovim) - A modern, extensible terminal-based code editor. 🪟 🍎 🐧 🟢
+- [Nova](https://nova.app/) - A fast, flexible, and beautiful native Mac code editor from Panic. 🍎
+- [Sublime Text](http://www.sublimetext.com/3) - A popular, sleek editor with a plugin ecosystem for developers. 🪟 🍎 🐧
+- [SubEthaEdit](https://subethaedit.net/) - A collaborative text editor that allows real-time editing. 🍎
+- [TextMate](https://macromates.com) - A versatile, flexible text editor for macOS with advanced features. 🍎
+- [Vimr](http://vimr.org/) - A refined Vim experience designed for macOS. 🍎
+- [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom. 🪟 🍎 🐧
 
 ### Download Managers
 - [Free Download Manager](https://www.freedownloadmanager.org/) - Modern download accelerator. 🪟 🍎 🐧
@@ -407,35 +445,6 @@
 - [Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game streaming server for use with Moonlight. 🪟 🍎 🐧 🟢
 - [TeamViewer](https://www.teamviewer.com/en) - Popular remote control software for desktop sharing and file transfer. 🪟 🍎 🐧
 
-## Text Editors
-
-- [Sublime Text](https://www.sublimetext.com/) - Fast and customizable text editor with support for a wide range of programming languages. 🪟 🍎 🐧
-- [Visual Studio Code](https://code.visualstudio.com/) - A powerful and extensible code editor developed by Microsoft, featuring debugging, version control, and support for numerous languages. 🪟 🍎 🐧 🟢
-- [Atom](https://atom.io/) - Hackable text editor with features like Git integration and an extensive plugin ecosystem. 🪟 🍎 🐧 🟢
-- [Vim](https://www.vim.org/) - Highly configurable, command-line-based text editor that is especially favored by developers for its efficiency. 🪟 🍎 🐧 🟢
-- [Emacs](https://www.gnu.org/software/emacs/) - A powerful, extensible text editor with a broad range of features and customization options. 🪟 🍎 🐧 🟢
-- [Geany](https://www.geany.org/) - A lightweight, fast text editor that supports many programming languages, with a built-in terminal and project management features. 🪟 🍎 🐧
-- [Brackets](http://brackets.io/) - Text editor focused on web development, with live preview and preprocessor support. 🪟 🍎 🐧 🟢
-- [Bluefish](https://bluefish.openoffice.org/) - A powerful text editor targeted at web developers, supporting various programming languages. 🪟 🍎 🐧
-- [Aurora Editor](https://auroraeditor.com/) - A lightweight, fast code editor for macOS with a modern interface. 🍎
-- [CodeEdit](https://www.codeedit.app/) - Lightweight native code editor for macOS. 🍎 🟢
-- [CotEditor](https://coteditor.com) - A lightweight plain-text editor designed for macOS. 🍎
-- [Emacs](https://www.emacswiki.org/emacs/EmacsFormacOS) - Popular Unix-based text editor for programmers and system administrators. 🪟 🍎 🐧
-- [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - Code editor with a canvas UI for better code understanding. 🪟 🍎 🐧 🟢
-- [Helix](https://helix-editor.com/) - A post-modern modal text editor with extensibility and performance. 🪟 🍎 🐧
-- [Lapce](https://lapce.dev/) - A fast, powerful code editor designed for modern workflows. 🪟 🍎 🐧
-- [LightTable](http://lighttable.com/) - Next-generation code editor focused on instant feedback. 🪟 🍎 🐧
-- [micro](https://micro-editor.github.io) - A modern, intuitive terminal-based text editor. 🪟 🍎 🐧
-- [Neovim](https://github.com/neovim/neovim) - A modern, extensible terminal-based code editor. 🪟 🍎 🐧 🟢
-- [Nova](https://nova.app/) - A fast, flexible, and beautiful native Mac code editor from Panic. 🍎
-- [Plain Text Editor](https://sindresorhus.com/plain-text-editor) - Simple, distraction-free text editor for quick note-taking. 🍎
-- [Sublime Text](http://www.sublimetext.com/3) - A popular, sleek editor with a plugin ecosystem for developers. 🪟 🍎 🐧
-- [SubEthaEdit](https://subethaedit.net/) - A collaborative text editor that allows real-time editing. 🍎
-- [TextMate](https://macromates.com) - A versatile, flexible text editor for macOS with advanced features. 🍎
-- [Tot](https://tot.rocks/) - A simple, elegant app for collecting and editing text snippets. 🍎
-- [Vimr](http://vimr.org/) - A refined Vim experience designed for macOS. 🍎
-- [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom. 🪟 🍎 🐧
-
 ## Video
 
 - [FreeTube](https://freetubeapp.io/) - Private YouTube client with no ads. 🪟 🍎 🐧
@@ -454,7 +463,7 @@
 
 ### Video Players  
 
-- [VLC Media Player](https://www.videolan.org/vlc/) - Media player supporting almost all video formats. 🪟 🍎 🐧 🟢 ⭐
+- [VLC Media Player](https://www.videolan.org/vlc/) - Media player supporting almost all video formats. 🪟 🍎 🐧 🟢
 - [Kodi](https://kodi.tv/) - Media center that allows you to play and view most videos, music, podcasts, and other digital media files. 🪟 🍎 🐧 🟢
 - [Stremio](https://www.stremio.com/) - Provides a secure, modern and seamless entertainment experience. 🪟 🍎 🐧
 - [MPV](https://mpv.io/) - Cross-platform media player with a simple interface. 🪟 🍎 🐧 🟢

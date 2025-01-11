@@ -13,3 +13,4 @@ Deferred - App needs to be checked before getting added to main list.
 - [Freemake Video Converter](https://www.freemake.com/free_video_converter/) - Easy-to-use video converter with format support for most devices. 🪟 (Subpar)
 - [MicroSoft Outlook](https://apps.microsoft.com/detail/9nrx63209r7b?ocid=pdpshare&hl=en-US&gl=US) - Email client from the creators of Windows. 🪟 (Subpar)
 - [Cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser. (Deferred)
+- [uGet](https://ugetdm.com/) - Lightweight and full-featured download manager. 🪟 🍎 🐧 🟢  (Unmaintained)

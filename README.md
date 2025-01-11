@@ -174,7 +174,7 @@
 
 ## Compression and Archiving
 
-- [7-Zip](https://www.7-zip.org/) - Archive manager supporting 7z, ZIP, and other formats. 🪟 🍎 🐧 🟢 ⭐
+- [7-Zip](https://www.7-zip.org/download.html) - Archive manager supporting 7z, ZIP, and other formats. 🪟 🟢 ⭐
 - [Bandizip](https://www.bandisoft.com/bandizip/) - Fast, lightweight archive manager with extensive format support. 🪟
 - [NanaZip](https://apps.microsoft.com/detail/9n8g7tscl18r?hl=en-us&gl=US) - 7-Zip derivative optimized for Windows 10/11 with added functionality. 🪟
 - [PeaZip](https://peazip.github.io/) - Archive manager supporting 180+ formats with encryption and compression. 🪟 🐧 🟢
@@ -257,7 +257,6 @@
 - [Charles](https://www.charlesproxy.com/) - Debugging proxy to view HTTP and HTTPS traffic. 🪟 🍎
 - [James](https://github.com/james-proxy/james) - Proxy for intercepting HTTP/HTTPS requests. 🪟 🍎 🟢
 - [mitmproxy](https://mitmproxy.org/) - Interactive HTTP proxy for debugging and penetration testing. 🪟 🍎 🐧
-- [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Network monitor with traffic visualization. 🍎
 - [Proxie](https://proxie.app/) - HTTP debugging proxy for tracking requests. 🍎
 - [Proxyman](https://proxyman.io/) - Modern HTTP proxy with an intuitive UI. 🍎
 - [Sniffnet](https://www.sniffnet.net/) - Tool for monitoring and analyzing network traffic. 🪟 🍎 🐧
@@ -347,12 +346,11 @@
 - [Craft Docs](https://www.craft.do/) - Beautiful and powerful tool for creating and organizing documents and notes. 🪟 🍎
 - [RemNote](https://www.remnote.io/) - A knowledge management app with note-taking and spaced repetition features. 🪟 🍎 🐧
 - [Simplenote](https://simplenote.com/) - A minimalist note-taking app that syncs across devices. 🪟 🍎 🐧
-- [NotePlan](https://noteplan.co/) - A markdown-based planner with to-do list and calendar integration. 🍎  
+- [Joplin](https://joplinapp.org/) - Capture your thoughts and securely access them from any device. 🪟 🍎 🐧 🟢
 
 ## Text Editors
 
 - [Notepad++](https://notepad-plus-plus.org/) - Text editor with syntax highlighting and advanced editing features for developers. 🪟 🟢
-- [Sublime Text](https://www.sublimetext.com/) - Fast and customizable text editor with support for a wide range of programming languages. 🪟 🍎 🐧
 - [Visual Studio Code](https://code.visualstudio.com/) - A powerful and extensible code editor developed by Microsoft, featuring debugging, version control, and support for numerous languages. 🪟 🍎 🐧 🟢
 - [Atom](https://atom.io/) - Hackable text editor with features like Git integration and an extensive plugin ecosystem. 🪟 🍎 🐧 🟢
 - [Vim](https://www.vim.org/) - Highly configurable, command-line-based text editor that is especially favored by developers for its efficiency. 🪟 🍎 🐧 🟢
@@ -365,7 +363,6 @@
 - [Aurora Editor](https://auroraeditor.com/) - A lightweight, fast code editor for macOS with a modern interface. 🍎
 - [CodeEdit](https://www.codeedit.app/) - Lightweight native code editor for macOS. 🍎 🟢
 - [CotEditor](https://coteditor.com) - A lightweight plain-text editor designed for macOS. 🍎
-- [Emacs](https://www.emacswiki.org/emacs/EmacsFormacOS) - Popular Unix-based text editor for programmers and system administrators. 🪟 🍎 🐧
 - [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - Code editor with a canvas UI for better code understanding. 🪟 🍎 🐧 🟢
 - [Helix](https://helix-editor.com/) - A post-modern modal text editor with extensibility and performance. 🪟 🍎 🐧
 - [Lapce](https://lapce.dev/) - A fast, powerful code editor designed for modern workflows. 🪟 🍎 🐧
@@ -380,8 +377,13 @@
 - [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom. 🪟 🍎 🐧
 
 ### Download Managers
-- [Free Download Manager](https://www.freedownloadmanager.org/) - Modern download accelerator. 🪟 🍎 🐧
-- [JDownloader](https://jdownloader.org/) - Popular download manager. 🪟 🍎 🐧 🟢
+
+- [Free Download Manager](https://www.freedownloadmanager.org/) - Modern download accelerator. 🪟 🍎 🐧  
+- [JDownloader](https://jdownloader.org/) - Popular download manager. 🪟 🍎 🐧 🟢  
+- [Xtreme Download Manager (XDM)](https://xtremedownloadmanager.com/) - Powerful tool to increase download speeds up to 500%. 🪟 🍎 🐧 🟢 
+- [Aria2](https://aria2.github.io/) - Lightweight, command-line download utility supporting multiple protocols. 🪟 🍎 🐧 🟢  
+- [Motrix](https://motrix.app/) - A simple and clean download manager with cross-platform support. 🪟 🍎 🐧 🟢  
+- [Persepolis Download Manager](https://persepolisdm.github.io/) - GUI for Aria2, providing an intuitive interface. 🪟 🍎 🐧 🟢  
 
 ### Games
 - [Steam](https://store.steampowered.com/) - Platform for buying and playing PC games. 🪟 🍎 🐧 ⭐
@@ -488,7 +490,6 @@
 - [KeePass](https://keepass.info/) - Lightweight password manager for secure storage of passwords in encrypted databases. 🪟 🍎 🐧 🟢
 - [KeePassXC](https://keepassxc.org/) - Modern community fork of KeePass with cross-platform support and enhanced features. 🪟 🍎 🐧
 - [LastPass](https://www.lastpass.com/) - Cloud-based password manager with secure password sharing and autofill features. 🪟 🍎 🐧
-- [1Password](https://1password.com/) - Intuitive and secure password management tool for storing and organizing credentials. 🪟 🍎 🐧
 - [Passbolt](https://www.passbolt.com/) - Team-oriented password manager for sharing and storing passwords securely. 🪟 🍎 🐧 🟢
 - [NordPass](https://nordpass.com/) - Secure password manager with autofill and password health insights. 🪟 🍎 🐧
 - [RoboForm](https://www.roboform.com/) - Password manager and form filler with multi-platform synchronization. 🪟 🍎 🐧
@@ -507,7 +508,6 @@
 - [AnyDesk](https://anydesk.com) - Remote access solution for multiple devices, providing fast and secure connections. 🪟 🍎 🐧
 - [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for Windows, Mac, Linux, and Steam Link. 🪟 🍎 🐧 🟢
 - [Parsec](https://parsec.app) - High-performance remote desktop solution with 4k streaming at 60fps and low latency. 🪟 🍎 🐧
-- [RealVNC](https://www.realvnc.com) - Secure remote access for desktop and mobile devices. 🪟 🍎 🐧
 - [RoyalTSX](https://www.royalapps.com/ts/mac/features) - Remote access tool for IT professionals, supporting multiple protocols. 🍎
 - [RustDesk](https://rustdesk.com/) - Remote desktop software with a focus on simplicity and security. 🪟 🍎 🐧 🟢
 - [Steam Link](https://apps.apple.com/us/app/steam-link/id1246969117) - Play your Steam games across devices using the Steam Link app. 🪟 🍎 🐧
@@ -628,6 +628,7 @@
 - [ExifTool](https://exiftool.org/) - Powerful command-line application for reading, writing, and editing meta information in image, audio, and video files. 🪟 🍎 🐧
 - [PhotoME](https://www.photome.de/) - An EXIF and metadata viewer for photos, with some editing capabilities. 🪟
 - [Metadata++](https://metadata.en.softonic.com/) - Allows for viewing, editing, and removing metadata from photos and files. 🪟
+- [MP3Tag](https://www.mp3tag.de/en/) - Edit metadata of audio files. 🪟
 
 ### Window Management
 
