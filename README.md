@@ -81,7 +81,7 @@
 
 - [Foobar2000](https://www.foobar2000.org/) - Lightweight and highly customizable audio player with support for many formats. 🪟 🍎 🐧 ⭐
 - [MusicBee](https://getmusicbee.com/) - Feature-rich music player and manager for Windows. 🪟
-- [AIMP](https://aimp.ru/) - Music player for Windows with a clean interface and powerful features. 🪟
+- [AIMP](https://aimp.ru/) - Music player with a clean interface and powerful features. 🪟
 - [Audacious](https://audacious-media-player.org/) - Lightweight audio player for simple music playback. 🪟 🐧
 - [Karafun](https://www.karafun.com/) - Collection of karaoke songs across multiple genres. Play your own CDG files or use downloads from YouTube. 🪟
 - [Strawberry Music Player](https://www.strawberrymusicplayer.org/) - Music player for organizing and playing your audio collection. 🪟 🍎 🐧
