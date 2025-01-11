@@ -2,11 +2,15 @@
     <img alt="Logo" src="./afa.png">
 </p>
 
+<p align="center">
+
 | Icon | Meaning              | Icon | Meaning              |
 |------|----------------------|------|----------------------|
 | 🪟   | Available on Windows | 🟢   | Open-source          |
 | 🍎   | Available on macOS   | ⭐   | Recommended by us    |
 | 🐧   | Available on Linux   |      |                      |
+
+</p>
 
 > [!IMPORTANT]
 > Maintaining this project requires a lot of time. [Donate to support me!](https://patreon.com/axorax) ❤️
