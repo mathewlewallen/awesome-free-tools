@@ -212,6 +212,7 @@
 - [Diffinity](https://truehumandesign.se/s_diffinity.php) - Diff and merging tool with focus on accurate and easy-to-read source code diffs. 🪟
 - [Meld](https://meldmerge.org/) - Visual diff and merge tool. Helps you compare files, directories, and version-controlled projects. 🪟 🍎 🐧
 - [TkForge](https://github.com/Axorax/tkforge) - Drag & drop in Figma to create a Python GUI with ease. 🪟 🍎 🐧 🟢 ⭐
+- [livewinsize](https://github.com/Axorax/livewinsize) - Visualize window size in pixels and other units. 🪟 🟢 ⭐
 
 ### API Development  
 
@@ -538,6 +539,8 @@
 - [PuTTY](https://www.putty.org/) - SSH and telnet client for Windows. 🪟
 - [Legacy Update](https://legacyupdate.net/) - Software to install all relevant updates necessary to fix access to the Windows Update service on unsupported versions. 🪟
 - [Twinkle Tray](https://twinkletray.com/) - Easily manage the brightness levels of multiple monitors. 🪟
+- [Keylock](https://github.com/Axorax/keylock) - Lock your keyboard. 🪟 🟢
+- [Winpower](https://github.com/Axorax/winpower) - Improved power settings for Windows. 🪟 🟢
 
 ### Clipboard Management
 
