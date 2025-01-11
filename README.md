@@ -341,11 +341,11 @@
 ## Note Taking
 
 - [Obsidian](https://obsidian.md/) - A knowledge base app with powerful linking and markdown support. 🪟 🍎 🐧
+- [Notion](https://www.notion.so/) - All-in-one workspace for notes, tasks, databases, and collaboration. 🪟 🍎 🐧
 - [Plain Text Editor](https://sindresorhus.com/plain-text-editor) - Simple, distraction-free text editor for quick note-taking. 🍎  
 - [Tot](https://tot.rocks/) - A simple, elegant app for collecting and editing text snippets. 🍎  
 - [Craft Docs](https://www.craft.do/) - Beautiful and powerful tool for creating and organizing documents and notes. 🪟 🍎
 - [RemNote](https://www.remnote.io/) - A knowledge management app with note-taking and spaced repetition features. 🪟 🍎 🐧
-- [Notion](https://www.notion.so/) - All-in-one workspace for notes, tasks, databases, and collaboration. 🪟 🍎 🐧
 - [Simplenote](https://simplenote.com/) - A minimalist note-taking app that syncs across devices. 🪟 🍎 🐧
 - [NotePlan](https://noteplan.co/) - A markdown-based planner with to-do list and calendar integration. 🍎  
 
