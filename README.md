@@ -378,12 +378,13 @@
 
 ### Download Managers
 
-- [Free Download Manager](https://www.freedownloadmanager.org/) - Modern download accelerator. 🪟 🍎 🐧  
+- [Free Download Manager](https://www.freedownloadmanager.org/) - Modern download accelerator. 🪟 🍎 🐧 ⭐
 - [JDownloader](https://jdownloader.org/) - Popular download manager. 🪟 🍎 🐧 🟢  
 - [Xtreme Download Manager (XDM)](https://xtremedownloadmanager.com/) - Powerful tool to increase download speeds up to 500%. 🪟 🍎 🐧 🟢 
 - [Aria2](https://aria2.github.io/) - Lightweight, command-line download utility supporting multiple protocols. 🪟 🍎 🐧 🟢  
 - [Motrix](https://motrix.app/) - A simple and clean download manager with cross-platform support. 🪟 🍎 🐧 🟢  
 - [Persepolis Download Manager](https://persepolisdm.github.io/) - GUI for Aria2, providing an intuitive interface. 🪟 🍎 🐧 🟢  
+- [AB Download Manager](https://abdownloadmanager.com/) - Easily download files from anywhere. 🪟 🐧 🟢 ⭐
 
 ### Games
 - [Steam](https://store.steampowered.com/) - Platform for buying and playing PC games. 🪟 🍎 🐧 ⭐
