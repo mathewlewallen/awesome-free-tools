@@ -74,7 +74,7 @@
 
 ### Audio Players
 
-- [Foobar2000](https://www.foobar2000.org/) - Lightweight and highly customizable audio player with support for many formats. 🪟 🍎 🐧
+- [Foobar2000](https://www.foobar2000.org/) - Lightweight and highly customizable audio player with support for many formats. 🪟 🍎 🐧 ⭐
 - [MusicBee](https://getmusicbee.com/) - Feature-rich music player and manager for Windows. 🪟
 - [AIMP](https://aimp.ru/) - Music player for Windows with a clean interface and powerful features. 🪟
 - [Audacious](https://audacious-media-player.org/) - Lightweight audio player for simple music playback. 🪟 🐧
@@ -83,7 +83,7 @@
 
 ### Audio Recording
 
-- [Audacity](https://www.audacityteam.org/download/) - Open-source audio editor for recording and editing sounds. 🪟 🍎 🐧
+- [Audacity](https://www.audacityteam.org/download/) - Open-source audio editor for recording and editing sounds. 🪟 🍎 🐧 ⭐
 - [Ocenaudio](https://www.ocenaudio.com/) - Easy-to-use audio editor for recording and analyzing sounds. 🪟 🍎 🐧
 - [Wavosaur](https://www.wavosaur.com/) - Simple audio editor for recording, editing, and processing sound. 🪟
 
@@ -106,12 +106,12 @@
 
 ### Music Production
 
-- [LMMS](https://lmms.io/) - Open-source DAW for creating music with virtual instruments and MIDI support. 🪟 🍎 🐧
+- [LMMS](https://lmms.io/) - Open-source DAW for creating music with virtual instruments and MIDI support. 🪟 🍎 🐧 ⭐
 - [Ardour](https://ardour.org/) - DAW for recording, editing, and mixing audio with professional features. 🪟 🍎 🐧
 - [Tracktion T7](https://www.tracktion.com/products/t7-daw) - DAW for music production with advanced editing features. 🪟 🍎 🐧
 - [Zrythm](https://www.zrythm.org/) - DAW for music production with an easy-to-use interface. 🪟 🍎 🐧
 - [Qtractor](https://qtractor.org/) - Multi-track DAW for Linux for audio and MIDI recording. 🐧
-- [Cakewalk by BandLab](https://www.bandlab.com/products/cakewalk) - Full-featured DAW for music recording and editing. 🪟
+- [Cakewalk](https://www.bandlab.com/products/cakewalk) - Full-featured DAW for music recording and editing by BandLab. 🪟
 - [Stargate DAW](https://github.com/stargatedaw/stargate) - Innovation-first DAW, instrument and effect plugins. 🪟 🍎 🐧
 - [Reaper](https://www.reaper.fm/) - Complete digital audio production application for computers, offering a full multitrack audio and MIDI recording. 🪟 🍎 🐧
 
@@ -132,7 +132,7 @@
 - [qutebrowser](https://www.qutebrowser.org/) - Keyboard-driven, vim-like browser built with Python and Qt. 🪟 🍎 🐧
 - [Safari](https://www.apple.com/safari/) - Native browser for Macs with seamless integration across Apple devices. 🍎
 - [Station](https://getstation.com/) - Browser that centralizes all your web apps in one workspace. 🪟 🍎 🐧
-- [Tor Browser](https://www.torproject.org/projects/torbrowser.html) - Anonymity-focused browser that protects your privacy by routing traffic over the Tor network. 🪟 🍎 🐧
+- [Tor Browser](https://www.torproject.org/projects/torbrowser.html) - Anonymity-focused browser that protects your privacy by routing traffic over the Tor network. 🪟 🍎 🐧 ⭐
 - [Mullvad Browser](https://mullvad.net/en/download/browser/) - Privacy browser based on Tor with anti-fingerprinting features, compatible with Mullvad VPN. 🪟 🍎 🐧
 - [Vivaldi](https://vivaldi.com) - Customizable browser that puts you in control of your experience. 🪟 🍎 🐧
 - [Yandex](https://browser.yandex.com/) - A secure and fast browser developed by Yandex for enhanced privacy and speed. 🪟 🍎 🐧
@@ -142,7 +142,7 @@
 
 ### Messaging
 
-- [Discord](https://discord.com/) - A popular communication platform for text, voice, and video chats, designed for gaming communities but widely used for various interests. 🪟 🍎 🐧
+- [Discord](https://discord.com/) - A popular communication platform for text, voice, and video chats, designed for gaming communities but widely used for various interests. 🪟 🍎 🐧 ⭐
 - [Telegram](https://telegram.org/) - A cloud-based messaging app known for its speed, security, and group chat capabilities. 🪟 🍎 🐧
 - [WhatsApp](https://www.whatsapp.com/) - A free messaging app offering text, voice, and video calls, as well as multimedia sharing. 🪟 🍎
 - [Signal](https://signal.org/) - A secure and private messaging app that supports end-to-end encrypted text, voice, and video communication. 🪟 🍎 🐧
@@ -173,7 +173,7 @@
 
 ## Compression and Archiving
 
-- [7-Zip](https://www.7-zip.org/) - Open-source archive manager supporting 7z, ZIP, and other major formats. Ideal for compression and extraction tasks. 🪟
+- [7-Zip](https://www.7-zip.org/) - Open-source archive manager supporting 7z, ZIP, and other major formats. Ideal for compression and extraction tasks. 🪟 🍎 🐧 ⭐
 - [Bandizip](https://www.bandisoft.com/bandizip/) - Fast, lightweight, and versatile archive manager with extensive format support. 🪟
 - [NanaZip](https://apps.microsoft.com/detail/9n8g7tscl18r?hl=en-us&gl=US) - A modern derivative of 7-Zip, optimized for Windows 10/11 with additional functionality. 🪟
 - [PeaZip](https://peazip.github.io/) - Open-source archive manager supporting over 180 file formats, with encryption and compression features. 🪟 🐧
@@ -263,8 +263,8 @@
 
 ### Game Engines
 
-- [Godot](https://godotengine.org/) - Open-source game engine for creating 2D and 3D games with an easy-to-learn scripting language. 🪟 🍎 🐧
-- [Unreal Engine](https://www.unrealengine.com/) - Powerful and fully featured game engine for creating high-quality 3D games with stunning graphics. 🪟 🍎 🐧
+- [Godot](https://godotengine.org/) - Open-source game engine for creating 2D and 3D games with an easy-to-learn scripting language. 🪟 🍎 🐧 ⭐
+- [Unreal Engine](https://www.unrealengine.com/) - Powerful and fully featured game engine for creating high-quality 3D games with stunning graphics. 🪟 🍎 🐧 ⭐
 - [Unity](https://unity.com/) - Popular game engine for creating both 2D and 3D games, with an intuitive interface and wide asset store. 🪟 🍎 🐧
 - [GDevelop](https://gdevelop.io/) - No-code game engine focused on easy-to-create 2D games with a visual event system. 🪟 🍎 🐧
 - [Cocos2d](https://www.cocos.com/en/) - Open-source game engine focused on creating mobile and web games, especially 2D games. 🪟 🍎 🐧
@@ -286,7 +286,7 @@
 
 ### Virtualization
 
-- [Docker](https://www.docker.com/) - Open-source containerization platform that enables operating-system-level virtualization. 🪟 🍎 🐧
+- [Docker](https://www.docker.com/) - Open-source containerization platform that enables operating-system-level virtualization. 🪟 🍎 🐧 ⭐
 - [Multipass](https://multipass.run/) - Quickly launch and manage Ubuntu virtual machines on demand. 🪟 🍎 🐧
 - [OrbStack](https://orbstack.dev/) - Lightweight and fast virtualization solution for running Docker containers and Linux machines on macOS. 🍎
 - [Lima](https://github.com/lima-vm/lima) - Open-source tool for launching Linux VMs on macOS with file sharing and port forwarding. 🍎
@@ -304,7 +304,7 @@
 
 ### Office Suites
 
-- [LibreOffice](https://www.libreoffice.org/) - Private, free and open source office suite – the successor project to OpenOffice. 🪟 🍎 🐧
+- [LibreOffice](https://www.libreoffice.org/) - Private, free and open source office suite – the successor project to OpenOffice. 🪟 🍎 🐧 ⭐
 - [OnlyOffice](https://www.onlyoffice.com/) - Free and open-source office suite with advanced collaboration features for documents, spreadsheets, and presentations. 🪟 🍎 🐧
 - [Apache OpenOffice](https://www.openoffice.org/) - Open-source office suite for word processing, spreadsheets, presentations, and more. 🪟 🍎 🐧
 - [Calligra Suite](https://calligra.org/) - Office suite by KDE, offering applications for word processing, spreadsheets, presentations, and vector graphics. 🪟 🍎 🐧
@@ -427,7 +427,7 @@
 
 ## 3D Modeling and Animation
 
-- [Blender](https://www.blender.org/) - Open-source 3D creation tool supporting modeling, animation, rendering, video editing, and more. 🪟 🍎 🐧
+- [Blender](https://www.blender.org/) - Open-source 3D creation tool supporting modeling, animation, rendering, video editing, and more. 🪟 🍎 🐧 ⭐
 - [Wings 3D](http://www.wings3d.com/) - Open-source 3D modeling software focusing on subdivision modeling. 🪟 🍎 🐧
 - [FreeCAD](https://www.freecadweb.org/) - Parametric 3D CAD modeler for designing real-life objects of any size. 🪟 🍎 🐧
 - [MakeHuman](https://static.makehumancommunity.org/makehuman.html) - Open-source 3D human modeler for creating realistic character models. 🪟 🍎 🐧
@@ -441,7 +441,7 @@
 - [ClamAV](https://www.clamav.net/) - Open-source antivirus engine for detecting malware, viruses, and other threats. 🪟 🍎 🐧
 - [AVG Antivirus](https://www.avg.com/en-us/free-antivirus-download) - Free antivirus software to protect against viruses, malware, and spyware. 🪟 🍎
 - [Bitdefender](https://www.bitdefender.com/solutions/free.html) - Lightweight and powerful antivirus for essential protection. 🪟 🍎
-- [Malwarebytes Free](https://www.malwarebytes.com/) - Malware removal tool offering real-time protection and cleanup. 🪟 🍎
+- [Malwarebytes](https://www.malwarebytes.com/) - Malware removal tool offering real-time protection and cleanup. 🪟 🍎
 
 ### Password Managers
 
@@ -518,7 +518,7 @@
 
 - [Shotcut](https://shotcut.org/) - Open-source video editor with a wide range of features. 🪟 🍎 🐧
 - [OpenShot](https://www.openshot.org/) - Easy-to-use, open-source video editor with support for multiple video tracks. 🪟 🍎 🐧
-- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional video editor with advanced color correction and effects. 🪟 🍎 🐧
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional video editor with advanced color correction and effects. 🪟 🍎 🐧 ⭐
 - [Capcut Desktop](https://www.capcut.com/tools/desktop-video-editor) - Simple video editor with many builtin effects. 🪟 🍎
 - [Kdenlive](https://kdenlive.org/en/) - Open-source video editor with multi-track editing and a powerful interface. 🪟 🍎 🐧
 - [Lightworks](https://www.lwks.com/) - Professional video editor with advanced features for filmmaking. 🪟 🍎 🐧
@@ -529,7 +529,7 @@
 
 ### Video Players  
 
-- [VLC Media Player](https://www.videolan.org/vlc/) - Open-source media player supporting almost all video formats. 🪟 🍎 🐧 
+- [VLC Media Player](https://www.videolan.org/vlc/) - Open-source media player supporting almost all video formats. 🪟 🍎 🐧 ⭐
 - [Kodi](https://kodi.tv/) - Open-source media center that allows you to play and view most videos, music, podcasts, and other digital media files. 🪟 🍎 🐧
 - [Stremio](https://www.stremio.com/) - Provides a secure, modern and seamless entertainment experience. 🪟 🍎 🐧
 - [ScreenBox](https://apps.microsoft.com/detail/9ntsnmsvcb5l?hl=en-US&gl=US) - Basically VLC but with a modern UI. 🪟
@@ -548,7 +548,7 @@
 
 ### Video Streaming and Recording  
 
-- [OBS Studio](https://obsproject.com/) - Open-source software for live streaming and video recording. 🪟 🍎 🐧
+- [OBS Studio](https://obsproject.com/) - Open-source software for live streaming and video recording. 🪟 🍎 🐧 ⭐
 - [Streamlabs Desktop](https://streamlabs.com/) - Open-source streaming software with a customizable interface for live broadcasts. 🪟 🍎
 - [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Open-source video conferencing and streaming solution. 🪟 🍎 🐧
 - [XSplit Broadcaster](https://www.xsplit.com/) - Free live streaming and recording tool with advanced features. 🪟
@@ -560,8 +560,8 @@
 
 ### Video Converters and Compressors  
 
+- [FFmpeg](https://ffmpeg.org/) - Command-line tool for video and audio processing with wide format support. 🪟 🍎 🐧 ⭐
 - [HandBrake](https://handbrake.fr/) - Open-source video transcoder for converting video formats. 🪟 🍎 🐧
-- [FFmpeg](https://ffmpeg.org/) - Command-line tool for video and audio processing with wide format support. 🪟 🍎 🐧
 - [Any Video Converter](https://www.any-video-converter.com/) - Free video converter that supports multiple formats. 🪟 🍎
 - [Format Factory](http://www.pcfreetime.com/formatfactory/) - Multifunctional converter supporting video, audio, and image formats. 🪟
 - [Freemake Video Converter](https://www.freemake.com/free_video_converter/) - Easy-to-use video converter with format support for most devices. 🪟
@@ -590,8 +590,8 @@
 
 ## Utility
 
-- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Collection of utilities including tools for file renaming, bulk resizing, and a quick launcher to enhance Windows productivity. 🪟
-- [AutoHotkey](https://www.autohotkey.com/) - Powerful scripting language for automating tasks and creating custom keyboard shortcuts. 🪟
+- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Collection of utilities including tools for file renaming, bulk resizing, and a quick launcher to enhance Windows productivity. 🪟 ⭐
+- [AutoHotkey](https://www.autohotkey.com/) - Powerful scripting language for automating tasks and creating custom keyboard shortcuts. 🪟 ⭐
 - [Nirsoft](https://www.nirsoft.net/utils/index.html) - Collection of utility softwares. 🪟
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Feature-rich command-line audio/video downloader. 🪟 🍎 🐧
 - [Fan Control](https://getfancontrol.com/) - Highly focused fan controlling software. 🪟
@@ -605,7 +605,6 @@
 
 ### Clipboard Management
 
-- [Qopy](https://github.com/0pandadev/qopy) - The fixed clipboard manager with a clean and minimalistic UI as well as very unique features. 🪟 🍎 🐧
 - [Ditto](https://ditto-cp.sourceforge.io/) - Extension to the standard Windows clipboard that provides advanced functionality. 🪟
 - [Clipy](https://clipy-app.com/) - Lightweight and open-source clipboard manager for macOS. 🍎
 - [CopyQ](https://hluk.github.io/CopyQ/) - Advanced clipboard manager with editing and scripting capabilities. 🪟 🍎 🐧
@@ -614,6 +613,7 @@
 - [Parcellite](https://parcellite.sourceforge.io/) - Lightweight clipboard manager for Linux with basic functionality. 🐧
 - [Diodon](https://github.com/diodon-dev/diodon) - Simple and lightweight clipboard manager for Linux. 🐧
 - [Clipboard Fusion](https://www.clipboardfusion.com/) - Feature-rich clipboard manager for organizing and transforming clipboard data. 🪟 🍎
+- [Qopy](https://github.com/0pandadev/qopy) - The fixed clipboard manager with a clean and minimalistic UI as well as very unique features. 🪟 🍎 🐧
 
 ### Metadata
 
@@ -629,16 +629,16 @@
 - [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12) - A popular macOS app for snapping windows into organized tiles with keyboard shortcuts. 🍎
 - [i3](https://i3wm.org/) - A tiling window manager for Linux that provides powerful keyboard-driven window management. 🐧
 - [XMonad](https://xmonad.org/) - A highly customizable tiling window manager for X11 (Linux). 🐧
-- [FancyZones](https://github.com/microsoft/PowerToys) - A feature of PowerToys that helps with window snapping and arranging for multi-monitor setups in Windows. 🪟
-- [Sway](https://github.com/swaywm/sway) - A tiling Wayland compositor for Linux, similar to i3, designed for use with Wayland. 🐧
-- [KWin](https://kde.org/plasma-desktop) - A powerful window manager for KDE that supports tiling and a range of window management features for Linux. 🐧
+- [FancyZones](https://github.com/microsoft/PowerToys) - Feature of PowerToys that helps with window snapping and arranging for multi-monitor setups in Windows. 🪟
+- [Sway](https://github.com/swaywm/sway) - Tiling Wayland compositor for Linux, similar to i3, designed for use with Wayland. 🐧
+- [KWin](https://kde.org/plasma-desktop) - Powerful window manager for KDE that supports tiling and a range of window management features for Linux. 🐧
 - [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - A simple app to display a portion of your screen on top of other windows. 🪟
 - [KDE Mover-Sizer](https://corz.org/windows/software/accessories/KDE-resizing-moving-for-Windows.php#section-Download) - Application that emulates the behaviour of KDE. 🪟
 - [GlazeWM](https://github.com/glzr-io/glazewm) - Tiling window manager inspired by i3wm. 🪟
 
 ### File Management
 
-- [Everything](https://www.voidtools.com/) - Lightning-fast file and folder search tool that indexes your entire Windows file system for instant access. 🪟
+- [Everything](https://www.voidtools.com/) - Lightning-fast file and folder search tool that indexes your entire Windows file system for instant access. 🪟 ⭐
 - [Files](https://github.com/files-community/Files) - Modern file manager that helps users organize their files and folders. 🪟
 - [Double Commander](https://doublecmd.sourceforge.io/) - Dual-pane file manager with extensive functionality like tabbed browsing, built-in text editor, and advanced search. 🪟 🍎 🐧
 - [Xftp 7](https://www.netsarang.com/en/xftp/) - Lightweight and flexible SFTP/FTP client with advanced features for efficient file transfers. 🪟
@@ -651,7 +651,7 @@
 ### Screenshot
 
 - [Greenshot](https://getgreenshot.org/) - Open-source screenshot tool for Windows that allows capturing, annotating, and editing screenshots. 🪟
-- [ShareX](https://getsharex.com/) - Powerful, open-source screenshot and screen recording tool with advanced editing options. 🪟
+- [ShareX](https://getsharex.com/) - Powerful, open-source screenshot and screen recording tool with advanced editing options. 🪟 ⭐
 - [Flameshot](https://flameshot.org/) - Customizable screenshot tool with an easy-to-use interface and built-in editor. 🐧 🪟 🍎
 - [Lightshot](https://app.prntscr.com/en/index.html) - A fast and intuitive screenshot tool that allows capturing and editing images instantly. 🪟 🍎
 - [Shutter](https://launchpad.net/shutter) - Feature-rich screenshot tool for Linux with an integrated editor for quick annotations. 🐧
