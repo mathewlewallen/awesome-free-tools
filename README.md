@@ -1,12 +1,12 @@
-# Awesome Free Apps
+<p align="center">
+    <img alt="Logo" src="./afa.png">
+</p>
 
-> Curated list of the best free apps for Windows, Mac, and Linux
-
-🪟 means the app is available on Windows. <br>
-🍎 means the app is available on macOS. <br>
-🐧 means the app is available on Linux. <br>
-🟢 means the app is open-source. <br>
-⭐ means the app is recommended by us.
+| Icon | Meaning              | Icon | Meaning              |
+|------|----------------------|------|----------------------|
+| 🪟   | Available on Windows | 🟢   | Open-source          |
+| 🍎   | Available on macOS   | ⭐   | Recommended by us    |
+| 🐧   | Available on Linux   |      |                      |
 
 > [!IMPORTANT]
 > Maintaining this project requires a lot of time. [Donate to support me!](https://patreon.com/axorax) ❤️
