@@ -202,7 +202,9 @@
 - [MacPilot](https://koingosw.com/products/macpilot/) - Unlock hidden settings and system tweaks. 🍎
 - [Sizer](https://brianapps.net/sizer/) - Resize any window to a predefined size. 🪟
 - [FluentFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - Replaces default flyouts with customizable modern ones. 🪟 🟢
-- [Flow Launcher](https://flowlauncher.com/) - Quick file search and app launcher like Spotlight. 🪟n/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows. 🪟
+- [Flow Launcher](https://flowlauncher.com/) - Quick file search and app launcher like Spotlight. 🪟
+- [RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows. 🪟
+- [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows) - The most powerful PowerShell module for fine-tuning Windows showing how Windows can be configured without making any harm to it. 🪟
 
 ### Wallpaper Tools
 
