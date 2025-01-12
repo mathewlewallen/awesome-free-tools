@@ -559,109 +559,108 @@
 
 ### Video Streaming and Recording  
 
-- [OBS Studio](https://obsproject.com/) - Software for live streaming and video recording. 🪟 🍎 🐧 🟢 ⭐
-- [Streamlabs Desktop](https://streamlabs.com/) - Streaming software with a customizable interface for live broadcasts. 🪟 🍎 🟢
-- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Video conferencing and streaming solution. 🪟 🍎 🐧 🟢
-- [XSplit Broadcaster](https://xsplit.com/) - Free live streaming and recording tool with advanced features. 🪟
-- [Zoom](https://zoom.us/) - Video conferencing tool with live streaming capabilities. 🪟 🍎 🐧
-- [Nginx RTMP](https://github.com/arut/nginx-rtmp-module) - Media streaming server using NGINX. 🐧 🟢
-- [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility to stream video from various platforms. 🪟 🍎 🐧 🟢
-- [Kaltura](https://kaltura.com/) - Video streaming platform for creating and managing content. 🪟 🍎 🐧 🟢
-
+- [OBS Studio](https://obsproject.com/) - Software for live streaming and recording video. 🪟 🍎 🐧 🟢 ⭐  
+- [Streamlabs Desktop](https://streamlabs.com/) - Streaming software with customizable alerts and overlays. 🪟 🍎 🟢  
+- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Video conferencing and live streaming with ease. 🪟 🍎 🐧 🟢  
+- [XSplit Broadcaster](https://xsplit.com/) - Streaming and recording with advanced features and effects. 🪟  
+- [Zoom](https://zoom.us/) - Video meetings with streaming, recording, and screen sharing. 🪟 🍎 🐧  
+- [Nginx RTMP](https://github.com/arut/nginx-rtmp-module) - RTMP streaming server built with NGINX. 🐧 🟢  
+- [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line tool to stream video from multiple platforms. 🪟 🍎 🐧 🟢  
+- [Kaltura](https://kaltura.com/) - Platform for managing and streaming video content. 🪟 🍎 🐧 🟢  
 
 ### Video Converters and Compressors  
 
-- [FFmpeg](https://ffmpeg.org/) - Command-line tool for video and audio processing with wide format support. 🪟 🍎 🐧 🟢 ⭐
-- [HandBrake](https://handbrake.fr/) - Video transcoder for converting video formats. 🪟 🍎 🐧 🟢
-- [Any Video Converter](https://any-video-converter.com/) - Free video converter that supports multiple formats. 🪟 🍎
-- [Format Factory](http://www.pcfreetime.com/formatfactory/) - Multifunctional converter supporting video, audio, and image formats. 🪟
-- [XMedia Recode](https://xmedia-recode.de/en/) - All-in-one video and audio converter with wide format support. 🪟
-- [Shutter Encoder](https://shutterencoder.com/) - Multi-functional media conversion tool for video, audio, and image formats with advanced processing options. 🪟 🍎
-- [VidCoder](https://vidcoder.net/) - Video transcoder based on HandBrake, with a user-friendly interface. 🪟 🍎 🟢
-- [FastFlix](https://github.com/cdgriffith/FastFlix) - GUI for H.264, HEVC and AV1 hardware and software encoding. 🪟 🟢
+- [FFmpeg](https://ffmpeg.org/) - Powerful tool for format conversion and multimedia editing. 🪟 🍎 🐧 🟢 ⭐  
+- [HandBrake](https://handbrake.fr/) - Video transcoder with preset profiles for device compatibility. 🪟 🍎 🐧 🟢  
+- [Any Video Converter](https://any-video-converter.com/) - Supports batch conversion and output to various formats. 🪟 🍎  
+- [Format Factory](http://www.pcfreetime.com/formatfactory/) - Converts video, audio, and images with customizable settings. 🪟  
+- [XMedia Recode](https://xmedia-recode.de/en/) - Multi-format converter with advanced video editing features. 🪟  
+- [Shutter Encoder](https://shutterencoder.com/) - Supports video, audio, and image conversion with extra processing tools. 🪟 🍎  
+- [VidCoder](https://vidcoder.net/) - User-friendly HandBrake-based transcoder with batch processing. 🪟 🍎 🟢  
+- [FastFlix](https://github.com/cdgriffith/FastFlix) - GUI for fast encoding with H.264, HEVC, and AV1 support. 🪟 🟢  
 
 ## VPN and Proxy Tools
 
-- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - OpenVPN client for macOS with a user-friendly interface. 🍎 🟢
-- [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN setup for secure cloud usage. 🪟 🍎 🐧 🟢
-- [Cloudflare WARP](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) - Fast, free VPN and DNS service to improve privacy and security. 🪟 🍎 🐧
-- [ProtonVPN](https://protonvpn.com/) - Swiss-based high-speed VPN with enhanced privacy protections. 🪟 🍎 🐧
-- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Simplified rule-based proxy tool for macOS. 🍎 🟢
-- [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy app for macOS using Network Extension. 🍎 🟢
-- [Twingate](https://twingate.com/) - Zero trust network access solution for secure private network connections. 🪟 🍎 🐧
-- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Modern Shadowsocks client with enhanced features for macOS. 🍎 🟢
-- [rvc-mac](https://github.com/riboseinc/cryptode-mac) - Ribose VPN Client for macOS, providing secure VPN connections. 🍎 🟢
-- [WireGuard](https://wireguard.com/) - Fast, modern, and secure VPN tunnel protocol designed for simplicity and performance. 🪟 🍎 🐧
-- [Proxifier](https://proxifier.com/) - Windows-based proxy client that allows network applications to connect via a proxy server. 🪟
-- [Psiphon](https://psiphon.ca/) - Free VPN and proxy tool designed to bypass censorship. 🪟 🍎
-- [Lantern](https://getlantern.org/) - Free internet freedom tool that bypasses network restrictions. 🪟 🍎 🐧
-- [OpenVPN](https://openvpn.net/community-downloads/) - VPN solution for secure internet connections. 🪟 🟢
-- [SoftEther VPN](https://www.softether.org/) - VPN software with multiple protocol support. 🪟 🟢
-- [Sing-box](https://github.com/SagerNet/sing-box) - Powerful Universal proxy platform. 🪟 🍎 🐧 🟢
+- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Easy-to-use OpenVPN client with a macOS-friendly interface. 🍎 🟢  
+- [Algo](https://github.com/trailofbits/algo) - Simple IPSEC VPN setup for secure cloud connections. 🪟 🍎 🐧 🟢  
+- [Cloudflare WARP](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) - VPN and DNS service enhancing privacy and security. 🪟 🍎 🐧  
+- [ProtonVPN](https://protonvpn.com/) - High-speed VPN from Switzerland with strong privacy features. 🪟 🍎 🐧  
+- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Minimal proxy tool for macOS using rule-based configuration. 🍎 🟢  
+- [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy for macOS with Network Extension support. 🍎 🟢  
+- [Twingate](https://twingate.com/) - Zero trust access for secure private network connections. 🪟 🍎 🐧  
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Modern Shadowsocks client for enhanced macOS security. 🍎 🟢  
+- [rvc-mac](https://github.com/riboseinc/cryptode-mac) - Secure VPN client for macOS from Ribose. 🍎 🟢  
+- [WireGuard](https://wireguard.com/) - Fast, secure VPN protocol designed for simplicity. 🪟 🍎 🐧  
+- [Proxifier](https://proxifier.com/) - Windows proxy client that routes applications via a proxy server. 🪟  
+- [Psiphon](https://psiphon.ca/) - VPN and proxy tool for bypassing censorship. 🪟 🍎  
+- [Lantern](https://getlantern.org/) - Internet freedom tool to bypass restrictions. 🪟 🍎 🐧  
+- [OpenVPN](https://openvpn.net/community-downloads/) - VPN solution for secure internet connections with customizable settings. 🪟 🟢  
+- [SoftEther VPN](https://softether.org/) - Multi-protocol VPN software for secure connections. 🪟 🟢  
+- [Sing-box](https://github.com/SagerNet/sing-box) - Universal proxy platform supporting multiple protocols. 🪟 🍎 🐧 🟢  
 
 ## Utility
 
-- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Collection of utilities including tools for file renaming, bulk resizing, and a quick launcher to enhance Windows productivity. 🪟 ⭐
-- [AutoHotkey](https://autohotkey.com/) - Powerful scripting language for automating tasks and creating custom keyboard shortcuts. 🪟 ⭐
-- [Nirsoft](https://nirsoft.net/utils/index.html) - Collection of utility softwares. 🪟
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Feature-rich command-line audio/video downloader. 🪟 🍎 🐧 🟢
-- [Fan Control](https://getfancontrol.com/) - Highly focused fan controlling software. 🪟
-- [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/) - High-precision scientific calculator featuring a fast, keyboard-driven user interface. 🪟 🍎 🐧
-- [LocalSend](https://localsend.org/) - Share files to nearby devices. 🪟 🍎 🐧
-- [Advanced IP Scanner](https://advanced-ip-scanner.com/) - Reliable and free network scanner to analyze LAN. 🪟
-- [PuTTY](https://putty.org/) - SSH and telnet client for Windows. 🪟
-- [Legacy Update](https://legacyupdate.net/) - Software to install all relevant updates necessary to fix access to the Windows Update service on unsupported versions. 🪟
-- [Twinkle Tray](https://twinkletray.com/) - Easily manage the brightness levels of multiple monitors. 🪟
-- [Rocket](https://matthewpalmer.net/rocket/) - Type emojis using colon (:) anywhere. 🍎
-- [Keylock](https://github.com/Axorax/keylock) - Lock your keyboard. 🪟 🟢
-- [Winpower](https://github.com/Axorax/winpower) - Improved power settings for Windows. 🪟 🟢
-- [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - System region and language simulator. 🪟 🟢
+- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Utilities for file renaming, resizing, and productivity tools. 🪟 ⭐  
+- [AutoHotkey](https://autohotkey.com/) - Scripting language for task automation and custom hotkeys. 🪟 ⭐  
+- [Nirsoft](https://nirsoft.net/utils/index.html) - Collection of small utilities for various tasks. 🪟  
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line tool for downloading audio and video. 🪟 🍎 🐧 🟢  
+- [Fan Control](https://getfancontrol.com/) - Software for managing and controlling system fans. 🪟  
+- [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/) - Fast, high-precision scientific calculator with keyboard shortcuts. 🪟 🍎 🐧  
+- [LocalSend](https://localsend.org/) - Share files instantly to nearby devices. 🪟 🍎 🐧  
+- [Advanced IP Scanner](https://advanced-ip-scanner.com/) - Network scanner for detecting and analyzing devices on LAN. 🪟  
+- [PuTTY](https://putty.org/) - SSH and Telnet client for remote connections. 🪟  
+- [Legacy Update](https://legacyupdate.net/) - Installs updates to fix Windows Update access on unsupported versions. 🪟  
+- [Twinkle Tray](https://twinkletray.com/) - Simple tool to manage brightness across multiple monitors. 🪟  
+- [Rocket](https://matthewpalmer.net/rocket/) - Type and insert emojis anywhere using a colon (:). 🍎  
+- [Keylock](https://github.com/Axorax/keylock) - Lock your keyboard with a click. 🪟 🟢  
+- [Winpower](https://github.com/Axorax/winpower) - Advanced power settings and management for Windows. 🪟 🟢  
+- [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Simulate different system regions and languages. 🪟 🟢  
 
 ### Clipboard Management
 
-- [Ditto](https://ditto-cp.sourceforge.io/) - Extension to the standard Windows clipboard that provides advanced functionality. 🪟
-- [Clipy](https://clipy-app.com/) - Lightweight clipboard manager. 🍎 🟢
-- [CopyQ](https://hluk.github.io/CopyQ/) - Advanced clipboard manager with editing and scripting capabilities. 🪟 🍎 🐧 🟢
-- [Maccy](https://maccy.app/) - Simple and lightweight clipboard manager. 🍎 🟢
-- [ClipAngel](https://sourceforge.net/projects/clip-angel/) - Powerful clipboard manager with rich text, HTML, and image support for Windows. 🪟
-- [Parcellite](https://parcellite.sourceforge.io/) - Lightweight clipboard manager for Linux with basic functionality. 🐧
-- [Diodon](https://github.com/diodon-dev/diodon) - Simple and lightweight clipboard manager for Linux. 🐧 🟢
-- [Clipboard Fusion](https://clipboardfusion.com/) - Feature-rich clipboard manager for organizing and transforming clipboard data. 🪟 🍎
-- [Qopy](https://github.com/0pandadev/qopy) - The fixed clipboard manager with a clean and minimalistic UI as well as very unique features. 🪟 🍎 🐧 🟢
+- [Ditto](https://ditto-cp.sourceforge.io/) - Advanced clipboard manager with extended functionality for Windows. 🪟  
+- [Clipy](https://clipy-app.com/) - Simple clipboard manager for macOS. 🍎 🟢  
+- [CopyQ](https://hluk.github.io/CopyQ/) - Clipboard manager with editing and scripting features. 🪟 🍎 🐧 🟢  
+- [Maccy](https://maccy.app/) - Minimal clipboard manager for macOS. 🍎 🟢  
+- [ClipAngel](https://sourceforge.net/projects/clip-angel/) - Clipboard manager supporting rich text and images. 🪟  
+- [Parcellite](https://parcellite.sourceforge.io/) - Basic clipboard manager. 🐧  
+- [Qopy](https://github.com/0pandadev/qopy) - Minimalist clipboard manager with unique features. 🪟 🍎 🐧 🟢  
+- [Diodon](https://github.com/diodon-dev/diodon) - Simple and minimal clipboard manager. 🐧 🟢  
+- [Clipboard Fusion](https://clipboardfusion.com/) - Clipboard manager with data transformation features. 🪟 🍎  
 
 ### Metadata
 
-- [ExifTool](https://exiftool.org/) - Powerful command-line application for reading, writing, and editing meta information in image, audio, and video files. 🪟 🍎 🐧
-- [PhotoME](https://photome.de/) - EXIF and metadata viewer for photos, with some editing capabilities. 🪟
-- [Metadata++](https://metadata.en.softonic.com/) - Allows for viewing, editing, and removing metadata from photos and files. 🪟
-- [MP3Tag](https://mp3tag.de/en/) - Edit metadata of audio files. 🪟
+- [ExifTool](https://exiftool.org/) - Command-line tool for editing metadata in various file types. 🪟 🍎 🐧  
+- [PhotoME](https://photome.de/) - View and edit EXIF metadata for photos. 🪟  
+- [Metadata++](https://metadata.en.softonic.com/) - View, edit, and remove metadata from files and photos. 🪟  
+- [MP3Tag](https://mp3tag.de/en/) - Edit and manage metadata for audio files. 🪟  
 
 ### Window Management
 
-- [AltSnap](https://github.com/RamonUnch/AltSnap) - Lightweight window management tool for snapping windows to predefined positions using keyboard shortcuts. 🪟 🟢
-- [AquaSnap](https://nurgo-software.com/products/aquasnap) - Enhances window management with docking, snapping, and stretching features for Windows. 🪟
-- [Rectangle](https://rectangleapp.com/) - Simple and efficient window manager for macOS that allows easy window snapping and resizing using keyboard shortcuts. 🍎
-- [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12) - Popular macOS app for snapping windows into organized tiles with keyboard shortcuts. 🍎
-- [i3](https://i3wm.org/) - Tiling window manager for Linux that provides powerful keyboard-driven window management. 🐧
-- [XMonad](https://xmonad.org/) - Highly customizable tiling window manager for X11 (Linux). 🐧
-- [FancyZones](https://github.com/microsoft/PowerToys) - Feature of PowerToys that helps with window snapping and arranging for multi-monitor setups in Windows. 🪟 🟢
-- [Sway](https://github.com/swaywm/sway) - Tiling Wayland compositor for Linux, similar to i3, designed for use with Wayland. 🐧 🟢
-- [KWin](https://kde.org/plasma-desktop) - Powerful window manager for KDE that supports tiling and a range of window management features for Linux. 🐧
-- [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - Simple app to display a portion of your screen on top of other windows. 🪟 🟢
-- [KDE Mover-Sizer](https://corz.org/windows/software/accessories/KDE-resizing-moving-for-Windows.php#section-Download) - Application that emulates the behaviour of KDE. 🪟
-- [GlazeWM](https://github.com/glzr-io/glazewm) - Tiling window manager inspired by i3wm. 🪟 🟢
+- [AltSnap](https://github.com/RamonUnch/AltSnap) - Snap windows to positions using keyboard shortcuts. 🪟 🟢  
+- [AquaSnap](https://nurgo-software.com/products/aquasnap) - Window snapping, docking, and stretching features. 🪟  
+- [Rectangle](https://rectangleapp.com/) - Efficient window manager with keyboard shortcut support. 🍎  
+- [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12) - Snap windows into organized tiles. 🍎  
+- [i3](https://i3wm.org/) - Keyboard-driven tiling window manager. 🐧  
+- [XMonad](https://xmonad.org/) - Customizable tiling window manager. 🐧  
+- [FancyZones](https://github.com/microsoft/PowerToys) - Snap and arrange windows in multi-monitor setups. 🪟 🟢  
+- [Sway](https://github.com/swaywm/sway) - Wayland-based tiling window manager, i3-like. 🐧 🟢  
+- [KWin](https://kde.org/plasma-desktop) - Tiling window manager with advanced features. 🐧  
+- [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - Display part of a window on top of others. 🪟 🟢  
+- [KDE Mover-Sizer](https://corz.org/windows/software/accessories/KDE-resizing-moving-for-Windows.php#section-Download) - Emulates KDE window behavior. 🪟  
+- [GlazeWM](https://github.com/glzr-io/glazewm) - Tiling window manager inspired by i3. 🪟 🟢  
 
 ### File Management
 
-- [Everything](https://voidtools.com/) - Lightning-fast file and folder search tool that indexes your entire Windows file system for instant access. 🪟 ⭐
-- [Files](https://github.com/files-community/Files) - Modern file manager that helps users organize their files and folders. 🪟 🟢
-- [Double Commander](https://doublecmd.sourceforge.io/) - Dual-pane file manager with extensive functionality like tabbed browsing, built-in text editor, and advanced search. 🪟 🍎 🐧
-- [Xftp 7](https://netsarang.com/en/xftp/) - Lightweight and flexible SFTP/FTP client with advanced features for efficient file transfers. 🪟
-- [FileZilla](https://filezilla-project.org/) - Fast and reliable FTP, FTPS, and SFTP client for managing remote files. 🪟 🍎 🐧
-- [Q-Dir](https://softwareok.com/?seite=Freeware/Q-Dir) - Multi-pane file manager offering up to four directory views simultaneously for enhanced productivity. 🪟
-- [WinSCP](https://winscp.net/) - SFTP, FTP, WebDAV, and SCP client with a user-friendly interface. 🪟 🟢
-- [Far Manager](https://farmanager.com/) - Program for managing files and archives in Windows. 🪟
-- [Free Commander](https://freecommander.com/en/summary/) - Alternative to the standard windows file manager. 🪟
+- [Everything](https://voidtools.com/) - Fast file search tool indexing the entire file system. 🪟 ⭐  
+- [Files](https://github.com/files-community/Files) - Modern file manager for easy file organization. 🪟 🟢  
+- [Double Commander](https://doublecmd.sourceforge.io/) - Dual-pane manager with built-in editor and advanced search. 🪟 🍎 🐧  
+- [Xftp 7](https://netsarang.com/en/xftp/) - Flexible SFTP/FTP client for efficient file transfers. 🪟  
+- [FileZilla](https://filezilla-project.org/) - Reliable FTP, FTPS, and SFTP client for remote management. 🪟 🍎 🐧  
+- [Q-Dir](https://softwareok.com/?seite=Freeware/Q-Dir) - Multi-pane file manager with up to four directory views. 🪟  
+- [WinSCP](https://winscp.net/) - Easy-to-use SFTP, FTP, and WebDAV client. 🪟 🟢  
+- [Far Manager](https://farmanager.com/) - File and archive manager with advanced functionality. 🪟  
+- [Free Commander](https://freecommander.com/en/summary/) - Alternative file manager with added features. 🪟  
 
 ### Screenshot
 
