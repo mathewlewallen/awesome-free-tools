@@ -14,6 +14,8 @@
 > Maintaining this project requires a lot of time. [Donate to support me!](https://patreon.com/axorax) ❤️
 >
 > [Discord server](https://discord.gg/nKUFghjXQu) — [Patreon](https://patreon.com/axorax)
+>
+> If you want to help with the list, check this -> https://github.com/Axorax/awesome-free-apps/issues/28
 
 ## Contents
 
