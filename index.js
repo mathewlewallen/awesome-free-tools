@@ -1,4 +1,5 @@
 const fs = require('fs');
+const { execSync } = require('child_process');
 
 function create(fileName, emoji) {
   const startTime = Date.now();
@@ -65,6 +66,17 @@ function countLinks() {
   console.log(`Total links in README.md: \x1b[32m${linkCount}\x1b[0m`);
 }
 
+function fastGit(message = "update") {
+  try {
+    execSync('git add -A', { stdio: 'inherit' });
+    execSync(`git commit -m "${message}"`, { stdio: 'inherit' });
+    execSync('git push', { stdio: 'inherit' });
+    console.log('Changes have been committed and pushed.');
+  } catch (error) {
+    console.error('Error running git commands:', error);
+  }
+}
+
 const args = process.argv.slice(2);
 
 if (args.includes('--categorize')) {
@@ -73,9 +85,17 @@ if (args.includes('--categorize')) {
   format();
 } else if (args.includes('--links')) {
   countLinks();
+} else if (args.includes('--fastgit')) {
+  const commitMessage = args.slice(1).join(' ');
+  if (commitMessage) {
+    fastGit(commitMessage);
+  } else {
+    console.log('Please provide a commit message after --fastgit');
+  }
 } else {
   console.log("Usage:");
   console.log("  node index.js --categorize    Run the categorize function");
   console.log("  node index.js --format        Format the README.md file");
   console.log("  node index.js --links         Count and display total links in README.md");
+  console.log("  node index.js --fastgit <msg>  Run git commands with the specified commit message");
 }
