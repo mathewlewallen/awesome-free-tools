@@ -94,8 +94,8 @@ if (args.includes('--categorize')) {
   }
 } else {
   console.log("Usage:");
-  console.log("  node index.js --categorize    Run the categorize function");
-  console.log("  node index.js --format        Format the README.md file");
+  console.log("  node index.js --categorize    Categorize based on icons");
+  console.log("  node index.js --format        Format README.md");
   console.log("  node index.js --links         Count and display total links in README.md");
   console.log("  node index.js --fastgit <msg>  Run git commands with the specified commit message");
 }

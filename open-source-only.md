@@ -207,16 +207,16 @@
 
 ## Text Editors
 
-- [Notepad++](https://notepad-plus-plus.org/) - Text editor with syntax highlighting and advanced editing features for developers. 🪟 🟢
-- [Visual Studio Code](https://code.visualstudio.com/) - Powerful and extensible code editor developed by Microsoft, featuring debugging, version control, and support for numerous languages. 🪟 🍎 🐧 🟢
-- [Atom](https://atom.io/) - Hackable text editor with features like Git integration and an extensive plugin ecosystem. 🪟 🍎 🐧 🟢
-- [Vim](https://vim.org/) - Highly configurable, command-line-based text editor that is especially favored by developers for its efficiency. 🪟 🍎 🐧 🟢
-- [Emacs](https://gnu.org/software/emacs/) - Powerful, extensible text editor with a broad range of features and customization options. 🪟 🍎 🐧 🟢
-- [Brackets](http://brackets.io/) - Text editor focused on web development, with live preview and preprocessor support. 🪟 🍎 🐧 🟢
-- [Fastedit](https://github.com/FrozenAssassine/Fastedit) - Code editor that looks like notepad and has frost background. 🪟 🟢
-- [CodeEdit](https://codeedit.app/) - Lightweight native code editor for macOS. 🍎 🟢
-- [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - Code editor with a canvas UI for better code understanding. 🪟 🍎 🐧 🟢
-- [Neovim](https://github.com/neovim/neovim) - Modern, extensible terminal-based code editor. 🪟 🍎 🐧 🟢
+- [Notepad++](https://notepad-plus-plus.org/) - Editor with customizable syntax highlighting, multi-line editing, and plugin support. 🪟 🟢  
+- [Visual Studio Code](https://code.visualstudio.com/) - Code editor with debugging, integrated Git support, and a vast extension marketplace. 🪟 🍎 🐧 🟢  
+- [Atom](https://atom.io/) - Highly customizable editor with Git integration, real-time collaboration, and extensive plugins. 🪟 🍎 🐧 🟢  
+- [Vim](https://vim.org/) - Efficient command-line editor with powerful keyboard shortcuts and multi-file editing. 🪟 🍎 🐧 🟢  
+- [Emacs](https://gnu.org/software/emacs/) - Customizable editor with robust scripting, project management, and multi-language support. 🪟 🍎 🐧 🟢  
+- [Brackets](http://brackets.io/) - Web-focused editor with live preview, CSS preprocessor support, and inline editing for HTML. 🪟 🍎 🐧 🟢  
+- [Fastedit](https://github.com/FrozenAssassine/Fastedit) - Minimal text editor with a frost glass background and basic text editing tools. 🪟 🟢  
+- [CodeEdit](https://codeedit.app/) - Native macOS editor with live preview, Git integration, and Markdown support. 🍎 🟢  
+- [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - Visual editor with a canvas UI to help navigate and understand code structure. 🪟 🍎 🐧 🟢  
+- [Neovim](https://github.com/neovim/neovim) - Advanced terminal editor with improved extensibility, plugins, and modern features. 🪟 🍎 🐧 🟢  
 
 ### Download Managers
 
@@ -299,61 +299,62 @@
 
 ### Video Streaming and Recording  
 
-- [OBS Studio](https://obsproject.com/) - Software for live streaming and video recording. 🪟 🍎 🐧 🟢 ⭐
-- [Streamlabs Desktop](https://streamlabs.com/) - Streaming software with a customizable interface for live broadcasts. 🪟 🍎 🟢
-- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Video conferencing and streaming solution. 🪟 🍎 🐧 🟢
-- [Nginx RTMP](https://github.com/arut/nginx-rtmp-module) - Media streaming server using NGINX. 🐧 🟢
-- [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility to stream video from various platforms. 🪟 🍎 🐧 🟢
-- [Kaltura](https://kaltura.com/) - Video streaming platform for creating and managing content. 🪟 🍎 🐧 🟢
-
+- [OBS Studio](https://obsproject.com/) - Software for live streaming and recording video. 🪟 🍎 🐧 🟢 ⭐  
+- [Streamlabs Desktop](https://streamlabs.com/) - Streaming software with customizable alerts and overlays. 🪟 🍎 🟢  
+- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Video conferencing and live streaming with ease. 🪟 🍎 🐧 🟢  
+- [Nginx RTMP](https://github.com/arut/nginx-rtmp-module) - RTMP streaming server built with NGINX. 🐧 🟢  
+- [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line tool to stream video from multiple platforms. 🪟 🍎 🐧 🟢  
+- [Kaltura](https://kaltura.com/) - Platform for managing and streaming video content. 🪟 🍎 🐧 🟢  
 
 ### Video Converters and Compressors  
 
-- [FFmpeg](https://ffmpeg.org/) - Command-line tool for video and audio processing with wide format support. 🪟 🍎 🐧 🟢 ⭐
-- [HandBrake](https://handbrake.fr/) - Video transcoder for converting video formats. 🪟 🍎 🐧 🟢
-- [VidCoder](https://vidcoder.net/) - Video transcoder based on HandBrake, with a user-friendly interface. 🪟 🍎 🟢
-- [FastFlix](https://github.com/cdgriffith/FastFlix) - GUI for H.264, HEVC and AV1 hardware and software encoding. 🪟 🟢
+- [FFmpeg](https://ffmpeg.org/) - Powerful tool for format conversion and multimedia editing. 🪟 🍎 🐧 🟢 ⭐  
+- [HandBrake](https://handbrake.fr/) - Video transcoder with preset profiles for device compatibility. 🪟 🍎 🐧 🟢  
+- [VidCoder](https://vidcoder.net/) - User-friendly HandBrake-based transcoder with batch processing. 🪟 🍎 🟢  
+- [FastFlix](https://github.com/cdgriffith/FastFlix) - GUI for fast encoding with H.264, HEVC, and AV1 support. 🪟 🟢  
 
 ## VPN and Proxy Tools
 
-- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - OpenVPN client for macOS with a user-friendly interface. 🍎 🟢
-- [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN setup for secure cloud usage. 🪟 🍎 🐧 🟢
-- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Simplified rule-based proxy tool for macOS. 🍎 🟢
-- [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy app for macOS using Network Extension. 🍎 🟢
-- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Modern Shadowsocks client with enhanced features for macOS. 🍎 🟢
-- [rvc-mac](https://github.com/riboseinc/cryptode-mac) - Ribose VPN Client for macOS, providing secure VPN connections. 🍎 🟢
-- [OpenVPN](https://openvpn.net/community-downloads/) - VPN solution for secure internet connections. 🪟 🟢
-- [SoftEther VPN](https://softether.org/) - VPN software with multiple protocol support. 🪟 🟢
+- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Easy-to-use OpenVPN client with a macOS-friendly interface. 🍎 🟢  
+- [Algo](https://github.com/trailofbits/algo) - Simple IPSEC VPN setup for secure cloud connections. 🪟 🍎 🐧 🟢  
+- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Minimal proxy tool for macOS using rule-based configuration. 🍎 🟢  
+- [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy for macOS with Network Extension support. 🍎 🟢  
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Modern Shadowsocks client for enhanced macOS security. 🍎 🟢  
+- [rvc-mac](https://github.com/riboseinc/cryptode-mac) - Secure VPN client for macOS from Ribose. 🍎 🟢  
+- [OpenVPN](https://openvpn.net/community-downloads/) - VPN solution for secure internet connections with customizable settings. 🪟 🟢  
+- [SoftEther VPN](https://softether.org/) - Multi-protocol VPN software for secure connections. 🪟 🟢  
+- [Sing-box](https://github.com/SagerNet/sing-box) - Universal proxy platform supporting multiple protocols. 🪟 🍎 🐧 🟢  
 
 ## Utility
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Feature-rich command-line audio/video downloader. 🪟 🍎 🐧 🟢
-- [Keylock](https://github.com/Axorax/keylock) - Lock your keyboard. 🪟 🟢
-- [Winpower](https://github.com/Axorax/winpower) - Improved power settings for Windows. 🪟 🟢
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line tool for downloading audio and video. 🪟 🍎 🐧 🟢  
+- [Keylock](https://github.com/Axorax/keylock) - Lock your keyboard with a click. 🪟 🟢  
+- [Winpower](https://github.com/Axorax/winpower) - Advanced power settings and management for Windows. 🪟 🟢  
+- [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Simulate different system regions and languages. 🪟 🟢  
 
 ### Clipboard Management
 
-- [Clipy](https://clipy-app.com/) - Lightweight clipboard manager. 🍎 🟢
-- [CopyQ](https://hluk.github.io/CopyQ/) - Advanced clipboard manager with editing and scripting capabilities. 🪟 🍎 🐧 🟢
-- [Maccy](https://maccy.app/) - Simple and lightweight clipboard manager. 🍎 🟢
-- [Diodon](https://github.com/diodon-dev/diodon) - Simple and lightweight clipboard manager for Linux. 🐧 🟢
-- [Qopy](https://github.com/0pandadev/qopy) - The fixed clipboard manager with a clean and minimalistic UI as well as very unique features. 🪟 🍎 🐧 🟢
+- [Clipy](https://clipy-app.com/) - Simple clipboard manager for macOS. 🍎 🟢  
+- [CopyQ](https://hluk.github.io/CopyQ/) - Clipboard manager with editing and scripting features. 🪟 🍎 🐧 🟢  
+- [Maccy](https://maccy.app/) - Minimal clipboard manager for macOS. 🍎 🟢  
+- [Qopy](https://github.com/0pandadev/qopy) - Minimalist clipboard manager with unique features. 🪟 🍎 🐧 🟢  
+- [Diodon](https://github.com/diodon-dev/diodon) - Simple and minimal clipboard manager. 🐧 🟢  
 
 ### Metadata
 
 
 ### Window Management
 
-- [AltSnap](https://github.com/RamonUnch/AltSnap) - Lightweight window management tool for snapping windows to predefined positions using keyboard shortcuts. 🪟 🟢
-- [FancyZones](https://github.com/microsoft/PowerToys) - Feature of PowerToys that helps with window snapping and arranging for multi-monitor setups in Windows. 🪟 🟢
-- [Sway](https://github.com/swaywm/sway) - Tiling Wayland compositor for Linux, similar to i3, designed for use with Wayland. 🐧 🟢
-- [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - Simple app to display a portion of your screen on top of other windows. 🪟 🟢
-- [GlazeWM](https://github.com/glzr-io/glazewm) - Tiling window manager inspired by i3wm. 🪟 🟢
+- [AltSnap](https://github.com/RamonUnch/AltSnap) - Snap windows to positions using keyboard shortcuts. 🪟 🟢  
+- [FancyZones](https://github.com/microsoft/PowerToys) - Snap and arrange windows in multi-monitor setups. 🪟 🟢  
+- [Sway](https://github.com/swaywm/sway) - Wayland-based tiling window manager, i3-like. 🐧 🟢  
+- [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - Display part of a window on top of others. 🪟 🟢  
+- [GlazeWM](https://github.com/glzr-io/glazewm) - Tiling window manager inspired by i3. 🪟 🟢  
 
 ### File Management
 
-- [Files](https://github.com/files-community/Files) - Modern file manager that helps users organize their files and folders. 🪟 🟢
-- [WinSCP](https://winscp.net/) - SFTP, FTP, WebDAV, and SCP client with a user-friendly interface. 🪟 🟢
+- [Files](https://github.com/files-community/Files) - Modern file manager for easy file organization. 🪟 🟢  
+- [WinSCP](https://winscp.net/) - Easy-to-use SFTP, FTP, and WebDAV client. 🪟 🟢  
 
 ### Screenshot
 

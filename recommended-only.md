@@ -220,20 +220,19 @@
 
 ### Video Streaming and Recording  
 
-- [OBS Studio](https://obsproject.com/) - Software for live streaming and video recording. 🪟 🍎 🐧 🟢 ⭐
-
+- [OBS Studio](https://obsproject.com/) - Software for live streaming and recording video. 🪟 🍎 🐧 🟢 ⭐  
 
 ### Video Converters and Compressors  
 
-- [FFmpeg](https://ffmpeg.org/) - Command-line tool for video and audio processing with wide format support. 🪟 🍎 🐧 🟢 ⭐
+- [FFmpeg](https://ffmpeg.org/) - Powerful tool for format conversion and multimedia editing. 🪟 🍎 🐧 🟢 ⭐  
 
 ## VPN and Proxy Tools
 
 
 ## Utility
 
-- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Collection of utilities including tools for file renaming, bulk resizing, and a quick launcher to enhance Windows productivity. 🪟 ⭐
-- [AutoHotkey](https://autohotkey.com/) - Powerful scripting language for automating tasks and creating custom keyboard shortcuts. 🪟 ⭐
+- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Utilities for file renaming, resizing, and productivity tools. 🪟 ⭐  
+- [AutoHotkey](https://autohotkey.com/) - Scripting language for task automation and custom hotkeys. 🪟 ⭐  
 
 ### Clipboard Management
 
@@ -246,7 +245,7 @@
 
 ### File Management
 
-- [Everything](https://voidtools.com/) - Lightning-fast file and folder search tool that indexes your entire Windows file system for instant access. 🪟 ⭐
+- [Everything](https://voidtools.com/) - Fast file search tool indexing the entire file system. 🪟 ⭐  
 
 ### Screenshot
 

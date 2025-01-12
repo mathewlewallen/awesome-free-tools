@@ -319,24 +319,24 @@
 
 ## Text Editors
 
-- [Notepad++](https://notepad-plus-plus.org/) - Text editor with syntax highlighting and advanced editing features for developers. 🪟 🟢
-- [Visual Studio Code](https://code.visualstudio.com/) - Powerful and extensible code editor developed by Microsoft, featuring debugging, version control, and support for numerous languages. 🪟 🍎 🐧 🟢
-- [Atom](https://atom.io/) - Hackable text editor with features like Git integration and an extensive plugin ecosystem. 🪟 🍎 🐧 🟢
-- [Vim](https://vim.org/) - Highly configurable, command-line-based text editor that is especially favored by developers for its efficiency. 🪟 🍎 🐧 🟢
-- [Emacs](https://gnu.org/software/emacs/) - Powerful, extensible text editor with a broad range of features and customization options. 🪟 🍎 🐧 🟢
-- [Geany](https://geany.org/) - Lightweight, fast text editor that supports many programming languages, with a built-in terminal and project management features. 🪟 🍎 🐧
-- [Brackets](http://brackets.io/) - Text editor focused on web development, with live preview and preprocessor support. 🪟 🍎 🐧 🟢
-- [FluentEdit](https://apps.microsoft.com/detail/9nwl9m9jpq36?hl=en-US&gl=BD) - Code editor based on fluent design and notepad. 🪟
-- [Fastedit](https://github.com/FrozenAssassine/Fastedit) - Code editor that looks like notepad and has frost background. 🪟 🟢
-- [Bluefish](https://bluefish.openoffice.org/) - Powerful text editor targeted at web developers, supporting various programming languages. 🪟 🍎 🐧
-- [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - Code editor with a canvas UI for better code understanding. 🪟 🍎 🐧 🟢
-- [Helix](https://helix-editor.com/) - Post-modern modal text editor with extensibility and performance. 🪟 🍎 🐧
-- [Lapce](https://lapce.dev/) - Fast, powerful code editor designed for modern workflows. 🪟 🍎 🐧
-- [LightTable](http://lighttable.com/) - Next-generation code editor focused on instant feedback. 🪟 🍎 🐧
-- [micro](https://micro-editor.github.io) - Modern, intuitive terminal-based text editor. 🪟 🍎 🐧
-- [Neovim](https://github.com/neovim/neovim) - Modern, extensible terminal-based code editor. 🪟 🍎 🐧 🟢
-- [Sublime Text](http://www.sublimetext.com/3) - Popular, sleek editor with a plugin ecosystem for developers. 🪟 🍎 🐧
-- [Zed](https://zed.dev/) - High-performance, multiplayer code editor from the creators of Atom. 🪟 🍎 🐧
+- [Notepad++](https://notepad-plus-plus.org/) - Editor with customizable syntax highlighting, multi-line editing, and plugin support. 🪟 🟢  
+- [Visual Studio Code](https://code.visualstudio.com/) - Code editor with debugging, integrated Git support, and a vast extension marketplace. 🪟 🍎 🐧 🟢  
+- [Atom](https://atom.io/) - Highly customizable editor with Git integration, real-time collaboration, and extensive plugins. 🪟 🍎 🐧 🟢  
+- [Vim](https://vim.org/) - Efficient command-line editor with powerful keyboard shortcuts and multi-file editing. 🪟 🍎 🐧 🟢  
+- [Emacs](https://gnu.org/software/emacs/) - Customizable editor with robust scripting, project management, and multi-language support. 🪟 🍎 🐧 🟢  
+- [Geany](https://geany.org/) - Lightweight editor with built-in terminal, project management, and syntax highlighting for many languages. 🪟 🍎 🐧  
+- [Brackets](http://brackets.io/) - Web-focused editor with live preview, CSS preprocessor support, and inline editing for HTML. 🪟 🍎 🐧 🟢  
+- [FluentEdit](https://apps.microsoft.com/detail/9nwl9m9jpq36?hl=en-US&gl=BD) - Simple code editor with a Fluent design, featuring split view and customizable themes. 🪟  
+- [Fastedit](https://github.com/FrozenAssassine/Fastedit) - Minimal text editor with a frost glass background and basic text editing tools. 🪟 🟢  
+- [Bluefish](https://bluefish.openoffice.org/) - Web developer editor supporting HTML, CSS, JavaScript, and PHP with built-in preview. 🪟 🍎 🐧  
+- [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - Visual editor with a canvas UI to help navigate and understand code structure. 🪟 🍎 🐧 🟢  
+- [Helix](https://helix-editor.com/) - Modal text editor with powerful text manipulation, multiple cursors, and a modern UI. 🪟 🍎 🐧  
+- [Lapce](https://lapce.dev/) - Fast, extensible editor with built-in support for multiple languages and advanced editing features. 🪟 🍎 🐧  
+- [LightTable](http://lighttable.com/) - Code editor offering real-time feedback and live execution of code in an interactive environment. 🪟 🍎 🐧  
+- [micro](https://micro-editor.github.io) - Simple, modern terminal-based editor with support for mouse interaction and plugin extensions. 🪟 🍎 🐧  
+- [Neovim](https://github.com/neovim/neovim) - Advanced terminal editor with improved extensibility, plugins, and modern features. 🪟 🍎 🐧 🟢  
+- [Sublime Text](http://www.sublimetext.com/3) - Fast text editor with powerful search, multi-caret editing, and a strong plugin ecosystem. 🪟 🍎 🐧  
+- [Zed](https://zed.dev/) - High-performance, collaborative editor designed for speed, real-time collaboration, and custom workflows. 🪟 🍎 🐧  
 
 ### Download Managers
 
@@ -505,90 +505,91 @@
 
 ### Video Streaming and Recording  
 
-- [OBS Studio](https://obsproject.com/) - Software for live streaming and video recording. 🪟 🍎 🐧 🟢 ⭐
-- [Streamlabs Desktop](https://streamlabs.com/) - Streaming software with a customizable interface for live broadcasts. 🪟 🍎 🟢
-- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Video conferencing and streaming solution. 🪟 🍎 🐧 🟢
-- [XSplit Broadcaster](https://xsplit.com/) - Free live streaming and recording tool with advanced features. 🪟
-- [Zoom](https://zoom.us/) - Video conferencing tool with live streaming capabilities. 🪟 🍎 🐧
-- [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility to stream video from various platforms. 🪟 🍎 🐧 🟢
-- [Kaltura](https://kaltura.com/) - Video streaming platform for creating and managing content. 🪟 🍎 🐧 🟢
-
+- [OBS Studio](https://obsproject.com/) - Software for live streaming and recording video. 🪟 🍎 🐧 🟢 ⭐  
+- [Streamlabs Desktop](https://streamlabs.com/) - Streaming software with customizable alerts and overlays. 🪟 🍎 🟢  
+- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Video conferencing and live streaming with ease. 🪟 🍎 🐧 🟢  
+- [XSplit Broadcaster](https://xsplit.com/) - Streaming and recording with advanced features and effects. 🪟  
+- [Zoom](https://zoom.us/) - Video meetings with streaming, recording, and screen sharing. 🪟 🍎 🐧  
+- [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line tool to stream video from multiple platforms. 🪟 🍎 🐧 🟢  
+- [Kaltura](https://kaltura.com/) - Platform for managing and streaming video content. 🪟 🍎 🐧 🟢  
 
 ### Video Converters and Compressors  
 
-- [FFmpeg](https://ffmpeg.org/) - Command-line tool for video and audio processing with wide format support. 🪟 🍎 🐧 🟢 ⭐
-- [HandBrake](https://handbrake.fr/) - Video transcoder for converting video formats. 🪟 🍎 🐧 🟢
-- [Any Video Converter](https://any-video-converter.com/) - Free video converter that supports multiple formats. 🪟 🍎
-- [Format Factory](http://www.pcfreetime.com/formatfactory/) - Multifunctional converter supporting video, audio, and image formats. 🪟
-- [XMedia Recode](https://xmedia-recode.de/en/) - All-in-one video and audio converter with wide format support. 🪟
-- [Shutter Encoder](https://shutterencoder.com/) - Multi-functional media conversion tool for video, audio, and image formats with advanced processing options. 🪟 🍎
-- [VidCoder](https://vidcoder.net/) - Video transcoder based on HandBrake, with a user-friendly interface. 🪟 🍎 🟢
-- [FastFlix](https://github.com/cdgriffith/FastFlix) - GUI for H.264, HEVC and AV1 hardware and software encoding. 🪟 🟢
+- [FFmpeg](https://ffmpeg.org/) - Powerful tool for format conversion and multimedia editing. 🪟 🍎 🐧 🟢 ⭐  
+- [HandBrake](https://handbrake.fr/) - Video transcoder with preset profiles for device compatibility. 🪟 🍎 🐧 🟢  
+- [Any Video Converter](https://any-video-converter.com/) - Supports batch conversion and output to various formats. 🪟 🍎  
+- [Format Factory](http://www.pcfreetime.com/formatfactory/) - Converts video, audio, and images with customizable settings. 🪟  
+- [XMedia Recode](https://xmedia-recode.de/en/) - Multi-format converter with advanced video editing features. 🪟  
+- [Shutter Encoder](https://shutterencoder.com/) - Supports video, audio, and image conversion with extra processing tools. 🪟 🍎  
+- [VidCoder](https://vidcoder.net/) - User-friendly HandBrake-based transcoder with batch processing. 🪟 🍎 🟢  
+- [FastFlix](https://github.com/cdgriffith/FastFlix) - GUI for fast encoding with H.264, HEVC, and AV1 support. 🪟 🟢  
 
 ## VPN and Proxy Tools
 
-- [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN setup for secure cloud usage. 🪟 🍎 🐧 🟢
-- [Cloudflare WARP](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) - Fast, free VPN and DNS service to improve privacy and security. 🪟 🍎 🐧
-- [ProtonVPN](https://protonvpn.com/) - Swiss-based high-speed VPN with enhanced privacy protections. 🪟 🍎 🐧
-- [Twingate](https://twingate.com/) - Zero trust network access solution for secure private network connections. 🪟 🍎 🐧
-- [WireGuard](https://wireguard.com/) - Fast, modern, and secure VPN tunnel protocol designed for simplicity and performance. 🪟 🍎 🐧
-- [Proxifier](https://proxifier.com/) - Windows-based proxy client that allows network applications to connect via a proxy server. 🪟
-- [Psiphon](https://psiphon.ca/) - Free VPN and proxy tool designed to bypass censorship. 🪟 🍎
-- [Lantern](https://getlantern.org/) - Free internet freedom tool that bypasses network restrictions. 🪟 🍎 🐧
-- [OpenVPN](https://openvpn.net/community-downloads/) - VPN solution for secure internet connections. 🪟 🟢
-- [SoftEther VPN](https://softether.org/) - VPN software with multiple protocol support. 🪟 🟢
+- [Algo](https://github.com/trailofbits/algo) - Simple IPSEC VPN setup for secure cloud connections. 🪟 🍎 🐧 🟢  
+- [Cloudflare WARP](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) - VPN and DNS service enhancing privacy and security. 🪟 🍎 🐧  
+- [ProtonVPN](https://protonvpn.com/) - High-speed VPN from Switzerland with strong privacy features. 🪟 🍎 🐧  
+- [Twingate](https://twingate.com/) - Zero trust access for secure private network connections. 🪟 🍎 🐧  
+- [WireGuard](https://wireguard.com/) - Fast, secure VPN protocol designed for simplicity. 🪟 🍎 🐧  
+- [Proxifier](https://proxifier.com/) - Windows proxy client that routes applications via a proxy server. 🪟  
+- [Psiphon](https://psiphon.ca/) - VPN and proxy tool for bypassing censorship. 🪟 🍎  
+- [Lantern](https://getlantern.org/) - Internet freedom tool to bypass restrictions. 🪟 🍎 🐧  
+- [OpenVPN](https://openvpn.net/community-downloads/) - VPN solution for secure internet connections with customizable settings. 🪟 🟢  
+- [SoftEther VPN](https://softether.org/) - Multi-protocol VPN software for secure connections. 🪟 🟢  
+- [Sing-box](https://github.com/SagerNet/sing-box) - Universal proxy platform supporting multiple protocols. 🪟 🍎 🐧 🟢  
 
 ## Utility
 
-- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Collection of utilities including tools for file renaming, bulk resizing, and a quick launcher to enhance Windows productivity. 🪟 ⭐
-- [AutoHotkey](https://autohotkey.com/) - Powerful scripting language for automating tasks and creating custom keyboard shortcuts. 🪟 ⭐
-- [Nirsoft](https://nirsoft.net/utils/index.html) - Collection of utility softwares. 🪟
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Feature-rich command-line audio/video downloader. 🪟 🍎 🐧 🟢
-- [Fan Control](https://getfancontrol.com/) - Highly focused fan controlling software. 🪟
-- [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/) - High-precision scientific calculator featuring a fast, keyboard-driven user interface. 🪟 🍎 🐧
-- [LocalSend](https://localsend.org/) - Share files to nearby devices. 🪟 🍎 🐧
-- [Advanced IP Scanner](https://advanced-ip-scanner.com/) - Reliable and free network scanner to analyze LAN. 🪟
-- [PuTTY](https://putty.org/) - SSH and telnet client for Windows. 🪟
-- [Legacy Update](https://legacyupdate.net/) - Software to install all relevant updates necessary to fix access to the Windows Update service on unsupported versions. 🪟
-- [Twinkle Tray](https://twinkletray.com/) - Easily manage the brightness levels of multiple monitors. 🪟
-- [Keylock](https://github.com/Axorax/keylock) - Lock your keyboard. 🪟 🟢
-- [Winpower](https://github.com/Axorax/winpower) - Improved power settings for Windows. 🪟 🟢
+- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Utilities for file renaming, resizing, and productivity tools. 🪟 ⭐  
+- [AutoHotkey](https://autohotkey.com/) - Scripting language for task automation and custom hotkeys. 🪟 ⭐  
+- [Nirsoft](https://nirsoft.net/utils/index.html) - Collection of small utilities for various tasks. 🪟  
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line tool for downloading audio and video. 🪟 🍎 🐧 🟢  
+- [Fan Control](https://getfancontrol.com/) - Software for managing and controlling system fans. 🪟  
+- [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/) - Fast, high-precision scientific calculator with keyboard shortcuts. 🪟 🍎 🐧  
+- [LocalSend](https://localsend.org/) - Share files instantly to nearby devices. 🪟 🍎 🐧  
+- [Advanced IP Scanner](https://advanced-ip-scanner.com/) - Network scanner for detecting and analyzing devices on LAN. 🪟  
+- [PuTTY](https://putty.org/) - SSH and Telnet client for remote connections. 🪟  
+- [Legacy Update](https://legacyupdate.net/) - Installs updates to fix Windows Update access on unsupported versions. 🪟  
+- [Twinkle Tray](https://twinkletray.com/) - Simple tool to manage brightness across multiple monitors. 🪟  
+- [Keylock](https://github.com/Axorax/keylock) - Lock your keyboard with a click. 🪟 🟢  
+- [Winpower](https://github.com/Axorax/winpower) - Advanced power settings and management for Windows. 🪟 🟢  
+- [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Simulate different system regions and languages. 🪟 🟢  
 
 ### Clipboard Management
 
-- [Ditto](https://ditto-cp.sourceforge.io/) - Extension to the standard Windows clipboard that provides advanced functionality. 🪟
-- [CopyQ](https://hluk.github.io/CopyQ/) - Advanced clipboard manager with editing and scripting capabilities. 🪟 🍎 🐧 🟢
-- [ClipAngel](https://sourceforge.net/projects/clip-angel/) - Powerful clipboard manager with rich text, HTML, and image support for Windows. 🪟
-- [Clipboard Fusion](https://clipboardfusion.com/) - Feature-rich clipboard manager for organizing and transforming clipboard data. 🪟 🍎
-- [Qopy](https://github.com/0pandadev/qopy) - The fixed clipboard manager with a clean and minimalistic UI as well as very unique features. 🪟 🍎 🐧 🟢
+- [Ditto](https://ditto-cp.sourceforge.io/) - Advanced clipboard manager with extended functionality for Windows. 🪟  
+- [CopyQ](https://hluk.github.io/CopyQ/) - Clipboard manager with editing and scripting features. 🪟 🍎 🐧 🟢  
+- [ClipAngel](https://sourceforge.net/projects/clip-angel/) - Clipboard manager supporting rich text and images. 🪟  
+- [Qopy](https://github.com/0pandadev/qopy) - Minimalist clipboard manager with unique features. 🪟 🍎 🐧 🟢  
+- [Clipboard Fusion](https://clipboardfusion.com/) - Clipboard manager with data transformation features. 🪟 🍎  
 
 ### Metadata
 
-- [ExifTool](https://exiftool.org/) - Powerful command-line application for reading, writing, and editing meta information in image, audio, and video files. 🪟 🍎 🐧
-- [PhotoME](https://photome.de/) - EXIF and metadata viewer for photos, with some editing capabilities. 🪟
-- [Metadata++](https://metadata.en.softonic.com/) - Allows for viewing, editing, and removing metadata from photos and files. 🪟
-- [MP3Tag](https://mp3tag.de/en/) - Edit metadata of audio files. 🪟
+- [ExifTool](https://exiftool.org/) - Command-line tool for editing metadata in various file types. 🪟 🍎 🐧  
+- [PhotoME](https://photome.de/) - View and edit EXIF metadata for photos. 🪟  
+- [Metadata++](https://metadata.en.softonic.com/) - View, edit, and remove metadata from files and photos. 🪟  
+- [MP3Tag](https://mp3tag.de/en/) - Edit and manage metadata for audio files. 🪟  
 
 ### Window Management
 
-- [AltSnap](https://github.com/RamonUnch/AltSnap) - Lightweight window management tool for snapping windows to predefined positions using keyboard shortcuts. 🪟 🟢
-- [AquaSnap](https://nurgo-software.com/products/aquasnap) - Enhances window management with docking, snapping, and stretching features for Windows. 🪟
-- [FancyZones](https://github.com/microsoft/PowerToys) - Feature of PowerToys that helps with window snapping and arranging for multi-monitor setups in Windows. 🪟 🟢
-- [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - Simple app to display a portion of your screen on top of other windows. 🪟 🟢
-- [KDE Mover-Sizer](https://corz.org/windows/software/accessories/KDE-resizing-moving-for-Windows.php#section-Download) - Application that emulates the behaviour of KDE. 🪟
-- [GlazeWM](https://github.com/glzr-io/glazewm) - Tiling window manager inspired by i3wm. 🪟 🟢
+- [AltSnap](https://github.com/RamonUnch/AltSnap) - Snap windows to positions using keyboard shortcuts. 🪟 🟢  
+- [AquaSnap](https://nurgo-software.com/products/aquasnap) - Window snapping, docking, and stretching features. 🪟  
+- [FancyZones](https://github.com/microsoft/PowerToys) - Snap and arrange windows in multi-monitor setups. 🪟 🟢  
+- [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - Display part of a window on top of others. 🪟 🟢  
+- [KDE Mover-Sizer](https://corz.org/windows/software/accessories/KDE-resizing-moving-for-Windows.php#section-Download) - Emulates KDE window behavior. 🪟  
+- [GlazeWM](https://github.com/glzr-io/glazewm) - Tiling window manager inspired by i3. 🪟 🟢  
 
 ### File Management
 
-- [Everything](https://voidtools.com/) - Lightning-fast file and folder search tool that indexes your entire Windows file system for instant access. 🪟 ⭐
-- [Files](https://github.com/files-community/Files) - Modern file manager that helps users organize their files and folders. 🪟 🟢
-- [Double Commander](https://doublecmd.sourceforge.io/) - Dual-pane file manager with extensive functionality like tabbed browsing, built-in text editor, and advanced search. 🪟 🍎 🐧
-- [Xftp 7](https://netsarang.com/en/xftp/) - Lightweight and flexible SFTP/FTP client with advanced features for efficient file transfers. 🪟
-- [FileZilla](https://filezilla-project.org/) - Fast and reliable FTP, FTPS, and SFTP client for managing remote files. 🪟 🍎 🐧
-- [Q-Dir](https://softwareok.com/?seite=Freeware/Q-Dir) - Multi-pane file manager offering up to four directory views simultaneously for enhanced productivity. 🪟
-- [WinSCP](https://winscp.net/) - SFTP, FTP, WebDAV, and SCP client with a user-friendly interface. 🪟 🟢
-- [Far Manager](https://farmanager.com/) - Program for managing files and archives in Windows. 🪟
-- [Free Commander](https://freecommander.com/en/summary/) - Alternative to the standard windows file manager. 🪟
+- [Everything](https://voidtools.com/) - Fast file search tool indexing the entire file system. 🪟 ⭐  
+- [Files](https://github.com/files-community/Files) - Modern file manager for easy file organization. 🪟 🟢  
+- [Double Commander](https://doublecmd.sourceforge.io/) - Dual-pane manager with built-in editor and advanced search. 🪟 🍎 🐧  
+- [Xftp 7](https://netsarang.com/en/xftp/) - Flexible SFTP/FTP client for efficient file transfers. 🪟  
+- [FileZilla](https://filezilla-project.org/) - Reliable FTP, FTPS, and SFTP client for remote management. 🪟 🍎 🐧  
+- [Q-Dir](https://softwareok.com/?seite=Freeware/Q-Dir) - Multi-pane file manager with up to four directory views. 🪟  
+- [WinSCP](https://winscp.net/) - Easy-to-use SFTP, FTP, and WebDAV client. 🪟 🟢  
+- [Far Manager](https://farmanager.com/) - File and archive manager with advanced functionality. 🪟  
+- [Free Commander](https://freecommander.com/en/summary/) - Alternative file manager with added features. 🪟  
 
 ### Screenshot
 

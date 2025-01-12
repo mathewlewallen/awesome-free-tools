@@ -305,28 +305,28 @@
 
 ## Text Editors
 
-- [Visual Studio Code](https://code.visualstudio.com/) - Powerful and extensible code editor developed by Microsoft, featuring debugging, version control, and support for numerous languages. 🪟 🍎 🐧 🟢
-- [Atom](https://atom.io/) - Hackable text editor with features like Git integration and an extensive plugin ecosystem. 🪟 🍎 🐧 🟢
-- [Vim](https://vim.org/) - Highly configurable, command-line-based text editor that is especially favored by developers for its efficiency. 🪟 🍎 🐧 🟢
-- [Emacs](https://gnu.org/software/emacs/) - Powerful, extensible text editor with a broad range of features and customization options. 🪟 🍎 🐧 🟢
-- [Geany](https://geany.org/) - Lightweight, fast text editor that supports many programming languages, with a built-in terminal and project management features. 🪟 🍎 🐧
-- [Brackets](http://brackets.io/) - Text editor focused on web development, with live preview and preprocessor support. 🪟 🍎 🐧 🟢
-- [Bluefish](https://bluefish.openoffice.org/) - Powerful text editor targeted at web developers, supporting various programming languages. 🪟 🍎 🐧
-- [Aurora Editor](https://auroraeditor.com/) - Lightweight, fast code editor for macOS with a modern interface. 🍎
-- [CodeEdit](https://codeedit.app/) - Lightweight native code editor for macOS. 🍎 🟢
-- [CotEditor](https://coteditor.com) - Lightweight plain-text editor designed for macOS. 🍎
-- [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - Code editor with a canvas UI for better code understanding. 🪟 🍎 🐧 🟢
-- [Helix](https://helix-editor.com/) - Post-modern modal text editor with extensibility and performance. 🪟 🍎 🐧
-- [Lapce](https://lapce.dev/) - Fast, powerful code editor designed for modern workflows. 🪟 🍎 🐧
-- [LightTable](http://lighttable.com/) - Next-generation code editor focused on instant feedback. 🪟 🍎 🐧
-- [micro](https://micro-editor.github.io) - Modern, intuitive terminal-based text editor. 🪟 🍎 🐧
-- [Neovim](https://github.com/neovim/neovim) - Modern, extensible terminal-based code editor. 🪟 🍎 🐧 🟢
-- [Nova](https://nova.app/) - Fast, flexible, and beautiful native Mac code editor from Panic. 🍎
-- [Sublime Text](http://www.sublimetext.com/3) - Popular, sleek editor with a plugin ecosystem for developers. 🪟 🍎 🐧
-- [SubEthaEdit](https://subethaedit.net/) - Collaborative text editor that allows real-time editing. 🍎
-- [TextMate](https://macromates.com) - Versatile, flexible text editor for macOS with advanced features. 🍎
-- [Vimr](http://vimr.org/) - Refined Vim experience designed for macOS. 🍎
-- [Zed](https://zed.dev/) - High-performance, multiplayer code editor from the creators of Atom. 🪟 🍎 🐧
+- [Visual Studio Code](https://code.visualstudio.com/) - Code editor with debugging, integrated Git support, and a vast extension marketplace. 🪟 🍎 🐧 🟢  
+- [Atom](https://atom.io/) - Highly customizable editor with Git integration, real-time collaboration, and extensive plugins. 🪟 🍎 🐧 🟢  
+- [Vim](https://vim.org/) - Efficient command-line editor with powerful keyboard shortcuts and multi-file editing. 🪟 🍎 🐧 🟢  
+- [Emacs](https://gnu.org/software/emacs/) - Customizable editor with robust scripting, project management, and multi-language support. 🪟 🍎 🐧 🟢  
+- [Geany](https://geany.org/) - Lightweight editor with built-in terminal, project management, and syntax highlighting for many languages. 🪟 🍎 🐧  
+- [Brackets](http://brackets.io/) - Web-focused editor with live preview, CSS preprocessor support, and inline editing for HTML. 🪟 🍎 🐧 🟢  
+- [Bluefish](https://bluefish.openoffice.org/) - Web developer editor supporting HTML, CSS, JavaScript, and PHP with built-in preview. 🪟 🍎 🐧  
+- [Aurora Editor](https://auroraeditor.com/) - Fast, lightweight macOS editor with modern design and syntax highlighting. 🍎  
+- [CodeEdit](https://codeedit.app/) - Native macOS editor with live preview, Git integration, and Markdown support. 🍎 🟢  
+- [CotEditor](https://coteditor.com) - MacOS text editor with syntax highlighting, snippets, and regular expression search. 🍎  
+- [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - Visual editor with a canvas UI to help navigate and understand code structure. 🪟 🍎 🐧 🟢  
+- [Helix](https://helix-editor.com/) - Modal text editor with powerful text manipulation, multiple cursors, and a modern UI. 🪟 🍎 🐧  
+- [Lapce](https://lapce.dev/) - Fast, extensible editor with built-in support for multiple languages and advanced editing features. 🪟 🍎 🐧  
+- [LightTable](http://lighttable.com/) - Code editor offering real-time feedback and live execution of code in an interactive environment. 🪟 🍎 🐧  
+- [micro](https://micro-editor.github.io) - Simple, modern terminal-based editor with support for mouse interaction and plugin extensions. 🪟 🍎 🐧  
+- [Neovim](https://github.com/neovim/neovim) - Advanced terminal editor with improved extensibility, plugins, and modern features. 🪟 🍎 🐧 🟢  
+- [Nova](https://nova.app/) - MacOS editor with an intuitive interface, fast navigation, and built-in Git support. 🍎  
+- [Sublime Text](http://www.sublimetext.com/3) - Fast text editor with powerful search, multi-caret editing, and a strong plugin ecosystem. 🪟 🍎 🐧  
+- [SubEthaEdit](https://subethaedit.net/) - Collaborative text editor enabling real-time editing with multiple users. 🍎  
+- [TextMate](https://macromates.com) - MacOS editor with project management, language bundles, and customizable macros. 🍎  
+- [Vimr](http://vimr.org/) - MacOS app offering a refined Vim experience with enhanced UI and modern features. 🍎  
+- [Zed](https://zed.dev/) - High-performance, collaborative editor designed for speed, real-time collaboration, and custom workflows. 🪟 🍎 🐧  
 
 ### Download Managers
 
@@ -476,65 +476,65 @@
 
 ### Video Streaming and Recording  
 
-- [OBS Studio](https://obsproject.com/) - Software for live streaming and video recording. 🪟 🍎 🐧 🟢 ⭐
-- [Streamlabs Desktop](https://streamlabs.com/) - Streaming software with a customizable interface for live broadcasts. 🪟 🍎 🟢
-- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Video conferencing and streaming solution. 🪟 🍎 🐧 🟢
-- [Zoom](https://zoom.us/) - Video conferencing tool with live streaming capabilities. 🪟 🍎 🐧
-- [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility to stream video from various platforms. 🪟 🍎 🐧 🟢
-- [Kaltura](https://kaltura.com/) - Video streaming platform for creating and managing content. 🪟 🍎 🐧 🟢
-
+- [OBS Studio](https://obsproject.com/) - Software for live streaming and recording video. 🪟 🍎 🐧 🟢 ⭐  
+- [Streamlabs Desktop](https://streamlabs.com/) - Streaming software with customizable alerts and overlays. 🪟 🍎 🟢  
+- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Video conferencing and live streaming with ease. 🪟 🍎 🐧 🟢  
+- [Zoom](https://zoom.us/) - Video meetings with streaming, recording, and screen sharing. 🪟 🍎 🐧  
+- [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line tool to stream video from multiple platforms. 🪟 🍎 🐧 🟢  
+- [Kaltura](https://kaltura.com/) - Platform for managing and streaming video content. 🪟 🍎 🐧 🟢  
 
 ### Video Converters and Compressors  
 
-- [FFmpeg](https://ffmpeg.org/) - Command-line tool for video and audio processing with wide format support. 🪟 🍎 🐧 🟢 ⭐
-- [HandBrake](https://handbrake.fr/) - Video transcoder for converting video formats. 🪟 🍎 🐧 🟢
-- [Any Video Converter](https://any-video-converter.com/) - Free video converter that supports multiple formats. 🪟 🍎
-- [Shutter Encoder](https://shutterencoder.com/) - Multi-functional media conversion tool for video, audio, and image formats with advanced processing options. 🪟 🍎
-- [VidCoder](https://vidcoder.net/) - Video transcoder based on HandBrake, with a user-friendly interface. 🪟 🍎 🟢
+- [FFmpeg](https://ffmpeg.org/) - Powerful tool for format conversion and multimedia editing. 🪟 🍎 🐧 🟢 ⭐  
+- [HandBrake](https://handbrake.fr/) - Video transcoder with preset profiles for device compatibility. 🪟 🍎 🐧 🟢  
+- [Any Video Converter](https://any-video-converter.com/) - Supports batch conversion and output to various formats. 🪟 🍎  
+- [Shutter Encoder](https://shutterencoder.com/) - Supports video, audio, and image conversion with extra processing tools. 🪟 🍎  
+- [VidCoder](https://vidcoder.net/) - User-friendly HandBrake-based transcoder with batch processing. 🪟 🍎 🟢  
 
 ## VPN and Proxy Tools
 
-- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - OpenVPN client for macOS with a user-friendly interface. 🍎 🟢
-- [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN setup for secure cloud usage. 🪟 🍎 🐧 🟢
-- [Cloudflare WARP](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) - Fast, free VPN and DNS service to improve privacy and security. 🪟 🍎 🐧
-- [ProtonVPN](https://protonvpn.com/) - Swiss-based high-speed VPN with enhanced privacy protections. 🪟 🍎 🐧
-- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Simplified rule-based proxy tool for macOS. 🍎 🟢
-- [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy app for macOS using Network Extension. 🍎 🟢
-- [Twingate](https://twingate.com/) - Zero trust network access solution for secure private network connections. 🪟 🍎 🐧
-- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Modern Shadowsocks client with enhanced features for macOS. 🍎 🟢
-- [rvc-mac](https://github.com/riboseinc/cryptode-mac) - Ribose VPN Client for macOS, providing secure VPN connections. 🍎 🟢
-- [WireGuard](https://wireguard.com/) - Fast, modern, and secure VPN tunnel protocol designed for simplicity and performance. 🪟 🍎 🐧
-- [Psiphon](https://psiphon.ca/) - Free VPN and proxy tool designed to bypass censorship. 🪟 🍎
-- [Lantern](https://getlantern.org/) - Free internet freedom tool that bypasses network restrictions. 🪟 🍎 🐧
+- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Easy-to-use OpenVPN client with a macOS-friendly interface. 🍎 🟢  
+- [Algo](https://github.com/trailofbits/algo) - Simple IPSEC VPN setup for secure cloud connections. 🪟 🍎 🐧 🟢  
+- [Cloudflare WARP](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) - VPN and DNS service enhancing privacy and security. 🪟 🍎 🐧  
+- [ProtonVPN](https://protonvpn.com/) - High-speed VPN from Switzerland with strong privacy features. 🪟 🍎 🐧  
+- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Minimal proxy tool for macOS using rule-based configuration. 🍎 🟢  
+- [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy for macOS with Network Extension support. 🍎 🟢  
+- [Twingate](https://twingate.com/) - Zero trust access for secure private network connections. 🪟 🍎 🐧  
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Modern Shadowsocks client for enhanced macOS security. 🍎 🟢  
+- [rvc-mac](https://github.com/riboseinc/cryptode-mac) - Secure VPN client for macOS from Ribose. 🍎 🟢  
+- [WireGuard](https://wireguard.com/) - Fast, secure VPN protocol designed for simplicity. 🪟 🍎 🐧  
+- [Psiphon](https://psiphon.ca/) - VPN and proxy tool for bypassing censorship. 🪟 🍎  
+- [Lantern](https://getlantern.org/) - Internet freedom tool to bypass restrictions. 🪟 🍎 🐧  
+- [Sing-box](https://github.com/SagerNet/sing-box) - Universal proxy platform supporting multiple protocols. 🪟 🍎 🐧 🟢  
 
 ## Utility
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Feature-rich command-line audio/video downloader. 🪟 🍎 🐧 🟢
-- [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/) - High-precision scientific calculator featuring a fast, keyboard-driven user interface. 🪟 🍎 🐧
-- [LocalSend](https://localsend.org/) - Share files to nearby devices. 🪟 🍎 🐧
-- [Rocket](https://matthewpalmer.net/rocket/) - Type emojis using colon (:) anywhere. 🍎
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line tool for downloading audio and video. 🪟 🍎 🐧 🟢  
+- [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/) - Fast, high-precision scientific calculator with keyboard shortcuts. 🪟 🍎 🐧  
+- [LocalSend](https://localsend.org/) - Share files instantly to nearby devices. 🪟 🍎 🐧  
+- [Rocket](https://matthewpalmer.net/rocket/) - Type and insert emojis anywhere using a colon (:). 🍎  
 
 ### Clipboard Management
 
-- [Clipy](https://clipy-app.com/) - Lightweight clipboard manager. 🍎 🟢
-- [CopyQ](https://hluk.github.io/CopyQ/) - Advanced clipboard manager with editing and scripting capabilities. 🪟 🍎 🐧 🟢
-- [Maccy](https://maccy.app/) - Simple and lightweight clipboard manager. 🍎 🟢
-- [Clipboard Fusion](https://clipboardfusion.com/) - Feature-rich clipboard manager for organizing and transforming clipboard data. 🪟 🍎
-- [Qopy](https://github.com/0pandadev/qopy) - The fixed clipboard manager with a clean and minimalistic UI as well as very unique features. 🪟 🍎 🐧 🟢
+- [Clipy](https://clipy-app.com/) - Simple clipboard manager for macOS. 🍎 🟢  
+- [CopyQ](https://hluk.github.io/CopyQ/) - Clipboard manager with editing and scripting features. 🪟 🍎 🐧 🟢  
+- [Maccy](https://maccy.app/) - Minimal clipboard manager for macOS. 🍎 🟢  
+- [Qopy](https://github.com/0pandadev/qopy) - Minimalist clipboard manager with unique features. 🪟 🍎 🐧 🟢  
+- [Clipboard Fusion](https://clipboardfusion.com/) - Clipboard manager with data transformation features. 🪟 🍎  
 
 ### Metadata
 
-- [ExifTool](https://exiftool.org/) - Powerful command-line application for reading, writing, and editing meta information in image, audio, and video files. 🪟 🍎 🐧
+- [ExifTool](https://exiftool.org/) - Command-line tool for editing metadata in various file types. 🪟 🍎 🐧  
 
 ### Window Management
 
-- [Rectangle](https://rectangleapp.com/) - Simple and efficient window manager for macOS that allows easy window snapping and resizing using keyboard shortcuts. 🍎
-- [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12) - Popular macOS app for snapping windows into organized tiles with keyboard shortcuts. 🍎
+- [Rectangle](https://rectangleapp.com/) - Efficient window manager with keyboard shortcut support. 🍎  
+- [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12) - Snap windows into organized tiles. 🍎  
 
 ### File Management
 
-- [Double Commander](https://doublecmd.sourceforge.io/) - Dual-pane file manager with extensive functionality like tabbed browsing, built-in text editor, and advanced search. 🪟 🍎 🐧
-- [FileZilla](https://filezilla-project.org/) - Fast and reliable FTP, FTPS, and SFTP client for managing remote files. 🪟 🍎 🐧
+- [Double Commander](https://doublecmd.sourceforge.io/) - Dual-pane manager with built-in editor and advanced search. 🪟 🍎 🐧  
+- [FileZilla](https://filezilla-project.org/) - Reliable FTP, FTPS, and SFTP client for remote management. 🪟 🍎 🐧  
 
 ### Screenshot
 
