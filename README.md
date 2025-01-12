@@ -596,7 +596,7 @@
 - [Psiphon](https://psiphon.ca/) - Free VPN and proxy tool designed to bypass censorship. 🪟 🍎
 - [Lantern](https://getlantern.org/) - Free internet freedom tool that bypasses network restrictions. 🪟 🍎 🐧
 - [OpenVPN](https://openvpn.net/community-downloads/) - VPN solution for secure internet connections. 🪟 🟢
-- [SoftEther VPN](https://softether.org/) - VPN software with multiple protocol support. 🪟 🟢
+- [SoftEther VPN](https://www.softether.org/) - VPN software with multiple protocol support. 🪟 🟢
 
 ## Utility
 
@@ -614,6 +614,7 @@
 - [Rocket](https://matthewpalmer.net/rocket/) - Type emojis using colon (:) anywhere. 🍎
 - [Keylock](https://github.com/Axorax/keylock) - Lock your keyboard. 🪟 🟢
 - [Winpower](https://github.com/Axorax/winpower) - Improved power settings for Windows. 🪟 🟢
+- [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - System Region and Language Simulator. 🪟 🟢
 
 ### Clipboard Management
 
