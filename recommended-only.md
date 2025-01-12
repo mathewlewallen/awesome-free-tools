@@ -12,6 +12,8 @@
 
 > [!IMPORTANT]
 > Maintaining this project requires a lot of time. [Donate to support me!](https://patreon.com/axorax) ❤️
+>
+> [Discord server](https://discord.gg/nKUFghjXQu) — [Patreon](https://patreon.com/axorax)
 
 ## Contents
 
@@ -75,11 +77,11 @@
 
 ### Audio Players
 
-- [Foobar2000](https://www.foobar2000.org/) - Lightweight and highly customizable audio player with support for many formats. 🪟 🍎 🐧 ⭐
+- [Foobar2000](https://foobar2000.org/) - Lightweight and highly customizable audio player with support for many formats. 🪟 🍎 ⭐
 
 ### Audio Recording
 
-- [Audacity](https://www.audacityteam.org/download/) - Audio editor for recording and editing sounds. 🪟 🍎 🐧 🟢 ⭐
+- [Audacity](https://audacityteam.org/download/) - Audio editor for recording and editing sounds. 🪟 🍎 🐧 🟢 ⭐
 
 ### DJ Software
 
@@ -93,7 +95,7 @@
 
 ## Browsers
 
-- [Tor Browser](https://www.torproject.org/projects/torbrowser.html) - Privacy browser routing traffic over the Tor network. 🪟 🍎 🐧 ⭐
+- [Tor Browser](https://torproject.org/projects/torbrowser.html) - Privacy browser routing traffic over the Tor network. 🪟 🍎 🐧 ⭐
 
 ## Communication
 
@@ -106,7 +108,7 @@
 
 ## Compression and Archiving
 
-- [7-Zip](https://www.7-zip.org/) - Archive manager supporting 7z, ZIP, and other formats. 🪟 🍎 🐧 🟢 ⭐
+- [7-Zip](https://7-zip.org/download.html) - Archive manager supporting 7z, ZIP, and other formats. 🪟 🟢 ⭐
 
 ## Customize
 
@@ -131,7 +133,7 @@
 
 ### API Development  
 
-- [Postman](https://www.postman.com/) - API development platform with advanced testing and collaboration tools. 🪟 🍎 🐧 ⭐
+- [Postman](https://postman.com/) - API development platform with advanced testing and collaboration tools. 🪟 🍎 🐧 ⭐
 - [Insomnia](https://insomnia.rest/) - Simple API client for REST and GraphQL development. 🪟 🍎 🐧 🟢 ⭐
 
 ### Database
@@ -139,22 +141,22 @@
 
 ### Network Analysis  
 
-- [Wireshark](https://www.wireshark.org/) - Leading tool for capturing and analyzing network traffic. 🪟 🍎 🐧 ⭐
+- [Wireshark](https://wireshark.org/) - Leading tool for capturing and analyzing network traffic. 🪟 🍎 🐧 ⭐
 
 ### Game Engines
 
 - [Godot](https://godotengine.org/) - Game engine for 2D and 3D games with an easy-to-learn scripting language. 🪟 🍎 🐧 🟢 ⭐
-- [Unreal Engine](https://www.unrealengine.com/) - Powerful, fully-featured game engine for high-quality 3D games. 🪟 🍎 🐧 ⭐
+- [Unreal Engine](https://unrealengine.com/) - Powerful, fully-featured game engine for high-quality 3D games. 🪟 🍎 🐧 ⭐
 
 ### Virtualization
 
-- [Docker](https://www.docker.com/) - Containerization platform for operating-system-level virtualization. 🪟 🍎 🐧 🟢 ⭐
+- [Docker](https://docker.com/) - Containerization platform for operating-system-level virtualization. 🪟 🍎 🐧 🟢 ⭐
 
 ## Documents
 
 
 ### Office Suites
-- [LibreOffice](https://www.libreoffice.org/) - Popular and easy to use office suite. 🪟 🍎 🐧 🟢 ⭐
+- [LibreOffice](https://libreoffice.org/) - Popular and easy to use office suite. 🪟 🍎 🐧 🟢 ⭐
 
 ### E-book
 
@@ -168,6 +170,9 @@
 
 ### Download Managers
 
+- [Free Download Manager](https://freedownloadmanager.org/) - Modern download accelerator. 🪟 🍎 🐧 ⭐
+- [AB Download Manager](https://abdownloadmanager.com/) - Easily download files from anywhere. 🪟 🐧 🟢 ⭐
+
 ### Games
 - [Steam](https://store.steampowered.com/) - Platform for buying and playing PC games. 🪟 🍎 🐧 ⭐
 
@@ -176,6 +181,7 @@
 
 ### Mobile Emulators  
 
+- [BlueStacks](https://bluestacks.com/) - Android emulator for playing mobile games on PC. 🪟 🍎 ⭐
 
 ### Other Emulators
 
@@ -185,7 +191,7 @@
 
 ## 3D Modeling and Animation
 
-- [Blender](https://www.blender.org/) - 3D creation tool supporting modeling, animation, rendering, video editing, and more. 🪟 🍎 🐧 🟢 ⭐
+- [Blender](https://blender.org/) - 3D creation tool supporting modeling, animation, rendering, video editing, and more. 🪟 🍎 🐧 🟢 ⭐
 
 ## Security
 
@@ -206,7 +212,7 @@
 
 ### Video Editors  
 
-- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional video editor with advanced color correction and effects. 🪟 🍎 🐧 ⭐
+- [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve/) - Professional video editor with advanced color correction and effects. 🪟 🍎 🐧 ⭐
 
 ### Video Players  
 
@@ -227,7 +233,7 @@
 ## Utility
 
 - [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Collection of utilities including tools for file renaming, bulk resizing, and a quick launcher to enhance Windows productivity. 🪟 ⭐
-- [AutoHotkey](https://www.autohotkey.com/) - Powerful scripting language for automating tasks and creating custom keyboard shortcuts. 🪟 ⭐
+- [AutoHotkey](https://autohotkey.com/) - Powerful scripting language for automating tasks and creating custom keyboard shortcuts. 🪟 ⭐
 
 ### Clipboard Management
 
@@ -240,7 +246,7 @@
 
 ### File Management
 
-- [Everything](https://www.voidtools.com/) - Lightning-fast file and folder search tool that indexes your entire Windows file system for instant access. 🪟 ⭐
+- [Everything](https://voidtools.com/) - Lightning-fast file and folder search tool that indexes your entire Windows file system for instant access. 🪟 ⭐
 
 ### Screenshot
 

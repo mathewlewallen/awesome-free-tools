@@ -15,8 +15,8 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Run index.js
-        run: node index.js
+      - name: Run command
+        run: node index.js --categorize
 
       - name: Commit and push changes
         run: |
