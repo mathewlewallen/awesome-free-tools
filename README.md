@@ -613,8 +613,6 @@
 - [Keylock](https://github.com/Axorax/keylock) - Lock your keyboard. 🪟 🟢
 - [Winpower](https://github.com/Axorax/winpower) - Improved power settings for Windows. 🪟 🟢
 - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - System Region and Language Simulator. 🪟 🟢
-- [Winaero tweaker](https://winaerotweaker.com/) - All-in-one Windows tuner. 🪟
-- [Windhawk](https://windhawk.net/) - Advanced Windows customization tool; 🪟
 
 ### Clipboard Management
 
