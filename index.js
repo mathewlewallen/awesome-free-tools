@@ -89,6 +89,14 @@ function backup() {
   }
 }
 
+function runAll() {
+  countLinks();
+  format();
+  categorize();
+  countLinks();
+  backup();
+}
+
 const args = process.argv.slice(2);
 
 if (args.includes('--categorize')) {
@@ -106,6 +114,8 @@ if (args.includes('--categorize')) {
   }
 } else if (args.includes('--backup')) {
   backup();
+} else if (args.includes('--all')) {
+  runAll();
 } else {
   console.log("Usage:");
   console.log("  node index.js --categorize    Categorize based on icons");
@@ -113,4 +123,5 @@ if (args.includes('--categorize')) {
   console.log("  node index.js --links         Count and display total links in README.md");
   console.log("  node index.js --fastgit <msg>  Run git commands with the specified commit message");
   console.log("  node index.js --backup        Backup README.md to .github/backup.md");
+  console.log("  node index.js --all           Run all the commands (format, categorize, links, backup)");
 }
