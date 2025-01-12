@@ -77,24 +77,11 @@ function fastGit(message = "update") {
   }
 }
 
-function backup() {
-  try {
-    if (!fs.existsSync('.github')) {
-      fs.mkdirSync('.github');
-    }
-    fs.copyFileSync('README.md', '.github/backup.md');
-    console.log('README.md has been backed up as .github/backup.md');
-  } catch (error) {
-    console.error('Error creating backup:', error);
-  }
-}
-
 function runAll() {
   countLinks();
   format();
   categorize();
   countLinks();
-  backup();
 }
 
 const args = process.argv.slice(2);
@@ -112,8 +99,6 @@ if (args.includes('--categorize')) {
   } else {
     console.log('Please provide a commit message after --fastgit');
   }
-} else if (args.includes('--backup')) {
-  backup();
 } else if (args.includes('--all')) {
   runAll();
 } else {
@@ -122,6 +107,5 @@ if (args.includes('--categorize')) {
   console.log("  node index.js --format        Format README.md");
   console.log("  node index.js --links         Count and display total links in README.md");
   console.log("  node index.js --fastgit <msg>  Run git commands with the specified commit message");
-  console.log("  node index.js --backup        Backup README.md to .github/backup.md");
-  console.log("  node index.js --all           Run all the commands (format, categorize, links, backup)");
+  console.log("  node index.js --all           Run all the commands (format, categorize, links)");
 }
