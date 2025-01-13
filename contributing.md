@@ -26,6 +26,10 @@ Example:
 
 - The icons (emojis) should go after the description. There is a reference table at the top of the README file.
 
+- ONLY add your app or make any changes to the README.md file. All other files are auto-generated.
+
+- To add a new category, just make it following the rules for the other ones in the file. DO NOT change anything in the Table of Contents as it is auto-generated. After you make a new category, it will be automatically added in the contents later on.
+
 ## Adding something
 
 You'll need a [GitHub account](https://github.com/join)!
