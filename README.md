@@ -21,7 +21,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Monday, January 13, 2025 at 02:18:24 PM GMT+6 -->
+<!-- AF-TOC : Monday, January 13, 2025 at 09:19:07 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -181,7 +181,7 @@
 - [Tutanota](https://tutanota.com/) - Encrypted service focused on privacy. 🪟 🍎 🐧
 - [Edison Mail](https://mail.edison.tech/mac) - Customizable, intuitive email client with smart features. 🪟 🍎 🐧
 - [Skiff Mail](https://skiff.com/mail) - Encrypted, decentralized email service. 🪟 🍎 🐧
-- [eM Client](https://www.emclient.com/) - Modern client to boost your productivity. 🪟
+- [eM Client](https://emclient.com/) - Modern client to boost your productivity. 🪟
 
 ## Compression and Archiving
 

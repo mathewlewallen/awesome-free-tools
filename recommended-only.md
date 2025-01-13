@@ -6,9 +6,9 @@
 
 | Icon | Meaning              | Icon | Meaning              |
 |------|----------------------|------|----------------------|
-| 🪟   | Available on Windows | 🟢   | Open-source          |
-| 🍎   | Available on macOS   | ⭐   | Recommended by us    |
-| 🐧   | Available on Linux   |      |                      |
+| 🪟 | Available on Windows | 🟢 | Open-source          |
+| 🍎 | Available on macOS   | ⭐  | Recommended by us    |
+| 🐧 | Available on Linux   |      |                      |
 
 > [!IMPORTANT]
 > Maintaining this project requires a lot of time. [Donate to support me!](https://patreon.com/axorax) ❤️
@@ -21,7 +21,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Monday, January 13, 2025 at 02:18:24 PM GMT+6 -->
+<!-- AF-TOC : Monday, January 13, 2025 at 09:19:07 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -82,6 +82,7 @@
 
 ## Audio
 
+- [FXSound](https://fxsound.com/) - Boost sound quality, volume, and bass. Has a beautiful modern UI. 🪟 🟢 ⭐
 
 ### Audio Players
 
@@ -125,6 +126,8 @@
 
 ### Wallpaper Tools
 
+- [Rainmeter](https://rainmeter.net/) - Desktop customization tool offering widgets, skins, and live stats. 🪟 🟢 ⭐
+- [Lively Wallpaper](https://rocksdanister.com/lively/) - Tool to set animated and interactive wallpapers. 🪟 🟢 ⭐
 
 ## Data Management
 
@@ -133,6 +136,7 @@
 
 ### Sync and Clone
 
+- [FreeFileSync](https://freefilesync.org/) - Tool for comparing and syncing files or folders. 🪟 🍎 🐧 🟢 ⭐
 
 ## Developer Tools
 
@@ -146,6 +150,7 @@
 
 ### Database
 
+- [DBeaver](https://dbeaver.io/) - Universal database tool for SQL databases like MySQL, MariaDB, PostgreSQL, SQLite, Apache Family, and more. 🪟 🍎 🐧 ⭐
 
 ### Network Analysis  
 
@@ -159,6 +164,7 @@
 ### Virtualization
 
 - [Docker](https://docker.com/) - Containerization platform for operating-system-level virtualization. 🪟 🍎 🐧 🟢 ⭐
+- [VirtualBox](http://www.virtualbox.org) - Virtualization software for creating and managing virtual machines. 🪟 🍎 🐧 ⭐
 
 ## Documents
 
@@ -167,14 +173,18 @@
 - [LibreOffice](https://libreoffice.org/) - Popular and easy to use office suite. 🪟 🍎 🐧 🟢 ⭐
 
 ### E-book
+- [Calibre](https://calibre-ebook.com/) - Powerful e-book manager. 🪟 🍎 🐧 ⭐
 
 ### PDF Tools
+- [Sumatra PDF](https://sumatrapdfreader.org/free-pdf-reader) - Fast, lightweight PDF reader. 🪟 ⭐
 
 ## Note Taking
 
+- [Obsidian](https://obsidian.md/) - Knowledge base app with powerful linking and markdown support. 🪟 🍎 🐧 ⭐
 
 ## Text Editors
 
+- [Visual Studio Code](https://code.visualstudio.com/) - Code editor with debugging, integrated Git support, and a vast extension marketplace. 🪟 🍎 🐧 🟢 ⭐
 
 ### Download Managers
 
@@ -196,6 +206,9 @@
 
 ## Graphics Tools
 
+- [GIMP](https://gimp.org/) - Versatile image editor for tasks like photo manipulation and graphic design. 🪟 🍎 🐧 🟢 ⭐
+- [Inkscape](https://inkscape.org/en/) - Vector graphics editor used for creating logos, illustrations, and more. 🪟 🍎 🐧 🟢 ⭐
+- [Krita](https://krita.org/) - Digital painting software designed for illustrators and concept artists. 🪟 🍎 🐧 🟢 ⭐
 
 ## 3D Modeling and Animation
 
@@ -211,6 +224,7 @@
 
 ## Image Viewers
 
+- [ImageGlass](https://imageglass.org/) - Lightweight, versatile image viewer. 🪟 🟢 ⭐
 
 ## Remote Access
 
@@ -228,32 +242,36 @@
 
 ### Video Streaming and Recording  
 
-- [OBS Studio](https://obsproject.com/) - Software for live streaming and recording video. 🪟 🍎 🐧 🟢 ⭐  
+- [OBS Studio](https://obsproject.com/) - Software for live streaming and recording video. 🪟 🍎 🐧 🟢 ⭐ 
 
 ### Video Converters and Compressors  
 
-- [FFmpeg](https://ffmpeg.org/) - Powerful tool for format conversion and multimedia editing. 🪟 🍎 🐧 🟢 ⭐  
+- [FFmpeg](https://ffmpeg.org/) - Powerful tool for format conversion and multimedia editing. 🪟 🍎 🐧 🟢 ⭐ 
 
 ## VPN and Proxy Tools
 
 
 ## Utility
 
-- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Utilities for file renaming, resizing, and productivity tools. 🪟 ⭐  
-- [AutoHotkey](https://autohotkey.com/) - Scripting language for task automation and custom hotkeys. 🪟 ⭐  
+- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Utilities for file renaming, resizing, and productivity tools. 🪟 ⭐ 
+- [AutoHotkey](https://autohotkey.com/) - Scripting language for task automation and custom hotkeys. 🪟 ⭐ 
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line tool for downloading audio and video. 🪟 🍎 🐧 🟢 ⭐
 
 ### Clipboard Management
 
 
 ### Metadata
 
+- [ExifTool](https://exiftool.org/) - Command-line tool for editing metadata in various file types. 🪟 🍎 🐧 ⭐
 
 ### Window Management
 
+- [Rectangle](https://rectangleapp.com/) - Efficient window manager with keyboard shortcut support. 🍎 ⭐
+- [FancyZones](https://github.com/microsoft/PowerToys) - Snap and arrange windows in multi-monitor setups. 🪟 🟢 ⭐
 
 ### File Management
 
-- [Everything](https://voidtools.com/) - Fast file search tool indexing the entire file system. 🪟 ⭐  
+- [Everything](https://voidtools.com/) - Fast file search tool indexing the entire file system. 🪟 ⭐ 
 
 ### Screenshot
 
