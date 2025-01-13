@@ -4,11 +4,11 @@
 
 <p align="center"><a href="windows-only.md">Windows Only</a> — <a href="macOS-only.md">macOS Only</a> — <a href="linux-only.md">Linux Only</a> — <a href="open-source-only.md">Open-source Only</a> — <a href="recommended-only.md">Recommended Only</a></p>
 
-| Icon | Meaning              | Icon | Meaning           |
-| ---- | -------------------- | ---- | ----------------- |
-| 🪟    | Available on Windows | 🟢    | Open-source       |
-| 🍎    | Available on macOS   | ⭐    | Recommended by us |
-| 🐧    | Available on Linux   |      |                   |
+| Icon | Meaning              | Icon | Meaning              |
+|------|----------------------|------|----------------------|
+| 🪟 | Available on Windows   | 🟢   | Open-source          |
+| 🍎 | Available on macOS     | ⭐   | Recommended by us    |
+| 🐧 | Available on Linux     |      |                      |
 
 > [!IMPORTANT]
 > Maintaining this project requires a lot of time. [Donate to support me!](https://patreon.com/axorax) ❤️
