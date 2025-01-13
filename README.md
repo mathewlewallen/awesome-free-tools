@@ -378,8 +378,8 @@
 - [Sublime Text](http://www.sublimetext.com/3) - Fast text editor with powerful search, multi-caret editing, and a strong plugin ecosystem. 🪟 🍎 🐧  
 - [SubEthaEdit](https://subethaedit.net/) - Collaborative text editor enabling real-time editing with multiple users. 🍎  
 - [TextMate](https://macromates.com) - MacOS editor with project management, language bundles, and customizable macros. 🍎  
-- [Vimr](http://vimr.org/) - MacOS app offering a refined Vim experience with enhanced UI and modern features. 🍎  
-- [Zed](https://zed.dev/) - High-performance, collaborative editor designed for speed, real-time collaboration, and custom workflows. 🪟 🍎 🐧  
+- [Vimr](http://vimr.org/) - MacOS app offering a refined Vim experience with enhanced UI and modern features. 🍎 🟢
+- [Zed](https://zed.dev/) - High-performance, collaborative editor designed for speed, real-time collaboration, and custom workflows. 🍎 🐧 🟢
 
 ### Download Managers
 
