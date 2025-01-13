@@ -453,12 +453,12 @@
 - [Cemu](https://cemu.info/) - Wii U emulator that supports 4K resolution. 🪟
 - [MAME](https://mamedev.org/) - Arcade machine emulator with a massive library of supported games. 🪟 🍎 🐧
 - [DOSBox](https://dosbox.com/) - DOS emulator designed for running old DOS games and applications. 🪟 🍎 🐧
+- [DuckStation](https://github.com/stenzek/duckstation) - PlayStation 1 emulator with focus on speed, accuracy, and modern enhancements. 🪟 🍎 🐧 🟢
 - [ScummVM](https://scummvm.org/) - Emulator focused on classic point-and-click adventure games. 🪟 🍎 🐧
 - [Citra](https://citra-emu.org/) - Nintendo 3DS emulator with great compatibility and performance. 🪟 🍎 🐧
 - [OpenEmu](https://openemu.org/) - Multi-system emulator with a clean interface and support for a variety of retro systems. 🍎
 - [xemu](https://xemu.app/) - Original Xbox emulator for playing classic Xbox games on modern systems. 🪟 🍎 🐧
 - [higan](https://higan.dev/) - Multi-system emulator with high accuracy, supporting consoles like SNES and GBA. 🪟 🍎 🐧
-- [DuckStation](https://github.com/stenzek/duckstation) - PlayStation 1 emulator with focus on speed, accuracy, and modern enhancements. 🪟 🍎 🐧 🟢
 - [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PlayStation 1 emulator aimed at advanced debugging and better game compatibility. 🪟 🐧 🟢
 - [Mednafen](https://mednafen.github.io/) - Multi-system emulator with a focus on precision and compatibility. 🪟 🐧
 - [MelonDS](https://melonds.kuribo64.net/) - Nintendo DS emulator with accurate performance and Wi-Fi support. 🪟 🍎 🐧
@@ -469,41 +469,41 @@
 - [GIMP](https://gimp.org/) - Versatile image editor for tasks like photo manipulation and graphic design. 🪟 🍎 🐧 🟢 ⭐
 - [Inkscape](https://inkscape.org/en/) - Vector graphics editor used for creating logos, illustrations, and more. 🪟 🍎 🐧 🟢 ⭐
 - [Krita](https://krita.org/) - Digital painting software designed for illustrators and concept artists. 🪟 🍎 🐧 🟢 ⭐
-- [Figma](https://figma.com/) - Collaborative interface design tool for building UI/UX projects. 🪟 🍎 🐧
-- [Lunacy](https://icons8.com/lunacy) - Design tool offering collaboration features and built-in assets. 🪟 🍎 🐧
-- [Paint.NET](https://getpaint.net/index.html) - Simple yet powerful image editor for quick edits and designs. 🪟
-- [PhotoFiltre](https://photofiltre-studio.com/pf7-en.htm) - Complete image retouching program. 🪟
 - [Aspect](https://aspect.bildhuus.com/) - Photo organizer with peer-to-peer synchronization for secure image storage. 🪟 🍎 🐧
 - [pngquant](https://pngquant.org/) - Command-line tool for compressing PNG images without losing quality. 🪟 🍎 🐧
 - [Alchemy](http://al.chemy.org/) - Experimental drawing application focused on conceptual art creation. 🪟 🍎 🐧
 - [Amadine](https://amadine.com) - Intuitive vector drawing app aimed at graphic designers. 🍎
 - [Colorpicker](https://colorpicker.fr/) - Color manipulation tool for picking and modifying colors. 🪟 🍎 🐧 🟢
 - [Draw.io](https://github.com/jgraph/drawio-desktop) - Desktop app for creating diagrams and flowcharts. 🪟 🍎 🐧 🟢
+- [Figma](https://figma.com/) - Collaborative interface design tool for building UI/UX projects. 🪟 🍎 🐧
 - [FontForge](http://fontforge.github.io/) - Font editor for creating and modifying font files. 🪟 🍎 🐧 🟢
 - [inklet](https://tenonedesign.com/inklet.php) - Use your Mac's trackpad as a drawing board for creative work. 🍎
+- [Lunacy](https://icons8.com/lunacy) - Design tool offering collaboration features and built-in assets. 🪟 🍎 🐧
 - [macSVG](https://macsvg.org/) - Design HTML5 SVG art and animations with this easy-to-use tool. 🍎
 - [MagicaVoxel](https://ephtracy.github.io/) - Lightweight voxel editor and interactive path tracing renderer for 3D models. 🪟 🍎 🐧
 - [Monodraw](http://monodraw.helftone.com) - ASCII art editor for creating and editing text-based drawings. 🍎
 - [Paintbrush](http://paintbrush.sourceforge.net/) - Bitmap image editor with basic drawing tools and pixel-level manipulation. 🪟
+- [Paint.NET](https://getpaint.net/index.html) - Simple yet powerful image editor for quick edits and designs. 🪟
+- [PhotoFiltre](https://photofiltre-studio.com/pf7-en.htm) - Complete image retouching program. 🪟
 - [Pencil2D](https://pencil2d.org) - Simple and intuitive tool for creating 2D hand-drawn animations. 🪟 🍎 🐧
 - [Pixen](https://pixenapp.com/mac/) - Native pixel art and animation editor designed. 🍎
 
 ## 3D Modeling and Animation
 
 - [Blender](https://blender.org/) - 3D creation tool supporting modeling, animation, rendering, video editing, and more. 🪟 🍎 🐧 🟢 ⭐
-- [Wings 3D](http://www.wings3d.com/) - 3D modeling software focusing on subdivision modeling. 🪟 🍎 🐧 🟢
 - [FreeCAD](https://freecadweb.org/) - Parametric 3D CAD modeler for designing real-life objects of any size. 🪟 🍎 🐧
 - [MakeHuman](https://static.makehumancommunity.org/makehuman.html) - 3D human modeler for creating realistic character models. 🪟 🍎 🐧 🟢
 - [OpenSCAD](https://openscad.org/) - Script-based 3D CAD modeler for creating precise solid geometry. 🪟 🍎 🐧
+- [Wings 3D](http://www.wings3d.com/) - 3D modeling software focusing on subdivision modeling. 🪟 🍎 🐧 🟢
 
 ## Security
 
 ### Antivirus
 
 - [Avast](https://avast.com/free-antivirus-download) - Antivirus to help detect and isolate potential cyberthreats. 🪟 🍎 🐧
-- [ClamAV](https://clamav.net/) - Antivirus engine for detecting malware, viruses, and other threats. 🪟 🍎 🐧 🟢
 - [AVG Antivirus](https://avg.com/en-us/free-antivirus-download) - Free antivirus software to protect against viruses, malware, and spyware. 🪟 🍎
 - [Bitdefender](https://bitdefender.com/solutions/free.html) - Lightweight and powerful antivirus for essential protection. 🪟 🍎
+- [ClamAV](https://clamav.net/) - Antivirus engine for detecting malware, viruses, and other threats. 🪟 🍎 🐧 🟢
 - [Malwarebytes](https://malwarebytes.com/) - Malware removal tool offering real-time protection and cleanup. 🪟 🍎
 
 ### Password Managers
@@ -512,8 +512,8 @@
 - [KeePass](https://keepass.info/) - Lightweight password manager for secure storage of passwords in encrypted databases. 🪟 🍎 🐧 🟢
 - [KeePassXC](https://keepassxc.org/) - Modern community fork of KeePass with cross-platform support and enhanced features. 🪟 🍎 🐧
 - [LastPass](https://lastpass.com/) - Cloud-based password manager with secure password sharing and autofill features. 🪟 🍎 🐧
-- [Passbolt](https://passbolt.com/) - Team-oriented password manager for sharing and storing passwords securely. 🪟 🍎 🐧 🟢
 - [NordPass](https://nordpass.com/) - Secure password manager with autofill and password health insights. 🪟 🍎 🐧
+- [Passbolt](https://passbolt.com/) - Team-oriented password manager for sharing and storing passwords securely. 🪟 🍎 🐧 🟢
 - [RoboForm](https://roboform.com/) - Password manager and form filler with multi-platform synchronization. 🪟 🍎 🐧
 
 ## Image Viewers
@@ -578,43 +578,43 @@
 ### Video Streaming and Recording  
 
 - [OBS Studio](https://obsproject.com/) - Software for live streaming and recording video. 🪟 🍎 🐧 🟢 ⭐ 
-- [Streamlabs Desktop](https://streamlabs.com/) - Streaming software with customizable alerts and overlays. 🪟 🍎 🟢
 - [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Video conferencing and live streaming with ease. 🪟 🍎 🐧 🟢
-- [XSplit Broadcaster](https://xsplit.com/) - Streaming and recording with advanced features and effects. 🪟
-- [Zoom](https://zoom.us/) - Video meetings with streaming, recording, and screen sharing. 🪟 🍎 🐧
-- [Nginx RTMP](https://github.com/arut/nginx-rtmp-module) - RTMP streaming server built with NGINX. 🐧 🟢
 - [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line tool to stream video from multiple platforms. 🪟 🍎 🐧 🟢
 - [Kaltura](https://kaltura.com/) - Platform for managing and streaming video content. 🪟 🍎 🐧 🟢
+- [Nginx RTMP](https://github.com/arut/nginx-rtmp-module) - RTMP streaming server built with NGINX. 🐧 🟢
+- [Streamlabs Desktop](https://streamlabs.com/) - Streaming software with customizable alerts and overlays. 🪟 🍎 🟢
+- [XSplit Broadcaster](https://xsplit.com/) - Streaming and recording with advanced features and effects. 🪟
+- [Zoom](https://zoom.us/) - Video meetings with streaming, recording, and screen sharing. 🪟 🍎 🐧
 
 ### Video Converters and Compressors  
 
 - [FFmpeg](https://ffmpeg.org/) - Powerful tool for format conversion and multimedia editing. 🪟 🍎 🐧 🟢 ⭐ 
 - [HandBrake](https://handbrake.fr/) - Video transcoder with preset profiles for device compatibility. 🪟 🍎 🐧 🟢
 - [Any Video Converter](https://any-video-converter.com/) - Supports batch conversion and output to various formats. 🪟 🍎
-- [Format Factory](http://www.pcfreetime.com/formatfactory/) - Converts video, audio, and images with customizable settings. 🪟
-- [XMedia Recode](https://xmedia-recode.de/en/) - Multi-format converter with advanced video editing features. 🪟
-- [Shutter Encoder](https://shutterencoder.com/) - Supports video, audio, and image conversion with extra processing tools. 🪟 🍎
-- [VidCoder](https://vidcoder.net/) - User-friendly HandBrake-based transcoder with batch processing. 🪟 🍎 🟢
 - [FastFlix](https://github.com/cdgriffith/FastFlix) - GUI for fast encoding with H.264, HEVC, and AV1 support. 🪟 🟢
+- [Format Factory](http://www.pcfreetime.com/formatfactory/) - Converts video, audio, and images with customizable settings. 🪟
+- [Shutter Encoder](https://shutterencoder.com/) - Supports video, audio, and image conversion with extra processing tools. 🪟 🍎
+- [XMedia Recode](https://xmedia-recode.de/en/) - Multi-format converter with advanced video editing features. 🪟
+- [VidCoder](https://vidcoder.net/) - User-friendly HandBrake-based transcoder with batch processing. 🪟 🍎 🟢
 
 ## VPN and Proxy Tools
 
 - [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Easy-to-use OpenVPN client with a macOS-friendly interface. 🍎 🟢
 - [Algo](https://github.com/trailofbits/algo) - Simple IPSEC VPN setup for secure cloud connections. 🪟 🍎 🐧 🟢
 - [Cloudflare WARP](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) - VPN and DNS service enhancing privacy and security. 🪟 🍎 🐧
+- [rvc-mac](https://github.com/riboseinc/cryptode-mac) - Secure VPN client from Ribose. 🍎 🟢
+- [WireGuard](https://wireguard.com/) - Fast, secure VPN protocol designed for simplicity. 🪟 🍎 🐧
+- [Lantern](https://getlantern.org/) - Internet freedom tool to bypass restrictions. 🪟 🍎 🐧
+- [OpenVPN](https://openvpn.net/community-downloads/) - VPN solution for secure internet connections with customizable settings. 🪟 🟢
+- [Proxifier](https://proxifier.com/) - Windows proxy client that routes applications via a proxy server. 🪟
+- [Psiphon](https://psiphon.ca/) - VPN and proxy tool for bypassing censorship. 🪟 🍎
 - [ProtonVPN](https://protonvpn.com/) - High-speed VPN from Switzerland with strong privacy features. 🪟 🍎 🐧
+- [SoftEther VPN](https://softether.org/) - Multi-protocol VPN software for secure connections. 🪟 🟢
+- [Sing-box](https://github.com/SagerNet/sing-box) - Universal proxy platform supporting multiple protocols. 🪟 🍎 🐧 🟢
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Modern Shadowsocks client for enhanced security. 🍎 🟢
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Minimal proxy tool using rule-based configuration. 🍎 🟢
 - [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy with Network Extension support. 🍎 🟢
 - [Twingate](https://twingate.com/) - Zero trust access for secure private network connections. 🪟 🍎 🐧
-- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Modern Shadowsocks client for enhanced security. 🍎 🟢
-- [rvc-mac](https://github.com/riboseinc/cryptode-mac) - Secure VPN client from Ribose. 🍎 🟢
-- [WireGuard](https://wireguard.com/) - Fast, secure VPN protocol designed for simplicity. 🪟 🍎 🐧
-- [Proxifier](https://proxifier.com/) - Windows proxy client that routes applications via a proxy server. 🪟
-- [Psiphon](https://psiphon.ca/) - VPN and proxy tool for bypassing censorship. 🪟 🍎
-- [Lantern](https://getlantern.org/) - Internet freedom tool to bypass restrictions. 🪟 🍎 🐧
-- [OpenVPN](https://openvpn.net/community-downloads/) - VPN solution for secure internet connections with customizable settings. 🪟 🟢
-- [SoftEther VPN](https://softether.org/) - Multi-protocol VPN software for secure connections. 🪟 🟢
-- [Sing-box](https://github.com/SagerNet/sing-box) - Universal proxy platform supporting multiple protocols. 🪟 🍎 🐧 🟢
 
 ## Utility
 
@@ -638,15 +638,14 @@
 ### Clipboard Management
 
 - [ClipAngel](https://sourceforge.net/projects/clip-angel/) - Clipboard manager supporting rich text and images. 🪟
+- [Clipboard Fusion](https://clipboardfusion.com/) - Clipboard manager with data transformation features. 🪟 🍎
 - [Clipy](https://clipy-app.com/) - Simple clipboard manager. 🍎 🟢
 - [CopyQ](https://hluk.github.io/CopyQ/) - Clipboard manager with editing and scripting features. 🪟 🍎 🐧 🟢
+- [Diodon](https://github.com/diodon-dev/diodon) - Simple and minimal clipboard manager. 🐧 🟢
 - [Ditto](https://ditto-cp.sourceforge.io/) - Advanced clipboard manager with extended functionality for Windows. 🪟
 - [Maccy](https://maccy.app/) - Minimal clipboard manager. 🍎 🟢
 - [Parcellite](https://parcellite.sourceforge.io/) - Basic clipboard manager. 🐧
 - [Qopy](https://github.com/0pandadev/qopy) - Minimalist clipboard manager with unique features. 🪟 🍎 🐧 🟢
-- [Diodon](https://github.com/diodon-dev/diodon) - Simple and minimal clipboard manager. 🐧 🟢
-- [Clipboard Fusion](https://clipboardfusion.com/) - Clipboard manager with data transformation features. 🪟 🍎
-
 ### Metadata
 
 - [ExifTool](https://exiftool.org/) - Command-line tool for editing metadata in various file types. 🪟 🍎 🐧 ⭐
