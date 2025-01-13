@@ -19,60 +19,64 @@
 
 ## Contents
 
+<!-- AF-TOC : Monday, January 13, 2025 at 01:44:58 PM GMT+6 -->
+
 - [Audio](#audio)
-    - [Audio Players](#audio-players)
-    - [Audio Recording](#audio-recording)
-    - [DJ Software](#dj-software)
-    - [Music Notation](#music-notation)
-    - [Music Production](#music-production)
+  - [Audio Players](#audio-players)
+  - [Audio Recording](#audio-recording)
+  - [DJ Software](#dj-software)
+  - [Music Notation](#music-notation)
+  - [Music Production](#music-production)
 - [Browsers](#browsers)
 - [Communication](#communication)
-    - [Messaging](#messaging)
-    - [Email Clients](#email-clients)
+  - [Messaging](#messaging)
+  - [Email Clients](#email-clients)
 - [Compression and Archiving](#compression-and-archiving)
 - [Customize](#customize)
-    - [System Customization](#system-customization)
-    - [Wallpaper Tools](#wallpaper-tools)
+  - [System Customization](#system-customization)
+  - [Wallpaper Tools](#wallpaper-tools)
 - [Data Management](#data-management)
-    - [Copy and Move](#copy-and-move)
-    - [Sync and Clone](#sync-and-clone)
+  - [Copy and Move](#copy-and-move)
+  - [Sync and Clone](#sync-and-clone)
 - [Developer Tools](#developer-tools)
-    - [API Development](#api-development)
-    - [Database](#database)
-    - [Network Analysis](#network-analysis)
-    - [Game Engines](#game-engines)
-    - [Virtualization](#virtualization)
+  - [API Development](#api-development)
+  - [Database](#database)
+  - [Network Analysis](#network-analysis)
+  - [Game Engines](#game-engines)
+  - [Virtualization](#virtualization)
 - [Documents](#documents)
-    - [Office Suites](#office-suites)
-    - [E-book](#e-book)
-    - [PDF Tools](#pdf-tools)
-- [Note taking](#note-taking)
+  - [Office Suites](#office-suites)
+  - [E-book](#e-book)
+  - [PDF Tools](#pdf-tools)
+- [Note Taking](#note-taking)
 - [Text Editors](#text-editors)
-- [Download Managers](#download-managers)
-- [Games](#games)
-    - [Cloud Gaming](#cloud-gaming)
-    - [Mobile Emulators](#mobile-emulators)
-    - [Other Emulators](#other-emulators)
+  - [Download Managers](#download-managers)
+  - [Games](#games)
+  - [Cloud Gaming](#cloud-gaming)
+  - [Mobile Emulators](#mobile-emulators)
+  - [Other Emulators](#other-emulators)
 - [Graphics Tools](#graphics-tools)
 - [3D Modeling and Animation](#3d-modeling-and-animation)
 - [Security](#security)
-    - [Antivirus](#antivirus)
-    - [Password Managers](#password-managers)
+  - [Antivirus](#antivirus)
+  - [Password Managers](#password-managers)
 - [Image Viewers](#image-viewers)
 - [Remote Access](#remote-access)
 - [Video](#video)
-    - [Video Editors](#video-editors)
-    - [Video Players](#video-players)
-    - [Video Streaming and Recording](#video-streaming-and-recording)
-    - [Video Converters and Compressors](#video-converters-and-compressors)
+  - [Video Editors](#video-editors)
+  - [Video Players](#video-players)
+  - [Video Streaming and Recording](#video-streaming-and-recording)
+  - [Video Converters and Compressors](#video-converters-and-compressors)
 - [VPN and Proxy Tools](#vpn-and-proxy-tools)
 - [Utility](#utility)
-    - [Clipboard Management](#clipboard-management)
-    - [Metadata](#metadata)
-    - [Window Management](#window-management)
-    - [File Management](#file-management)
-    - [Screenshot](#screenshot)
-    - [Space Visualizer](#space-visualizer)
+  - [Clipboard Management](#clipboard-management)
+  - [Metadata](#metadata)
+  - [Window Management](#window-management)
+  - [File Management](#file-management)
+  - [Screenshot](#screenshot)
+  - [Space Visualizer](#space-visualizer)
+
+<!-- AF-END -->
 
 ## Audio
 
@@ -188,7 +192,9 @@
 - [TaskbarX](https://chrisandriessen.nl/taskbarx) - Personalize the taskbar with center alignment, transparency, and animations. 🪟
 - [Sizer](https://brianapps.net/sizer/) - Resize any window to a predefined size. 🪟
 - [FluentFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - Replaces default flyouts with customizable modern ones. 🪟 🟢
-- [Flow Launcher](https://flowlauncher.com/) - Quick file search and app launcher like Spotlight. 🪟n/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows. 🪟
+- [Flow Launcher](https://flowlauncher.com/) - Quick file search and app launcher like Spotlight. 🪟
+- [RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows. 🪟
+- [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows) - The most powerful PowerShell module for fine-tuning Windows showing how Windows can be configured without making any harm to it. 🪟
 
 ### Wallpaper Tools
 
@@ -338,7 +344,6 @@
 - [micro](https://micro-editor.github.io) - Simple, modern terminal-based editor with support for mouse interaction and plugin extensions. 🪟 🍎 🐧  
 - [Neovim](https://github.com/neovim/neovim) - Advanced terminal editor with improved extensibility, plugins, and modern features. 🪟 🍎 🐧 🟢  
 - [Sublime Text](http://www.sublimetext.com/3) - Fast text editor with powerful search, multi-caret editing, and a strong plugin ecosystem. 🪟 🍎 🐧  
-- [Zed](https://zed.dev/) - High-performance, collaborative editor designed for speed, real-time collaboration, and custom workflows. 🪟 🍎 🐧  
 
 ### Download Managers
 
@@ -349,7 +354,7 @@
 - [Aria2](https://aria2.github.io/) - Lightweight, command-line download utility supporting multiple protocols. 🪟 🍎 🐧 🟢  
 - [Motrix](https://motrix.app/) - Simple and clean download manager with cross-platform support. 🪟 🍎 🐧 🟢  
 - [Persepolis Download Manager](https://persepolisdm.github.io/) - GUI for Aria2, providing an intuitive interface. 🪟 🍎 🐧 🟢
-- [Download Master](https://downloadmaster.com/) - Download manager by WestByte 🪟
+- [Download Master](https://downloadmaster.com/) - Download manager by WestByte. 🪟
 
 ### Games
 - [Steam](https://store.steampowered.com/) - Platform for buying and playing PC games. 🪟 🍎 🐧 ⭐

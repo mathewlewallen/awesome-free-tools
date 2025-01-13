@@ -19,60 +19,64 @@
 
 ## Contents
 
+<!-- AF-TOC : Monday, January 13, 2025 at 01:44:58 PM GMT+6 -->
+
 - [Audio](#audio)
-    - [Audio Players](#audio-players)
-    - [Audio Recording](#audio-recording)
-    - [DJ Software](#dj-software)
-    - [Music Notation](#music-notation)
-    - [Music Production](#music-production)
+  - [Audio Players](#audio-players)
+  - [Audio Recording](#audio-recording)
+  - [DJ Software](#dj-software)
+  - [Music Notation](#music-notation)
+  - [Music Production](#music-production)
 - [Browsers](#browsers)
 - [Communication](#communication)
-    - [Messaging](#messaging)
-    - [Email Clients](#email-clients)
+  - [Messaging](#messaging)
+  - [Email Clients](#email-clients)
 - [Compression and Archiving](#compression-and-archiving)
 - [Customize](#customize)
-    - [System Customization](#system-customization)
-    - [Wallpaper Tools](#wallpaper-tools)
+  - [System Customization](#system-customization)
+  - [Wallpaper Tools](#wallpaper-tools)
 - [Data Management](#data-management)
-    - [Copy and Move](#copy-and-move)
-    - [Sync and Clone](#sync-and-clone)
+  - [Copy and Move](#copy-and-move)
+  - [Sync and Clone](#sync-and-clone)
 - [Developer Tools](#developer-tools)
-    - [API Development](#api-development)
-    - [Database](#database)
-    - [Network Analysis](#network-analysis)
-    - [Game Engines](#game-engines)
-    - [Virtualization](#virtualization)
+  - [API Development](#api-development)
+  - [Database](#database)
+  - [Network Analysis](#network-analysis)
+  - [Game Engines](#game-engines)
+  - [Virtualization](#virtualization)
 - [Documents](#documents)
-    - [Office Suites](#office-suites)
-    - [E-book](#e-book)
-    - [PDF Tools](#pdf-tools)
-- [Note taking](#note-taking)
+  - [Office Suites](#office-suites)
+  - [E-book](#e-book)
+  - [PDF Tools](#pdf-tools)
+- [Note Taking](#note-taking)
 - [Text Editors](#text-editors)
-- [Download Managers](#download-managers)
-- [Games](#games)
-    - [Cloud Gaming](#cloud-gaming)
-    - [Mobile Emulators](#mobile-emulators)
-    - [Other Emulators](#other-emulators)
+  - [Download Managers](#download-managers)
+  - [Games](#games)
+  - [Cloud Gaming](#cloud-gaming)
+  - [Mobile Emulators](#mobile-emulators)
+  - [Other Emulators](#other-emulators)
 - [Graphics Tools](#graphics-tools)
 - [3D Modeling and Animation](#3d-modeling-and-animation)
 - [Security](#security)
-    - [Antivirus](#antivirus)
-    - [Password Managers](#password-managers)
+  - [Antivirus](#antivirus)
+  - [Password Managers](#password-managers)
 - [Image Viewers](#image-viewers)
 - [Remote Access](#remote-access)
 - [Video](#video)
-    - [Video Editors](#video-editors)
-    - [Video Players](#video-players)
-    - [Video Streaming and Recording](#video-streaming-and-recording)
-    - [Video Converters and Compressors](#video-converters-and-compressors)
+  - [Video Editors](#video-editors)
+  - [Video Players](#video-players)
+  - [Video Streaming and Recording](#video-streaming-and-recording)
+  - [Video Converters and Compressors](#video-converters-and-compressors)
 - [VPN and Proxy Tools](#vpn-and-proxy-tools)
 - [Utility](#utility)
-    - [Clipboard Management](#clipboard-management)
-    - [Metadata](#metadata)
-    - [Window Management](#window-management)
-    - [File Management](#file-management)
-    - [Screenshot](#screenshot)
-    - [Space Visualizer](#space-visualizer)
+  - [Clipboard Management](#clipboard-management)
+  - [Metadata](#metadata)
+  - [Window Management](#window-management)
+  - [File Management](#file-management)
+  - [Screenshot](#screenshot)
+  - [Space Visualizer](#space-visualizer)
+
+<!-- AF-END -->
 
 ## Audio
 
@@ -117,7 +121,7 @@
 
 - [7-Zip](https://7-zip.org/download.html) - Archive manager supporting 7z, ZIP, and other formats. 🪟 🟢 ⭐
 - [PeaZip](https://peazip.github.io/) - Archive manager supporting 180+ formats with encryption and compression. 🪟 🐧 🟢
-- [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - Tool for tagging and organizing PDFs on macOS. 🍎 🟢
+- [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - Tool for tagging and organizing PDFs. 🍎 🟢
 
 ## Customize
 
@@ -219,6 +223,8 @@
 - [CodeEdit](https://codeedit.app/) - Native macOS editor with live preview, Git integration, and Markdown support. 🍎 🟢  
 - [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - Visual editor with a canvas UI to help navigate and understand code structure. 🪟 🍎 🐧 🟢  
 - [Neovim](https://github.com/neovim/neovim) - Advanced terminal editor with improved extensibility, plugins, and modern features. 🪟 🍎 🐧 🟢  
+- [Vimr](http://vimr.org/) - Editor offering a refined Vim experience with enhanced UI and modern features. 🍎 🟢
+- [Zed](https://zed.dev/) - High-performance, collaborative editor designed for speed, real-time collaboration, and custom workflows. 🍎 🐧 🟢
 
 ### Download Managers
 
@@ -297,7 +303,7 @@
 - [Kodi](https://kodi.tv/) - Media center that allows you to play and view most videos, music, podcasts, and other digital media files. 🪟 🍎 🐧 🟢
 - [MPV](https://mpv.io/) - Cross-platform media player with a simple interface. 🪟 🍎 🐧 🟢
 - [MPC-HC](https://github.com/clsid2/mpc-hc) - Lightweight video player with support for all common formats. 🪟 🟢
-- [IINA](https://iina.io/) - Media player for macOS. Performs better than VLC. 🍎 🟢
+- [IINA](https://iina.io/) - Media player that claims to perform better than VLC. 🍎 🟢
 
 ### Video Streaming and Recording  
 
@@ -319,10 +325,10 @@
 
 - [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Easy-to-use OpenVPN client with a macOS-friendly interface. 🍎 🟢  
 - [Algo](https://github.com/trailofbits/algo) - Simple IPSEC VPN setup for secure cloud connections. 🪟 🍎 🐧 🟢  
-- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Minimal proxy tool for macOS using rule-based configuration. 🍎 🟢  
-- [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy for macOS with Network Extension support. 🍎 🟢  
-- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Modern Shadowsocks client for enhanced macOS security. 🍎 🟢  
-- [rvc-mac](https://github.com/riboseinc/cryptode-mac) - Secure VPN client for macOS from Ribose. 🍎 🟢  
+- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Minimal proxy tool using rule-based configuration. 🍎 🟢  
+- [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy with Network Extension support. 🍎 🟢  
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Modern Shadowsocks client for enhanced security. 🍎 🟢  
+- [rvc-mac](https://github.com/riboseinc/cryptode-mac) - Secure VPN client from Ribose. 🍎 🟢  
 - [OpenVPN](https://openvpn.net/community-downloads/) - VPN solution for secure internet connections with customizable settings. 🪟 🟢  
 - [SoftEther VPN](https://softether.org/) - Multi-protocol VPN software for secure connections. 🪟 🟢  
 - [Sing-box](https://github.com/SagerNet/sing-box) - Universal proxy platform supporting multiple protocols. 🪟 🍎 🐧 🟢  
@@ -336,9 +342,9 @@
 
 ### Clipboard Management
 
-- [Clipy](https://clipy-app.com/) - Simple clipboard manager for macOS. 🍎 🟢  
+- [Clipy](https://clipy-app.com/) - Simple clipboard manager. 🍎 🟢  
 - [CopyQ](https://hluk.github.io/CopyQ/) - Clipboard manager with editing and scripting features. 🪟 🍎 🐧 🟢  
-- [Maccy](https://maccy.app/) - Minimal clipboard manager for macOS. 🍎 🟢  
+- [Maccy](https://maccy.app/) - Minimal clipboard manager. 🍎 🟢  
 - [Qopy](https://github.com/0pandadev/qopy) - Minimalist clipboard manager with unique features. 🪟 🍎 🐧 🟢  
 - [Diodon](https://github.com/diodon-dev/diodon) - Simple and minimal clipboard manager. 🐧 🟢  
 
