@@ -4,7 +4,8 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 ## Guidelines
 
-- Commit message of your pull request should be in the format `Add: x`, `Fix: y`, `Update: z`. Example: `Add: Winpower`
+- Commit message of your pull request should be in the format `Add: x`, `Fix: y`, `Update: z`, `Feat: a`. Example: `Add: Winpower` <br> Use feat if you add new features like adding a new command to the CLI helper app. Use add when adding new apps, and the others pretty much explain themselves
+
 - App should be added in this format and it should be added to the bottom of the specific category:
 
 ```
