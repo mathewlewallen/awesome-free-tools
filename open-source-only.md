@@ -15,11 +15,13 @@
 >
 > [Discord server](https://discord.gg/nKUFghjXQu) — [Patreon](https://patreon.com/axorax)
 >
+> Want to add something to the list? Check -> [contributing.md](contributing.md)
+>
 > If you want to become a maintainer, check this -> https://github.com/Axorax/awesome-free-apps/issues/28
 
 ## Contents
 
-<!-- AF-TOC : Monday, January 13, 2025 at 01:44:58 PM GMT+6 -->
+<!-- AF-TOC : Monday, January 13, 2025 at 02:18:24 PM GMT+6 -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
