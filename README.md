@@ -388,6 +388,7 @@
 - [LightTable](http://lighttable.com/) - Code editor offering real-time feedback and live execution of code in an interactive environment. 🪟 🍎 🐧
 - [micro](https://micro-editor.github.io) - Simple, modern terminal-based editor with support for mouse interaction and plugin extensions. 🪟 🍎 🐧
 - [Neovim](https://github.com/neovim/neovim) - Advanced terminal editor with improved extensibility, plugins, and modern features. 🪟 🍎 🐧 🟢
+- [Notepad 3](https://rizonesoft.com/downloads/notepad3/) - fast and light-weight Scintilla-based text editor with syntax highlighting. 🪟 🟢
 - [Nova](https://nova.app/) - Editor with an intuitive interface, fast navigation, and built-in Git support. 🍎
 - [Sublime Text](http://www.sublimetext.com/3) - Fast text editor with powerful search, multi-caret editing, and a strong plugin ecosystem. 🪟 🍎 🐧
 - [SubEthaEdit](https://subethaedit.net/) - Collaborative text editor enabling real-time editing with multiple users. 🍎
