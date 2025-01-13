@@ -46,7 +46,7 @@
     - [Office Suites](#office-suites)
     - [E-book](#e-book)
     - [PDF Tools](#pdf-tools)
-- [Note taking](#note-taking)
+- [Note Taking](#note-taking)
 - [Text Editors](#text-editors)
 - [Download Managers](#download-managers)
 - [Games](#games)
@@ -186,7 +186,7 @@
 - [muCommander](http://www.mucommander.com) - Lightweight dual-pane file manager with archive support. 🍎
 - [The Unarchiver](https://theunarchiver.com/) - Simple tool for extracting ZIP, RAR, ISO, and other formats. 🍎
 - [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - Multi-format decompression tool with QuickLook integration. 🍎
-- [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - Tool for tagging and organizing PDFs on macOS. 🍎 🟢
+- [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - Tool for tagging and organizing PDFs. 🍎 🟢
 
 ## Customize
 
@@ -245,7 +245,7 @@
 - [HTTP Toolkit](https://httptoolkit.tech/) - Tool for debugging and mocking HTTP requests. 🪟
 - [SoapUI Open Source](https://soapui.org/open-source/) - For testing REST and SOAP APIs with scripting support. 🪟 🍎 🐧 🟢
 - [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Native app for testing REST APIs. 🍎
-- [Paw](https://paw.cloud/) - Advanced HTTP client designed for macOS. 🍎
+- [Paw](https://paw.cloud/) - Advanced HTTP client designed. 🍎
 - [Katalon Studio](https://katalon.com/) - Testing automation for APIs, web, and mobile apps. 🍎
 - [HTTPie](https://httpie.io/) - Command-line and GUI tool to simplify working with APIs. 🪟 🍎
 - [Mockoon](https://mockoon.com/) - Desktop tool for creating and testing mock REST APIs. 🪟 🍎 🐧
@@ -365,20 +365,20 @@
 - [FluentEdit](https://apps.microsoft.com/detail/9nwl9m9jpq36?hl=en-US&gl=BD) - Simple code editor with a Fluent design, featuring split view and customizable themes. 🪟  
 - [Fastedit](https://github.com/FrozenAssassine/Fastedit) - Minimal text editor with a frost glass background and basic text editing tools. 🪟 🟢  
 - [Bluefish](https://bluefish.openoffice.org/) - Web developer editor supporting HTML, CSS, JavaScript, and PHP with built-in preview. 🪟 🍎 🐧  
-- [Aurora Editor](https://auroraeditor.com/) - Fast, lightweight macOS editor with modern design and syntax highlighting. 🍎  
+- [Aurora Editor](https://auroraeditor.com/) - Fast, lightweight editor with modern design and syntax highlighting. 🍎  
 - [CodeEdit](https://codeedit.app/) - Native macOS editor with live preview, Git integration, and Markdown support. 🍎 🟢  
-- [CotEditor](https://coteditor.com) - MacOS text editor with syntax highlighting, snippets, and regular expression search. 🍎  
+- [CotEditor](https://coteditor.com) - Text editor with syntax highlighting, snippets, and regular expression search. 🍎  
 - [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - Visual editor with a canvas UI to help navigate and understand code structure. 🪟 🍎 🐧 🟢  
 - [Helix](https://helix-editor.com/) - Modal text editor with powerful text manipulation, multiple cursors, and a modern UI. 🪟 🍎 🐧  
 - [Lapce](https://lapce.dev/) - Fast, extensible editor with built-in support for multiple languages and advanced editing features. 🪟 🍎 🐧  
 - [LightTable](http://lighttable.com/) - Code editor offering real-time feedback and live execution of code in an interactive environment. 🪟 🍎 🐧  
 - [micro](https://micro-editor.github.io) - Simple, modern terminal-based editor with support for mouse interaction and plugin extensions. 🪟 🍎 🐧  
 - [Neovim](https://github.com/neovim/neovim) - Advanced terminal editor with improved extensibility, plugins, and modern features. 🪟 🍎 🐧 🟢  
-- [Nova](https://nova.app/) - MacOS editor with an intuitive interface, fast navigation, and built-in Git support. 🍎  
+- [Nova](https://nova.app/) - Editor with an intuitive interface, fast navigation, and built-in Git support. 🍎  
 - [Sublime Text](http://www.sublimetext.com/3) - Fast text editor with powerful search, multi-caret editing, and a strong plugin ecosystem. 🪟 🍎 🐧  
 - [SubEthaEdit](https://subethaedit.net/) - Collaborative text editor enabling real-time editing with multiple users. 🍎  
-- [TextMate](https://macromates.com) - MacOS editor with project management, language bundles, and customizable macros. 🍎  
-- [Vimr](http://vimr.org/) - MacOS app offering a refined Vim experience with enhanced UI and modern features. 🍎 🟢
+- [TextMate](https://macromates.com) - Editor with project management, language bundles, and customizable macros. 🍎  
+- [Vimr](http://vimr.org/) - Editor offering a refined Vim experience with enhanced UI and modern features. 🍎 🟢
 - [Zed](https://zed.dev/) - High-performance, collaborative editor designed for speed, real-time collaboration, and custom workflows. 🍎 🐧 🟢
 
 ### Download Managers
@@ -390,7 +390,7 @@
 - [Aria2](https://aria2.github.io/) - Lightweight, command-line download utility supporting multiple protocols. 🪟 🍎 🐧 🟢  
 - [Motrix](https://motrix.app/) - Simple and clean download manager with cross-platform support. 🪟 🍎 🐧 🟢  
 - [Persepolis Download Manager](https://persepolisdm.github.io/) - GUI for Aria2, providing an intuitive interface. 🪟 🍎 🐧 🟢
-- [Download Master](https://downloadmaster.com/) - Download manager by WestByte 🪟
+- [Download Master](https://downloadmaster.com/) - Download manager by WestByte. 🪟
 
 ### Games
 - [Steam](https://store.steampowered.com/) - Platform for buying and playing PC games. 🪟 🍎 🐧 ⭐
@@ -472,7 +472,7 @@
 - [Monodraw](http://monodraw.helftone.com) - ASCII art editor for creating and editing text-based drawings. 🍎
 - [Paintbrush](http://paintbrush.sourceforge.net/) - Bitmap image editor with basic drawing tools and pixel-level manipulation. 🪟
 - [Pencil2D](https://pencil2d.org) - Simple and intuitive tool for creating 2D hand-drawn animations. 🪟 🍎 🐧
-- [Pixen](https://pixenapp.com/mac/) - Native pixel art and animation editor designed for macOS. 🍎
+- [Pixen](https://pixenapp.com/mac/) - Native pixel art and animation editor designed. 🍎
 
 ## 3D Modeling and Animation
 
@@ -559,7 +559,7 @@
 - [ScreenToGif](https://screentogif.com/) - Screen recording software that allows you to capture GIFs and videos with customizable export options. 🪟
 - [Videotape](https://usuaia.com/videotape) - Simple and minimalist video player for quick playback of local video files. 🪟
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - Media player with the ability to remember playback settings and support for various video formats. 🪟 🍎 🐧
-- [IINA](https://iina.io/) - Media player for macOS. Performs better than VLC. 🍎 🟢
+- [IINA](https://iina.io/) - Media player that claims to perform better than VLC. 🍎 🟢
 
 ### Video Streaming and Recording  
 
@@ -589,11 +589,11 @@
 - [Algo](https://github.com/trailofbits/algo) - Simple IPSEC VPN setup for secure cloud connections. 🪟 🍎 🐧 🟢  
 - [Cloudflare WARP](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) - VPN and DNS service enhancing privacy and security. 🪟 🍎 🐧  
 - [ProtonVPN](https://protonvpn.com/) - High-speed VPN from Switzerland with strong privacy features. 🪟 🍎 🐧  
-- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Minimal proxy tool for macOS using rule-based configuration. 🍎 🟢  
-- [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy for macOS with Network Extension support. 🍎 🟢  
+- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Minimal proxy tool using rule-based configuration. 🍎 🟢  
+- [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy with Network Extension support. 🍎 🟢  
 - [Twingate](https://twingate.com/) - Zero trust access for secure private network connections. 🪟 🍎 🐧  
-- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Modern Shadowsocks client for enhanced macOS security. 🍎 🟢  
-- [rvc-mac](https://github.com/riboseinc/cryptode-mac) - Secure VPN client for macOS from Ribose. 🍎 🟢  
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Modern Shadowsocks client for enhanced security. 🍎 🟢  
+- [rvc-mac](https://github.com/riboseinc/cryptode-mac) - Secure VPN client from Ribose. 🍎 🟢  
 - [WireGuard](https://wireguard.com/) - Fast, secure VPN protocol designed for simplicity. 🪟 🍎 🐧  
 - [Proxifier](https://proxifier.com/) - Windows proxy client that routes applications via a proxy server. 🪟  
 - [Psiphon](https://psiphon.ca/) - VPN and proxy tool for bypassing censorship. 🪟 🍎  
@@ -623,9 +623,9 @@
 ### Clipboard Management
 
 - [Ditto](https://ditto-cp.sourceforge.io/) - Advanced clipboard manager with extended functionality for Windows. 🪟  
-- [Clipy](https://clipy-app.com/) - Simple clipboard manager for macOS. 🍎 🟢  
+- [Clipy](https://clipy-app.com/) - Simple clipboard manager. 🍎 🟢  
 - [CopyQ](https://hluk.github.io/CopyQ/) - Clipboard manager with editing and scripting features. 🪟 🍎 🐧 🟢  
-- [Maccy](https://maccy.app/) - Minimal clipboard manager for macOS. 🍎 🟢  
+- [Maccy](https://maccy.app/) - Minimal clipboard manager. 🍎 🟢  
 - [ClipAngel](https://sourceforge.net/projects/clip-angel/) - Clipboard manager supporting rich text and images. 🪟  
 - [Parcellite](https://parcellite.sourceforge.io/) - Basic clipboard manager. 🐧  
 - [Qopy](https://github.com/0pandadev/qopy) - Minimalist clipboard manager with unique features. 🪟 🍎 🐧 🟢  
