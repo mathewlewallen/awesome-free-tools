@@ -6,9 +6,9 @@
 
 | Icon | Meaning              | Icon | Meaning              |
 |------|----------------------|------|----------------------|
-| 🪟 | Available on Windows | 🟢 | Open-source          |
-| 🍎 | Available on macOS   | ⭐  | Recommended by us    |
-| 🐧 | Available on Linux   |      |                      |
+| 🪟 | Available on Windows   | 🟢   | Open-source          |
+| 🍎 | Available on macOS     | ⭐   | Recommended by us    |
+| 🐧 | Available on Linux     |      |                      |
 
 > [!IMPORTANT]
 > Maintaining this project requires a lot of time. [Donate to support me!](https://patreon.com/axorax) ❤️
