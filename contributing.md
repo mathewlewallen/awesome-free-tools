@@ -31,6 +31,8 @@ Example:
 
 - To add a new category, just make it following the rules for the other ones in the file. DO NOT change anything in the Table of Contents as it is auto-generated. After you make a new category, it will be automatically added in the contents later on.
 
+- DO NOT change the order of any apps. You can add your app to the bottom of the category but don't change the order like ordering alphabetically or anything.
+
 ## Adding something
 
 You'll need a [GitHub account](https://github.com/join)!
