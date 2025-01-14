@@ -3,6 +3,7 @@
 </p>
 
 <p align="center"><a href="./filter/android-only.md">Android Only</a> — <a href="./filter/iOS-only.md">iOS Only</a> — <a href="./filter/open-source-mobile-only.md">Open-source Only</a> — <a href="./filter/recommended-mobile-only.md">Recommended Only</a></p>
+<p align="center"><a href="./README.md">PC version</a> — <a href="./filter/windows-only.md">Windows Only</a> — <a href="./filter/macOS-only.md">macOS Only</a> — <a href="./filter/linux-only.md">Linux Only</a></p>
 
 | Icon | Meaning              | Icon | Meaning              |
 |------|----------------------|------|----------------------|

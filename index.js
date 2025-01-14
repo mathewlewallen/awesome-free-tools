@@ -28,7 +28,7 @@ function create(file, fileName, emoji) {
     result.push(lines[i]);
   }
 
-  fs.writeFileSync(`${outputDir}/${fileName}.md`, result.join('\n').replaceAll('./filter/', '').replaceAll('src="./', 'src="../'));
+  fs.writeFileSync(`${outputDir}/${fileName}.md`, result.join('\n').replaceAll('./filter/', '').replaceAll('href="./', 'href="../').replaceAll('src="./', 'src="../'));
   console.log(`${fileName} time: \x1b[32m${Date.now() - startTime}ms\x1b[0m`);
 }
 
