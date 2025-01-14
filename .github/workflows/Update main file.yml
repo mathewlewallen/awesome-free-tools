@@ -23,5 +23,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "update" || echo "No changes to commit"
+          git commit -m "Update: Generate ToC, Categorize, Format README.md" || echo "No changes to commit"
           git push
