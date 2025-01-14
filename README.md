@@ -687,6 +687,11 @@
 - [WinSCP](https://winscp.net/) - Easy-to-use SFTP, FTP, and WebDAV client. 🪟 🟢
 - [Xftp 7](https://netsarang.com/en/xftp/) - Flexible SFTP/FTP client for efficient file transfers. 🪟
 
+### Application Management
+
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Powerful tool for uninstalling multiple applications and cleaning leftovers. 🪟 🟢 ⭐
+- [Revo Uninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download/) - Advanced uninstaller to remove programs and residual files with free tier. 🪟 🟢
+
 ### Screenshot
 
 - [ShareX](https://getsharex.com/) - Powerful screenshot and screen recording tool with advanced editing options. 🪟 🟢 ⭐
