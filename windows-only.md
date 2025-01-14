@@ -6,9 +6,9 @@
 
 | Icon | Meaning              | Icon | Meaning              |
 |------|----------------------|------|----------------------|
-| 🪟 | Available on Windows | 🟢 | Open-source          |
-| 🍎 | Available on macOS   | ⭐  | Recommended by us    |
-| 🐧 | Available on Linux   |      |                      |
+| 🪟 | Available on Windows   | 🟢   | Open-source          |
+| 🍎 | Available on macOS     | ⭐   | Recommended by us    |
+| 🐧 | Available on Linux     |      |                      |
 
 > [!IMPORTANT]
 > Maintaining this project requires a lot of time. [Donate to support me!](https://patreon.com/axorax) ❤️
@@ -21,7 +21,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Monday, January 13, 2025 at 09:19:07 AM UTC -->
+<!-- AF-TOC : Tuesday, January 14, 2025 at 12:34:57 PM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -52,11 +52,11 @@
   - [PDF Tools](#pdf-tools)
 - [Note Taking](#note-taking)
 - [Text Editors](#text-editors)
-  - [Download Managers](#download-managers)
-  - [Games](#games)
+- [Download Managers](#download-managers)
+- [Games](#games)
   - [Cloud Gaming](#cloud-gaming)
-  - [Mobile Emulators](#mobile-emulators)
-  - [Other Emulators](#other-emulators)
+- [Mobile Emulators](#mobile-emulators)
+- [Other Emulators](#other-emulators)
 - [Graphics Tools](#graphics-tools)
 - [3D Modeling and Animation](#3d-modeling-and-animation)
 - [Security](#security)
@@ -75,6 +75,7 @@
   - [Metadata](#metadata)
   - [Window Management](#window-management)
   - [File Management](#file-management)
+  - [Application Management](#application-management)
   - [Screenshot](#screenshot)
   - [Space Visualizer](#space-visualizer)
 
@@ -82,18 +83,18 @@
 
 ## Audio
 
+- [FXSound](https://fxsound.com/) - Boost sound quality, volume, and bass. Has a beautiful modern UI. 🪟 🟢 ⭐
 - [JACK Audio](https://jackaudio.org/) - Audio server for routing and mixing sound between programs. 🪟 🍎 🐧
 - [EarTrumpet](https://eartrumpet.app/) - Advanced volume control for Windows, offering app-specific audio management. 🪟
-- [FXSound](https://fxsound.com/) - Boost sound quality, volume, and bass. Has a beautiful modern UI. 🪟 🟢 ⭐
 - [Ambie](https://github.com/jenius-apps/ambie) - Use white noise, nature sounds, and focus features to boost your productivity. 🪟 🟢
 
 ### Audio Players
 
 - [Foobar2000](https://foobar2000.org/) - Lightweight and highly customizable audio player with support for many formats. 🪟 🍎 ⭐
-- [MusicBee](https://getmusicbee.com/) - Feature-rich music player and manager for Windows. 🪟
 - [AIMP](https://aimp.ru/) - Music player with a clean interface and powerful features. 🪟
 - [Audacious](https://audacious-media-player.org/) - Lightweight audio player for simple music playback. 🪟 🐧
 - [Karafun](https://karafun.com/) - Collection of karaoke songs across multiple genres. Play your own CDG files or use downloads from YouTube. 🪟
+- [MusicBee](https://getmusicbee.com/) - Feature-rich music player and manager for Windows. 🪟
 - [Strawberry Music Player](https://strawberrymusicplayer.org/) - Music player for organizing and playing your audio collection. 🪟 🍎 🐧
 
 ### Audio Recording
@@ -104,31 +105,35 @@
 
 ### DJ Software
 
-- [Mixxx](https://mixxx.org/) - DJ software for live mixing and beatmatching with controller support. 🪟 🍎 🐧
-- [VirtualDJ](https://virtualdj.com/) - DJ platform for mixing music, beatmatching, and live performance. 🪟 🍎
 - [DJ ProDecks](https://djprodecks.com/) - DJ software for mixing music and adding effects. 🪟
+- [Mixxx](https://mixxx.org/) - DJ software for live mixing and beatmatching with controller support. 🪟 🍎 🐧
 - [Serato DJ Lite](https://serato.com/dj/lite) - DJ software for beginners to mix music with ease. 🪟 🍎
 - [Rekordbox](https://rekordbox.com/en/) - Software that enables a comfortable DJ workflow with AI, cloud, and automation tech. 🪟 🍎
+- [VirtualDJ](https://virtualdj.com/) - DJ platform for mixing music, beatmatching, and live performance. 🪟 🍎
 
 ### Music Notation
 
-- [MuseScore](https://musescore.org/) - Software for creating, playing, and sharing sheet music. 🪟 🍎 🐧
-- [LilyPond](http://lilypond.org/) - Music notation program for creating high-quality sheet music. 🪟 🍎 🐧
-- [Frescobaldi](https://frescobaldi.org/) - Editor for LilyPond to create music scores quickly. 🪟 🍎 🐧
 - [ABCjs](https://abcjs.net/) - Tool for writing and playing ABC music notation. 🪟 🍎 🐧
 - [Denemo](https://denemo.org/) - Music notation software for fast score creation with LilyPond. 🪟 🍎 🐧
+- [Frescobaldi](https://frescobaldi.org/) - Editor for LilyPond to create music scores quickly. 🪟 🍎 🐧
+- [LilyPond](http://lilypond.org/) - Music notation program for creating high-quality sheet music. 🪟 🍎 🐧
+- [MuseScore](https://musescore.org/) - Software for creating, playing, and sharing sheet music. 🪟 🍎 🐧
 
 ### Music Production
 
 - [LMMS](https://lmms.io/) - DAW for creating music with virtual instruments and MIDI support. 🪟 🍎 🐧 🟢 ⭐
 - [Ardour](https://ardour.org/) - DAW for recording, editing, and mixing audio with professional features. 🪟 🍎 🐧
+- [Cakewalk](https://bandlab.com/products/cakewalk) - Full-featured DAW for music recording and editing by BandLab. 🪟
+- [Furnace](https://github.com/tildearrow/furnace) - Multi-system chiptune tracker. 🪟 🍎 🐧 🟢
+- [MilkyTracker](https://github.com/milkytracker/MilkyTracker) - Cross platform XM tracker. 🪟 🍎 🐧 🟢
+- [OpenMPT](https://openmpt.org/) - Modren tracker software that can open multiple tracker formats. 🪟
+- [Stargate DAW](https://github.com/stargatedaw/stargate) - Innovation-first DAW, instrument and effect plugins. 🪟 🍎 🐧 🟢
 - [Tracktion T7](https://tracktion.com/products/t7-daw) - DAW for music production with advanced editing features. 🪟 🍎 🐧
 - [Zrythm](https://zrythm.org/) - DAW for music production with an easy-to-use interface. 🪟 🍎 🐧
-- [Cakewalk](https://bandlab.com/products/cakewalk) - Full-featured DAW for music recording and editing by BandLab. 🪟
-- [Stargate DAW](https://github.com/stargatedaw/stargate) - Innovation-first DAW, instrument and effect plugins. 🪟 🍎 🐧 🟢
 
 ## Browsers
 
+- [Tor Browser](https://torproject.org/projects/torbrowser.html) - Privacy browser routing traffic over the Tor network. 🪟 🍎 🐧 ⭐
 - [Arc](https://arc.net) - Vertical tab browser for modern productivity. 🪟 🍎
 - [Brave](https://brave.com/) - Privacy-focused and fast browser. 🪟 🍎 🐧
 - [Chrome](https://google.com/chrome/) - Fast browser with integrated Google services. 🪟 🍎 🐧
@@ -142,7 +147,6 @@
 - [Pale Moon](https://palemoon.org/) - Goanna-based browser. 🪟 🍎 🐧 🟢
 - [qutebrowser](https://qutebrowser.org/) - Keyboard-driven, vim-like browser in Python and Qt. 🪟 🍎 🐧
 - [Station](https://getstation.com/) - Browser centralizing web apps in one workspace. 🪟 🍎 🐧
-- [Tor Browser](https://torproject.org/projects/torbrowser.html) - Privacy browser routing traffic over the Tor network. 🪟 🍎 🐧 ⭐
 - [Mullvad Browser](https://mullvad.net/en/download/browser/) - Privacy browser with Tor, anti-fingerprinting, and Mullvad VPN. 🪟 🍎 🐧
 - [Vivaldi](https://vivaldi.com) - Customizable browser putting you in control. 🪟 🍎 🐧
 - [Yandex](https://browser.yandex.com/) - Fast, secure browser by Yandex with privacy features. 🪟 🍎 🐧
@@ -163,19 +167,20 @@
 
 ### Email Clients
 
-- [ElectronMail](https://github.com/vladimiry/ElectronMail) - Electron-based desktop client for ProtonMail. 🪟 🍎 🐧 🟢
-- [Mailspring](https://getmailspring.com/) - Beautiful, fast email client. 🪟 🍎 🐧 🟢
 - [BlueMail](https://bluemail.me/desktop/) - Cross-platform email client with modern interface. 🪟 🍎 🐧
+- [Edison Mail](https://mail.edison.tech/mac) - Customizable, intuitive email client with smart features. 🪟 🍎 🐧
+- [ElectronMail](https://github.com/vladimiry/ElectronMail) - Electron-based desktop client for ProtonMail. 🪟 🍎 🐧 🟢
+- [eM Client](https://emclient.com/) - Modern client to boost your productivity. 🪟
+- [Mailbird](https://mailbird.com/) - IMAP/POP3 client with customization options. 🪟
+- [Mailspring](https://getmailspring.com/) - Beautiful, fast email client. 🪟 🍎 🐧 🟢
 - [Nylas Mail](https://nylas.com/nylas-mail/) - Extensible desktop email app based on web technologies. 🪟 🍎 🐧
 - [Postbox](https://postbox-inc.com/) - Advanced email management with productivity focus. 🪟 🍎
 - [Polymail](https://polymail.io/) - Simple, powerful email client with modern features. 🪟 🍎 🐧
 - [Wino Mail](https://apps.microsoft.com/detail/9ncrcvjc50wl?hl=en-US&gl=BD) - Fluent design email client with Mica effect. 🪟
-- [ThunderBird](https://thunderbird.net/) - Email client for easier management. 🪟 🍎 🐧 🟢
-- [Mailbird](https://mailbird.com/) - IMAP/POP3 client with customization options. 🪟
-- [Tutanota](https://tutanota.com/) - Encrypted service focused on privacy. 🪟 🍎 🐧
-- [Edison Mail](https://mail.edison.tech/mac) - Customizable, intuitive email client with smart features. 🪟 🍎 🐧
 - [Skiff Mail](https://skiff.com/mail) - Encrypted, decentralized email service. 🪟 🍎 🐧
-- [eM Client](https://emclient.com/) - Modern client to boost your productivity. 🪟
+- [ThunderBird](https://thunderbird.net/) - Email client for easier management. 🪟 🍎 🐧 🟢
+- [Tutanota](https://tutanota.com/) - Encrypted service focused on privacy. 🪟 🍎 🐧
+
 
 ## Compression and Archiving
 
@@ -183,7 +188,8 @@
 - [Bandizip](https://bandisoft.com/bandizip/) - Fast, lightweight archive manager with extensive format support. 🪟
 - [NanaZip](https://apps.microsoft.com/detail/9n8g7tscl18r?hl=en-us&gl=US) - 7-Zip derivative optimized for Windows 10/11 with added functionality. 🪟
 - [PeaZip](https://peazip.github.io/) - Archive manager supporting 180+ formats with encryption and compression. 🪟 🐧 🟢
-- [WinRAR](https://rarlab.com/) - Popular archive manager with an unlimited free tier. 🪟
+- [WinRAR](https://rarlab.com/) - Popular archive manager with an "unlimited" free tier. 🪟
+
 
 ## Customize
 
@@ -193,51 +199,53 @@
 - [Windhawk](https://windhawk.net/) - Customization marketplace for Windows and programs. 🪟 🟢
 - [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hides the Windows volume bar. 🪟 🟢
 - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - Restores and enhances the classic taskbar and system elements. 🪟 🟢
+- [Flow Launcher](https://flowlauncher.com/) - Quick file search and app launcher like Spotlight. 🪟
+- [ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - Replaces default flyouts with customizable modern ones. 🪟 🟢
+- [noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - Tools to freely change system fonts. 🪟 🟢
 - [TaskbarX](https://chrisandriessen.nl/taskbarx) - Personalize the taskbar with center alignment, transparency, and animations. 🪟
 - [Sizer](https://brianapps.net/sizer/) - Resize any window to a predefined size. 🪟
-- [FluentFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - Replaces default flyouts with customizable modern ones. 🪟 🟢
-- [Flow Launcher](https://flowlauncher.com/) - Quick file search and app launcher like Spotlight. 🪟
+- [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows) - The most powerful PowerShell module for fine-tuning Windows showing how Windows can be configured without making any harm to it. 🪟🟢
 - [RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows. 🪟
-- [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows) - The most powerful PowerShell module for fine-tuning Windows showing how Windows can be configured without making any harm to it. 🪟
 
 ### Wallpaper Tools
 
-- [Rainmeter](https://rainmeter.net/) - Desktop customization tool offering widgets, skins, and live stats. 🪟 🟢 ⭐
 - [Lively Wallpaper](https://rocksdanister.com/lively/) - Tool to set animated and interactive wallpapers. 🪟 🟢 ⭐
-- [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop feature to Windows. 🪟 🟢
+- [Rainmeter](https://rainmeter.net/) - Desktop customization tool offering widgets, skins, and live stats. 🪟 🟢 ⭐
 - [ScreenPlay](https://github.com/kelteseth/ScreenPlay) - Wallpaper and widget engine. 🪟 🐧 🟢
+- [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop feature to Windows. 🪟 🟢
 
 ## Data Management
 
 ### Copy and Move
 
+- [FastCopy](https://fastcopy.jp) - Copy and move files in batch. 🪟
 - [TeraCopy](https://codesector.com/teracopy) - Copy and move multiple files. 🪟 🍎
 
 ### Sync and Clone
 
 - [FreeFileSync](https://freefilesync.org/) - Tool for comparing and syncing files or folders. 🪟 🍎 🐧 🟢 ⭐
-- [Syncthing](https://github.com/syncthing/syncthing) - Continuous file synchronization for multiple computers. 🪟 🍎 🐧 🟢
 - [rclone](https://rclone.org/) - Command-line tool for managing and syncing files with cloud storage. 🪟 🍎 🐧
+- [Syncthing](https://github.com/syncthing/syncthing) - Continuous file synchronization for multiple computers. 🪟 🍎 🐧 🟢
 
 ## Developer Tools
 
-- [WinMerge](https://sourceforge.net/projects/winmerge/) - Windows visual diff and merge for files and directories. 🪟 🟢
+- [livewinsize](https://github.com/Axorax/livewinsize) - Visualize window size in pixels and other units. 🪟 🟢 ⭐
 - [Diffinity](https://truehumandesign.se/s_diffinity.php) - Diff and merging tool with focus on accurate and easy-to-read source code diffs. 🪟
 - [Meld](https://meldmerge.org/) - Tool for visual file, directory, and version control comparison. 🪟 🍎 🐧 🟢
 - [TkForge](https://github.com/Axorax/tkforge) - Drag & drop in Figma to create a Python GUI with ease. 🪟 🍎 🐧 🟢 ⭐
-- [livewinsize](https://github.com/Axorax/livewinsize) - Visualize window size in pixels and other units. 🪟 🟢 ⭐
+- [WinMerge](https://sourceforge.net/projects/winmerge/) - Windows visual diff and merge for files and directories. 🪟 🟢
 
 ### API Development  
 
-- [Postman](https://postman.com/) - API development platform with advanced testing and collaboration tools. 🪟 🍎 🐧 ⭐
 - [Insomnia](https://insomnia.rest/) - Simple API client for REST and GraphQL development. 🪟 🍎 🐧 🟢 ⭐
-- [Bruno](https://github.com/usebruno/bruno) - Offline API client that is fast, Git-friendly, and open source. 🪟 🟢
-- [Hoppscotch](https://hoppscotch.io/) - Lightweight API development tool for designing, testing, and debugging. 🪟 🍎 🐧
-- [HTTP Toolkit](https://httptoolkit.tech/) - Tool for debugging and mocking HTTP requests. 🪟
-- [SoapUI Open Source](https://soapui.org/open-source/) - For testing REST and SOAP APIs with scripting support. 🪟 🍎 🐧 🟢
-- [HTTPie](https://httpie.io/) - Command-line and GUI tool to simplify working with APIs. 🪟 🍎
-- [Mockoon](https://mockoon.com/) - Desktop tool for creating and testing mock REST APIs. 🪟 🍎 🐧
+- [Postman](https://postman.com/) - API development platform with advanced testing and collaboration tools. 🪟 🍎 🐧 ⭐
 - [Apidog](https://apidog.com/) - All-in-one workspace for API design, testing, and documentation. 🪟
+- [Bruno](https://github.com/usebruno/bruno) - Offline API client that is fast, Git-friendly, and open source. 🪟 🍎 🟢
+- [Hoppscotch](https://hoppscotch.io/) - Lightweight API development tool for designing, testing, and debugging. 🪟 🍎 🐧
+- [HTTPie](https://httpie.io/) - Command-line and GUI tool to simplify working with APIs. 🪟 🍎
+- [HTTP Toolkit](https://httptoolkit.tech/) - Tool for debugging and mocking HTTP requests. 🪟
+- [Mockoon](https://mockoon.com/) - Desktop tool for creating and testing mock REST APIs. 🪟 🍎 🐧
+- [SoapUI Open Source](https://soapui.org/open-source/) - For testing REST and SOAP APIs with scripting support. 🪟 🍎 🐧 🟢
 
 ### Database
 
@@ -247,44 +255,44 @@
 ### Network Analysis  
 
 - [Wireshark](https://wireshark.org/) - Leading tool for capturing and analyzing network traffic. 🪟 🍎 🐧 ⭐
+- [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload) - Class-leading vulnerability scanning and web app security. 🪟 🍎 🐧
 - [Charles](https://charlesproxy.com/) - Debugging proxy to view HTTP and HTTPS traffic. 🪟 🍎
 - [James](https://github.com/james-proxy/james) - Proxy for intercepting HTTP/HTTPS requests. 🪟 🍎 🟢
 - [mitmproxy](https://mitmproxy.org/) - Interactive HTTP proxy for debugging and penetration testing. 🪟 🍎 🐧 🟢
 - [Sniffnet](https://sniffnet.net/) - Tool for monitoring and analyzing network traffic. 🪟 🍎 🐧
-- [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload) - Class-leading vulnerability scanning and web app security. 🪟 🍎 🐧
 
 ### Game Engines
 
 - [Godot](https://godotengine.org/) - Game engine for 2D and 3D games with an easy-to-learn scripting language. 🪟 🍎 🐧 🟢 ⭐
 - [Unreal Engine](https://unrealengine.com/) - Powerful, fully-featured game engine for high-quality 3D games. 🪟 🍎 🐧 ⭐
-- [Unity](https://unity.com/) - Popular game engine for creating both 2D and 3D games, with an intuitive interface and wide asset store. 🪟 🍎 🐧
-- [GDevelop](https://gdevelop.io/) - No-code engine for creating 2D games with a visual event system. 🪟 🍎 🐧
+- [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) - Free, cross-platform 3D game engine integrated with AWS and Twitch for multiplayer games. 🪟 🍎
+- [AppGameKit](https://appgamekit.com/) - Flexible game engine for 2D and 3D games with simple scripting. 🪟 🍎 🐧
 - [Cocos2d](https://cocos.com/en/) - Game engine for mobile and web games, focused on 2D games. 🪟 🍎 🐧 🟢
 - [Defold](https://defold.com/) - Cross-platform 2D game engine with easy-to-use tools. 🪟 🍎 🐧
 - [CryEngine](https://cryengine.com/) - Advanced game engine with cutting-edge graphics and tools for creating visually stunning games. 🪟
-- [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) - Free, cross-platform 3D game engine integrated with AWS and Twitch for multiplayer games. 🪟 🍎
+- [Flixel](https://flixel.org/) - 2D engine built with Haxe, suitable for platformers and action games. 🪟 🍎 🐧 🟢
+- [GDevelop](https://gdevelop.io/) - No-code engine for creating 2D games with a visual event system. 🪟 🍎 🐧
+- [Gosu](https://libgosu.org/) - Simple 2D game development library for Ruby or C++. 🪟 🍎 🐧
 - [LÖVE](https://love2d.org/) - Simple, easy-to-learn 2D game engine for Lua. 🪟 🍎 🐧
 - [Monogame](https://monogame.net/) - Framework for cross-platform game development with C#. 🪟 🍎 🐧 🟢
-- [Ren'Py](https://renpy.org/) - Popular engine for creating visual novels with a simple scripting language. 🪟 🍎 🐧
-- [PICO-8](https://lexaloffle.com/pico-8.php) - Fantasy console for making retro-style small games. 🪟 🍎 🐧
-- [Tiled](https://mapeditor.org/) - Level editor for creating tile-based game maps, used with other engines. 🪟 🍎 🐧 🟢
 - [OpenRA](https://openra.net/) - Game engine for real-time strategy games, supporting mods for classic titles. 🪟 🍎 🐧 🟢
-- [AppGameKit](https://appgamekit.com/) - Flexible game engine for 2D and 3D games with simple scripting. 🪟 🍎 🐧
+- [PICO-8](https://lexaloffle.com/pico-8.php) - Fantasy console for making retro-style small games. 🪟 🍎 🐧
+- [Ren'Py](https://renpy.org/) - Popular engine for creating visual novels with a simple scripting language. 🪟 🍎 🐧
 - [Pixel Game Maker MV](https://kadokawa.co.jp/pgmmv/) - Game creation engine for 2D pixel games with no coding required. 🪟
-- [Scirra Construct](https://construct.net/) - Powerful game engine with drag-and-drop and visual scripting for 2D games. 🪟 🍎 🐧
-- [Flixel](https://flixel.org/) - 2D engine built with Haxe, suitable for platformers and action games. 🪟 🍎 🐧 🟢
-- [Gosu](https://libgosu.org/) - Simple 2D game development library for Ruby or C++. 🪟 🍎 🐧
 - [Roblox Studio](https://create.roblox.com/) - Engine for making games on Roblox. 🪟 🍎
+- [Scirra Construct](https://construct.net/) - Powerful game engine with drag-and-drop and visual scripting for 2D games. 🪟 🍎 🐧
+- [Tiled](https://mapeditor.org/) - Level editor for creating tile-based game maps, used with other engines. 🪟 🍎 🐧 🟢
+- [Unity](https://unity.com/) - Popular game engine for creating both 2D and 3D games, with an intuitive interface and wide asset store. 🪟 🍎 🐧
 
 ### Virtualization
 
 - [Docker](https://docker.com/) - Containerization platform for operating-system-level virtualization. 🪟 🍎 🐧 🟢 ⭐
-- [Multipass](https://multipass.run/) - Quickly launch and manage Ubuntu virtual machines on demand. 🪟 🍎 🐧
-- [QEMU](https://qemu.org/) - Emulator and virtualizer for hardware and system virtualization. 🪟 🍎 🐧 🟢
-- [Vagrant](https://vagrantup.com) - Tool for managing reproducible development environments using virtual machines. 🪟 🍎 🐧 🟢
-- [Rancher Desktop](https://rancherdesktop.io) - App for managing containers and Kubernetes on desktop. 🪟 🍎 🐧 🟢
-- [Podman Desktop](https://podman.io/) - Desktop alternative to Docker for managing containers. 🪟 🍎 🐧
 - [VirtualBox](http://www.virtualbox.org) - Virtualization software for creating and managing virtual machines. 🪟 🍎 🐧 ⭐
+- [Multipass](https://multipass.run/) - Quickly launch and manage Ubuntu virtual machines on demand. 🪟 🍎 🐧
+- [Podman Desktop](https://podman.io/) - Desktop alternative to Docker for managing containers. 🪟 🍎 🐧
+- [QEMU](https://qemu.org/) - Emulator and virtualizer for hardware and system virtualization. 🪟 🍎 🐧 🟢
+- [Rancher Desktop](https://rancherdesktop.io) - App for managing containers and Kubernetes on desktop. 🪟 🍎 🐧 🟢
+- [Vagrant](https://vagrantup.com) - Tool for managing reproducible development environments using virtual machines. 🪟 🍎 🐧 🟢
 - [VMWare Workstation](https://vmware.com/products/desktop-hypervisor/workstation-and-fusion) - Virtualization software with advanced features. 🪟 🍎 🐧
 
 ## Documents
@@ -293,108 +301,110 @@
 
 ### Office Suites
 - [LibreOffice](https://libreoffice.org/) - Popular and easy to use office suite. 🪟 🍎 🐧 🟢 ⭐
-- [OnlyOffice](https://onlyoffice.com/) - Office suite with collaboration features. 🪟 🍎 🐧 🟢
 - [Apache OpenOffice](https://openoffice.org/) - Suite for documents, spreadsheets, etc. 🪟 🍎 🐧 🟢
 - [Calligra Suite](https://calligra.org/) - Office suite with word processing and vector graphics. 🪟 🍎 🐧
-- [WPS Office](https://wps.com/) - Lightweight office suite compatible with MS file formats. 🪟 🍎 🐧
-- [FreeOffice](https://freeoffice.com/) - Suite with compatibility for MS Office formats. 🪟 🍎 🐧
-- [Etherpad](https://etherpad.org/) - Real-time collaborative text editor. 🪟 🍎 🐧
-- [Google Workspace](https://workspace.google.com/) - Cloud-based suite for document collaboration. 🪟 🍎 🐧
 - [Collabora Online](https://collaboraoffice.com/) - Cloud-based LibreOffice for collaboration. 🪟 🍎 🐧
+- [Etherpad](https://etherpad.org/) - Real-time collaborative text editor. 🪟 🍎 🐧
+- [FreeOffice](https://freeoffice.com/) - Suite with compatibility for MS Office formats. 🪟 🍎 🐧
+- [Google Workspace](https://workspace.google.com/) - Cloud-based suite for document collaboration. 🪟 🍎 🐧
+- [OnlyOffice](https://onlyoffice.com/) - Office suite with collaboration features. 🪟 🍎 🐧 🟢
+- [WPS Office](https://wps.com/) - Lightweight office suite compatible with MS file formats. 🪟 🍎 🐧
+
 
 ### E-book
 - [Calibre](https://calibre-ebook.com/) - Powerful e-book manager. 🪟 🍎 🐧 ⭐
 - [Kindle App](https://amazon.com/l/16571048011) - Official Kindle reader app. 🪟 🍎
 - [Koodo Reader](https://koodoreader.com/en) - EBook reader supporting 15+ formats. 🪟 🍎 🐧
+- [Naps2](https://naps2.com/) - Scan documents to PDF and more, as simply as possible. 🪟 🍎 🐧 🟢
 - [Readest](https://github.com/chrox/readest) - Cross-platform eBook reader with tools. 🪟 🍎 🐧 🟢
 - [Scribus](https://scribus.net/) - Layout and publishing software. 🪟 🍎 🐧 🟢
 - [Sigil](https://sigil-ebook.com/) - EPUB editor. 🪟 🍎 🐧 🟢
-- [Naps2](https://naps2.com/) - Scan documents to PDF and more, as simply as possible. 🪟 🍎 🐧 🟢
 
 ### PDF Tools
 - [Sumatra PDF](https://sumatrapdfreader.org/free-pdf-reader) - Fast, lightweight PDF reader. 🪟 ⭐
+- [Foxit PDF Reader](https://foxit.com/pdf-reader/) - PDF viewer with annotations. 🪟
 - [MuPDF](https://mupdf.com/) - Powerful PDF viewer. 🪟 🐧 🟢
 - [Okular](https://okular.kde.org/) - Universal document viewer by KDE. 🪟 🍎 🐧
-- [Foxit PDF Reader](https://foxit.com/pdf-reader/) - PDF viewer with annotations. 🪟
-- [Xournal++](https://xournalpp.github.io/) - Handwriting and annotation tool for PDFs. 🪟 🍎 🐧
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - PDF editor for splitting, merging. 🪟 🐧 🟢
 - [PDF24](https://pdf24.org/en/) - Easy PDF tools. 🪟
+- [Xournal++](https://xournalpp.github.io/) - Handwriting and annotation tool for PDFs. 🪟 🍎 🐧
 
 ## Note Taking
 
 - [Obsidian](https://obsidian.md/) - Knowledge base app with powerful linking and markdown support. 🪟 🍎 🐧 ⭐
-- [Notion](https://notion.so/) - All-in-one workspace for notes, tasks, databases, and collaboration. 🪟 🍎 🐧
 - [Craft Docs](https://craft.do/) - Beautiful and powerful tool for creating and organizing documents and notes. 🪟 🍎
+- [Joplin](https://joplinapp.org/) - Capture your thoughts and securely access them from any device. 🪟 🍎 🐧 🟢
+- [Notion](https://notion.so/) - All-in-one workspace for notes, tasks, databases, and collaboration. 🪟 🍎 🐧
 - [RemNote](https://remnote.io/) - Knowledge management app with note-taking and spaced repetition features. 🪟 🍎 🐧
 - [Simplenote](https://simplenote.com/) - Minimalist note-taking app that syncs across devices. 🪟 🍎 🐧
-- [Joplin](https://joplinapp.org/) - Capture your thoughts and securely access them from any device. 🪟 🍎 🐧 🟢
 
 ## Text Editors
 
-- [Notepad++](https://notepad-plus-plus.org/) - Editor with customizable syntax highlighting, multi-line editing, and plugin support. 🪟 🟢
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editor with debugging, integrated Git support, and a vast extension marketplace. 🪟 🍎 🐧 🟢 ⭐
 - [Atom](https://atom.io/) - Highly customizable editor with Git integration, real-time collaboration, and extensive plugins. 🪟 🍎 🐧 🟢
-- [Vim](https://vim.org/) - Efficient command-line editor with powerful keyboard shortcuts and multi-file editing. 🪟 🍎 🐧 🟢
-- [Emacs](https://gnu.org/software/emacs/) - Customizable editor with robust scripting, project management, and multi-language support. 🪟 🍎 🐧 🟢
-- [Geany](https://geany.org/) - Lightweight editor with built-in terminal, project management, and syntax highlighting for many languages. 🪟 🍎 🐧
-- [Brackets](http://brackets.io/) - Web-focused editor with live preview, CSS preprocessor support, and inline editing for HTML. 🪟 🍎 🐧 🟢
-- [FluentEdit](https://apps.microsoft.com/detail/9nwl9m9jpq36?hl=en-US&gl=BD) - Simple code editor with a Fluent design, featuring split view and customizable themes. 🪟
-- [Fastedit](https://github.com/FrozenAssassine/Fastedit) - Minimal text editor with a frost glass background and basic text editing tools. 🪟 🟢
 - [Bluefish](https://bluefish.openoffice.org/) - Web developer editor supporting HTML, CSS, JavaScript, and PHP with built-in preview. 🪟 🍎 🐧
+- [Brackets](http://brackets.io/) - Web-focused editor with live preview, CSS preprocessor support, and inline editing for HTML. 🪟 🍎 🐧 🟢
+- [Emacs](https://gnu.org/software/emacs/) - Customizable editor with robust scripting, project management, and multi-language support. 🪟 🍎 🐧 🟢
+- [Fastedit](https://github.com/FrozenAssassine/Fastedit) - Minimal text editor with a frost glass background and basic text editing tools. 🪟 🟢
+- [FluentEdit](https://apps.microsoft.com/detail/9nwl9m9jpq36?hl=en-US&gl=BD) - Simple code editor with a Fluent design, featuring split view and customizable themes. 🪟
+- [Geany](https://geany.org/) - Lightweight editor with built-in terminal, project management, and syntax highlighting for many languages. 🪟 🍎 🐧
+- [Notepad++](https://notepad-plus-plus.org/) - Editor with customizable syntax highlighting, multi-line editing, and plugin support. 🪟 🟢
 - [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - Visual editor with a canvas UI to help navigate and understand code structure. 🪟 🍎 🐧 🟢
 - [Helix](https://helix-editor.com/) - Modal text editor with powerful text manipulation, multiple cursors, and a modern UI. 🪟 🍎 🐧
 - [Lapce](https://lapce.dev/) - Fast, extensible editor with built-in support for multiple languages and advanced editing features. 🪟 🍎 🐧
 - [LightTable](http://lighttable.com/) - Code editor offering real-time feedback and live execution of code in an interactive environment. 🪟 🍎 🐧
 - [micro](https://micro-editor.github.io) - Simple, modern terminal-based editor with support for mouse interaction and plugin extensions. 🪟 🍎 🐧
 - [Neovim](https://github.com/neovim/neovim) - Advanced terminal editor with improved extensibility, plugins, and modern features. 🪟 🍎 🐧 🟢
+- [Notepad 3](https://rizonesoft.com/downloads/notepad3/) - Fast and light-weight Scintilla-based text editor with syntax highlighting. 🪟 🟢
 - [Sublime Text](http://www.sublimetext.com/3) - Fast text editor with powerful search, multi-caret editing, and a strong plugin ecosystem. 🪟 🍎 🐧
+- [Vim](https://vim.org/) - Efficient command-line editor with powerful keyboard shortcuts and multi-file editing. 🪟 🍎 🐧 🟢
 
-### Download Managers
+## Download Managers
 
-- [Free Download Manager](https://freedownloadmanager.org/) - Modern download accelerator. 🪟 🍎 🐧 ⭐
 - [AB Download Manager](https://abdownloadmanager.com/) - Easily download files from anywhere. 🪟 🐧 🟢 ⭐
-- [JDownloader](https://jdownloader.org/) - Popular download manager. 🪟 🍎 🐧 🟢
-- [Xtreme Download Manager (XDM)](https://xtremedownloadmanager.com/) - Powerful tool to increase download speed. 🪟 🍎 🐧 🟢 
+- [Free Download Manager](https://freedownloadmanager.org/) - Modern download accelerator. 🪟 🍎 🐧 ⭐
 - [Aria2](https://aria2.github.io/) - Lightweight, command-line download utility supporting multiple protocols. 🪟 🍎 🐧 🟢
+- [Download Master](https://downloadmaster.com/) - Download manager by WestByte. 🪟
+- [JDownloader](https://jdownloader.org/) - Popular download manager. 🪟 🍎 🐧 🟢
 - [Motrix](https://motrix.app/) - Simple and clean download manager with cross-platform support. 🪟 🍎 🐧 🟢
 - [Persepolis Download Manager](https://persepolisdm.github.io/) - GUI for Aria2, providing an intuitive interface. 🪟 🍎 🐧 🟢
-- [Download Master](https://downloadmaster.com/) - Download manager by WestByte. 🪟
+- [Xtreme Download Manager (XDM)](https://xtremedownloadmanager.com/) - Powerful tool to increase download speed. 🪟 🍎 🐧 🟢 
 
-### Games
+## Games
 - [Steam](https://store.steampowered.com/) - Platform for buying and playing PC games. 🪟 🍎 🐧 ⭐
-- [Epic Games Store](https://epicgames.com/store/en-US/) - Platform for exclusive and free games. 🪟 🍎
-- [Ubisoft Connect](https://ubisoftconnect.com/) - Game launcher for Ubisoft titles. 🪟 🍎
-- [GOG Galaxy](https://gog.com/galaxy) - DRM-free games and library management. 🪟 🍎
-- [Battle.net](https://blizzard.com/en-us/apps/battle.net/desktop) - Platform for Blizzard games. 🪟 🍎
-- [Origin](https://origin.com/) - EA game launcher. 🪟 🍎
-- [Itch.io](https://itch.io/app) - Marketplace for indie games. 🪟 🍎 🐧
 - [Amazon Games](https://gaming.amazon.com/) - Platform for Prime Gaming titles. 🪟
-- [Humble App](https://humblebundle.com/app) - Launcher for Humble Bundle games. 🪟
-- [Riot Client](https://riotgames.com/en) - Launcher for League of Legends and more. 🪟 🍎
-- [Rockstar Games Launcher](https://socialclub.rockstargames.com/rockstar-games-launcher) - Launcher for Rockstar games. 🪟
+- [Battle.net](https://blizzard.com/en-us/apps/battle.net/desktop) - Platform for Blizzard games. 🪟 🍎
 - [Bethesda Launcher](https://bethesda.net/en/game/bethesda-launcher) - Launcher for Fallout and Elder Scrolls. 🪟
 - [EA App](https://ea.com/ea-app) - EA Origin alternative. 🪟
-- [Playnite](https://playnite.link/) - Unified game library manager. 🪟
+- [Epic Games Store](https://epicgames.com/store/en-US/) - Platform for exclusive and free games. 🪟 🍎
+- [GOG Galaxy](https://gog.com/galaxy) - DRM-free games and library management. 🪟 🍎
 - [Heroic Games Launcher](https://heroicgameslauncher.com/) - Launcher for Epic, GOG. 🪟 🐧 🟢
+- [Humble App](https://humblebundle.com/app) - Launcher for Humble Bundle games. 🪟
+- [Itch.io](https://itch.io/app) - Marketplace for indie games. 🪟 🍎 🐧
+- [Origin](https://origin.com/) - EA game launcher. 🪟 🍎
+- [Riot Client](https://riotgames.com/en) - Launcher for League of Legends and more. 🪟 🍎
+- [Rockstar Games Launcher](https://socialclub.rockstargames.com/rockstar-games-launcher) - Launcher for Rockstar games. 🪟
+- [Playnite](https://playnite.link/) - Unified game library manager. 🪟
+- [Ubisoft Connect](https://ubisoftconnect.com/) - Game launcher for Ubisoft titles. 🪟 🍎
 
 ### Cloud Gaming  
 
+- [Antstream Arcade](https://antstream.com/) - Free tier with retro games playable via the cloud. 🪟 🍎 🐧
+- [Boosteroid](https://boosteroid.com/) - Free plan available for limited game streaming. 🪟 🍎 🐧
 - [NVIDIA GeForce NOW](https://nvidia.com/en-us/geforce-now/) - Free tier for streaming supported games from the cloud. 🪟 🍎 🐧
 - [Xbox Cloud Gaming](https://xbox.com/en-US/play) - Free trial with limited titles via the cloud. 🪟 🍎
-- [Boosteroid](https://boosteroid.com/) - Free plan available for limited game streaming. 🪟 🍎 🐧
-- [Antstream Arcade](https://antstream.com/) - Free tier with retro games playable via the cloud. 🪟 🍎 🐧
 
-### Mobile Emulators  
+## Mobile Emulators  
 
 - [BlueStacks](https://bluestacks.com/) - Android emulator for playing mobile games on PC. 🪟 🍎 ⭐
-- [Genymotion](https://genymotion.com/) - Android emulator with advanced features for developers and gamers. 🪟 🍎
-- [MEmu Play](https://memuplay.com/) - Powerful Android emulator with excellent gaming support. 🪟
-- [LDPlayer](https://ldplayer.net/) - Lightweight Android emulator for gaming on PC. 🪟
-- [NoxPlayer](https://bignox.com/) - Android emulator optimized for mobile gaming on desktop. 🪟 🍎
-- [KoPlayer](https://koplayerpc.com/) - Android emulator optimized for gaming and streaming. 🪟
 - [Andy](https://andyroid.net/) - Android emulator to run mobile games and apps on PC. 🪟 🍎
+- [Genymotion](https://genymotion.com/) - Android emulator with advanced features for developers and gamers. 🪟 🍎
+- [LDPlayer](https://ldplayer.net/) - Lightweight Android emulator for gaming on PC. 🪟
+- [KoPlayer](https://koplayerpc.com/) - Android emulator optimized for gaming and streaming. 🪟
+- [MEmu Play](https://memuplay.com/) - Powerful Android emulator with excellent gaming support. 🪟
+- [NoxPlayer](https://bignox.com/) - Android emulator optimized for mobile gaming on desktop. 🪟 🍎
 
-### Other Emulators
+## Other Emulators
 
 - [PPSSPP](https://ppsspp.org/) - PSP emulator for any OS. 🪟 🍎 🐧
 - [Dolphin](https://dolphin-emu.org/) - GameCube and Wii emulator. 🪟 🍎 🐧
@@ -403,11 +413,11 @@
 - [Cemu](https://cemu.info/) - Wii U emulator that supports 4K resolution. 🪟
 - [MAME](https://mamedev.org/) - Arcade machine emulator with a massive library of supported games. 🪟 🍎 🐧
 - [DOSBox](https://dosbox.com/) - DOS emulator designed for running old DOS games and applications. 🪟 🍎 🐧
+- [DuckStation](https://github.com/stenzek/duckstation) - PlayStation 1 emulator with focus on speed, accuracy, and modern enhancements. 🪟 🍎 🐧 🟢
 - [ScummVM](https://scummvm.org/) - Emulator focused on classic point-and-click adventure games. 🪟 🍎 🐧
 - [Citra](https://citra-emu.org/) - Nintendo 3DS emulator with great compatibility and performance. 🪟 🍎 🐧
 - [xemu](https://xemu.app/) - Original Xbox emulator for playing classic Xbox games on modern systems. 🪟 🍎 🐧
 - [higan](https://higan.dev/) - Multi-system emulator with high accuracy, supporting consoles like SNES and GBA. 🪟 🍎 🐧
-- [DuckStation](https://github.com/stenzek/duckstation) - PlayStation 1 emulator with focus on speed, accuracy, and modern enhancements. 🪟 🍎 🐧 🟢
 - [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PlayStation 1 emulator aimed at advanced debugging and better game compatibility. 🪟 🐧 🟢
 - [Mednafen](https://mednafen.github.io/) - Multi-system emulator with a focus on precision and compatibility. 🪟 🐧
 - [MelonDS](https://melonds.kuribo64.net/) - Nintendo DS emulator with accurate performance and Wi-Fi support. 🪟 🍎 🐧
@@ -418,36 +428,36 @@
 - [GIMP](https://gimp.org/) - Versatile image editor for tasks like photo manipulation and graphic design. 🪟 🍎 🐧 🟢 ⭐
 - [Inkscape](https://inkscape.org/en/) - Vector graphics editor used for creating logos, illustrations, and more. 🪟 🍎 🐧 🟢 ⭐
 - [Krita](https://krita.org/) - Digital painting software designed for illustrators and concept artists. 🪟 🍎 🐧 🟢 ⭐
-- [Figma](https://figma.com/) - Collaborative interface design tool for building UI/UX projects. 🪟 🍎 🐧
-- [Lunacy](https://icons8.com/lunacy) - Design tool offering collaboration features and built-in assets. 🪟 🍎 🐧
-- [Paint.NET](https://getpaint.net/index.html) - Simple yet powerful image editor for quick edits and designs. 🪟
-- [PhotoFiltre](https://photofiltre-studio.com/pf7-en.htm) - Complete image retouching program. 🪟
 - [Aspect](https://aspect.bildhuus.com/) - Photo organizer with peer-to-peer synchronization for secure image storage. 🪟 🍎 🐧
 - [pngquant](https://pngquant.org/) - Command-line tool for compressing PNG images without losing quality. 🪟 🍎 🐧
 - [Alchemy](http://al.chemy.org/) - Experimental drawing application focused on conceptual art creation. 🪟 🍎 🐧
 - [Colorpicker](https://colorpicker.fr/) - Color manipulation tool for picking and modifying colors. 🪟 🍎 🐧 🟢
 - [Draw.io](https://github.com/jgraph/drawio-desktop) - Desktop app for creating diagrams and flowcharts. 🪟 🍎 🐧 🟢
+- [Figma](https://figma.com/) - Collaborative interface design tool for building UI/UX projects. 🪟 🍎 🐧
 - [FontForge](http://fontforge.github.io/) - Font editor for creating and modifying font files. 🪟 🍎 🐧 🟢
+- [Lunacy](https://icons8.com/lunacy) - Design tool offering collaboration features and built-in assets. 🪟 🍎 🐧
 - [MagicaVoxel](https://ephtracy.github.io/) - Lightweight voxel editor and interactive path tracing renderer for 3D models. 🪟 🍎 🐧
 - [Paintbrush](http://paintbrush.sourceforge.net/) - Bitmap image editor with basic drawing tools and pixel-level manipulation. 🪟
+- [Paint.NET](https://getpaint.net/index.html) - Simple yet powerful image editor for quick edits and designs. 🪟
+- [PhotoFiltre](https://photofiltre-studio.com/pf7-en.htm) - Complete image retouching program. 🪟
 - [Pencil2D](https://pencil2d.org) - Simple and intuitive tool for creating 2D hand-drawn animations. 🪟 🍎 🐧
 
 ## 3D Modeling and Animation
 
 - [Blender](https://blender.org/) - 3D creation tool supporting modeling, animation, rendering, video editing, and more. 🪟 🍎 🐧 🟢 ⭐
-- [Wings 3D](http://www.wings3d.com/) - 3D modeling software focusing on subdivision modeling. 🪟 🍎 🐧 🟢
 - [FreeCAD](https://freecadweb.org/) - Parametric 3D CAD modeler for designing real-life objects of any size. 🪟 🍎 🐧
 - [MakeHuman](https://static.makehumancommunity.org/makehuman.html) - 3D human modeler for creating realistic character models. 🪟 🍎 🐧 🟢
 - [OpenSCAD](https://openscad.org/) - Script-based 3D CAD modeler for creating precise solid geometry. 🪟 🍎 🐧
+- [Wings 3D](http://www.wings3d.com/) - 3D modeling software focusing on subdivision modeling. 🪟 🍎 🐧 🟢
 
 ## Security
 
 ### Antivirus
 
 - [Avast](https://avast.com/free-antivirus-download) - Antivirus to help detect and isolate potential cyberthreats. 🪟 🍎 🐧
-- [ClamAV](https://clamav.net/) - Antivirus engine for detecting malware, viruses, and other threats. 🪟 🍎 🐧 🟢
 - [AVG Antivirus](https://avg.com/en-us/free-antivirus-download) - Free antivirus software to protect against viruses, malware, and spyware. 🪟 🍎
 - [Bitdefender](https://bitdefender.com/solutions/free.html) - Lightweight and powerful antivirus for essential protection. 🪟 🍎
+- [ClamAV](https://clamav.net/) - Antivirus engine for detecting malware, viruses, and other threats. 🪟 🍎 🐧 🟢
 - [Malwarebytes](https://malwarebytes.com/) - Malware removal tool offering real-time protection and cleanup. 🪟 🍎
 
 ### Password Managers
@@ -456,17 +466,17 @@
 - [KeePass](https://keepass.info/) - Lightweight password manager for secure storage of passwords in encrypted databases. 🪟 🍎 🐧 🟢
 - [KeePassXC](https://keepassxc.org/) - Modern community fork of KeePass with cross-platform support and enhanced features. 🪟 🍎 🐧
 - [LastPass](https://lastpass.com/) - Cloud-based password manager with secure password sharing and autofill features. 🪟 🍎 🐧
-- [Passbolt](https://passbolt.com/) - Team-oriented password manager for sharing and storing passwords securely. 🪟 🍎 🐧 🟢
 - [NordPass](https://nordpass.com/) - Secure password manager with autofill and password health insights. 🪟 🍎 🐧
+- [Passbolt](https://passbolt.com/) - Team-oriented password manager for sharing and storing passwords securely. 🪟 🍎 🐧 🟢
 - [RoboForm](https://roboform.com/) - Password manager and form filler with multi-platform synchronization. 🪟 🍎 🐧
 
 ## Image Viewers
 
-- [Irfanview](https://irfanview.com/) - Simple image viewer with some editing abilities. 🪟
-- [qView](https://interversehq.com/qview/) - Visually minimal and space efficient. 🪟 🍎 🐧
-- [JPEGView](https://sourceforge.net/projects/jpegview/) - Lean, fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images. 🪟
-- [XnView](https://xnview.com/en/) - Image resizer, batch image converter. 🪟 🍎 🐧
 - [ImageGlass](https://imageglass.org/) - Lightweight, versatile image viewer. 🪟 🟢 ⭐
+- [Irfanview](https://irfanview.com/) - Simple image viewer with some editing abilities. 🪟
+- [JPEGView](https://sourceforge.net/projects/jpegview/) - Lean, fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images. 🪟
+- [qView](https://interversehq.com/qview/) - Visually minimal and space efficient. 🪟 🍎 🐧
+- [XnView](https://xnview.com/en/) - Image resizer, batch image converter. 🪟 🍎 🐧
 
 ## Remote Access
 
@@ -499,123 +509,134 @@
 
 ### Video Players  
 
-- [VLC Media Player](https://videolan.org/vlc/) - Media player supporting almost all video formats. 🪟 🍎 🐧 🟢
+- [PotPlayer](https://potplayer.daum.net/) - Feature-rich video player with advanced playback options. 🪟 ⭐
+- [Clementine Player](https://clementine-player.org/) - Music and video player with a user-friendly interface. 🪟 🍎 🐧
+- [GOM Player](https://gomlab.com/gomplayer-media-player/) - Popular media player with support for most video formats and customizable features. 🪟 🍎
+- [KMPlayer](https://kmplayer.com/) - Media player supporting various video formats and streaming protocols. 🪟 🍎
 - [Kodi](https://kodi.tv/) - Media center that allows you to play and view most videos, music, podcasts, and other digital media files. 🪟 🍎 🐧 🟢
+- [MPV](https://mpv.io/) - Cross-platform media player with a simple interface. 🪟 🍎 🐧 🟢
+- [MPC-HC](https://github.com/clsid2/mpc-hc) - Lightweight video player with support for all common formats. 🪟 🟢
+- [RealPlayer](https://real.com/) - Versatile media player for playing videos and streaming. 🪟 🍎
 - [Stremio](https://stremio.com/) - Provides a secure, modern and seamless entertainment experience. 🪟 🍎 🐧
 - [ScreenBox](https://apps.microsoft.com/detail/9ntsnmsvcb5l?hl=en-US&gl=US) - Basically VLC but with a modern UI. 🪟
-- [MPV](https://mpv.io/) - Cross-platform media player with a simple interface. 🪟 🍎 🐧 🟢
-- [KMPlayer](https://kmplayer.com/) - Media player supporting various video formats and streaming protocols. 🪟 🍎
-- [PotPlayer](https://potplayer.daum.net/) - Feature-rich video player with advanced playback options. 🪟 ⭐
-- [MPC-HC](https://github.com/clsid2/mpc-hc) - Lightweight video player with support for all common formats. 🪟 🟢
-- [GOM Player](https://gomlab.com/gomplayer-media-player/) - Popular media player with support for most video formats and customizable features. 🪟 🍎
-- [RealPlayer](https://real.com/) - Versatile media player for playing videos and streaming. 🪟 🍎
-- [Clementine Player](https://clementine-player.org/) - Music and video player with a user-friendly interface. 🪟 🍎 🐧
 - [ScreenToGif](https://screentogif.com/) - Screen recording software that allows you to capture GIFs and videos with customizable export options. 🪟
-- [Videotape](https://usuaia.com/videotape) - Simple and minimalist video player for quick playback of local video files. 🪟
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - Media player with the ability to remember playback settings and support for various video formats. 🪟 🍎 🐧
+- [Videotape](https://usuaia.com/videotape) - Simple and minimalist video player for quick playback of local video files. 🪟
+- [VLC Media Player](https://videolan.org/vlc/) - Media player supporting almost all video formats. 🪟 🍎 🐧 🟢
 
 ### Video Streaming and Recording  
 
 - [OBS Studio](https://obsproject.com/) - Software for live streaming and recording video. 🪟 🍎 🐧 🟢 ⭐ 
-- [Streamlabs Desktop](https://streamlabs.com/) - Streaming software with customizable alerts and overlays. 🪟 🍎 🟢
 - [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Video conferencing and live streaming with ease. 🪟 🍎 🐧 🟢
-- [XSplit Broadcaster](https://xsplit.com/) - Streaming and recording with advanced features and effects. 🪟
-- [Zoom](https://zoom.us/) - Video meetings with streaming, recording, and screen sharing. 🪟 🍎 🐧
 - [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line tool to stream video from multiple platforms. 🪟 🍎 🐧 🟢
 - [Kaltura](https://kaltura.com/) - Platform for managing and streaming video content. 🪟 🍎 🐧 🟢
+- [Streamlabs Desktop](https://streamlabs.com/) - Streaming software with customizable alerts and overlays. 🪟 🍎 🟢
+- [XSplit Broadcaster](https://xsplit.com/) - Streaming and recording with advanced features and effects. 🪟
+- [Zoom](https://zoom.us/) - Video meetings with streaming, recording, and screen sharing. 🪟 🍎 🐧
 
 ### Video Converters and Compressors  
 
 - [FFmpeg](https://ffmpeg.org/) - Powerful tool for format conversion and multimedia editing. 🪟 🍎 🐧 🟢 ⭐ 
-- [HandBrake](https://handbrake.fr/) - Video transcoder with preset profiles for device compatibility. 🪟 🍎 🐧 🟢
 - [Any Video Converter](https://any-video-converter.com/) - Supports batch conversion and output to various formats. 🪟 🍎
+- [FastFlix](https://github.com/cdgriffith/FatFlix) - GUI for fast encoding with H.264, HEVC, and AV1 support. 🪟 🟢
 - [Format Factory](http://www.pcfreetime.com/formatfactory/) - Converts video, audio, and images with customizable settings. 🪟
-- [XMedia Recode](https://xmedia-recode.de/en/) - Multi-format converter with advanced video editing features. 🪟
+- [HandBrake](https://handbrake.fr/) - Video transcoder with preset profiles for device compatibility. 🪟 🍎 🐧 🟢
 - [Shutter Encoder](https://shutterencoder.com/) - Supports video, audio, and image conversion with extra processing tools. 🪟 🍎
+- [XMedia Recode](https://xmedia-recode.de/en/) - Multi-format converter with advanced video editing features. 🪟
 - [VidCoder](https://vidcoder.net/) - User-friendly HandBrake-based transcoder with batch processing. 🪟 🍎 🟢
-- [FastFlix](https://github.com/cdgriffith/FastFlix) - GUI for fast encoding with H.264, HEVC, and AV1 support. 🪟 🟢
 
 ## VPN and Proxy Tools
 
 - [Algo](https://github.com/trailofbits/algo) - Simple IPSEC VPN setup for secure cloud connections. 🪟 🍎 🐧 🟢
 - [Cloudflare WARP](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) - VPN and DNS service enhancing privacy and security. 🪟 🍎 🐧
-- [ProtonVPN](https://protonvpn.com/) - High-speed VPN from Switzerland with strong privacy features. 🪟 🍎 🐧
-- [Twingate](https://twingate.com/) - Zero trust access for secure private network connections. 🪟 🍎 🐧
-- [WireGuard](https://wireguard.com/) - Fast, secure VPN protocol designed for simplicity. 🪟 🍎 🐧
-- [Proxifier](https://proxifier.com/) - Windows proxy client that routes applications via a proxy server. 🪟
-- [Psiphon](https://psiphon.ca/) - VPN and proxy tool for bypassing censorship. 🪟 🍎
 - [Lantern](https://getlantern.org/) - Internet freedom tool to bypass restrictions. 🪟 🍎 🐧
 - [OpenVPN](https://openvpn.net/community-downloads/) - VPN solution for secure internet connections with customizable settings. 🪟 🟢
+- [Proxifier](https://proxifier.com/) - Windows proxy client that routes applications via a proxy server. 🪟
+- [Psiphon](https://psiphon.ca/) - VPN and proxy tool for bypassing censorship. 🪟 🍎
+- [ProtonVPN](https://protonvpn.com/) - High-speed VPN from Switzerland with strong privacy features. 🪟 🍎 🐧
 - [SoftEther VPN](https://softether.org/) - Multi-protocol VPN software for secure connections. 🪟 🟢
 - [Sing-box](https://github.com/SagerNet/sing-box) - Universal proxy platform supporting multiple protocols. 🪟 🍎 🐧 🟢
+- [Twingate](https://twingate.com/) - Zero trust access for secure private network connections. 🪟 🍎 🐧
+- [WireGuard](https://wireguard.com/) - Fast, secure VPN protocol designed for simplicity. 🪟 🍎 🐧
 
 ## Utility
 
-- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Utilities for file renaming, resizing, and productivity tools. 🪟 ⭐ 
 - [AutoHotkey](https://autohotkey.com/) - Scripting language for task automation and custom hotkeys. 🪟 ⭐ 
-- [Nirsoft](https://nirsoft.net/utils/index.html) - Collection of small utilities for various tasks. 🪟
+- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Utilities for file renaming, resizing, and productivity tools. 🪟 ⭐ 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line tool for downloading audio and video. 🪟 🍎 🐧 🟢 ⭐
-- [Fan Control](https://getfancontrol.com/) - Software for managing and controlling system fans. 🪟
-- [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/) - Fast, high-precision scientific calculator with keyboard shortcuts. 🪟 🍎 🐧
-- [LocalSend](https://localsend.org/) - Share files instantly to nearby devices. 🪟 🍎 🐧
 - [Advanced IP Scanner](https://advanced-ip-scanner.com/) - Network scanner for detecting and analyzing devices on LAN. 🪟
-- [PuTTY](https://putty.org/) - SSH and Telnet client for remote connections. 🪟
-- [Legacy Update](https://legacyupdate.net/) - Installs updates to fix Windows Update access on unsupported versions. 🪟
-- [Twinkle Tray](https://twinkletray.com/) - Simple tool to manage brightness across multiple monitors. 🪟
+- [Fan Control](https://getfancontrol.com/) - Software for managing and controlling system fans. 🪟
 - [Keylock](https://github.com/Axorax/keylock) - Lock your keyboard with a click. 🪟 🟢
-- [Winpower](https://github.com/Axorax/winpower) - Advanced power settings and management for Windows. 🪟 🟢
+- [Legacy Update](https://legacyupdate.net/) - Installs updates to fix Windows Update access on unsupported versions. 🪟
 - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Simulate different system regions and languages. 🪟 🟢
+- [LocalSend](https://localsend.org/) - Share files instantly to nearby devices. 🪟 🍎 🐧
+- [Nirsoft](https://nirsoft.net/utils/index.html) - Collection of small utilities for various tasks. 🪟
+- [PuTTY](https://putty.org/) - SSH and Telnet client for remote connections. 🪟
+- [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/) - Fast, high-precision scientific calculator with keyboard shortcuts. 🪟 🍎 🐧
+- [Twinkle Tray](https://twinkletray.com/) - Simple tool to manage brightness across multiple monitors. 🪟
+- [Winpower](https://github.com/Axorax/winpower) - Advanced power settings and management for Windows. 🪟 🟢
+- [Windterm](https://github.com/kingToolbox/WindTerm) - SSH/Telnet/Serial/Shell/Sftp client for DevOps.  🪟 🍎 🐧 🟢
 
 ### Clipboard Management
 
-- [Ditto](https://ditto-cp.sourceforge.io/) - Advanced clipboard manager with extended functionality for Windows. 🪟
-- [CopyQ](https://hluk.github.io/CopyQ/) - Clipboard manager with editing and scripting features. 🪟 🍎 🐧 🟢
 - [ClipAngel](https://sourceforge.net/projects/clip-angel/) - Clipboard manager supporting rich text and images. 🪟
-- [Qopy](https://github.com/0pandadev/qopy) - Minimalist clipboard manager with unique features. 🪟 🍎 🐧 🟢
 - [Clipboard Fusion](https://clipboardfusion.com/) - Clipboard manager with data transformation features. 🪟 🍎
+- [CopyQ](https://hluk.github.io/CopyQ/) - Clipboard manager with editing and scripting features. 🪟 🍎 🐧 🟢
+- [Ditto](https://ditto-cp.sourceforge.io/) - Advanced clipboard manager with extended functionality for Windows. 🪟
+- [EcoPaste](https://github.com/EcoPasteHub/EcoPaste/) - Cross-platform modern clipboard management tool.  🪟 🍎 🐧 🟢
+- [Qopy](https://github.com/0pandadev/qopy) - Minimalist clipboard manager with unique features. 🪟 🍎 🐧 🟢
 
 ### Metadata
 
 - [ExifTool](https://exiftool.org/) - Command-line tool for editing metadata in various file types. 🪟 🍎 🐧 ⭐
-- [PhotoME](https://photome.de/) - View and edit EXIF metadata for photos. 🪟
 - [Metadata++](https://metadata.en.softonic.com/) - View, edit, and remove metadata from files and photos. 🪟
 - [MP3Tag](https://mp3tag.de/en/) - Edit and manage metadata for audio files. 🪟
+- [PhotoME](https://photome.de/) - View and edit EXIF metadata for photos. 🪟
+
 
 ### Window Management
 
+- [FancyZones](https://github.com/microsoft/PowerToys) - Snap and arrange windows in multi-monitor setups. 🪟 🟢 ⭐
 - [AltSnap](https://github.com/RamonUnch/AltSnap) - Snap windows to positions using keyboard shortcuts. 🪟 🟢
 - [AquaSnap](https://nurgo-software.com/products/aquasnap) - Window snapping, docking, and stretching features. 🪟
-- [FancyZones](https://github.com/microsoft/PowerToys) - Snap and arrange windows in multi-monitor setups. 🪟 🟢 ⭐
-- [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - Display part of a window on top of others. 🪟 🟢
-- [KDE Mover-Sizer](https://corz.org/windows/software/accessories/KDE-resizing-moving-for-Windows.php#section-Download) - Move and resize windows like in Linux. 🪟
 - [GlazeWM](https://github.com/glzr-io/glazewm) - Tiling window manager inspired by i3. 🪟 🟢
+- [KDE Mover-Sizer](https://corz.org/windows/software/accessories/KDE-resizing-moving-for-Windows.php#section-Download) - Move and resize windows like in Linux. 🪟
+- [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - Display part of a window on top of others. 🪟 🟢
 
 ### File Management
 
 - [Everything](https://voidtools.com/) - Fast file search tool indexing the entire file system. 🪟 ⭐ 
-- [Files](https://github.com/files-community/Files) - Modern file manager for easy file organization. 🪟 🟢
 - [Double Commander](https://doublecmd.sourceforge.io/) - Dual-pane manager with built-in editor and advanced search. 🪟 🍎 🐧
-- [Xftp 7](https://netsarang.com/en/xftp/) - Flexible SFTP/FTP client for efficient file transfers. 🪟
+- [Far Manager](https://farmanager.com/) - File and archive manager with advanced functionality. 🪟
+- [Files](https://github.com/files-community/Files) - Modern file manager for easy file organization. 🪟 🟢
+- [Free Commander](https://freecommander.com/en/summary/) - Alternative file manager with added features. 🪟
 - [FileZilla](https://filezilla-project.org/) - Reliable FTP, FTPS, and SFTP client for remote management. 🪟 🍎 🐧
+- [Listary](https://listary.com/) - Free file search tool & app launcher. 🪟
 - [Q-Dir](https://softwareok.com/?seite=Freeware/Q-Dir) - Multi-pane file manager with up to four directory views. 🪟
 - [WinSCP](https://winscp.net/) - Easy-to-use SFTP, FTP, and WebDAV client. 🪟 🟢
-- [Far Manager](https://farmanager.com/) - File and archive manager with advanced functionality. 🪟
-- [Free Commander](https://freecommander.com/en/summary/) - Alternative file manager with added features. 🪟
+- [Xftp 7](https://netsarang.com/en/xftp/) - Flexible SFTP/FTP client for efficient file transfers. 🪟
+
+### Application Management
+
+- [Bulk Crap Uninstaller](https://bcuninstaller.com/) - Powerful tool for uninstalling multiple applications and cleaning leftovers. 🪟 🟢 ⭐
+- [Revo Uninstaller](https://revouninstaller.com/revo-uninstaller-free-download/) - Advanced uninstaller to remove programs and residual files with free tier. 🪟
 
 ### Screenshot
 
-- [Greenshot](https://getgreenshot.org/) - Screenshot tool for Windows that allows capturing, annotating, and editing screenshots. 🪟 🟢
 - [ShareX](https://getsharex.com/) - Powerful screenshot and screen recording tool with advanced editing options. 🪟 🟢 ⭐
-- [Flameshot](https://flameshot.org/) - Customizable screenshot tool with an easy-to-use interface and built-in editor. 🐧 🪟 🍎
-- [Lightshot](https://app.prntscr.com/en/index.html) - Fast and intuitive screenshot tool that allows capturing and editing images instantly. 🪟 🍎
 - [Capter](https://github.com/decipher3114/Capter) - Super simple screenshot tool. 🪟 🍎 🟢
+- [Flameshot](https://flameshot.org/) - Customizable screenshot tool with an easy-to-use interface and built-in editor. 🐧 🪟 🍎
+- [Greenshot](https://getgreenshot.org/) - Screenshot tool for Windows that allows capturing, annotating, and editing screenshots. 🪟 🟢
+- [Lightshot](https://app.prntscr.com/en/index.html) - Fast and intuitive screenshot tool that allows capturing and editing images instantly. 🪟 🍎
 - [Monosnap](https://monosnap.com/) - Simple screenshot tool that includes cloud integration for easy sharing. 🪟 🍎
+- [Pixpin](https://pixpin.cn/) - Elegant screen capture with an integrated editor. 🪟
+- [Snipaste](https://snipaste.com/) - Free, Customizable, Portable snipping tool.
 
 ### Space Visualizer
 
 - [WizTree](https://diskanalyzer.com/) - Fast disk space analyzer that scans drives and shows file size distribution. 🪟 ⭐
+- [DiskSavvy](https://disksavvy.com/) - Disk space analyzer with various reporting and filtering options. 🪟
+- [Filelight](https://kde.org/applications/utilities/org.kde.filelight) - Visualizer with a circular sunburst chart. 🪟 🍎 🐧
+- [JDiskReport](http://www.jgoodies.com/freeware/jdiskreport/) - Tool for visualizing disk usage with a variety of charts and graphs. 🪟 🐧
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - Identify large files and folders with an intuitive tree map. 🪟
 - [TreeSize Free](https://jam-software.com/treesize_free) - Visualizes disk space usage in a tree-like structure for easy file management. 🪟
-- [DiskSavvy](https://disksavvy.com/) - Disk space analyzer with various reporting and filtering options. 🪟
-- [JDiskReport](http://www.jgoodies.com/freeware/jdiskreport/) - Tool for visualizing disk usage with a variety of charts and graphs. 🪟 🐧
-- [Filelight](https://kde.org/applications/utilities/org.kde.filelight) - Visualizer with a circular sunburst chart. 🪟 🍎 🐧

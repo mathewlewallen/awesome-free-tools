@@ -21,7 +21,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Monday, January 13, 2025 at 09:19:07 AM UTC -->
+<!-- AF-TOC : Tuesday, January 14, 2025 at 12:34:57 PM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -52,11 +52,11 @@
   - [PDF Tools](#pdf-tools)
 - [Note Taking](#note-taking)
 - [Text Editors](#text-editors)
-  - [Download Managers](#download-managers)
-  - [Games](#games)
+- [Download Managers](#download-managers)
+- [Games](#games)
   - [Cloud Gaming](#cloud-gaming)
-  - [Mobile Emulators](#mobile-emulators)
-  - [Other Emulators](#other-emulators)
+- [Mobile Emulators](#mobile-emulators)
+- [Other Emulators](#other-emulators)
 - [Graphics Tools](#graphics-tools)
 - [3D Modeling and Animation](#3d-modeling-and-animation)
 - [Security](#security)
@@ -75,6 +75,7 @@
   - [Metadata](#metadata)
   - [Window Management](#window-management)
   - [File Management](#file-management)
+  - [Application Management](#application-management)
   - [Screenshot](#screenshot)
   - [Space Visualizer](#space-visualizer)
 
@@ -389,7 +390,7 @@
 - [LightTable](http://lighttable.com/) - Code editor offering real-time feedback and live execution of code in an interactive environment. 🪟 🍎 🐧
 - [micro](https://micro-editor.github.io) - Simple, modern terminal-based editor with support for mouse interaction and plugin extensions. 🪟 🍎 🐧
 - [Neovim](https://github.com/neovim/neovim) - Advanced terminal editor with improved extensibility, plugins, and modern features. 🪟 🍎 🐧 🟢
-- [Notepad 3](https://rizonesoft.com/downloads/notepad3/) - fast and light-weight Scintilla-based text editor with syntax highlighting. 🪟 🟢
+- [Notepad 3](https://rizonesoft.com/downloads/notepad3/) - Fast and light-weight Scintilla-based text editor with syntax highlighting. 🪟 🟢
 - [Nova](https://nova.app/) - Editor with an intuitive interface, fast navigation, and built-in Git support. 🍎
 - [Sublime Text](http://www.sublimetext.com/3) - Fast text editor with powerful search, multi-caret editing, and a strong plugin ecosystem. 🪟 🍎 🐧
 - [SubEthaEdit](https://subethaedit.net/) - Collaborative text editor enabling real-time editing with multiple users. 🍎
@@ -682,15 +683,15 @@
 - [Files](https://github.com/files-community/Files) - Modern file manager for easy file organization. 🪟 🟢
 - [Free Commander](https://freecommander.com/en/summary/) - Alternative file manager with added features. 🪟
 - [FileZilla](https://filezilla-project.org/) - Reliable FTP, FTPS, and SFTP client for remote management. 🪟 🍎 🐧
-- [Listary](https://www.listary.com/) - Free file search tool & app launcher. 🪟
+- [Listary](https://listary.com/) - Free file search tool & app launcher. 🪟
 - [Q-Dir](https://softwareok.com/?seite=Freeware/Q-Dir) - Multi-pane file manager with up to four directory views. 🪟
 - [WinSCP](https://winscp.net/) - Easy-to-use SFTP, FTP, and WebDAV client. 🪟 🟢
 - [Xftp 7](https://netsarang.com/en/xftp/) - Flexible SFTP/FTP client for efficient file transfers. 🪟
 
 ### Application Management
 
-- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Powerful tool for uninstalling multiple applications and cleaning leftovers. 🪟 🟢 ⭐
-- [Revo Uninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download/) - Advanced uninstaller to remove programs and residual files with free tier. 🪟
+- [Bulk Crap Uninstaller](https://bcuninstaller.com/) - Powerful tool for uninstalling multiple applications and cleaning leftovers. 🪟 🟢 ⭐
+- [Revo Uninstaller](https://revouninstaller.com/revo-uninstaller-free-download/) - Advanced uninstaller to remove programs and residual files with free tier. 🪟
 
 ### Screenshot
 
@@ -702,7 +703,7 @@
 - [Monosnap](https://monosnap.com/) - Simple screenshot tool that includes cloud integration for easy sharing. 🪟 🍎
 - [Pixpin](https://pixpin.cn/) - Elegant screen capture with an integrated editor. 🪟
 - [Shutter](https://launchpad.net/shutter) - Feature-rich screenshot tool for Linux with an integrated editor for quick annotations. 🐧
-- [Snipaste](https://www.snipaste.com/) - Free, Customizable, Portable snipping tool.
+- [Snipaste](https://snipaste.com/) - Free, Customizable, Portable snipping tool.
 
 ### Space Visualizer
 

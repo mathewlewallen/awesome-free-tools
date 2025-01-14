@@ -6,9 +6,9 @@
 
 | Icon | Meaning              | Icon | Meaning              |
 |------|----------------------|------|----------------------|
-| 🪟 | Available on Windows | 🟢 | Open-source          |
-| 🍎 | Available on macOS   | ⭐  | Recommended by us    |
-| 🐧 | Available on Linux   |      |                      |
+| 🪟 | Available on Windows   | 🟢   | Open-source          |
+| 🍎 | Available on macOS     | ⭐   | Recommended by us    |
+| 🐧 | Available on Linux     |      |                      |
 
 > [!IMPORTANT]
 > Maintaining this project requires a lot of time. [Donate to support me!](https://patreon.com/axorax) ❤️
@@ -21,7 +21,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Monday, January 13, 2025 at 09:19:07 AM UTC -->
+<!-- AF-TOC : Tuesday, January 14, 2025 at 12:34:57 PM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -52,11 +52,11 @@
   - [PDF Tools](#pdf-tools)
 - [Note Taking](#note-taking)
 - [Text Editors](#text-editors)
-  - [Download Managers](#download-managers)
-  - [Games](#games)
+- [Download Managers](#download-managers)
+- [Games](#games)
   - [Cloud Gaming](#cloud-gaming)
-  - [Mobile Emulators](#mobile-emulators)
-  - [Other Emulators](#other-emulators)
+- [Mobile Emulators](#mobile-emulators)
+- [Other Emulators](#other-emulators)
 - [Graphics Tools](#graphics-tools)
 - [3D Modeling and Animation](#3d-modeling-and-animation)
 - [Security](#security)
@@ -75,6 +75,7 @@
   - [Metadata](#metadata)
   - [Window Management](#window-management)
   - [File Management](#file-management)
+  - [Application Management](#application-management)
   - [Screenshot](#screenshot)
   - [Space Visualizer](#space-visualizer)
 
@@ -115,9 +116,11 @@
 ### Email Clients
 
 
+
 ## Compression and Archiving
 
 - [7-Zip](https://7-zip.org/download.html) - Archive manager supporting 7z, ZIP, and other formats. 🪟 🟢 ⭐
+
 
 ## Customize
 
@@ -126,8 +129,8 @@
 
 ### Wallpaper Tools
 
-- [Rainmeter](https://rainmeter.net/) - Desktop customization tool offering widgets, skins, and live stats. 🪟 🟢 ⭐
 - [Lively Wallpaper](https://rocksdanister.com/lively/) - Tool to set animated and interactive wallpapers. 🪟 🟢 ⭐
+- [Rainmeter](https://rainmeter.net/) - Desktop customization tool offering widgets, skins, and live stats. 🪟 🟢 ⭐
 
 ## Data Management
 
@@ -140,13 +143,13 @@
 
 ## Developer Tools
 
-- [TkForge](https://github.com/Axorax/tkforge) - Drag & drop in Figma to create a Python GUI with ease. 🪟 🍎 🐧 🟢 ⭐
 - [livewinsize](https://github.com/Axorax/livewinsize) - Visualize window size in pixels and other units. 🪟 🟢 ⭐
+- [TkForge](https://github.com/Axorax/tkforge) - Drag & drop in Figma to create a Python GUI with ease. 🪟 🍎 🐧 🟢 ⭐
 
 ### API Development  
 
-- [Postman](https://postman.com/) - API development platform with advanced testing and collaboration tools. 🪟 🍎 🐧 ⭐
 - [Insomnia](https://insomnia.rest/) - Simple API client for REST and GraphQL development. 🪟 🍎 🐧 🟢 ⭐
+- [Postman](https://postman.com/) - API development platform with advanced testing and collaboration tools. 🪟 🍎 🐧 ⭐
 
 ### Database
 
@@ -172,6 +175,7 @@
 ### Office Suites
 - [LibreOffice](https://libreoffice.org/) - Popular and easy to use office suite. 🪟 🍎 🐧 🟢 ⭐
 
+
 ### E-book
 - [Calibre](https://calibre-ebook.com/) - Powerful e-book manager. 🪟 🍎 🐧 ⭐
 
@@ -186,22 +190,22 @@
 
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editor with debugging, integrated Git support, and a vast extension marketplace. 🪟 🍎 🐧 🟢 ⭐
 
-### Download Managers
+## Download Managers
 
-- [Free Download Manager](https://freedownloadmanager.org/) - Modern download accelerator. 🪟 🍎 🐧 ⭐
 - [AB Download Manager](https://abdownloadmanager.com/) - Easily download files from anywhere. 🪟 🐧 🟢 ⭐
+- [Free Download Manager](https://freedownloadmanager.org/) - Modern download accelerator. 🪟 🍎 🐧 ⭐
 
-### Games
+## Games
 - [Steam](https://store.steampowered.com/) - Platform for buying and playing PC games. 🪟 🍎 🐧 ⭐
 
 ### Cloud Gaming  
 
 
-### Mobile Emulators  
+## Mobile Emulators  
 
 - [BlueStacks](https://bluestacks.com/) - Android emulator for playing mobile games on PC. 🪟 🍎 ⭐
 
-### Other Emulators
+## Other Emulators
 
 
 ## Graphics Tools
@@ -253,8 +257,8 @@
 
 ## Utility
 
-- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Utilities for file renaming, resizing, and productivity tools. 🪟 ⭐ 
 - [AutoHotkey](https://autohotkey.com/) - Scripting language for task automation and custom hotkeys. 🪟 ⭐ 
+- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Utilities for file renaming, resizing, and productivity tools. 🪟 ⭐ 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line tool for downloading audio and video. 🪟 🍎 🐧 🟢 ⭐
 
 ### Clipboard Management
@@ -264,18 +268,24 @@
 
 - [ExifTool](https://exiftool.org/) - Command-line tool for editing metadata in various file types. 🪟 🍎 🐧 ⭐
 
+
 ### Window Management
 
-- [Rectangle](https://rectangleapp.com/) - Efficient window manager with keyboard shortcut support. 🍎 ⭐
 - [FancyZones](https://github.com/microsoft/PowerToys) - Snap and arrange windows in multi-monitor setups. 🪟 🟢 ⭐
+- [Rectangle](https://rectangleapp.com/) - Efficient window manager with keyboard shortcut support. 🍎 ⭐
 
 ### File Management
 
 - [Everything](https://voidtools.com/) - Fast file search tool indexing the entire file system. 🪟 ⭐ 
 
+### Application Management
+
+- [Bulk Crap Uninstaller](https://bcuninstaller.com/) - Powerful tool for uninstalling multiple applications and cleaning leftovers. 🪟 🟢 ⭐
+
 ### Screenshot
 
 - [ShareX](https://getsharex.com/) - Powerful screenshot and screen recording tool with advanced editing options. 🪟 🟢 ⭐
+- [Snipaste](https://snipaste.com/) - Free, Customizable, Portable snipping tool.
 
 ### Space Visualizer
 
