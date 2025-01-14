@@ -690,7 +690,7 @@
 ### Application Management
 
 - [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Powerful tool for uninstalling multiple applications and cleaning leftovers. 🪟 🟢 ⭐
-- [Revo Uninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download/) - Advanced uninstaller to remove programs and residual files with free tier. 🪟 🟢
+- [Revo Uninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download/) - Advanced uninstaller to remove programs and residual files with free tier. 🪟
 
 ### Screenshot
 
