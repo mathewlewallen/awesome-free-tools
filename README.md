@@ -199,7 +199,6 @@
 - [PeaZip](https://peazip.github.io/) - Archive manager supporting 180+ formats with encryption and compression. 🪟 🐧 🟢
 - [The Unarchiver](https://theunarchiver.com/) - Simple tool for extracting ZIP, RAR, ISO, and other formats. 🍎
 - [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - Multi-format decompression tool with QuickLook integration. 🍎
-- [WinRAR](https://rarlab.com/) - Popular archive manager with an "unlimited" free tier. 🪟
 
 
 ## Customize
@@ -610,7 +609,6 @@
 - [OpenVPN](https://openvpn.net/community-downloads/) - VPN solution for secure internet connections with customizable settings. 🪟 🟢
 - [Proxifier](https://proxifier.com/) - Windows proxy client that routes applications via a proxy server. 🪟
 - [Psiphon](https://psiphon.ca/) - VPN and proxy tool for bypassing censorship. 🪟 🍎
-- [ProtonVPN](https://protonvpn.com/) - High-speed VPN from Switzerland with strong privacy features. 🪟 🍎 🐧
 - [SoftEther VPN](https://softether.org/) - Multi-protocol VPN software for secure connections. 🪟 🟢
 - [Sing-box](https://github.com/SagerNet/sing-box) - Universal proxy platform supporting multiple protocols. 🪟 🍎 🐧 🟢
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Modern Shadowsocks client for enhanced security. 🍎 🟢
