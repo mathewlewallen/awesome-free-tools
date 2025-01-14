@@ -3,6 +3,7 @@
 </p>
 
 <p align="center"><a href="android-only.md">Android Only</a> — <a href="iOS-only.md">iOS Only</a> — <a href="open-source-mobile-only.md">Open-source Only</a> — <a href="recommended-mobile-only.md">Recommended Only</a></p>
+<p align="center"><a href="../README.md">PC version</a> — <a href="windows-only.md">Windows Only</a> — <a href="macOS-only.md">macOS Only</a> — <a href="linux-only.md">Linux Only</a></p>
 
 | Icon | Meaning              | Icon | Meaning              |
 |------|----------------------|------|----------------------|
@@ -20,7 +21,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Tuesday, January 14, 2025 at 10:26:40 PM GMT+6 -->
+<!-- AF-TOC : Tuesday, January 14, 2025 at 04:38:01 PM UTC -->
 
 - [Audio](#audio)
 
