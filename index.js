@@ -1,14 +1,19 @@
 const fs = require('fs');
 const { execSync } = require('child_process');
 
-function create(fileName, emoji) {
+function create(file, fileName, emoji) {
   const startTime = Date.now();
-  let data = fs.readFileSync('README.md', 'utf8');
-  const emojis = new Set(["🪟", "🍎", "🐧", "🟢", "⭐"]);
+  let data = fs.readFileSync(file, 'utf8');
+  const emojis = new Set(["🪟", "🍎", "🐧", "🟢", "⭐", "🤖"]);
   let result = [];
   let lineCount = 0;
   const lines = data.split('\n');
   
+  const outputDir = './filter';
+  if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir);
+  }
+
   for (let i = 0; i < lines.length; i++) {
     let line = lines[i];
     if (lineCount < 20) {
@@ -23,20 +28,24 @@ function create(fileName, emoji) {
     result.push(lines[i]);
   }
 
-  fs.writeFileSync(`${fileName}.md`, result.join('\n'));
-  console.log(`${fileName} execution time: ${Date.now() - startTime}ms`);
+  fs.writeFileSync(`${outputDir}/${fileName}.md`, result.join('\n').replaceAll('./filter/', '').replaceAll('src="./', 'src="../'));
+  console.log(`${fileName} time: \x1b[32m${Date.now() - startTime}ms\x1b[0m`);
 }
 
 function categorize() {
-  create("windows-only", "🪟");
-  create("macOS-only", "🍎");
-  create("linux-only", "🐧");
-  create("open-source-only", "🟢");
-  create("recommended-only", "⭐");
+  create("README.md", "windows-only", "🪟");
+  create("README.md","macOS-only", "🍎");
+  create("README.md","linux-only", "🐧");
+  create("README.md","open-source-only", "🟢");
+  create("README.md","recommended-only", "⭐");
+  create("MOBILE.md", "android-only", "🤖");
+  create("MOBILE.md","iOS-only", "🍎");
+  create("MOBILE.md","open-source-mobile-only", "🟢");
+  create("MOBILE.md","recommended-mobile-only", "⭐");
 }
 
-function format() {
-  const data = fs.readFileSync('README.md', 'utf8');
+function format(file = "README.md") {
+  const data = fs.readFileSync(file, 'utf8');
 
   const updatedData = data
     .split('\n')
@@ -56,14 +65,14 @@ function format() {
     })
     .join('\n');
 
-  fs.writeFileSync('README.md', updatedData, 'utf8');
-  console.log('\x1b[32mREADME.md has been formatted.\x1b[0m');
+  fs.writeFileSync(file, updatedData, 'utf8');
+  console.log(`\x1b[32m${file} has been formatted.\x1b[0m`);
 }
 
-function countLinks() {
-  const data = fs.readFileSync('README.md', 'utf8');
+function countLinks(file = "README.md") {
+  const data = fs.readFileSync(file, 'utf8');
   const linkCount = (data.match(/\[.*?\]\(https?:\/\/.*?\)/g) || []).length;
-  console.log(`Total links in README.md: \x1b[32m${linkCount}\x1b[0m`);
+  console.log(`Total links in ${file}: \x1b[32m${linkCount}\x1b[0m`);
 }
 
 function fastGit(message = "update") {
@@ -78,28 +87,29 @@ function fastGit(message = "update") {
 }
 
 function runAll() {
-  countLinks();
-  format();
+  countLinks("README.md");
+  countLinks("MOBILE.md");
+  formatFiles();
   createToC();
   categorize();
-  countLinks();
+  countLinks("README.md");
+  countLinks("MOBILE.md");
 }
 
-function analyze() {
-  const data = fs.readFileSync('README.md', 'utf8');
+function analyze(file = "README.md") {
+  const data = fs.readFileSync(file, 'utf8');
 
   const words = data.match(/\b\w+\b/g);
   const wordCount = words ? words.length : 0;
   const linkCount = (data.match(/\[.*?\]\(https?:\/\/.*?\)/g) || []).length;
   const characterCount = data.length;
 
-  console.log(`Word Count: \x1b[32m${wordCount}\x1b[0m`);
-  console.log(`Character Count: \x1b[32m${characterCount}\x1b[0m`);
-  console.log(`Link Count: \x1b[32m${linkCount}\x1b[0m`);
+  console.log(`${file} Word Count: \x1b[32m${wordCount}\x1b[0m`);
+  console.log(`${file} Character Count: \x1b[32m${characterCount}\x1b[0m`);
+  console.log(`${file} Link Count: \x1b[32m${linkCount}\x1b[0m`);
 }
 
-function generateToc() {
-  const filePath = 'README.md';
+function generateToc(filePath = 'README.md') {
   const content = fs.readFileSync(filePath, 'utf-8');
   const lines = content.split('\n');
 
@@ -124,8 +134,8 @@ function generateToc() {
   return tocContent;
 }
 
-function findAF(name, message, suffix) {
-  const data = fs.readFileSync('README.md', 'utf8');
+function findAF(file, name, message, suffix) {
+  const data = fs.readFileSync(file, 'utf8');
 
   const startMarker = `<!-- AF-${name}`.trim();
   const endMarker = `<!-- AF-END -->`.trim();
@@ -145,8 +155,8 @@ function findAF(name, message, suffix) {
         newData = newData.replace(data.slice(startIndex, cleanStartIndex), newStartMarker);
       }
 
-      fs.writeFileSync('README.md', newData, 'utf8');
-      console.log("File updated successfully.");
+      fs.writeFileSync(file, newData, 'utf8');
+      console.log(file + " updated successfully.");
     } else {
       console.log(`No end marker found for ${startMarker}`);
     }
@@ -156,21 +166,29 @@ function findAF(name, message, suffix) {
 }
 
 function createToC() {
-  findAF("TOC", "\n\n" + generateToc() + "\n\n", `: ${new Date().toLocaleString('en-US', { timeZoneName: 'short', weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true })}`);
+  findAF("README.md", "TOC", "\n\n" + generateToc() + "\n\n", `: ${new Date().toLocaleString('en-US', { timeZoneName: 'short', weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true })}`);
+  findAF("MOBILE.md", "TOC", "\n\n" + generateToc() + "\n\n", `: ${new Date().toLocaleString('en-US', { timeZoneName: 'short', weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true })}`);
+}
+
+function formatFiles() {
+  format("README.md");
+  format("MOBILE.md");
 }
 
 const args = process.argv.slice(2);
 
 if (args.includes('--analyze')) {
-  analyze();
+  analyze("README.md");
+  analyze("MOBILE.md");
 } else if (args.includes('--toc')) {
   createToC();
 } else if (args.includes('--categorize')) {
   categorize();
 } else if (args.includes('--format')) {
-  format();
+  formatFiles();
 } else if (args.includes('--links')) {
-  countLinks();
+  countLinks("README.md");
+  countLinks("MOBILE.md");
 } else if (args.includes('--fastgit')) {
   const commitMessage = args.slice(1).join(' ');
   if (commitMessage) {

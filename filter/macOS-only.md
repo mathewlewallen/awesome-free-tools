@@ -1,8 +1,8 @@
 <p align="center">
-    <img alt="Logo" src="./afa.png">
+    <img alt="Logo" src="../afa.png">
 </p>
 
-<p align="center"><a href="./filter/android-only.md">Android Only</a> — <a href="./filter/iOS-only.md">iOS Only</a> — <a href="./filter/open-source-mobile-only.md">Open-source Only</a> — <a href="./filter/recommended-mobile-only.md">Recommended Only</a></p>
+<p align="center"><a href="android-only.md">Android Only</a> — <a href="iOS-only.md">iOS Only</a> — <a href="open-source-mobile-only.md">Open-source Only</a> — <a href="recommended-mobile-only.md">Recommended Only</a></p>
 
 | Icon | Meaning              | Icon | Meaning              |
 |------|----------------------|------|----------------------|

@@ -1,14 +1,13 @@
 <p align="center">
-    <img alt="Logo" src="./afa.png">
+    <img alt="Logo" src="../afa.png">
 </p>
 
-<p align="center"><a href="windows-only.md">Windows Only</a> — <a href="macOS-only.md">macOS Only</a> — <a href="linux-only.md">Linux Only</a> — <a href="open-source-only.md">Open-source Only</a> — <a href="recommended-only.md">Recommended Only</a></p>
+<p align="center"><a href="android-only.md">Android Only</a> — <a href="iOS-only.md">iOS Only</a> — <a href="open-source-mobile-only.md">Open-source Only</a> — <a href="recommended-mobile-only.md">Recommended Only</a></p>
 
 | Icon | Meaning              | Icon | Meaning              |
 |------|----------------------|------|----------------------|
-| 🪟 | Available on Windows   | 🟢   | Open-source          |
-| 🍎 | Available on macOS     | ⭐   | Recommended by us    |
-| 🐧 | Available on Linux     |      |                      |
+| 🤖 | Available on Android   | 🟢   | Open-source          |
+| 🍎 | Available on iOS       | ⭐   | Recommended by us    |
 
 > [!IMPORTANT]
 > Maintaining this project requires a lot of time. [Donate to support me!](https://patreon.com/axorax) ❤️
@@ -21,69 +20,15 @@
 
 ## Contents
 
-<!-- AF-TOC : Tuesday, January 14, 2025 at 12:34:57 PM UTC -->
+<!-- AF-TOC : Tuesday, January 14, 2025 at 10:10:45 PM GMT+6 -->
 
 - [Audio](#audio)
-  - [Audio Players](#audio-players)
-  - [Audio Recording](#audio-recording)
-  - [DJ Software](#dj-software)
-  - [Music Notation](#music-notation)
-  - [Music Production](#music-production)
-- [Browsers](#browsers)
-- [Communication](#communication)
-  - [Messaging](#messaging)
-  - [Email Clients](#email-clients)
-- [Compression and Archiving](#compression-and-archiving)
-- [Customize](#customize)
-  - [System Customization](#system-customization)
-  - [Wallpaper Tools](#wallpaper-tools)
-- [Data Management](#data-management)
-  - [Copy and Move](#copy-and-move)
-  - [Sync and Clone](#sync-and-clone)
-- [Developer Tools](#developer-tools)
-  - [API Development](#api-development)
-  - [Database](#database)
-  - [Network Analysis](#network-analysis)
-  - [Game Engines](#game-engines)
-  - [Virtualization](#virtualization)
-- [Documents](#documents)
-  - [Office Suites](#office-suites)
-  - [E-book](#e-book)
-  - [PDF Tools](#pdf-tools)
-- [Note Taking](#note-taking)
-- [Text Editors](#text-editors)
-- [Download Managers](#download-managers)
-- [Games](#games)
-  - [Cloud Gaming](#cloud-gaming)
-- [Mobile Emulators](#mobile-emulators)
-- [Other Emulators](#other-emulators)
-- [Graphics Tools](#graphics-tools)
-- [3D Modeling and Animation](#3d-modeling-and-animation)
-- [Security](#security)
-  - [Antivirus](#antivirus)
-  - [Password Managers](#password-managers)
-- [Image Viewers](#image-viewers)
-- [Remote Access](#remote-access)
-- [Video](#video)
-  - [Video Editors](#video-editors)
-  - [Video Players](#video-players)
-  - [Video Streaming and Recording](#video-streaming-and-recording)
-  - [Video Converters and Compressors](#video-converters-and-compressors)
-- [VPN and Proxy Tools](#vpn-and-proxy-tools)
-- [Utility](#utility)
-  - [Clipboard Management](#clipboard-management)
-  - [Metadata](#metadata)
-  - [Window Management](#window-management)
-  - [File Management](#file-management)
-  - [Application Management](#application-management)
-  - [Screenshot](#screenshot)
-  - [Space Visualizer](#space-visualizer)
 
 <!-- AF-END -->
 
 ## Audio
 
-- [FXSound](https://fxsound.com/) - Boost sound quality, volume, and bass. Has a beautiful modern UI. 🪟 🟢 ⭐
+- [FXSound](https://fxsound.com/) - Boost sound quality, volume, and bass. Has a beautiful modern UI. 🪟 🟢 ⭐ 🤖
 
 ### Audio Players
 
