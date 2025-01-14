@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Logo" src="./afa.png">
+    <img alt="Logo" src="./.github/afa.png">
 </p>
 
 <p align="center"><a href="windows-only.md">Windows Only</a> — <a href="macOS-only.md">macOS Only</a> — <a href="linux-only.md">Linux Only</a> — <a href="open-source-only.md">Open-source Only</a> — <a href="recommended-only.md">Recommended Only</a></p>
@@ -21,7 +21,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Tuesday, January 14, 2025 at 10:26:40 PM GMT+6 -->
+<!-- AF-TOC : Tuesday, January 14, 2025 at 10:18:41 PM GMT+6 -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
