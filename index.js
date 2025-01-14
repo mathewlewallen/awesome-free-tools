@@ -109,7 +109,7 @@ function analyze(file = "README.md") {
   console.log(`${file} Link Count: \x1b[32m${linkCount}\x1b[0m`);
 }
 
-function generateToc(filePath = 'README.md') {
+function generateToc(filePath) {
   const content = fs.readFileSync(filePath, 'utf-8');
   const lines = content.split('\n');
 
@@ -166,8 +166,8 @@ function findAF(file, name, message, suffix) {
 }
 
 function createToC() {
-  findAF("README.md", "TOC", "\n\n" + generateToc() + "\n\n", `: ${new Date().toLocaleString('en-US', { timeZoneName: 'short', weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true })}`);
-  findAF("MOBILE.md", "TOC", "\n\n" + generateToc() + "\n\n", `: ${new Date().toLocaleString('en-US', { timeZoneName: 'short', weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true })}`);
+  findAF("README.md", "TOC", "\n\n" + generateToc("README.md") + "\n\n", `: ${new Date().toLocaleString('en-US', { timeZoneName: 'short', weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true })}`);
+  findAF("MOBILE.md", "TOC", "\n\n" + generateToc("MOBILE.md") + "\n\n", `: ${new Date().toLocaleString('en-US', { timeZoneName: 'short', weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true })}`);
 }
 
 function formatFiles() {
