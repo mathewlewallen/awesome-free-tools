@@ -398,7 +398,7 @@
 - [Vimr](http://vimr.org/) - Editor offering a refined Vim experience with enhanced UI and modern features. 🍎 🟢
 - [Zed](https://zed.dev/) - High-performance, collaborative editor designed for speed, real-time collaboration, and custom workflows. 🍎 🐧 🟢
 
-### Download Managers
+## Download Managers
 
 - [AB Download Manager](https://abdownloadmanager.com/) - Easily download files from anywhere. 🪟 🐧 🟢 ⭐
 - [Free Download Manager](https://freedownloadmanager.org/) - Modern download accelerator. 🪟 🍎 🐧 ⭐
@@ -409,7 +409,7 @@
 - [Persepolis Download Manager](https://persepolisdm.github.io/) - GUI for Aria2, providing an intuitive interface. 🪟 🍎 🐧 🟢
 - [Xtreme Download Manager (XDM)](https://xtremedownloadmanager.com/) - Powerful tool to increase download speed. 🪟 🍎 🐧 🟢 
 
-### Games
+## Games
 - [Steam](https://store.steampowered.com/) - Platform for buying and playing PC games. 🪟 🍎 🐧 ⭐
 - [Amazon Games](https://gaming.amazon.com/) - Platform for Prime Gaming titles. 🪟
 - [Battle.net](https://blizzard.com/en-us/apps/battle.net/desktop) - Platform for Blizzard games. 🪟 🍎
@@ -436,7 +436,7 @@
 - [NVIDIA GeForce NOW](https://nvidia.com/en-us/geforce-now/) - Free tier for streaming supported games from the cloud. 🪟 🍎 🐧
 - [Xbox Cloud Gaming](https://xbox.com/en-US/play) - Free trial with limited titles via the cloud. 🪟 🍎
 
-### Mobile Emulators  
+## Mobile Emulators  
 
 - [BlueStacks](https://bluestacks.com/) - Android emulator for playing mobile games on PC. 🪟 🍎 ⭐
 - [Andy](https://andyroid.net/) - Android emulator to run mobile games and apps on PC. 🪟 🍎
@@ -447,7 +447,7 @@
 - [NoxPlayer](https://bignox.com/) - Android emulator optimized for mobile gaming on desktop. 🪟 🍎
 - [Waydroid](https://waydro.id/) - Container-based approach to boot a full Android system. 🐧
 
-### Other Emulators
+## Other Emulators
 
 - [PPSSPP](https://ppsspp.org/) - PSP emulator for any OS. 🪟 🍎 🐧
 - [Dolphin](https://dolphin-emu.org/) - GameCube and Wii emulator. 🪟 🍎 🐧
