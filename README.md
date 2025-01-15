@@ -20,6 +20,9 @@
 >
 > If you want to become a maintainer, check this -> https://github.com/Axorax/awesome-free-apps/issues/28
 
+> [!IMPORTANT]
+> **Looking for the mobile version of this list?** -> [MOBILE.md](MOBILE.md)
+
 ## Contents
 
 <!-- AF-TOC : Tuesday, January 14, 2025 at 04:38:01 PM UTC -->
