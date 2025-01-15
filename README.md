@@ -96,7 +96,7 @@
 
 - [Foobar2000](https://foobar2000.org/) - Lightweight and highly customizable audio player with support for many formats. 🪟 🍎 ⭐
 - [AIMP](https://aimp.ru/) - Music player with a clean interface and powerful features. 🪟
-- [Audacious](https://audacious-media-player.org/) - Lightweight audio player for simple music playback. 🪟 🐧
+- [Audacious](https://github.com/audacious-media-player/audacious) - Lightweight audio player for simple music playback. 🪟 🐧 🟢
 - [Karafun](https://karafun.com/) - Collection of karaoke songs across multiple genres. Play your own CDG files or use downloads from YouTube. 🪟
 - [MusicBee](https://getmusicbee.com/) - Feature-rich music player and manager for Windows. 🪟
 - [Strawberry Music Player](https://strawberrymusicplayer.org/) - Music player for organizing and playing your audio collection. 🪟 🍎 🐧
@@ -299,11 +299,11 @@
 - [Flixel](https://flixel.org/) - 2D engine built with Haxe, suitable for platformers and action games. 🪟 🍎 🐧 🟢
 - [GDevelop](https://gdevelop.io/) - No-code engine for creating 2D games with a visual event system. 🪟 🍎 🐧
 - [Gosu](https://libgosu.org/) - Simple 2D game development library for Ruby or C++. 🪟 🍎 🐧
-- [LÖVE](https://love2d.org/) - Simple, easy-to-learn 2D game engine for Lua. 🪟 🍎 🐧
+- [LÖVE](https://github.com/love2d/love/) - Simple, easy-to-learn 2D game engine for Lua. 🪟 🍎 🐧 🟢
 - [Monogame](https://monogame.net/) - Framework for cross-platform game development with C#. 🪟 🍎 🐧 🟢
 - [OpenRA](https://openra.net/) - Game engine for real-time strategy games, supporting mods for classic titles. 🪟 🍎 🐧 🟢
 - [PICO-8](https://lexaloffle.com/pico-8.php) - Fantasy console for making retro-style small games. 🪟 🍎 🐧
-- [Ren'Py](https://renpy.org/) - Popular engine for creating visual novels with a simple scripting language. 🪟 🍎 🐧
+- [Ren'Py](http://www.github.com/renpy/renpy) - Popular engine for creating visual novels with a simple scripting language. 🪟 🍎 🐧 🟢
 - [Pixel Game Maker MV](https://kadokawa.co.jp/pgmmv/) - Game creation engine for 2D pixel games with no coding required. 🪟
 - [Roblox Studio](https://create.roblox.com/) - Engine for making games on Roblox. 🪟 🍎
 - [Scirra Construct](https://construct.net/) - Powerful game engine with drag-and-drop and visual scripting for 2D games. 🪟 🍎 🐧
@@ -425,7 +425,7 @@
 - [Heroic Games Launcher](https://heroicgameslauncher.com/) - Launcher for Epic, GOG. 🪟 🐧 🟢
 - [Humble App](https://humblebundle.com/app) - Launcher for Humble Bundle games. 🪟
 - [Itch.io](https://itch.io/app) - Marketplace for indie games. 🪟 🍎 🐧
-- [Lutris](https://lutris.net/) - Open-source game manager for Linux. 🐧
+- [Lutris](https://github.com/lutris) - Open-source game manager for Linux. 🐧 🟢
 - [Origin](https://origin.com/) - EA game launcher. 🪟 🍎
 - [Riot Client](https://riotgames.com/en) - Launcher for League of Legends and more. 🪟 🍎
 - [Rockstar Games Launcher](https://socialclub.rockstargames.com/rockstar-games-launcher) - Launcher for Rockstar games. 🪟
