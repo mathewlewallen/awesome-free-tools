@@ -20,9 +20,6 @@
 >
 > If you want to become a maintainer, check this -> https://github.com/Axorax/awesome-free-apps/issues/28
 
-> [!IMPORTANT]
-> **Looking for the mobile version of this list?** -> [MOBILE.md](MOBILE.md)
-
 ## Contents
 
 <!-- AF-TOC : Tuesday, January 14, 2025 at 04:38:01 PM UTC -->
@@ -254,6 +251,7 @@
 - [Meld](https://meldmerge.org/) - Tool for visual file, directory, and version control comparison. 🪟 🍎 🐧 🟢
 - [TkForge](https://github.com/Axorax/tkforge) - Drag & drop in Figma to create a Python GUI with ease. 🪟 🍎 🐧 🟢 ⭐
 - [WinMerge](https://sourceforge.net/projects/winmerge/) - Windows visual diff and merge for files and directories. 🪟 🟢
+- [x64dbg](https://x64dbg.com/) - Debugger for Windows. 🪟 🟢
 
 ### API Development  
 
