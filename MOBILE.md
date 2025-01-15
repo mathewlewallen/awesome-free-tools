@@ -29,4 +29,10 @@
 
 ## Audio
 
+- [GarageBand](https://apps.apple.com/us/app/garageband/id408709785) - Apple's built-in music creator. 🍎
 - [Spotify](https://spotify.com/) - Popular app to listen to music. 🤖 🍎
+
+
+## Developer tools
+
+- [SSH Term](https://apps.apple.com/us/app/ssh-term/id1638226840) - Free SSH Terminal. 🍎
