@@ -324,7 +324,8 @@
 - [UTM](https://mac.getutm.app/) - GUI for QEMU to run various VMs including ARM64 and x64. 🍎
 - [Vagrant](https://vagrantup.com) - Tool for managing reproducible development environments using virtual machines. 🪟 🍎 🐧 🟢
 - [VMWare Workstation](https://vmware.com/products/desktop-hypervisor/workstation-and-fusion) - Virtualization software with advanced features. 🪟 🍎 🐧
-
+- [eryph-zero](https://www.eryph.io) - Tool for building VMs as if they were running in the cloud, but locally on Windows. 🪟 🟢
+  
 ## Documents
 
 - [CDisplayEx](https://cdisplayex.com/) - Lightweight comic book reader (.cbr, .cbz, .pdf, manga). 🪟
