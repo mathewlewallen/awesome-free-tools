@@ -367,7 +367,6 @@
 
 ## Note Taking
 
-- [fylepad](https://github.com/imrofayel/fylepad) - a lightweight open-source notepad with powerful rich-text editing. 🪟 🍎 🐧 🟢
 - [Obsidian](https://obsidian.md/) - Knowledge base app with powerful linking and markdown support. 🪟 🍎 🐧 ⭐
 - [Craft Docs](https://craft.do/) - Beautiful and powerful tool for creating and organizing documents and notes. 🪟 🍎
 - [Joplin](https://joplinapp.org/) - Capture your thoughts and securely access them from any device. 🪟 🍎 🐧 🟢
@@ -377,6 +376,7 @@
 - [Tot](https://tot.rocks/) - Simple, elegant app for collecting and editing text snippets. 🍎
 - [RemNote](https://remnote.io/) - Knowledge management app with note-taking and spaced repetition features. 🪟 🍎 🐧
 - [Simplenote](https://simplenote.com/) - Minimalist note-taking app that syncs across devices. 🪟 🍎 🐧
+- [fylepad](https://github.com/imrofayel/fylepad) - Lightweight notepad with powerful rich-text editing. 🪟 🍎 🐧 🟢
 
 ## Text Editors
 
