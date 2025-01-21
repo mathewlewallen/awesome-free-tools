@@ -7,7 +7,7 @@
 
 | Icon | Meaning              | Icon | Meaning              |
 |------|----------------------|------|----------------------|
-| 🪟 | Available on Windows   | 🟢   | Open-source          |
+| 🪟 | Available on Windows   | 🟢   | Open-source (Repository Link)          |
 | 🍎 | Available on macOS     | ⭐   | Recommended by us    |
 | 🐧 | Available on Linux     |      |                      |
 
