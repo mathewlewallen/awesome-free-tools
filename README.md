@@ -261,7 +261,7 @@
 - [Insomnia](https://insomnia.rest/) - Simple API client for REST and GraphQL development. 🪟 🍎 🐧 🟢 ⭐
 - [Postman](https://postman.com/) - API development platform with advanced testing and collaboration tools. 🪟 🍎 🐧 ⭐
 - [Apidog](https://apidog.com/) - All-in-one workspace for API design, testing, and documentation. 🪟 🍎 🐧
-- [Bruno](https://github.com/usebruno/bruno) - Offline API client that is fast, Git-friendly, and open source. 🪟 🍎 🟢
+- [Bruno](https://www.usebruno.com) - Offline API client that is fast, Git-friendly, and open source. 🪟 🍎 🐧 [🟢](https://github.com/usebruno/bruno)
 - [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Native app for testing REST APIs. 🍎
 - [Hoppscotch](https://hoppscotch.io/) - Lightweight API development tool for designing, testing, and debugging. 🪟 🍎 🐧
 - [HTTPie](https://httpie.io/) - Command-line and GUI tool to simplify working with APIs. 🪟 🍎
