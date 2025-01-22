@@ -21,9 +21,10 @@
 
 ## Contents
 
-<!-- AF-TOC : Tuesday, January 14, 2025 at 04:38:01 PM UTC -->
+<!-- AF-TOC : Wednesday, January 22, 2025 at 10:30:27 AM UTC -->
 
 - [Audio](#audio)
+- [Developer tools](#developer-tools)
 
 <!-- AF-END -->
 

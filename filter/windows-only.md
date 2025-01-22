@@ -7,7 +7,7 @@
 
 | Icon | Meaning              | Icon | Meaning              |
 |------|----------------------|------|----------------------|
-| 🪟 | Available on Windows   | 🟢   | Open-source          |
+| 🪟 | Available on Windows   | 🟢   | Open-source (Repository Link)          |
 | 🍎 | Available on macOS     | ⭐   | Recommended by us    |
 | 🐧 | Available on Linux     |      |                      |
 
@@ -20,9 +20,12 @@
 >
 > If you want to become a maintainer, check this -> https://github.com/Axorax/awesome-free-apps/issues/28
 
+> [!IMPORTANT]
+> **Looking for the mobile version of this list?** -> [MOBILE.md](MOBILE.md)
+
 ## Contents
 
-<!-- AF-TOC : Tuesday, January 14, 2025 at 04:38:01 PM UTC -->
+<!-- AF-TOC : Wednesday, January 22, 2025 at 10:30:27 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -93,7 +96,7 @@
 
 - [Foobar2000](https://foobar2000.org/) - Lightweight and highly customizable audio player with support for many formats. 🪟 🍎 ⭐
 - [AIMP](https://aimp.ru/) - Music player with a clean interface and powerful features. 🪟
-- [Audacious](https://audacious-media-player.org/) - Lightweight audio player for simple music playback. 🪟 🐧
+- [Audacious](https://github.com/audacious-media-player/audacious) - Lightweight audio player for simple music playback. 🪟 🐧 🟢
 - [Karafun](https://karafun.com/) - Collection of karaoke songs across multiple genres. Play your own CDG files or use downloads from YouTube. 🪟
 - [MusicBee](https://getmusicbee.com/) - Feature-rich music player and manager for Windows. 🪟
 - [Strawberry Music Player](https://strawberrymusicplayer.org/) - Music player for organizing and playing your audio collection. 🪟 🍎 🐧
@@ -134,24 +137,24 @@
 
 ## Browsers
 
-- [Tor Browser](https://torproject.org/projects/torbrowser.html) - Privacy browser routing traffic over the Tor network. 🪟 🍎 🐧 ⭐
+- [Tor Browser](https://torproject.org/projects/torbrowser.html) - Privacy browser routing traffic over the Tor network. 🪟 🍎 🐧 [🟢](https://gitlab.torproject.org/tpo/applications/tor-browser) ⭐
 - [Arc](https://arc.net) - Vertical tab browser for modern productivity. 🪟 🍎
-- [Brave](https://brave.com/) - Privacy-focused and fast browser. 🪟 🍎 🐧
+- [Brave](https://brave.com/) - Privacy-focused and fast browser. 🪟 🍎 🐧 [🟢](https://github.com/brave/brave-browser)
 - [Chrome](https://google.com/chrome/) - Fast browser with integrated Google services. 🪟 🍎 🐧
-- [Chromium](https://chromium.org/Home) - Browser project behind Chrome. 🪟 🍎 🐧 🟢
-- [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Privacy-focused Chromium with Google services removed. 🪟 🍎 🐧 🟢
-- [Firefox](https://mozilla.org/en-US/firefox/) - Browser with privacy and customization. 🪟 🍎 🐧 🟢
-- [LibreWolf](https://librewolf.net) - Privacy-focused Firefox fork with enhanced security. 🪟 🍎 🐧
+- [Chromium](https://chromium.org/Home) - Browser project behind Chrome. 🪟 🍎 🐧 [🟢](https://github.com/chromium/chromium)
+- [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Privacy-focused Chromium with Google services removed. 🪟 🍎 🐧 [🟢](https://github.com/ungoogled-software/ungoogled-chromium)
+- [Firefox](https://mozilla.org/en-US/firefox/) - Browser with privacy and customization. 🪟 🍎 🐧 [🟢](https://hg.mozilla.org/mozilla-central)
+- [LibreWolf](https://librewolf.net) - Privacy-focused Firefox fork with enhanced security. 🪟 🍎 🐧 [🟢](https://codeberg.org/librewolf/source)
 - [Microsoft Edge](https://microsoft.com/edge) - Chromium-based browser with extra enhancements. 🪟 🍎 🐧
 - [Min](https://minbrowser.org/) - Fast, minimal browser prioritizing privacy. 🪟 🍎 🐧
 - [Opera](https://opera.com) - Browser with built-in ad-blocking, VPN, and speed. 🪟 🍎 🐧
-- [Pale Moon](https://palemoon.org/) - Goanna-based browser. 🪟 🍎 🐧 🟢
-- [qutebrowser](https://qutebrowser.org/) - Keyboard-driven, vim-like browser in Python and Qt. 🪟 🍎 🐧
+- [Pale Moon](https://palemoon.org/) - Goanna-based browser. 🪟 🍎 🐧 [🟢](https://repo.palemoon.org/MoonchildProductions/Pale-Moon)
+- [qutebrowser](https://qutebrowser.org/) - Keyboard-driven, vim-like browser in Python and Qt. 🪟 🍎 🐧 [🟢](https://github.com/qutebrowser/qutebrowser)
 - [Station](https://getstation.com/) - Browser centralizing web apps in one workspace. 🪟 🍎 🐧
-- [Mullvad Browser](https://mullvad.net/en/download/browser/) - Privacy browser with Tor, anti-fingerprinting, and Mullvad VPN. 🪟 🍎 🐧
+- [Mullvad Browser](https://mullvad.net/en/download/browser/) - Privacy browser with Tor, anti-fingerprinting, and Mullvad VPN. 🪟 🍎 🐧 [🟢](https://github.com/mullvad/mullvad-browser)
 - [Vivaldi](https://vivaldi.com) - Customizable browser putting you in control. 🪟 🍎 🐧
 - [Yandex](https://browser.yandex.com/) - Fast, secure browser by Yandex with privacy features. 🪟 🍎 🐧
-- [Zen Browser](https://zen-browser.app/) - Beautifully designed, privacy-focused browser with custom mods. 🪟 🍎 🐧
+- [Zen Browser](https://zen-browser.app/) - Beautifully designed, privacy-focused browser with custom mods. 🪟 🍎 🐧 [🟢](https://github.com/zen-browser/desktop)
 
 ## Communication
 
@@ -196,16 +199,16 @@
 ### System Customization
 
 - [Winaero](https://winaerotweaker.com/) - All-in-one app for tuning Windows settings. 🪟
-- [Windhawk](https://windhawk.net/) - Customization marketplace for Windows and programs. 🪟 🟢
-- [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hides the Windows volume bar. 🪟 🟢
-- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - Restores and enhances the classic taskbar and system elements. 🪟 🟢
-- [Flow Launcher](https://flowlauncher.com/) - Quick file search and app launcher like Spotlight. 🪟
-- [ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - Replaces default flyouts with customizable modern ones. 🪟 🟢
-- [noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - Tools to freely change system fonts. 🪟 🟢
+- [Windhawk](https://windhawk.net) - Customization marketplace for Windows and programs. 🪟 [🟢](https://github.com/ramensoftware/windhawk)
+- [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hides the Windows volume bar. 🪟 [🟢](https://github.com/UnlimitedStack/HideVolumeOSD)
+- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - Restores and enhances the classic taskbar and system elements. 🪟 [🟢](https://github.com/valinet/ExplorerPatcher)
+- [Flow Launcher](https://flowlauncher.com) - Quick file search and app launcher like Spotlight. 🪟 [🟢](https://github.com/Flow-Launcher/Flow.Launcher)
+- [ModernFlyouts](https://modernflyouts-community.github.io) - Replaces default flyouts with customizable modern ones. 🪟 [🟢](https://github.com/ModernFlyouts-Community/ModernFlyouts)
+- [noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - Tools to freely change system fonts. 🪟 [🟢](https://github.com/Tatsu-syo/noMeiryoUI)
 - [TaskbarX](https://chrisandriessen.nl/taskbarx) - Personalize the taskbar with center alignment, transparency, and animations. 🪟
 - [Sizer](https://brianapps.net/sizer/) - Resize any window to a predefined size. 🪟
-- [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows) - The most powerful PowerShell module for fine-tuning Windows showing how Windows can be configured without making any harm to it. 🪟🟢
-- [RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows. 🪟
+- [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows) - The most powerful PowerShell module for fine-tuning Windows showing how Windows can be configured without making any harm to it. 🪟 [🟢](https://github.com/farag2/Sophia-Script-for-Windows)
+- [RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows. 🪟 [🟢](https://github.com/dremin/RetroBar)
 
 ### Wallpaper Tools
 
@@ -234,6 +237,7 @@
 - [Meld](https://meldmerge.org/) - Tool for visual file, directory, and version control comparison. 🪟 🍎 🐧 🟢
 - [TkForge](https://github.com/Axorax/tkforge) - Drag & drop in Figma to create a Python GUI with ease. 🪟 🍎 🐧 🟢 ⭐
 - [WinMerge](https://sourceforge.net/projects/winmerge/) - Windows visual diff and merge for files and directories. 🪟 🟢
+- [x64dbg](https://x64dbg.com/) - Debugger for Windows. 🪟 🟢
 
 ### API Development  
 
@@ -273,11 +277,12 @@
 - [Flixel](https://flixel.org/) - 2D engine built with Haxe, suitable for platformers and action games. 🪟 🍎 🐧 🟢
 - [GDevelop](https://gdevelop.io/) - No-code engine for creating 2D games with a visual event system. 🪟 🍎 🐧
 - [Gosu](https://libgosu.org/) - Simple 2D game development library for Ruby or C++. 🪟 🍎 🐧
-- [LÖVE](https://love2d.org/) - Simple, easy-to-learn 2D game engine for Lua. 🪟 🍎 🐧
+- [LÖVE](https://github.com/love2d/love/) - Simple, easy-to-learn 2D game engine for Lua. 🪟 🍎 🐧 🟢
+- [LÖVR](https://github.com/bjornbytes/lovr) - Simple 3D game engine for Lua, inspired by LÖVE. 🪟 🍎 🐧 🟢
 - [Monogame](https://monogame.net/) - Framework for cross-platform game development with C#. 🪟 🍎 🐧 🟢
 - [OpenRA](https://openra.net/) - Game engine for real-time strategy games, supporting mods for classic titles. 🪟 🍎 🐧 🟢
 - [PICO-8](https://lexaloffle.com/pico-8.php) - Fantasy console for making retro-style small games. 🪟 🍎 🐧
-- [Ren'Py](https://renpy.org/) - Popular engine for creating visual novels with a simple scripting language. 🪟 🍎 🐧
+- [Ren'Py](http://www.github.com/renpy/renpy) - Popular engine for creating visual novels with a simple scripting language. 🪟 🍎 🐧 🟢
 - [Pixel Game Maker MV](https://kadokawa.co.jp/pgmmv/) - Game creation engine for 2D pixel games with no coding required. 🪟
 - [Roblox Studio](https://create.roblox.com/) - Engine for making games on Roblox. 🪟 🍎
 - [Scirra Construct](https://construct.net/) - Powerful game engine with drag-and-drop and visual scripting for 2D games. 🪟 🍎 🐧
@@ -294,7 +299,8 @@
 - [Rancher Desktop](https://rancherdesktop.io) - App for managing containers and Kubernetes on desktop. 🪟 🍎 🐧 🟢
 - [Vagrant](https://vagrantup.com) - Tool for managing reproducible development environments using virtual machines. 🪟 🍎 🐧 🟢
 - [VMWare Workstation](https://vmware.com/products/desktop-hypervisor/workstation-and-fusion) - Virtualization software with advanced features. 🪟 🍎 🐧
-
+- [eryph-zero](https://eryph.io) - Tool for building VMs as if they were running in the cloud, but locally on Windows. 🪟 🟢
+  
 ## Documents
 
 - [CDisplayEx](https://cdisplayex.com/) - Lightweight comic book reader (.cbr, .cbz, .pdf, manga). 🪟
@@ -331,12 +337,15 @@
 
 ## Note Taking
 
+- [Inkless](https://github.com/Axorax/inkless) - Minimal, shortcut based app to take notes and use for light coding. 🪟 🟢 ⭐
 - [Obsidian](https://obsidian.md/) - Knowledge base app with powerful linking and markdown support. 🪟 🍎 🐧 ⭐
 - [Craft Docs](https://craft.do/) - Beautiful and powerful tool for creating and organizing documents and notes. 🪟 🍎
 - [Joplin](https://joplinapp.org/) - Capture your thoughts and securely access them from any device. 🪟 🍎 🐧 🟢
-- [Notion](https://notion.so/) - All-in-one workspace for notes, tasks, databases, and collaboration. 🪟 🍎 🐧
+- [Logseq](https://github.com/logseq/) - Privacy-first, open-source platform for knowledge management and collaboration. 🪟 🍎 🐧 🟢
+- [Notion](https://notion.so/) - All-in-one workspace for notes, tasks, databases, and collaboration. 🪟 🍎 🐧 
 - [RemNote](https://remnote.io/) - Knowledge management app with note-taking and spaced repetition features. 🪟 🍎 🐧
 - [Simplenote](https://simplenote.com/) - Minimalist note-taking app that syncs across devices. 🪟 🍎 🐧
+- [fylepad](https://github.com/imrofayel/fylepad) - Lightweight notepad with powerful rich-text editing. 🪟 🍎 🐧 🟢
 
 ## Text Editors
 
@@ -406,6 +415,7 @@
 
 ## Other Emulators
 
+- [RetroArch](https://github.com/libretro/RetroArch) - Open-source, cross-platform emulator that allows to play games from a wide variety of retro gaming consoles and platforms. 🪟 🍎 🐧 🟢 ⭐
 - [PPSSPP](https://ppsspp.org/) - PSP emulator for any OS. 🪟 🍎 🐧
 - [Dolphin](https://dolphin-emu.org/) - GameCube and Wii emulator. 🪟 🍎 🐧
 - [PCSX2](https://pcsx2.net/) - PlayStation 2 emulator with compatibility for most games. 🪟 🍎 🐧
@@ -549,6 +559,8 @@
 
 - [Algo](https://github.com/trailofbits/algo) - Simple IPSEC VPN setup for secure cloud connections. 🪟 🍎 🐧 🟢
 - [Cloudflare WARP](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) - VPN and DNS service enhancing privacy and security. 🪟 🍎 🐧
+- [FlClash](https://github.com/chen08209/FlClash) - Multi-platform proxy client based on ClashMeta.  🪟 🍎 🐧 🟢
+- [Hiddify](https://github.com/hiddify/hiddify-app) - Multi-platform proxy toolchain.  🪟 🍎 🐧 🟢
 - [Lantern](https://getlantern.org/) - Internet freedom tool to bypass restrictions. 🪟 🍎 🐧
 - [OpenVPN](https://openvpn.net/community-downloads/) - VPN solution for secure internet connections with customizable settings. 🪟 🟢
 - [Proxifier](https://proxifier.com/) - Windows proxy client that routes applications via a proxy server. 🪟
@@ -556,6 +568,7 @@
 - [SoftEther VPN](https://softether.org/) - Multi-protocol VPN software for secure connections. 🪟 🟢
 - [Sing-box](https://github.com/SagerNet/sing-box) - Universal proxy platform supporting multiple protocols. 🪟 🍎 🐧 🟢
 - [Twingate](https://twingate.com/) - Zero trust access for secure private network connections. 🪟 🍎 🐧
+- [v2rayN](https://github.com/2dust/v2rayN) - Open source GUI for Xray and Sing-box. 🪟 🍎 🐧 🟢
 - [WireGuard](https://wireguard.com/) - Fast, secure VPN protocol designed for simplicity. 🪟 🍎 🐧
 
 ## Utility

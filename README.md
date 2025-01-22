@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Tuesday, January 14, 2025 at 04:38:01 PM UTC -->
+<!-- AF-TOC : Wednesday, January 22, 2025 at 10:30:27 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -324,7 +324,7 @@
 - [UTM](https://mac.getutm.app/) - GUI for QEMU to run various VMs including ARM64 and x64. 🍎
 - [Vagrant](https://vagrantup.com) - Tool for managing reproducible development environments using virtual machines. 🪟 🍎 🐧 🟢
 - [VMWare Workstation](https://vmware.com/products/desktop-hypervisor/workstation-and-fusion) - Virtualization software with advanced features. 🪟 🍎 🐧
-- [eryph-zero](https://www.eryph.io) - Tool for building VMs as if they were running in the cloud, but locally on Windows. 🪟 🟢
+- [eryph-zero](https://eryph.io) - Tool for building VMs as if they were running in the cloud, but locally on Windows. 🪟 🟢
   
 ## Documents
 

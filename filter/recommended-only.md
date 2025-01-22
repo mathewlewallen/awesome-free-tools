@@ -7,7 +7,7 @@
 
 | Icon | Meaning              | Icon | Meaning              |
 |------|----------------------|------|----------------------|
-| 🪟 | Available on Windows   | 🟢   | Open-source          |
+| 🪟 | Available on Windows   | 🟢   | Open-source (Repository Link)          |
 | 🍎 | Available on macOS     | ⭐   | Recommended by us    |
 | 🐧 | Available on Linux     |      |                      |
 
@@ -20,9 +20,12 @@
 >
 > If you want to become a maintainer, check this -> https://github.com/Axorax/awesome-free-apps/issues/28
 
+> [!IMPORTANT]
+> **Looking for the mobile version of this list?** -> [MOBILE.md](MOBILE.md)
+
 ## Contents
 
-<!-- AF-TOC : Tuesday, January 14, 2025 at 04:38:01 PM UTC -->
+<!-- AF-TOC : Wednesday, January 22, 2025 at 10:30:27 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -106,7 +109,7 @@
 
 ## Browsers
 
-- [Tor Browser](https://torproject.org/projects/torbrowser.html) - Privacy browser routing traffic over the Tor network. 🪟 🍎 🐧 ⭐
+- [Tor Browser](https://torproject.org/projects/torbrowser.html) - Privacy browser routing traffic over the Tor network. 🪟 🍎 🐧 [🟢](https://gitlab.torproject.org/tpo/applications/tor-browser) ⭐
 
 ## Communication
 
@@ -169,7 +172,7 @@
 
 - [Docker](https://docker.com/) - Containerization platform for operating-system-level virtualization. 🪟 🍎 🐧 🟢 ⭐
 - [VirtualBox](http://www.virtualbox.org) - Virtualization software for creating and managing virtual machines. 🪟 🍎 🐧 ⭐
-
+  
 ## Documents
 
 
@@ -185,6 +188,7 @@
 
 ## Note Taking
 
+- [Inkless](https://github.com/Axorax/inkless) - Minimal, shortcut based app to take notes and use for light coding. 🪟 🟢 ⭐
 - [Obsidian](https://obsidian.md/) - Knowledge base app with powerful linking and markdown support. 🪟 🍎 🐧 ⭐
 
 ## Text Editors
@@ -208,6 +212,7 @@
 
 ## Other Emulators
 
+- [RetroArch](https://github.com/libretro/RetroArch) - Open-source, cross-platform emulator that allows to play games from a wide variety of retro gaming consoles and platforms. 🪟 🍎 🐧 🟢 ⭐
 
 ## Graphics Tools
 
