@@ -89,7 +89,7 @@ function fastGit(message = "update") {
 function runAll() {
   countLinks("README.md");
   countLinks("MOBILE.md");
-  formatFiles();
+  // formatFiles();
   createToC();
   categorize();
   countLinks("README.md");
