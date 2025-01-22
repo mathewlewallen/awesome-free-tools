@@ -280,7 +280,7 @@
 
 - [Wireshark](https://wireshark.org) - Leading tool for capturing and analyzing network traffic. 🪟 🍎 🐧 [🟢](https://gitlab.com/wireshark/wireshark) ⭐
 - [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload) - Class-leading vulnerability scanning and web app security. 🪟 🍎 🐧
-- [Charles](https://charlesproxy.com) - Debugging proxy to view HTTP and HTTPS traffic. 🪟 🍎
+- [Charles](https://charlesproxy.com) - Debugging proxy to view HTTP and HTTPS traffic. 🪟 🍎 🐧
 - [James](https://github.com/james-proxy/james) - Proxy for intercepting HTTP/HTTPS requests. 🪟 🍎 [🟢](https://github.com/james-proxy/james)
 - [mitmproxy](https://mitmproxy.org) - Interactive HTTP proxy for debugging and penetration testing. 🪟 🍎 🐧 [🟢](https://github.com/mitmproxy/mitmproxy)
 - [Proxie](https://proxie.app) - HTTP debugging proxy for tracking requests. 🍎
@@ -325,7 +325,7 @@
 - [Vagrant](https://vagrantup.com) - Tool for managing reproducible development environments using virtual machines. 🪟 🍎 🐧 🟢
 - [VMWare Workstation](https://vmware.com/products/desktop-hypervisor/workstation-and-fusion) - Virtualization software with advanced features. 🪟 🍎 🐧
 - [eryph-zero](https://eryph.io) - Tool for building VMs as if they were running in the cloud, but locally on Windows. 🪟 🟢
-  
+
 ## Documents
 
 - [CDisplayEx](https://cdisplayex.com/) - Lightweight comic book reader (.cbr, .cbz, .pdf, manga). 🪟
