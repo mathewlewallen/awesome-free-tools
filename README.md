@@ -266,7 +266,7 @@
 - [Hoppscotch](https://hoppscotch.io/) - Lightweight API development tool for designing, testing, and debugging. 🪟 🍎 🐧
 - [HTTPie](https://httpie.io) - Command-line and GUI tool to simplify working with APIs. 🪟 🍎 🐧 [🟢](https://github.com/httpie)
 - [HTTP Toolkit](https://httptoolkit.com) - Tool for debugging and mocking HTTP requests. 🪟 🍎 🐧 [🟢](https://github.com/httptoolkit)
-- [Katalon Studio](https://katalon.com/) - Testing automation for APIs, web, and mobile apps. 🍎
+- [Katalon Studio](https://katalon.com) - Testing automation for APIs, web, and mobile apps. 🪟 🍎 🐧
 - [Mockoon](https://mockoon.com/) - Desktop tool for creating and testing mock REST APIs. 🪟 🍎 🐧
 - [SoapUI Open Source](https://soapui.org/open-source/) - For testing REST and SOAP APIs with scripting support. 🪟 🍎 🐧 🟢
 - [Paw](https://paw.cloud/) - Advanced HTTP client. 🍎
