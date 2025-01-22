@@ -256,20 +256,20 @@
 - [WinMerge](https://sourceforge.net/projects/winmerge/) - Windows visual diff and merge for files and directories. 🪟 🟢
 - [x64dbg](https://x64dbg.com/) - Debugger for Windows. 🪟 🟢
 
-### API Development  
+### API Development
 
-- [Insomnia](https://insomnia.rest/) - Simple API client for REST and GraphQL development. 🪟 🍎 🐧 🟢 ⭐
-- [Postman](https://postman.com/) - API development platform with advanced testing and collaboration tools. 🪟 🍎 🐧 ⭐
-- [Apidog](https://apidog.com/) - All-in-one workspace for API design, testing, and documentation. 🪟 🍎 🐧
+- [Insomnia](https://insomnia.rest) - Simple API client for REST and GraphQL development. 🪟 🍎 🐧 [🟢](https://github.com/Kong/insomnia) ⭐
+- [Postman](https://postman.com) - API development platform with advanced testing and collaboration tools. 🪟 🍎 🐧 ⭐
+- [Apidog](https://apidog.com) - All-in-one workspace for API design, testing, and documentation. 🪟 🍎 🐧
 - [Bruno](https://www.usebruno.com) - Offline API client that is fast, Git-friendly, and open source. 🪟 🍎 🐧 [🟢](https://github.com/usebruno/bruno)
-- [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Native app for testing REST APIs. 🍎
-- [Hoppscotch](https://hoppscotch.io/) - Lightweight API development tool for designing, testing, and debugging. 🪟 🍎 🐧
+- [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client) - Native app for testing REST APIs. 🍎 [🟢](https://github.com/mmattozzi/cocoa-rest-client)
+- [Hoppscotch](https://hoppscotch.io) - Lightweight API development tool for designing, testing, and debugging. 🪟 🍎 🐧 [🟢](https://github.com/hoppscotch/hoppscotch)
 - [HTTPie](https://httpie.io) - Command-line and GUI tool to simplify working with APIs. 🪟 🍎 🐧 [🟢](https://github.com/httpie)
 - [HTTP Toolkit](https://httptoolkit.com) - Tool for debugging and mocking HTTP requests. 🪟 🍎 🐧 [🟢](https://github.com/httptoolkit)
 - [Katalon Studio](https://katalon.com) - Testing automation for APIs, web, and mobile apps. 🪟 🍎 🐧
-- [Mockoon](https://mockoon.com/) - Desktop tool for creating and testing mock REST APIs. 🪟 🍎 🐧
-- [SoapUI Open Source](https://soapui.org/open-source/) - For testing REST and SOAP APIs with scripting support. 🪟 🍎 🐧 🟢
-- [Paw](https://paw.cloud/) - Advanced HTTP client. 🍎
+- [Mockoon](https://mockoon.com) - Desktop tool for creating and testing mock REST APIs. 🪟 🍎 🐧 [🟢](https://github.com/mockoon/mockoon)
+- [SoapUI Open Source](https://soapui.org) - For testing REST and SOAP APIs with scripting support. 🪟 🍎 🐧 [🟢](https://github.com/SmartBear/soapui)
+- [Paw](https://paw.cloud) - Advanced HTTP client. 🍎
 
 ### Database
 
