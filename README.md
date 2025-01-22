@@ -264,7 +264,7 @@
 - [Bruno](https://www.usebruno.com) - Offline API client that is fast, Git-friendly, and open source. 🪟 🍎 🐧 [🟢](https://github.com/usebruno/bruno)
 - [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Native app for testing REST APIs. 🍎
 - [Hoppscotch](https://hoppscotch.io/) - Lightweight API development tool for designing, testing, and debugging. 🪟 🍎 🐧
-- [HTTPie](https://httpie.io/) - Command-line and GUI tool to simplify working with APIs. 🪟 🍎
+- [HTTPie](https://httpie.io) - Command-line and GUI tool to simplify working with APIs. 🪟 🍎 🐧 [🟢](https://github.com/httpie)
 - [HTTP Toolkit](https://httptoolkit.com) - Tool for debugging and mocking HTTP requests. 🪟 🍎 🐧 [🟢](https://github.com/httptoolkit)
 - [Katalon Studio](https://katalon.com/) - Testing automation for APIs, web, and mobile apps. 🍎
 - [Mockoon](https://mockoon.com/) - Desktop tool for creating and testing mock REST APIs. 🪟 🍎 🐧
