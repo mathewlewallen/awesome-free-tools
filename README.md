@@ -358,14 +358,14 @@
 ### PDF Tools
 
 - [Sumatra PDF](https://sumatrapdfreader.org/free-pdf-reader) - Fast, lightweight PDF reader. 🪟 [🟢](https://github.com/sumatrapdfreader/sumatrapdf) ⭐
-- [Foxit PDF Reader](https://foxit.com/pdf-reader/) - PDF viewer with annotations. 🪟 🍎
-- [MuPDF](https://mupdf.com/) - Powerful PDF viewer. 🪟 🐧 [🟢](https://github.com/ArtifexSoftware/mupdf)
-- [Okular](https://okular.kde.org/) - Universal document viewer by KDE. 🪟 🍎 🐧 [🟢](https://github.com/KDE/okular)
+- [Foxit PDF Reader](https://foxit.com/pdf-reader) - PDF viewer with annotations. 🪟 🍎
+- [MuPDF](https://mupdf.com) - Powerful PDF viewer. 🪟 🐧 [🟢](https://github.com/ArtifexSoftware/mupdf)
+- [Okular](https://okular.kde.org) - Universal document viewer by KDE. 🪟 🍎 🐧 [🟢](https://github.com/KDE/okular)
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - PDF editor for splitting, merging. 🪟 🐧 [🟢](https://github.com/pdfarranger/pdfarranger)
-- [PDF24](https://pdf24.org/en/) - Easy PDF tools. 🪟
+- [PDF24](https://pdf24.org/en) - Easy PDF tools. 🪟
 - [qpdfview](https://launchpad.net/qpdfview) - Tabbed document viewer. 🐧 [🟢](https://github.com/bendikro/qpdfview)
-- [Skim](https://skim-app.sourceforge.io/) - PDF viewer for annotation. 🍎 [🟢](https://github.com/JackieXie168/skim)
-- [Xournal++](https://xournalpp.github.io/) - Handwriting and annotation tool for PDFs. 🪟 🍎 🐧 [🟢](https://github.com/xournalpp/xournalpp/)
+- [Skim](https://skim-app.sourceforge.io) - PDF viewer for annotation. 🍎 [🟢](https://github.com/JackieXie168/skim)
+- [Xournal++](https://xournalpp.github.io) - Handwriting and annotation tool for PDFs. 🪟 🍎 🐧 [🟢](https://github.com/xournalpp/xournalpp)
 
 ## Note Taking
 
