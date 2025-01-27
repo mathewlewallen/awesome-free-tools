@@ -403,7 +403,7 @@
 - [Neovim](https://neovim.io) - Advanced Vim-based text editor with improved extensibility, plugins, and modern features. 🪟 🍎 🐧 [🟢](https://github.com/neovim/neovim)
 - [Notepad 3](https://rizonesoft.com/downloads/notepad3) - Fast and light-weight Scintilla-based text editor with syntax highlighting. 🪟 [🟢](https://github.com/rizonesoft/Notepad3)
 - [Nova](https://nova.app) - Editor with an intuitive interface, fast navigation, and built-in Git support. 🍎
-- [Sublime Text](http://www.sublimetext.com/3) - Fast text editor with powerful search, multi-caret editing, and a strong plugin ecosystem. 🪟 🍎 🐧
+- [Sublime Text](http://www.sublimetext.com) - Fast text editor with powerful search, multi-caret editing, and a strong plugin ecosystem. 🪟 🍎 🐧
 - [SubEthaEdit](https://subethaedit.net) - Collaborative text editor enabling real-time editing with multiple users. 🍎 [🟢](https://github.com/subethaedit/SubEthaEdit)
 - [TextMate](https://macromates.com) - Editor with project management, language bundles, and customizable macros. 🍎 [🟢](https://github.com/textmate/textmate)
 - [Vim](https://www.vim.org) - Efficient command-line editor with powerful keyboard shortcuts and multi-file editing. 🪟 🍎 🐧 [🟢](https://github.com/vim/vim)
