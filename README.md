@@ -355,7 +355,7 @@
 
 ### PDF Tools
 - [Sumatra PDF](https://sumatrapdfreader.org/free-pdf-reader) - Fast, lightweight PDF reader. 🪟 ⭐
-- [Foxit PDF Reader](https://foxit.com/pdf-reader/) - PDF viewer with annotations. 🪟
+- [Foxit PDF Reader](https://foxit.com/pdf-reader/) - PDF viewer with annotations. 🪟 🍎
 - [MuPDF](https://mupdf.com/) - Powerful PDF viewer. 🪟 🐧 🟢
 - [Okular](https://okular.kde.org/) - Universal document viewer by KDE. 🪟 🍎 🐧
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - PDF editor for splitting, merging. 🪟 🐧 🟢
