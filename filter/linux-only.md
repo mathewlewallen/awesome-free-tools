@@ -5,11 +5,11 @@
 <p align="center"><a href="windows-only.md">Windows Only</a> — <a href="macOS-only.md">macOS Only</a> — <a href="linux-only.md">Linux Only</a> — <a href="open-source-only.md">Open-source Only</a> — <a href="recommended-only.md">Recommended Only</a></p>
 <p align="center"><a href="../MOBILE.md">Mobile version</a> — <a href="android-only.md">Android Only</a> — <a href="iOS-only.md">iOS Only</a></p>
 
-| Icon | Meaning              | Icon | Meaning              |
-|------|----------------------|------|----------------------|
-| 🪟 | Available on Windows   | 🟢   | Open-source (Repository Link)          |
-| 🍎 | Available on macOS     | ⭐   | Recommended by us    |
-| 🐧 | Available on Linux     |      |                      |
+| Icon | Meaning              | Icon | Meaning                       |
+|------|----------------------|------|-------------------------------|
+| 🪟   | Available on Windows | 🟢   | Open-source (Repository Link) |
+| 🍎   | Available on macOS   | ⭐   | Recommended by us             |
+| 🐧   | Available on Linux   |      |                               |
 
 > [!IMPORTANT]
 > Maintaining this project requires a lot of time. [Donate to support me!](https://patreon.com/axorax) ❤️
@@ -108,7 +108,7 @@
 - [ABCjs](https://abcjs.net/) - Tool for writing and playing ABC music notation. 🪟 🍎 🐧
 - [Denemo](https://denemo.org/) - Music notation software for fast score creation with LilyPond. 🪟 🍎 🐧
 - [Frescobaldi](https://frescobaldi.org/) - Editor for LilyPond to create music scores quickly. 🪟 🍎 🐧
-- [LilyPond](http://lilypond.org/) - Music notation program for creating high-quality sheet music. 🪟 🍎 🐧
+- [LilyPond](https://lilypond.org/) - Music notation program for creating high-quality sheet music. 🪟 🍎 🐧
 - [MuseScore](https://musescore.org/) - Software for creating, playing, and sharing sheet music. 🪟 🍎 🐧
 
 ### Music Production
@@ -161,7 +161,7 @@
 - [CanaryMail](https://canarymail.io/) - Secure email app with PGP support and AI assistance. 🍎 🐧
 - [Edison Mail](https://mail.edison.tech/mac) - Customizable, intuitive email client with smart features. 🪟 🍎 🐧
 - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Electron-based desktop client for ProtonMail. 🪟 🍎 🐧 🟢
-- [Foxmail](http://www.foxmail.com/mac/en) - Fast, user-friendly email client. 🍎 🐧
+- [Foxmail](https://www.foxmail.com/mac/en) - Fast, user-friendly email client. 🍎 🐧
 - [Mailspring](https://getmailspring.com/) - Beautiful, fast email client. 🪟 🍎 🐧 🟢
 - [Nylas Mail](https://nylas.com/nylas-mail/) - Extensible desktop email app based on web technologies. 🪟 🍎 🐧
 - [Polymail](https://polymail.io/) - Simple, powerful email client with modern features. 🪟 🍎 🐧
@@ -244,7 +244,7 @@
 - [Monogame](https://monogame.net/) - Framework for cross-platform game development with C#. 🪟 🍎 🐧 🟢
 - [OpenRA](https://openra.net/) - Game engine for real-time strategy games, supporting mods for classic titles. 🪟 🍎 🐧 🟢
 - [PICO-8](https://lexaloffle.com/pico-8.php) - Fantasy console for making retro-style small games. 🪟 🍎 🐧
-- [Ren'Py](http://www.github.com/renpy/renpy) - Popular engine for creating visual novels with a simple scripting language. 🪟 🍎 🐧 🟢
+- [Ren'Py](https://github.com/renpy/renpy) - Popular engine for creating visual novels with a simple scripting language. 🪟 🍎 🐧 🟢
 - [Scirra Construct](https://construct.net/) - Powerful game engine with drag-and-drop and visual scripting for 2D games. 🪟 🍎 🐧
 - [Tiled](https://mapeditor.org/) - Level editor for creating tile-based game maps, used with other engines. 🪟 🍎 🐧 🟢
 - [Unity](https://unity.com/) - Popular game engine for creating both 2D and 3D games, with an intuitive interface and wide asset store. 🪟 🍎 🐧
@@ -252,7 +252,7 @@
 ### Virtualization
 
 - [Docker](https://docker.com/) - Containerization platform for operating-system-level virtualization. 🪟 🍎 🐧 🟢 ⭐
-- [VirtualBox](http://www.virtualbox.org) - Virtualization software for creating and managing virtual machines. 🪟 🍎 🐧 ⭐
+- [VirtualBox](https://www.virtualbox.org) - Virtualization software for creating and managing virtual machines. 🪟 🍎 🐧 ⭐
 - [Multipass](https://multipass.run/) - Quickly launch and manage Ubuntu virtual machines on demand. 🪟 🍎 🐧
 - [Podman Desktop](https://podman.io/) - Desktop alternative to Docker for managing containers. 🪟 🍎 🐧
 - [QEMU](https://qemu.org/) - Emulator and virtualizer for hardware and system virtualization. 🪟 🍎 🐧 🟢
@@ -264,6 +264,7 @@
 
 
 ### Office Suites
+
 - [LibreOffice](https://libreoffice.org/) - Popular and easy to use office suite. 🪟 🍎 🐧 🟢 ⭐
 - [Apache OpenOffice](https://openoffice.org/) - Suite for documents, spreadsheets, etc. 🪟 🍎 🐧 🟢
 - [Calligra Suite](https://calligra.org/) - Office suite with word processing and vector graphics. 🪟 🍎 🐧
@@ -276,47 +277,49 @@
 
 
 ### E-book
+
 - [Calibre](https://calibre-ebook.com) - Powerful e-book manager. 🪟 🍎 🐧 [🟢](https://github.com/kovidgoyal/calibre) ⭐
 - [Koodo Reader](https://koodoreader.com/en) - EBook reader supporting 15+ formats. 🪟 🍎 🐧 [🟢](https://github.com/koodo-reader/koodo-reader)
 - [Naps2](https://naps2.com) - Scan documents to PDF and more, as simply as possible. 🪟 🍎 🐧 [🟢](https://github.com/cyanfish/naps2)
 - [Readest](https://readest.com) - Cross-platform eBook reader with tools. 🪟 🍎 🐧 [🟢](https://github.com/readest/readest)
 - [Scribus](https://scribus.net) - Layout and publishing software. 🪟 🍎 🐧 [🟢](https://github.com/scribusproject/scribus)
-- [Sigil](https://sigil-ebook.com/) - EPUB editor. 🪟 🍎 🐧 🟢
+- [Sigil](https://sigil-ebook.com/) - EPUB editor. 🪟 🍎 🐧 [🟢](https://github.com/Sigil-Ebook/Sigil)
 
 ### PDF Tools
-- [MuPDF](https://mupdf.com/) - Powerful PDF viewer. 🪟 🐧 🟢
-- [Okular](https://okular.kde.org/) - Universal document viewer by KDE. 🪟 🍎 🐧
-- [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - PDF editor for splitting, merging. 🪟 🐧 🟢
-- [qpdfview](https://launchpad.net/qpdfview) - Tabbed document viewer. 🐧
-- [Xournal++](https://xournalpp.github.io/) - Handwriting and annotation tool for PDFs. 🪟 🍎 🐧
+
+- [MuPDF](https://mupdf.com) - Powerful PDF viewer. 🪟 🐧 [🟢](https://github.com/ArtifexSoftware/mupdf)
+- [Okular](https://okular.kde.org) - Universal document viewer by KDE. 🪟 🍎 🐧 [🟢](https://github.com/KDE/okular)
+- [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - PDF editor for splitting, merging. 🪟 🐧 [🟢](https://github.com/pdfarranger/pdfarranger)
+- [qpdfview](https://launchpad.net/qpdfview) - Tabbed document viewer. 🐧 [🟢](https://github.com/bendikro/qpdfview)
+- [Xournal++](https://xournalpp.github.io) - Handwriting and annotation tool for PDFs. 🪟 🍎 🐧 [🟢](https://github.com/xournalpp/xournalpp)
 
 ## Note Taking
 
 - [Obsidian](https://obsidian.md/) - Knowledge base app with powerful linking and markdown support. 🪟 🍎 🐧 ⭐
-- [Joplin](https://joplinapp.org/) - Capture your thoughts and securely access them from any device. 🪟 🍎 🐧 🟢
-- [Logseq](https://github.com/logseq/) - Privacy-first, open-source platform for knowledge management and collaboration. 🪟 🍎 🐧 🟢
-- [Notion](https://notion.so/) - All-in-one workspace for notes, tasks, databases, and collaboration. 🪟 🍎 🐧 
-- [RemNote](https://remnote.io/) - Knowledge management app with note-taking and spaced repetition features. 🪟 🍎 🐧
-- [Simplenote](https://simplenote.com/) - Minimalist note-taking app that syncs across devices. 🪟 🍎 🐧
-- [fylepad](https://github.com/imrofayel/fylepad) - Lightweight notepad with powerful rich-text editing. 🪟 🍎 🐧 🟢
+- [Joplin](https://joplinapp.org/) - Capture your thoughts and securely access them from any device. 🪟 🍎 🐧 [🟢](https://github.com/laurent22/joplin)
+- [Logseq](https://github.com/logseq/logseq) - Privacy-first, open-source platform for knowledge management and collaboration. 🪟 🍎 🐧 [🟢](https://github.com/logseq/logseq)
+- [Notion](https://notion.so) - All-in-one workspace for notes, tasks, databases, and collaboration. 🪟 🍎 🐧
+- [RemNote](https://remnote.io) - Knowledge management app with note-taking and spaced repetition features. 🪟 🍎 🐧
+- [Simplenote](https://simplenote.com) - Minimalist note-taking app that syncs across devices. 🪟 🍎 🐧 [🟢](https://github.com/Automattic/simplenote-electron)
+- [fylepad](https://fylepad.vercel.app) - Lightweight notepad with powerful rich-text editing. 🪟 🍎 🐧 [🟢](https://github.com/imrofayel/fylepad)
 
 ## Text Editors
 
-- [Visual Studio Code](https://code.visualstudio.com/) - Code editor with debugging, integrated Git support, and a vast extension marketplace. 🪟 🍎 🐧 🟢 ⭐
-- [Atom](https://atom.io/) - Highly customizable editor with Git integration, real-time collaboration, and extensive plugins. 🪟 🍎 🐧 🟢
-- [Bluefish](https://bluefish.openoffice.org/) - Web developer editor supporting HTML, CSS, JavaScript, and PHP with built-in preview. 🪟 🍎 🐧
-- [Brackets](http://brackets.io/) - Web-focused editor with live preview, CSS preprocessor support, and inline editing for HTML. 🪟 🍎 🐧 🟢
-- [Emacs](https://gnu.org/software/emacs/) - Customizable editor with robust scripting, project management, and multi-language support. 🪟 🍎 🐧 🟢
-- [Geany](https://geany.org/) - Lightweight editor with built-in terminal, project management, and syntax highlighting for many languages. 🪟 🍎 🐧
-- [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - Visual editor with a canvas UI to help navigate and understand code structure. 🪟 🍎 🐧 🟢
-- [Helix](https://helix-editor.com/) - Modal text editor with powerful text manipulation, multiple cursors, and a modern UI. 🪟 🍎 🐧
-- [Lapce](https://lapce.dev/) - Fast, extensible editor with built-in support for multiple languages and advanced editing features. 🪟 🍎 🐧
-- [LightTable](http://lighttable.com/) - Code editor offering real-time feedback and live execution of code in an interactive environment. 🪟 🍎 🐧
-- [micro](https://micro-editor.github.io) - Simple, modern terminal-based editor with support for mouse interaction and plugin extensions. 🪟 🍎 🐧
-- [Neovim](https://github.com/neovim/neovim) - Advanced terminal editor with improved extensibility, plugins, and modern features. 🪟 🍎 🐧 🟢
-- [Sublime Text](http://www.sublimetext.com/3) - Fast text editor with powerful search, multi-caret editing, and a strong plugin ecosystem. 🪟 🍎 🐧
-- [Vim](https://vim.org/) - Efficient command-line editor with powerful keyboard shortcuts and multi-file editing. 🪟 🍎 🐧 🟢
-- [Zed](https://zed.dev/) - High-performance, collaborative editor designed for speed, real-time collaboration, and custom workflows. 🍎 🐧 🟢
+- [Visual Studio Code](https://code.visualstudio.com) - Code editor with debugging, integrated Git support, and a vast extension marketplace. 🪟 🍎 🐧 [🟢](https://github.com/microsoft/vscode) ⭐
+- [Atom](https://atom.io) - Highly customizable editor with Git integration, real-time collaboration, and extensive plugins. 🪟 🍎 🐧 [🟢](https://github.com/atom/atom)
+- [Bluefish](https://bluefish.openoffice.nl/index.html) - Web developer editor supporting HTML, CSS, JavaScript, and PHP with built-in preview. 🪟 🍎 🐧 [🟢](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish)
+- [Brackets](https://brackets.io) - Web-focused editor with live preview, CSS preprocessor support, and inline editing for HTML. 🪟 🍎 🐧 [🟢](https://github.com/brackets-cont/brackets)
+- [Emacs](https://gnu.org/software/emacs) - Customizable editor with robust scripting, project management, and multi-language support. 🪟 🍎 🐧 [🟢](https://github.com/emacs-mirror/emacs)
+- [Geany](https://geany.org) - Lightweight editor with built-in terminal, project management, and syntax highlighting for many languages. 🪟 🍎 🐧 [🟢](https://github.com/geany/geany)
+- [Haystack Editor](https://haystackeditor.com) - Visual editor with a canvas UI to help navigate and understand code structure. 🪟 🍎 🐧 [🟢](https://github.com/haystackeditor/haystack-editor)
+- [Helix](https://helix-editor.com) - Modal text editor with powerful text manipulation, multiple cursors, and a modern UI. 🪟 🍎 🐧 [🟢](https://github.com/helix-editor/helix)
+- [Lapce](https://lapce.dev) - Fast, extensible editor with built-in support for multiple languages and advanced editing features. 🪟 🍎 🐧 [🟢](https://github.com/lapce/lapce)
+- [LightTable](http://lighttable.com) - Code editor offering real-time feedback and live execution of code in an interactive environment. 🪟 🍎 🐧 [🟢](https://github.com/LightTable/LightTable)
+- [micro](https://micro-editor.github.io) - Simple, modern terminal-based editor with support for mouse interaction and plugin extensions. 🪟 🍎 🐧 [🟢](https://github.com/zyedidia/micro)
+- [Neovim](https://neovim.io) - Advanced Vim-based text editor with improved extensibility, plugins, and modern features. 🪟 🍎 🐧 [🟢](https://github.com/neovim/neovim)
+- [Sublime Text](https://www.sublimetext.com) - Fast text editor with powerful search, multi-caret editing, and a strong plugin ecosystem. 🪟 🍎 🐧
+- [Vim](https://www.vim.org) - Efficient command-line editor with powerful keyboard shortcuts and multi-file editing. 🪟 🍎 🐧 [🟢](https://github.com/vim/vim)
+- [Zed](https://zed.dev) - High-performance, collaborative editor designed for speed, real-time collaboration, and custom workflows. 🍎 🐧 [🟢](https://github.com/zed-industries/zed)
 
 ## Download Managers
 
@@ -329,6 +332,7 @@
 - [Xtreme Download Manager (XDM)](https://xtremedownloadmanager.com/) - Powerful tool to increase download speed. 🪟 🍎 🐧 🟢 
 
 ## Games
+
 - [Steam](https://store.steampowered.com/) - Platform for buying and playing PC games. 🪟 🍎 🐧 ⭐
 - [Heroic Games Launcher](https://heroicgameslauncher.com/) - Launcher for Epic, GOG. 🪟 🐧 🟢
 - [Itch.io](https://itch.io/app) - Marketplace for indie games. 🪟 🍎 🐧
@@ -371,11 +375,11 @@
 - [Krita](https://krita.org/) - Digital painting software designed for illustrators and concept artists. 🪟 🍎 🐧 🟢 ⭐
 - [Aspect](https://aspect.bildhuus.com/) - Photo organizer with peer-to-peer synchronization for secure image storage. 🪟 🍎 🐧
 - [pngquant](https://pngquant.org/) - Command-line tool for compressing PNG images without losing quality. 🪟 🍎 🐧
-- [Alchemy](http://al.chemy.org/) - Experimental drawing application focused on conceptual art creation. 🪟 🍎 🐧
+- [Alchemy](https://al.chemy.org/) - Experimental drawing application focused on conceptual art creation. 🪟 🍎 🐧
 - [Colorpicker](https://colorpicker.fr/) - Color manipulation tool for picking and modifying colors. 🪟 🍎 🐧 🟢
 - [Draw.io](https://github.com/jgraph/drawio-desktop) - Desktop app for creating diagrams and flowcharts. 🪟 🍎 🐧 🟢
 - [Figma](https://figma.com/) - Collaborative interface design tool for building UI/UX projects. 🪟 🍎 🐧
-- [FontForge](http://fontforge.github.io/) - Font editor for creating and modifying font files. 🪟 🍎 🐧 🟢
+- [FontForge](https://fontforge.github.io/) - Font editor for creating and modifying font files. 🪟 🍎 🐧 🟢
 - [Lunacy](https://icons8.com/lunacy) - Design tool offering collaboration features and built-in assets. 🪟 🍎 🐧
 - [MagicaVoxel](https://ephtracy.github.io/) - Lightweight voxel editor and interactive path tracing renderer for 3D models. 🪟 🍎 🐧
 - [Pencil2D](https://pencil2d.org) - Simple and intuitive tool for creating 2D hand-drawn animations. 🪟 🍎 🐧
@@ -386,7 +390,7 @@
 - [FreeCAD](https://freecadweb.org/) - Parametric 3D CAD modeler for designing real-life objects of any size. 🪟 🍎 🐧
 - [MakeHuman](https://static.makehumancommunity.org/makehuman.html) - 3D human modeler for creating realistic character models. 🪟 🍎 🐧 🟢
 - [OpenSCAD](https://openscad.org/) - Script-based 3D CAD modeler for creating precise solid geometry. 🪟 🍎 🐧
-- [Wings 3D](http://www.wings3d.com/) - 3D modeling software focusing on subdivision modeling. 🪟 🍎 🐧 🟢
+- [Wings 3D](https://www.wings3d.com/) - 3D modeling software focusing on subdivision modeling. 🪟 🍎 🐧 🟢
 
 ## Security
 
@@ -515,4 +519,4 @@
 ### Space Visualizer
 
 - [Filelight](https://kde.org/applications/utilities/org.kde.filelight) - Visualizer with a circular sunburst chart. 🪟 🍎 🐧
-- [JDiskReport](http://www.jgoodies.com/freeware/jdiskreport/) - Tool for visualizing disk usage with a variety of charts and graphs. 🪟 🐧
+- [JDiskReport](https://www.jgoodies.com/freeware/jdiskreport/) - Tool for visualizing disk usage with a variety of charts and graphs. 🪟 🐧

@@ -5,11 +5,11 @@
 <p align="center"><a href="windows-only.md">Windows Only</a> — <a href="macOS-only.md">macOS Only</a> — <a href="linux-only.md">Linux Only</a> — <a href="open-source-only.md">Open-source Only</a> — <a href="recommended-only.md">Recommended Only</a></p>
 <p align="center"><a href="../MOBILE.md">Mobile version</a> — <a href="android-only.md">Android Only</a> — <a href="iOS-only.md">iOS Only</a></p>
 
-| Icon | Meaning              | Icon | Meaning              |
-|------|----------------------|------|----------------------|
-| 🪟 | Available on Windows   | 🟢   | Open-source (Repository Link)          |
-| 🍎 | Available on macOS     | ⭐   | Recommended by us    |
-| 🐧 | Available on Linux     |      |                      |
+| Icon | Meaning              | Icon | Meaning                       |
+|------|----------------------|------|-------------------------------|
+| 🪟   | Available on Windows | 🟢   | Open-source (Repository Link) |
+| 🍎   | Available on macOS   | ⭐   | Recommended by us             |
+| 🐧   | Available on Linux   |      |                               |
 
 > [!IMPORTANT]
 > Maintaining this project requires a lot of time. [Donate to support me!](https://patreon.com/axorax) ❤️
@@ -171,29 +171,32 @@
 ### Virtualization
 
 - [Docker](https://docker.com/) - Containerization platform for operating-system-level virtualization. 🪟 🍎 🐧 🟢 ⭐
-- [VirtualBox](http://www.virtualbox.org) - Virtualization software for creating and managing virtual machines. 🪟 🍎 🐧 ⭐
+- [VirtualBox](https://www.virtualbox.org) - Virtualization software for creating and managing virtual machines. 🪟 🍎 🐧 ⭐
 
 ## Documents
 
 
 ### Office Suites
+
 - [LibreOffice](https://libreoffice.org/) - Popular and easy to use office suite. 🪟 🍎 🐧 🟢 ⭐
 
 
 ### E-book
+
 - [Calibre](https://calibre-ebook.com) - Powerful e-book manager. 🪟 🍎 🐧 [🟢](https://github.com/kovidgoyal/calibre) ⭐
 
 ### PDF Tools
-- [Sumatra PDF](https://sumatrapdfreader.org/free-pdf-reader) - Fast, lightweight PDF reader. 🪟 ⭐
+
+- [Sumatra PDF](https://sumatrapdfreader.org/free-pdf-reader) - Fast, lightweight PDF reader. 🪟 [🟢](https://github.com/sumatrapdfreader/sumatrapdf) ⭐
 
 ## Note Taking
 
-- [Inkless](https://github.com/Axorax/inkless) - Minimal, shortcut based app to take notes and use for light coding. 🪟 🟢 ⭐
+- [Inkless](https://github.com/Axorax/inkless) - Minimal, shortcut based app to take notes and use for light coding. 🪟 [🟢](https://github.com/Axorax/inkless) ⭐
 - [Obsidian](https://obsidian.md/) - Knowledge base app with powerful linking and markdown support. 🪟 🍎 🐧 ⭐
 
 ## Text Editors
 
-- [Visual Studio Code](https://code.visualstudio.com/) - Code editor with debugging, integrated Git support, and a vast extension marketplace. 🪟 🍎 🐧 🟢 ⭐
+- [Visual Studio Code](https://code.visualstudio.com) - Code editor with debugging, integrated Git support, and a vast extension marketplace. 🪟 🍎 🐧 [🟢](https://github.com/microsoft/vscode) ⭐
 
 ## Download Managers
 
@@ -201,6 +204,7 @@
 - [Free Download Manager](https://freedownloadmanager.org/) - Modern download accelerator. 🪟 🍎 🐧 ⭐
 
 ## Games
+
 - [Steam](https://store.steampowered.com/) - Platform for buying and playing PC games. 🪟 🍎 🐧 ⭐
 
 ### Cloud Gaming  

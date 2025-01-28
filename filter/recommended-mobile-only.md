@@ -30,7 +30,146 @@
 
 ## Audio
 
+### Audio Players
 
 
-## Developer tools
+### Audio Recording
+
+
+### DJ Software
+
+
+### Music Notation
+
+
+### Music Production
+
+
+
+## Browsers
+
+
+## Communication
+
+### Messaging
+
+
+### Email Clients
+
+
+## Compression and Archiving
+
+
+## Customize
+
+### System Customization
+
+
+### Wallpaper Tools
+
+
+## Data Management
+
+### Copy and Move
+
+
+### Sync and Clone
+
+
+## Developer Tools
+
+
+### API Development
+
+
+### Database
+
+
+### Network Analysis
+
+
+### Game Engines
+
+
+### Virtualization
+
+
+## Documents
+
+### Office Suites
+
+
+### E-book
+
+
+### PDF Tools
+
+
+## Note Taking
+
+
+## Text Editors
+
+
+## Download Managers
+
+
+## Graphics Tools
+
+
+## 3D Modeling and Animation
+
+
+## Security
+
+### Antivirus
+
+
+### Password Managers
+
+
+## Image Viewers
+
+
+## Remote Access
+
+
+## Video
+
+### Video Editors
+
+
+### Video Players
+
+
+### Video Streaming and Recording
+
+
+### Video Converters and Compressors
+
+
+## VPN and Proxy Tools
+
+
+## Utility
+
+### Clipboard Management
+
+
+### Metadata
+
+
+### Window Management
+
+
+### File Management
+
+
+### Application Management
+
+
+### Screenshot
+
+
+### Space Visualizer
 
