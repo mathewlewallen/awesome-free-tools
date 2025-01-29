@@ -365,6 +365,7 @@
 - [qpdfview](https://launchpad.net/qpdfview) - Tabbed document viewer. 🐧 [🟢](https://github.com/bendikro/qpdfview)
 - [Skim](https://skim-app.sourceforge.io) - PDF viewer for annotation. 🍎 [🟢](https://github.com/JackieXie168/skim)
 - [Xournal++](https://xournalpp.github.io) - Handwriting and annotation tool for PDFs. 🪟 🍎 🐧 [🟢](https://github.com/xournalpp/xournalpp)
+- [PDFGear](https://www.pdfgear.com/) - Read, edit, convert, merge, and sign PDF files across devices. 🪟 🍎
 
 ## Note Taking
 
@@ -404,6 +405,7 @@
 - [Nova](https://nova.app) - Editor with an intuitive interface, fast navigation, and built-in Git support. 🍎
 - [Sublime Text](https://www.sublimetext.com) - Fast text editor with powerful search, multi-caret editing, and a strong plugin ecosystem. 🪟 🍎 🐧
 - [SubEthaEdit](https://subethaedit.net) - Collaborative text editor enabling real-time editing with multiple users. 🍎 [🟢](https://github.com/subethaedit/SubEthaEdit)
+- [Kate](https://kate-editor.org/) - Editor with plugins, split-view and more by KDE. 🪟 🍎 🐧
 - [TextMate](https://macromates.com) - Editor with project management, language bundles, and customizable macros. 🍎 [🟢](https://github.com/textmate/textmate)
 - [Vim](https://www.vim.org) - Efficient command-line editor with powerful keyboard shortcuts and multi-file editing. 🪟 🍎 🐧 [🟢](https://github.com/vim/vim)
 - [Vimr](http://vimr.org) - Editor offering a refined Vim experience with enhanced UI and modern features. 🍎 [🟢](https://github.com/qvacua/vimr)
@@ -652,6 +654,8 @@
 - [Rocket](https://matthewpalmer.net/rocket/) - Type and insert emojis anywhere using a colon (:). 🍎
 - [Winpower](https://github.com/Axorax/winpower) - Advanced power settings and management for Windows. 🪟 🟢
 - [Windterm](https://github.com/kingToolbox/WindTerm) - SSH/Telnet/Serial/Shell/Sftp client for DevOps.  🪟 🍎 🐧 🟢
+- [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Simulate different system regions and languages. 🪟 🟢
+- [UniGetUI](https://www.marticliment.com/unigetui/) - UI for popular package managers like  Winget, NPM, and more. 🪟 [🟢](https://github.com/marticliment/UniGetUI/)
 
 ### Clipboard Management
 
