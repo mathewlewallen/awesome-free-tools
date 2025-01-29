@@ -700,7 +700,7 @@
 - [Everything](https://voidtools.com) - Fast file search tool indexing the entire file system. 🪟 ⭐ 
 - [Double Commander](https://doublecmd.sourceforge.io) - Dual-pane manager with built-in editor and advanced search. 🪟 🍎 🐧
 - [Far Manager](https://farmanager.com) - File and archive manager with advanced functionality. 🪟
-- [Files](https://github.com/files-community/Files) - Modern file manager for easy file organization. 🪟 🟢
+- [Files](https://files.community/download) - Modern file manager for easy file organization. 🪟 [🟢](https://github.com/files-community/Files)
 - [Free Commander](https://freecommander.com/en/summary) - Alternative file manager with added features. 🪟
 - [FileZilla](https://filezilla-project.org) - Reliable FTP, FTPS, and SFTP client for remote management. 🪟 🍎 🐧
 - [Listary](https://listary.com) - Free file search tool & app launcher. 🪟
