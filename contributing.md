@@ -27,6 +27,14 @@ Example:
 
 - The icons (emojis) should go after the description. There is a reference table at the top of the README file.
 
+- When the app is open-source, make the 🟢 icon a link to the source code of the project. If the app has a separate
+website, use it as the link for the app name. Otherwise use the source code link for both the name and the icon. Example:
+
+```
+- [Neovim](https://neovim.io) - Advanced Vim-based text editor with improved extensibility, plugins, and modern features. 🪟 🍎 🐧 [🟢](https://github.com/neovim/neovim)
+- [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Privacy-focused Chromium with Google services removed. 🪟 🍎 🐧 [🟢](https://github.com/ungoogled-software/ungoogled-chromium)
+```
+
 - ONLY add your app or make any changes to the README.md file. All other files are auto-generated.
 
 - To add a new category, just make it following the rules for the other ones in the file. DO NOT change anything in the Table of Contents as it is auto-generated. After you make a new category, it will be automatically added in the contents later on.
