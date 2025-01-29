@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Sunday, January 26, 2025 at 07:30:20 PM UTC -->
+<!-- AF-TOC : Wednesday, January 29, 2025 at 06:15:35 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -181,7 +181,6 @@
 - [Postbox](https://postbox-inc.com/) - Advanced email management with productivity focus. 🪟 🍎
 - [Polymail](https://polymail.io/) - Simple, powerful email client with modern features. 🪟 🍎 🐧
 - [Wino Mail](https://apps.microsoft.com/detail/9ncrcvjc50wl?hl=en-US&gl=BD) - Fluent design email client with Mica effect. 🪟
-- [Skiff Mail](https://skiff.com/mail) - Encrypted, decentralized email service. 🪟 🍎 🐧
 - [ThunderBird](https://thunderbird.net/) - Email client for easier management. 🪟 🍎 🐧 🟢
 - [Tutanota](https://tutanota.com/) - Encrypted service focused on privacy. 🪟 🍎 🐧
 
@@ -338,6 +337,7 @@
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - PDF editor for splitting, merging. 🪟 🐧 [🟢](https://github.com/pdfarranger/pdfarranger)
 - [PDF24](https://pdf24.org/en) - Easy PDF tools. 🪟
 - [Xournal++](https://xournalpp.github.io) - Handwriting and annotation tool for PDFs. 🪟 🍎 🐧 [🟢](https://github.com/xournalpp/xournalpp)
+- [PDFGear](https://www.pdfgear.com/) - Read, edit, convert, merge, and sign PDF files across devices. 🪟 🍎
 
 ## Note Taking
 
@@ -370,6 +370,7 @@
 - [Neovim](https://neovim.io) - Advanced Vim-based text editor with improved extensibility, plugins, and modern features. 🪟 🍎 🐧 [🟢](https://github.com/neovim/neovim)
 - [Notepad 3](https://rizonesoft.com/downloads/notepad3) - Fast and light-weight Scintilla-based text editor with syntax highlighting. 🪟 [🟢](https://github.com/rizonesoft/Notepad3)
 - [Sublime Text](https://www.sublimetext.com) - Fast text editor with powerful search, multi-caret editing, and a strong plugin ecosystem. 🪟 🍎 🐧
+- [Kate](https://kate-editor.org/) - Editor with plugins, split-view and more by KDE. 🪟 🍎 🐧
 - [Vim](https://www.vim.org) - Efficient command-line editor with powerful keyboard shortcuts and multi-file editing. 🪟 🍎 🐧 [🟢](https://github.com/vim/vim)
 
 ## Download Managers
@@ -593,6 +594,8 @@
 - [Twinkle Tray](https://twinkletray.com/) - Simple tool to manage brightness across multiple monitors. 🪟
 - [Winpower](https://github.com/Axorax/winpower) - Advanced power settings and management for Windows. 🪟 🟢
 - [Windterm](https://github.com/kingToolbox/WindTerm) - SSH/Telnet/Serial/Shell/Sftp client for DevOps.  🪟 🍎 🐧 🟢
+- [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Simulate different system regions and languages. 🪟 🟢
+- [UniGetUI](https://www.marticliment.com/unigetui/) - UI for popular package managers like  Winget, NPM, and more. 🪟 [🟢](https://github.com/marticliment/UniGetUI/)
 
 ### Clipboard Management
 

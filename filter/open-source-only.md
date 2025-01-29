@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Sunday, January 26, 2025 at 07:30:20 PM UTC -->
+<!-- AF-TOC : Wednesday, January 29, 2025 at 06:15:35 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -411,6 +411,8 @@
 - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Simulate different system regions and languages. 🪟 🟢
 - [Winpower](https://github.com/Axorax/winpower) - Advanced power settings and management for Windows. 🪟 🟢
 - [Windterm](https://github.com/kingToolbox/WindTerm) - SSH/Telnet/Serial/Shell/Sftp client for DevOps.  🪟 🍎 🐧 🟢
+- [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Simulate different system regions and languages. 🪟 🟢
+- [UniGetUI](https://www.marticliment.com/unigetui/) - UI for popular package managers like  Winget, NPM, and more. 🪟 [🟢](https://github.com/marticliment/UniGetUI/)
 
 ### Clipboard Management
 
