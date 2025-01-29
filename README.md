@@ -187,7 +187,6 @@
 - [Polymail](https://polymail.io/) - Simple, powerful email client with modern features. 🪟 🍎 🐧
 - [Wino Mail](https://apps.microsoft.com/detail/9ncrcvjc50wl?hl=en-US&gl=BD) - Fluent design email client with Mica effect. 🪟
 - [Spark](https://sparkmailapp.com/) - Fast email client with team collaboration features. 🍎 🐧
-- [Skiff Mail](https://skiff.com/mail) - Encrypted, decentralized email service. 🪟 🍎 🐧
 - [ThunderBird](https://thunderbird.net/) - Email client for easier management. 🪟 🍎 🐧 🟢
 - [Tutanota](https://tutanota.com/) - Encrypted service focused on privacy. 🪟 🍎 🐧
 
