@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Wednesday, January 29, 2025 at 06:15:35 AM UTC -->
+<!-- AF-TOC : Wednesday, January 29, 2025 at 08:59:33 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -364,6 +364,7 @@
 - [OpenShot](https://openshot.org/) - Easy-to-use video editor with support for multiple video tracks. 🪟 🍎 🐧 🟢
 - [Kdenlive](https://kdenlive.org/en/) - Video editor with multi-track editing and a powerful interface. 🪟 🍎 🐧 🟢
 - [Olive Video Editor](https://olivevideoeditor.org/) - Non-linear video editor with powerful features and an intuitive interface. 🪟 🍎 🐧 🟢
+- [lossless-cut](https://losslesscut.app/) - Swiss army knife of lossless video/audio editing. 🪟 🍎 🐧 [🟢](https://github.com/mifi/lossless-cut)
 
 ### Video Players  
 

@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Wednesday, January 29, 2025 at 06:15:35 AM UTC -->
+<!-- AF-TOC : Wednesday, January 29, 2025 at 08:59:33 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -438,6 +438,7 @@
 - [Lightworks](https://lwks.com/) - Professional video editor with advanced features for filmmaking. 🪟 🍎 🐧
 - [Olive Video Editor](https://olivevideoeditor.org/) - Non-linear video editor with powerful features and an intuitive interface. 🪟 🍎 🐧 🟢
 - [Avidemux](https://avidemux.sourceforge.net/) - Video editor designed for simple cutting, filtering and encoding tasks. 🪟 🍎 🐧
+- [lossless-cut](https://losslesscut.app/) - Swiss army knife of lossless video/audio editing. 🪟 🍎 🐧 [🟢](https://github.com/mifi/lossless-cut)
 
 ### Video Players  
 
@@ -457,6 +458,7 @@
 - [Kaltura](https://kaltura.com/) - Platform for managing and streaming video content. 🪟 🍎 🐧 🟢
 - [Nginx RTMP](https://github.com/arut/nginx-rtmp-module) - RTMP streaming server built with NGINX. 🐧 🟢
 - [Zoom](https://zoom.us/) - Video meetings with streaming, recording, and screen sharing. 🪟 🍎 🐧
+- [GPU Screen Recorder](https://flathub.org/apps/com.dec05eba.gpu_screen_recorder) - Shadowplay-like screen recorder that is fast. 🐧
 
 ### Video Converters and Compressors  
 

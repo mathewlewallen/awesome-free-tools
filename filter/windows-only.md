@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Wednesday, January 29, 2025 at 06:15:35 AM UTC -->
+<!-- AF-TOC : Wednesday, January 29, 2025 at 08:59:33 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -522,6 +522,7 @@
 - [VSDC Free Video Editor](https://videosoftdev.com/free-video-editor) - Non-linear video editor with a rich set of editing tools. 🪟
 - [Olive Video Editor](https://olivevideoeditor.org/) - Non-linear video editor with powerful features and an intuitive interface. 🪟 🍎 🐧 🟢
 - [Avidemux](https://avidemux.sourceforge.net/) - Video editor designed for simple cutting, filtering and encoding tasks. 🪟 🍎 🐧
+- [lossless-cut](https://losslesscut.app/) - Swiss army knife of lossless video/audio editing. 🪟 🍎 🐧 [🟢](https://github.com/mifi/lossless-cut)
 
 ### Video Players  
 
@@ -549,6 +550,7 @@
 - [Streamlabs Desktop](https://streamlabs.com/) - Streaming software with customizable alerts and overlays. 🪟 🍎 🟢
 - [XSplit Broadcaster](https://xsplit.com/) - Streaming and recording with advanced features and effects. 🪟
 - [Zoom](https://zoom.us/) - Video meetings with streaming, recording, and screen sharing. 🪟 🍎 🐧
+- [Shadowplay](https://www.nvidia.com/en-ph/geforce/geforce-experience/shadowplay/) - Record gameplay videos, screenshots, and livestreams. 🪟
 
 ### Video Converters and Compressors  
 

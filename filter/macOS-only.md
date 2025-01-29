@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Wednesday, January 29, 2025 at 06:15:35 AM UTC -->
+<!-- AF-TOC : Wednesday, January 29, 2025 at 08:59:33 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -490,6 +490,7 @@
 - [HitFilm Express](https://fxhome.com/product/hitfilm-express) - Feature-packed video editor with visual effects and compositing tools. 🪟 🍎
 - [Olive Video Editor](https://olivevideoeditor.org/) - Non-linear video editor with powerful features and an intuitive interface. 🪟 🍎 🐧 🟢
 - [Avidemux](https://avidemux.sourceforge.net/) - Video editor designed for simple cutting, filtering and encoding tasks. 🪟 🍎 🐧
+- [lossless-cut](https://losslesscut.app/) - Swiss army knife of lossless video/audio editing. 🪟 🍎 🐧 [🟢](https://github.com/mifi/lossless-cut)
 
 ### Video Players  
 
