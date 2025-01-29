@@ -81,105 +81,105 @@
 
 ### Audio Players
 
-- [VLC for Mobile](https://www.videolan.org/vlc/) - Supports a wide range of audio formats and offers powerful playback controls. 🤖 🍎  
-- [AIMP](http://www.aimp.ru/) - Customizable audio player with a built-in equalizer and playlist management. 🤖  
-- [Musicolet](https://krosbits.in/musicolet/) - Lightweight offline player with multi-queue support and no ads. 🤖  
-- [Foobar2000](https://foobar2000.org/) - Minimalist player supporting advanced playback features and customization. 🤖 🍎  
+- [VLC for Mobile](https://www.videolan.org/vlc) - Supports a wide range of audio formats and offers powerful playback controls. 🤖 🍎  
+- [AIMP](http://www.aimp.ru) - Customizable audio player with a built-in equalizer and playlist management. 🤖  
+- [Musicolet](https://krosbits.in/musicolet) - Lightweight offline player with multi-queue support and no ads. 🤖  
+- [Foobar2000](https://foobar2000.org) - Minimalist player supporting advanced playback features and customization. 🤖 🍎  
 
 ### Audio Recording
 
-- [Easy Voice Recorder](https://easyvoicerecorder.com/) - High-quality voice recording with playback features for notes and interviews. 🤖 🍎  
-- [Dolby On](https://www.dolby.com/apps/dolby-on/) - Enhances audio recordings with noise reduction and spatial sound effects. 🤖 🍎  
-- [Otter](https://otter.ai/) - Transcribes audio in real-time while recording. 🤖 🍎  
+- [Easy Voice Recorder](https://easyvoicerecorder.com) - High-quality voice recording with playback features for notes and interviews. 🤖 🍎  
+- [Dolby On](https://www.dolby.com/apps/dolby-on) - Enhances audio recordings with noise reduction and spatial sound effects. 🤖 🍎  
+- [Otter](https://otter.ai) - Transcribes audio in real-time while recording. 🤖 🍎  
 
 ### DJ Software
 
 - [djay](https://www.algoriddim.com/djay) - Combines music streaming with powerful DJ tools for seamless mixing. 🤖 🍎  
 - [Cross DJ Free](https://www.mixvibes.com/cross-dj-free) - Offers beat syncing, looping, and real-time effects. 🤖 🍎  
-- [Pacemaker](https://pacemaker.net/) - Intuitive DJ app with AI-assisted mixing for beginners and professionals. 🍎  
+- [Pacemaker](https://pacemaker.net) - Intuitive DJ app with AI-assisted mixing for beginners and professionals. 🍎  
 
 ### Music Notation
 
-- [Flat](https://flat.io/) - Easy-to-use music notation app with real-time collaboration features. 🤖 🍎  
-- [MuseScore](https://musescore.com/) - Open-source notation app for composing and sharing sheet music. 🤖 🍎 🟢  
+- [Flat](https://flat.io) - Easy-to-use music notation app with real-time collaboration features. 🤖 🍎  
+- [MuseScore](https://musescore.com) - Open-source notation app for composing and sharing sheet music. 🤖 🍎 🟢  
 - [Notion](https://www.presonus.com/products/Notion) - Offers playback of scores using high-quality instrument samples. 🤖 🍎  
 
 ### Music Production
 
-- [BandLab](https://www.bandlab.com/) - Free DAW for recording, mixing, and mastering music with cloud collaboration. 🤖 🍎  
-- [FL Studio Mobile](https://www.image-line.com/fl-studio-mobile/) - Portable DAW with a full suite of audio editing tools. 🤖 🍎  
-- [n-Track Studio](https://ntrack.com/) - Multitrack recording app with built-in effects and automation. 🤖 🍎  
+- [BandLab](https://www.bandlab.com) - Free DAW for recording, mixing, and mastering music with cloud collaboration. 🤖 🍎  
+- [FL Studio Mobile](https://www.image-line.com/fl-studio-mobile) - Portable DAW with a full suite of audio editing tools. 🤖 🍎  
+- [n-Track Studio](https://ntrack.com) - Multitrack recording app with built-in effects and automation. 🤖 🍎  
 
 
 ## Browsers
 
-- [Firefox](https://www.mozilla.org/firefox/) - Privacy-focused browser with customizable extensions and tracking protection. 🤖 🍎 🟢  
-- [Brave](https://brave.com/) - Ad-blocking browser with built-in privacy tools and rewards system. 🤖 🍎  
+- [Firefox](https://www.mozilla.org/firefox) - Privacy-focused browser with customizable extensions and tracking protection. 🤖 🍎 🟢  
+- [Brave](https://brave.com) - Ad-blocking browser with built-in privacy tools and rewards system. 🤖 🍎  
 - [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Focuses on privacy with no tracking and private search. 🤖 🍎  
 - [Opera](https://www.opera.com/mobile) - Built-in ad blocker, VPN, and offline file sharing. 🤖 🍎  
-- [Kiwi Browser](https://kiwibrowser.com/) - Lightweight browser supporting Chrome extensions on mobile. 🤖  
+- [Kiwi Browser](https://kiwibrowser.com) - Lightweight browser supporting Chrome extensions on mobile. 🤖  
 
 ## Communication
 
 ### Messaging
 
-- [Signal](https://signal.org/) - Encrypted messaging app with privacy-first design. 🤖 🍎 🟢  
-- [Telegram](https://telegram.org/) - Cloud-based messaging with large group support and file sharing. 🤖 🍎  
-- [WhatsApp](https://www.whatsapp.com/) - End-to-end encrypted messaging with voice and video calls. 🤖 🍎  
-- [Element](https://element.io/) - Secure messaging with Matrix protocol and decentralized features. 🤖 🍎 🟢  
+- [Signal](https://signal.org) - Encrypted messaging app with privacy-first design. 🤖 🍎 🟢  
+- [Telegram](https://telegram.org) - Cloud-based messaging with large group support and file sharing. 🤖 🍎  
+- [WhatsApp](https://www.whatsapp.com) - End-to-end encrypted messaging with voice and video calls. 🤖 🍎  
+- [Element](https://element.io) - Secure messaging with Matrix protocol and decentralized features. 🤖 🍎 🟢  
 
 ### Email Clients
 
 - [Proton Mail](https://proton.me/mail) - Encrypted email with no ads and advanced privacy tools. 🤖 🍎 🟢  
-- [BlueMail](https://bluemail.me/) - Unified email client with smart push notifications and scheduling. 🤖 🍎  
-- [Spark](https://sparkmailapp.com/) - Collaboration-focused email app with advanced email triage tools. 🤖 🍎  
-- [FairEmail](https://email.faircode.eu/) - Lightweight open-source email client with strong privacy features. 🤖 🟢  
+- [BlueMail](https://bluemail.me) - Unified email client with smart push notifications and scheduling. 🤖 🍎  
+- [Spark](https://sparkmailapp.com) - Collaboration-focused email app with advanced email triage tools. 🤖 🍎  
+- [FairEmail](https://email.faircode.eu) - Lightweight open-source email client with strong privacy features. 🤖 🟢  
 
 ## Compression and Archiving
 
-- [RAR](https://www.rarlab.com/) - Supports multiple formats like ZIP and RAR with file encryption. 🤖 🍎  
-- [ZArchiver](https://zarchiver.ru/) - Open-source app for compressing and extracting files in various formats. 🤖 🟢  
-- [WinZip](https://www.winzip.com/) - Compress, unzip, and manage files with cloud integration. 🤖 🍎  
-- [B1 Archiver](https://b1.org/) - Simple file compression tool with multi-format support and encryption. 🤖 🍎  
+- [RAR](https://www.rarlab.com) - Supports multiple formats like ZIP and RAR with file encryption. 🤖 🍎  
+- [ZArchiver](https://zarchiver.ru) - Open-source app for compressing and extracting files in various formats. 🤖 🟢  
+- [WinZip](https://www.winzip.com) - Compress, unzip, and manage files with cloud integration. 🤖 🍎  
+- [B1 Archiver](https://b1.org) - Simple file compression tool with multi-format support and encryption. 🤖 🍎  
 
 ## Customize
 
 ### System Customization
 
-- [Nova Launcher](https://novalauncher.com/) - Customizable launcher with gestures, themes, and icon packs. 🤖  
-- [KWGT Kustom Widget Maker](https://kustom.rocks/) - Create personalized widgets for your home screen. 🤖  
-- [Super Status Bar](https://tombayley.dev/) - Modify status bar gestures, indicators, and visuals. 🤖  
+- [Nova Launcher](https://novalauncher.com) - Customizable launcher with gestures, themes, and icon packs. 🤖  
+- [KWGT Kustom Widget Maker](https://kustom.rocks) - Create personalized widgets for your home screen. 🤖  
+- [Super Status Bar](https://tombayley.dev) - Modify status bar gestures, indicators, and visuals. 🤖  
 - [Icon Themer](https://apps.apple.com/us/app/icon-themer/id1534126062) - Customize app icons for a unique home screen look. 🍎  
 
 ### Wallpaper Tools
 
-- [Backdrops](https://www.backdrops.io/) - Offers unique wallpapers with daily updates. 🤖 🍎  
-- [Walpy](https://walpy.app/) - Automatic wallpaper changes based on your preferences. 🤖  
-- [Vellum](https://www.vellum.notion.so/) - High-quality curated wallpapers with minimalistic design options. 🍎  
-- [Resplash](https://unsplash.com/) - Access Unsplash’s library for stunning, free wallpapers. 🤖 🍎 🟢  
+- [Backdrops](https://www.backdrops.io) - Offers unique wallpapers with daily updates. 🤖 🍎  
+- [Walpy](https://walpy.app) - Automatic wallpaper changes based on your preferences. 🤖  
+- [Vellum](https://www.vellum.notion.so) - High-quality curated wallpapers with minimalistic design options. 🍎  
+- [Resplash](https://unsplash.com) - Access Unsplash’s library for stunning, free wallpapers. 🤖 🍎 🟢  
 
 ## Data Management
 
 ### Copy and Move
 
-- [Files by Google](https://files.google.com/) - Manage, organize, and free up storage with smart recommendations. 🤖  
-- [CX File Explorer](https://cxfileexplorer.com/) - Clean interface for managing files and transferring them to cloud or network storage. 🤖  
+- [Files by Google](https://files.google.com) - Manage, organize, and free up storage with smart recommendations. 🤖  
+- [CX File Explorer](https://cxfileexplorer.com) - Clean interface for managing files and transferring them to cloud or network storage. 🤖  
 - [File Manager+](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager) - Lightweight file manager with support for cloud storage and FTP. 🤖  
 - [FileApp](https://www.digidna.net/fileapp) - File manager to organize and transfer files between devices. 🍎  
 
 ### Sync and Clone
 
-- [Resilio Sync](https://www.resilio.com/) - Securely sync large files across devices with no cloud dependency. 🤖 🍎  
+- [Resilio Sync](https://www.resilio.com) - Securely sync large files across devices with no cloud dependency. 🤖 🍎  
 - [Cloner](https://play.google.com/store/apps/details?id=com.genonbeta.TrebleShot) - Transfer files directly between Android devices using Wi-Fi. 🤖  
 - [Documents by Readdle](https://readdle.com/documents) - Manage files and sync with cloud storage services like Google Drive and Dropbox. 🍎  
 
 ## Developer Tools
 
-- [Termux](https://termux.dev/) - Terminal emulator with Linux packages for development. 🤖 🟢  
+- [Termux](https://termux.dev) - Terminal emulator with Linux packages for development. 🤖 🟢  
 
 ### API Development
 
-- [Postman](https://www.postman.com/) - Test, debug, and document APIs with a user-friendly interface. 🤖 🍎  
+- [Postman](https://www.postman.com) - Test, debug, and document APIs with a user-friendly interface. 🤖 🍎  
 - [RESTer](https://play.google.com/store/apps/details?id=com.developer.john.rester) - Lightweight REST API testing tool with a clean interface. 🤖  
 
 ### Database
@@ -190,15 +190,15 @@
 
 ### Network Analysis
 
-- [PingTools](https://pingtools.org/) - Includes ping, traceroute, port scanner, and more for network diagnostics. 🤖  
+- [PingTools](https://pingtools.org) - Includes ping, traceroute, port scanner, and more for network diagnostics. 🤖  
 - [Network Analyzer](https://apps.apple.com/us/app/network-analyzer/id562315041) - Diagnose Wi-Fi and network problems with detailed insights. 🍎  
 - [NetMonster](https://play.google.com/store/apps/details?id=cz.mroczis.netmonster) - Displays detailed information about cellular networks. 🤖  
 
 ### Game Engines
 
 - [Godot Engine](https://godotengine.org/download) - Create 2D and 3D games on the go with this open-source engine. 🤖 🟢  
-- [Pocket Code](https://www.catrobat.org/) - Build simple games and apps using visual programming. 🤖 🍎 🟢  
-- [GDevelop](https://gdevelop.io/) - Open-source game engine to create games without coding. 🤖 🟢  
+- [Pocket Code](https://www.catrobat.org) - Build simple games and apps using visual programming. 🤖 🍎 🟢  
+- [GDevelop](https://gdevelop.io) - Open-source game engine to create games without coding. 🤖 🟢  
 
 ### Virtualization
 
@@ -209,34 +209,34 @@
 ### Office Suites
 
 - [Microsoft Office](https://www.microsoft.com/microsoft-365/mobile) - Edit and manage Word, Excel, and PowerPoint files on the go. 🤖 🍎  
-- [WPS Office](https://www.wps.com/) - All-in-one office suite with PDF tools and cloud sync. 🤖 🍎  
-- [Polaris Office](https://www.polarisoffice.com/) - Lightweight office suite with cross-device syncing and templates. 🤖 🍎  
+- [WPS Office](https://www.wps.com) - All-in-one office suite with PDF tools and cloud sync. 🤖 🍎  
+- [Polaris Office](https://www.polarisoffice.com) - Lightweight office suite with cross-device syncing and templates. 🤖 🍎  
 
 ### E-book
 
-- [Kobo Books](https://www.kobo.com/) - Read eBooks and audiobooks with an integrated store. 🤖 🍎  
+- [Kobo Books](https://www.kobo.com) - Read eBooks and audiobooks with an integrated store. 🤖 🍎  
 - [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader) - Lightweight and ad-free eBook reader for EPUB files. 🤖  
-- [Apple Books](https://www.apple.com/apple-books/) - Manage and read eBooks with built-in audiobook features. 🍎  
+- [Apple Books](https://www.apple.com/apple-books) - Manage and read eBooks with built-in audiobook features. 🍎  
 
 ### PDF Tools
 
 - [Adobe Acrobat Reader](https://www.adobe.com/acrobat/mobile-app.html) - View, annotate, and sign PDFs with advanced tools. 🤖 🍎  
-- [Xodo PDF Reader](https://www.xodo.com/) - Edit, annotate, and collaborate on PDFs in real time. 🤖 🍎  
-- [Foxit PDF Reader](https://www.foxit.com/pdf-reader-mobile/) - Lightweight PDF viewer with editing and security tools. 🤖 🍎  
+- [Xodo PDF Reader](https://www.xodo.com) - Edit, annotate, and collaborate on PDFs in real time. 🤖 🍎  
+- [Foxit PDF Reader](https://www.foxit.com/pdf-reader-mobile) - Lightweight PDF viewer with editing and security tools. 🤖 🍎  
 
 ## Note Taking
 
-- [Notion](https://www.notion.so/) - Organize notes, tasks, and projects with a versatile interface. 🤖 🍎  
-- [Evernote](https://evernote.com/) - Capture, organize, and search notes across devices. 🤖 🍎  
-- [Joplin](https://joplinapp.org/) - Open-source note-taking app with end-to-end encryption. 🤖 🍎 🟢  
-- [Google Keep](https://keep.google.com/) - Simple and colorful note-taking app with reminders. 🤖 🍎  
-- [Bear](https://bear.app/) - Minimalist note-taking app with powerful markdown support. 🍎  
+- [Notion](https://www.notion.so) - Organize notes, tasks, and projects with a versatile interface. 🤖 🍎  
+- [Evernote](https://evernote.com) - Capture, organize, and search notes across devices. 🤖 🍎  
+- [Joplin](https://joplinapp.org) - Open-source note-taking app with end-to-end encryption. 🤖 🍎 🟢  
+- [Google Keep](https://keep.google.com) - Simple and colorful note-taking app with reminders. 🤖 🍎  
+- [Bear](https://bear.app) - Minimalist note-taking app with powerful markdown support. 🍎  
 
 ## Text Editors
 
 - [QuickEdit](https://play.google.com/store/apps/details?id=com.rhmsoft.edit) - Lightweight text editor for coding with syntax highlighting. 🤖  
-- [Dcoder](https://dcoder.tech/) - Mobile IDE supporting multiple programming languages. 🤖 🍎  
-- [Textastic](https://textasticapp.com/) - Code and text editor with syntax support for numerous languages. 🍎  
+- [Dcoder](https://dcoder.tech) - Mobile IDE supporting multiple programming languages. 🤖 🍎  
+- [Textastic](https://textasticapp.com) - Code and text editor with syntax support for numerous languages. 🍎  
 - [AIDE](https://play.google.com/store/apps/details?id=com.aide.ui) - Mobile IDE to code and build Android apps on the go. 🤖  
 
 ## Download Managers
@@ -244,21 +244,21 @@
 - [IDM](https://play.google.com/store/apps/details?id=com.downloadmanager.app&hl=en) - Accelerates downloads with advanced scheduling and queuing. 🤖  
 - [ADM (Advanced Download Manager)](https://play.google.com/store/apps/details?id=com.dv.adm) - Powerful download manager with split download support. 🤖  
 - [iDownloader](https://apps.apple.com/us/app/idownloader-pro/id657087236) - Download manager with browser integration and video support. 🍎  
-- [MyJDownloader](https://my.jdownloader.org/) - Remotely manage downloads from your desktop JDownloader. 🤖 🍎  
+- [MyJDownloader](https://my.jdownloader.org) - Remotely manage downloads from your desktop JDownloader. 🤖 🍎  
 
 ## Graphics Tools
 
-- [Canva](https://www.canva.com/) - Easy-to-use graphic design app with templates and editing tools. 🤖 🍎  
-- [Pixlr](https://pixlr.com/) - Photo editor with advanced features like layers and effects. 🤖 🍎  
-- [Snapseed](https://support.google.com/snapseed/) - Powerful photo editing app with fine-tuning tools. 🤖 🍎  
-- [Adobe Express](https://www.adobe.com/express/) - Create graphics and collages with Adobe’s design tools. 🤖 🍎  
+- [Canva](https://www.canva.com) - Easy-to-use graphic design app with templates and editing tools. 🤖 🍎  
+- [Pixlr](https://pixlr.com) - Photo editor with advanced features like layers and effects. 🤖 🍎  
+- [Snapseed](https://support.google.com/snapseed) - Powerful photo editing app with fine-tuning tools. 🤖 🍎  
+- [Adobe Express](https://www.adobe.com/express) - Create graphics and collages with Adobe’s design tools. 🤖 🍎  
 
 ## 3D Modeling and Animation
 
 - [Sculpt+](https://play.google.com/store/apps/details?id=com.endvoid.SculptPlus) - Create 3D models with intuitive sculpting tools. 🤖  
-- [Shapr3D](https://www.shapr3d.com/) - CAD modeling app with professional-grade features. 🍎  
+- [Shapr3D](https://www.shapr3d.com) - CAD modeling app with professional-grade features. 🍎  
 - [Putty 3D](https://apps.apple.com/us/app/putty-3d/id1070986787) - Mobile 3D sculpting app for simple and detailed creations. 🍎  
-- [MediBang Paint](https://medibangpaint.com/en/) - 2D art and illustration tool with layers and brushes. 🤖 🍎  
+- [MediBang Paint](https://medibangpaint.com/en) - 2D art and illustration tool with layers and brushes. 🤖 🍎  
 
 ## Security
 
@@ -270,45 +270,45 @@
 
 ### Password Managers
 
-- [Bitwarden](https://bitwarden.com/) - Open-source password manager with end-to-end encryption. 🤖 🍎 🟢  
-- [LastPass](https://www.lastpass.com/) - Store and autofill passwords securely across devices. 🤖 🍎  
-- [1Password](https://1password.com/) - Advanced password management with family sharing options. 🤖 🍎  
+- [Bitwarden](https://bitwarden.com) - Open-source password manager with end-to-end encryption. 🤖 🍎 🟢  
+- [LastPass](https://www.lastpass.com) - Store and autofill passwords securely across devices. 🤖 🍎  
+- [1Password](https://1password.com) - Advanced password management with family sharing options. 🤖 🍎  
 
 ## Image Viewers
 
 - [Photo Map](https://play.google.com/store/apps/details?id=com.bischofs.photoviewer) - Displays images in a map view based on geotags. 🤖  
 - [Simple Gallery](https://simplemobiletools.com/gallery) - Lightweight image viewer with sorting and editing options. 🤖 🟢  
 - [A+ Gallery](https://play.google.com/store/apps/details?id=com.atomicadd.filedir) - Organize and view photos by date, location, and albums. 🤖  
-- [Google Photos](https://photos.google.com/) - Manage and sync photos with powerful search and cloud backup. 🤖 🍎  
+- [Google Photos](https://photos.google.com) - Manage and sync photos with powerful search and cloud backup. 🤖 🍎  
 
 ## Remote Access
 
-- [TeamViewer](https://www.teamviewer.com/) - Control computers and mobile devices remotely with ease. 🤖 🍎  
-- [AnyDesk](https://anydesk.com/) - Fast remote desktop app with low latency. 🤖 🍎  
-- [Chrome Remote Desktop](https://remotedesktop.google.com/) - Securely access your desktop from mobile. 🤖 🍎  
+- [TeamViewer](https://www.teamviewer.com) - Control computers and mobile devices remotely with ease. 🤖 🍎  
+- [AnyDesk](https://anydesk.com) - Fast remote desktop app with low latency. 🤖 🍎  
+- [Chrome Remote Desktop](https://remotedesktop.google.com) - Securely access your desktop from mobile. 🤖 🍎  
 - [Splashtop Personal](https://www.splashtop.com/personal) - Stream your desktop to mobile devices with high quality. 🤖 🍎  
 
 ## Video
 
 ### Video Editors
 
-- [Kinemaster](https://www.kinemaster.com/) - Professional video editing app with multi-layer support and effects. 🤖 🍎  
-- [InShot](https://inshot.com/) - Video editor with trimming, filters, and easy sharing options. 🤖 🍎  
-- [VivaVideo](https://www.quvideo.com/) - Simple video editing app with a variety of templates and effects. 🤖 🍎  
+- [Kinemaster](https://www.kinemaster.com) - Professional video editing app with multi-layer support and effects. 🤖 🍎  
+- [InShot](https://inshot.com) - Video editor with trimming, filters, and easy sharing options. 🤖 🍎  
+- [VivaVideo](https://www.quvideo.com) - Simple video editing app with a variety of templates and effects. 🤖 🍎  
 - [Adobe Premiere Rush](https://www.adobe.com/products/premiere-rush.html) - Mobile version of Premiere Pro for editing and sharing videos. 🤖 🍎  
 
 ### Video Players
 
-- [MX Player](https://www.mxplayer.in/) - Supports a wide range of video formats with advanced playback options. 🤖 🍎  
-- [VLC for Mobile](https://www.videolan.org/vlc/) - Plays almost all video formats with customizable controls. 🤖 🍎  
-- [BSPlayer](https://www.bsplayer.com/) - Lightweight video player with subtitle support and hardware acceleration. 🤖 🍎  
-- [GOM Player](https://www.gomlab.com/) - Versatile video player with a large range of supported formats. 🤖 🍎  
+- [MX Player](https://www.mxplayer.in) - Supports a wide range of video formats with advanced playback options. 🤖 🍎  
+- [VLC for Mobile](https://www.videolan.org/vlc) - Plays almost all video formats with customizable controls. 🤖 🍎  
+- [BSPlayer](https://www.bsplayer.com) - Lightweight video player with subtitle support and hardware acceleration. 🤖 🍎  
+- [GOM Player](https://www.gomlab.com) - Versatile video player with a large range of supported formats. 🤖 🍎  
 
 ### Video Streaming and Recording
 
-- [Twitch](https://www.twitch.tv/) - Stream and watch live gaming content from mobile devices. 🤖 🍎  
-- [YouTube](https://www.youtube.com/) - Stream and upload videos to the world’s largest video platform. 🤖 🍎  
-- [OBS Studio (via Streamlabs)](https://streamlabs.com/) - Stream or record gameplay, tutorials, and live events. 🤖 🍎  
+- [Twitch](https://www.twitch.tv) - Stream and watch live gaming content from mobile devices. 🤖 🍎  
+- [YouTube](https://www.youtube.com) - Stream and upload videos to the world’s largest video platform. 🤖 🍎  
+- [OBS Studio (via Streamlabs)](https://streamlabs.com) - Stream or record gameplay, tutorials, and live events. 🤖 🍎  
 
 ### Video Converters and Compressors
 
@@ -318,11 +318,11 @@
 
 ## VPN and Proxy Tools
 
-- [ProtonVPN](https://protonvpn.com/) - Secure, encrypted VPN with no logs policy and high-speed servers. 🤖 🍎 🟢  
-- [NordVPN](https://nordvpn.com/) - Fast and secure VPN service with easy setup and multi-platform support. 🤖 🍎  
-- [TunnelBear](https://www.tunnelbear.com/) - Simple VPN app with a friendly interface and a free plan. 🤖 🍎  
-- [Windscribe](https://windscribe.com/) - Privacy-focused VPN with a free option and wide server coverage. 🤖 🍎 🟢  
-- [Betternet](https://www.betternet.co/) - Fast, free VPN for browsing securely and privately. 🤖 🍎  
+- [ProtonVPN](https://protonvpn.com) - Secure, encrypted VPN with no logs policy and high-speed servers. 🤖 🍎 🟢  
+- [NordVPN](https://nordvpn.com) - Fast and secure VPN service with easy setup and multi-platform support. 🤖 🍎  
+- [TunnelBear](https://www.tunnelbear.com) - Simple VPN app with a friendly interface and a free plan. 🤖 🍎  
+- [Windscribe](https://windscribe.com) - Privacy-focused VPN with a free option and wide server coverage. 🤖 🍎 🟢  
+- [Betternet](https://www.betternet.co) - Fast, free VPN for browsing securely and privately. 🤖 🍎  
 
 ## Utility
 
@@ -334,7 +334,7 @@
 
 ### Metadata
 
-- [Exif Pilot](https://www.exifpilot.com/) - View and edit metadata for images, videos, and audio files. 🤖 🍎  
+- [Exif Pilot](https://www.exifpilot.com) - View and edit metadata for images, videos, and audio files. 🤖 🍎  
 - [Metapho](https://apps.apple.com/us/app/metapho/id979247655) - View, edit, and remove metadata from images. 🍎  
 - [Photo Exif Editor](https://play.google.com/store/apps/details?id=com.flq.phototool) - Edit and remove EXIF data from photos. 🤖  
 
@@ -345,8 +345,8 @@
 
 ### File Management
 
-- [ES File Explorer](https://www.es-file-explorer.com/) - File manager with cloud storage support and system tools. 🤖  
-- [Files by Google](https://files.google.com/) - Organize, search, and clean up files with Google’s file manager. 🤖  
+- [ES File Explorer](https://www.es-file-explorer.com) - File manager with cloud storage support and system tools. 🤖  
+- [Files by Google](https://files.google.com) - Organize, search, and clean up files with Google’s file manager. 🤖  
 - [File Manager +](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager) - Lightweight file manager with cloud support and FTP. 🤖  
 
 ### Application Management

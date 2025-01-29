@@ -8,7 +8,7 @@ function create(file, fileName, emoji) {
   let result = [];
   let lineCount = 0;
   const lines = data.split('\n');
-  
+
   const outputDir = './filter';
   if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir);
@@ -50,17 +50,18 @@ function format(file = "README.md") {
   const updatedData = data
     .split('\n')
     .map(line => {
-      line = line.replace(/https:\/\/www\./g, 'https://');
-      if (line.startsWith('- [')) {
-        const parts = line.split(' - ');
-        if (parts.length >= 2) {
-          let description = parts[1];
-          description = description.replace(/^A\s+/i, '').replace(/^An\s+/i, '');
-          description = description.charAt(0).toUpperCase() + description.slice(1);
-          parts[1] = description;
-          line = parts.join(' - ');
-        }
-      }
+      // line = line.replace(/https:\/\/www\./g, 'https://'); // removes www.
+      line = line.replace(/\((https?:\/\/.*?)\/\)/g, "($1)"); // removes trailing /
+      // if (line.startsWith('- [')) {
+      //   const parts = line.split(' - ');
+      //   if (parts.length >= 2) {
+      //     let description = parts[1];
+      //     description = description.replace(/^A\s+/i, '').replace(/^An\s+/i, '');
+      //     description = description.charAt(0).toUpperCase() + description.slice(1);
+      //     parts[1] = description;
+      //     line = parts.join(' - ');
+      //   }
+      // }
       return line;
     })
     .join('\n');
@@ -141,7 +142,7 @@ function findAF(file, name, message, suffix) {
   const endMarker = `<!-- AF-END -->`.trim();
 
   const startIndex = data.indexOf(startMarker);
-  
+
   if (startIndex !== -1) {
     const cleanStartIndex = data.indexOf(">", startIndex) + 1;
 
