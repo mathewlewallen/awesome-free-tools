@@ -156,7 +156,6 @@
 - [Station](https://getstation.com/) - Browser centralizing web apps in one workspace. 🪟 🍎 🐧
 - [Mullvad Browser](https://mullvad.net/en/download/browser/) - Privacy browser with Tor, anti-fingerprinting, and Mullvad VPN. 🪟 🍎 🐧 [🟢](https://github.com/mullvad/mullvad-browser)
 - [Vivaldi](https://vivaldi.com) - Customizable browser putting you in control. 🪟 🍎 🐧
-- [Yandex](https://browser.yandex.com/) - Fast, secure browser by Yandex with privacy features. 🪟 🍎 🐧
 - [Zen Browser](https://zen-browser.app/) - Beautifully designed, privacy-focused browser with custom mods. 🪟 🍎 🐧 [🟢](https://github.com/zen-browser/desktop)
 
 ## Communication
