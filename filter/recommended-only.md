@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Wednesday, January 29, 2025 at 08:59:33 AM UTC -->
+<!-- AF-TOC : Thursday, January 30, 2025 at 01:17:28 PM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -87,15 +87,15 @@
 
 ## Audio
 
-- [FXSound](https://fxsound.com/) - Boost sound quality, volume, and bass. Has a beautiful modern UI. 🪟 🟢 ⭐
+- [FXSound](https://fxsound.com) - Boost sound quality, volume, and bass. Has a beautiful modern UI. 🪟 🟢 ⭐
 
 ### Audio Players
 
-- [Foobar2000](https://foobar2000.org/) - Lightweight and highly customizable audio player with support for many formats. 🪟 🍎 ⭐
+- [Foobar2000](https://foobar2000.org) - Lightweight and highly customizable audio player with support for many formats. 🪟 🍎 ⭐
 
 ### Audio Recording
 
-- [Audacity](https://audacityteam.org/download/) - Audio editor for recording and editing sounds. 🪟 🍎 🐧 🟢 ⭐
+- [Audacity](https://audacityteam.org/download) - Audio editor for recording and editing sounds. 🪟 🍎 🐧 🟢 ⭐
 
 ### DJ Software
 
@@ -105,7 +105,7 @@
 
 ### Music Production
 
-- [LMMS](https://lmms.io/) - DAW for creating music with virtual instruments and MIDI support. 🪟 🍎 🐧 🟢 ⭐
+- [LMMS](https://lmms.io) - DAW for creating music with virtual instruments and MIDI support. 🪟 🍎 🐧 🟢 ⭐
 
 ## Browsers
 
@@ -115,7 +115,7 @@
 
 ### Messaging
 
-- [Discord](https://discord.com/) - Communication platform for text, voice, and video, popular with gamers. 🪟 🍎 🐧 ⭐
+- [Discord](https://discord.com) - Communication platform for text, voice, and video, popular with gamers. 🪟 🍎 🐧 ⭐
 
 ### Email Clients
 
@@ -133,8 +133,8 @@
 
 ### Wallpaper Tools
 
-- [Lively Wallpaper](https://rocksdanister.com/lively/) - Tool to set animated and interactive wallpapers. 🪟 🟢 ⭐
-- [Rainmeter](https://rainmeter.net/) - Desktop customization tool offering widgets, skins, and live stats. 🪟 🟢 ⭐
+- [Lively Wallpaper](https://rocksdanister.com/lively) - Tool to set animated and interactive wallpapers. 🪟 🟢 ⭐
+- [Rainmeter](https://rainmeter.net) - Desktop customization tool offering widgets, skins, and live stats. 🪟 🟢 ⭐
 
 ## Data Management
 
@@ -143,7 +143,7 @@
 
 ### Sync and Clone
 
-- [FreeFileSync](https://freefilesync.org/) - Tool for comparing and syncing files or folders. 🪟 🍎 🐧 🟢 ⭐
+- [FreeFileSync](https://freefilesync.org) - Tool for comparing and syncing files or folders. 🪟 🍎 🐧 🟢 ⭐
 
 ## Developer Tools
 
@@ -157,7 +157,7 @@
 
 ### Database
 
-- [DBeaver](https://dbeaver.io/) - Universal database tool for SQL databases like MySQL, MariaDB, PostgreSQL, SQLite, Apache Family, and more. 🪟 🍎 🐧 ⭐
+- [DBeaver](https://dbeaver.io) - Universal database tool for SQL databases like MySQL, MariaDB, PostgreSQL, SQLite, Apache Family, and more. 🪟 🍎 🐧 ⭐
 
 ### Network Analysis
 
@@ -165,12 +165,12 @@
 
 ### Game Engines
 
-- [Godot](https://godotengine.org/) - Game engine for 2D and 3D games with an easy-to-learn scripting language. 🪟 🍎 🐧 🟢 ⭐
-- [Unreal Engine](https://unrealengine.com/) - Powerful, fully-featured game engine for high-quality 3D games. 🪟 🍎 🐧 ⭐
+- [Godot](https://godotengine.org) - Game engine for 2D and 3D games with an easy-to-learn scripting language. 🪟 🍎 🐧 🟢 ⭐
+- [Unreal Engine](https://unrealengine.com) - Powerful, fully-featured game engine for high-quality 3D games. 🪟 🍎 🐧 ⭐
 
 ### Virtualization
 
-- [Docker](https://docker.com/) - Containerization platform for operating-system-level virtualization. 🪟 🍎 🐧 🟢 ⭐
+- [Docker](https://docker.com) - Containerization platform for operating-system-level virtualization. 🪟 🍎 🐧 🟢 ⭐
 - [VirtualBox](https://www.virtualbox.org) - Virtualization software for creating and managing virtual machines. 🪟 🍎 🐧 ⭐
 
 ## Documents
@@ -178,7 +178,7 @@
 
 ### Office Suites
 
-- [LibreOffice](https://libreoffice.org/) - Popular and easy to use office suite. 🪟 🍎 🐧 🟢 ⭐
+- [LibreOffice](https://libreoffice.org) - Popular and easy to use office suite. 🪟 🍎 🐧 🟢 ⭐
 
 
 ### E-book
@@ -192,7 +192,7 @@
 ## Note Taking
 
 - [Inkless](https://github.com/Axorax/inkless) - Minimal, shortcut based app to take notes and use for light coding. 🪟 [🟢](https://github.com/Axorax/inkless) ⭐
-- [Obsidian](https://obsidian.md/) - Knowledge base app with powerful linking and markdown support. 🪟 🍎 🐧 ⭐
+- [Obsidian](https://obsidian.md) - Knowledge base app with powerful linking and markdown support. 🪟 🍎 🐧 ⭐
 
 ## Text Editors
 
@@ -200,19 +200,19 @@
 
 ## Download Managers
 
-- [AB Download Manager](https://abdownloadmanager.com/) - Easily download files from anywhere. 🪟 🐧 🟢 ⭐
-- [Free Download Manager](https://freedownloadmanager.org/) - Modern download accelerator. 🪟 🍎 🐧 ⭐
+- [AB Download Manager](https://abdownloadmanager.com) - Easily download files from anywhere. 🪟 🐧 🟢 ⭐
+- [Free Download Manager](https://freedownloadmanager.org) - Modern download accelerator. 🪟 🍎 🐧 ⭐
 
 ## Games
 
-- [Steam](https://store.steampowered.com/) - Platform for buying and playing PC games. 🪟 🍎 🐧 ⭐
+- [Steam](https://store.steampowered.com) - Platform for buying and playing PC games. 🪟 🍎 🐧 ⭐
 
 ### Cloud Gaming  
 
 
 ## Mobile Emulators  
 
-- [BlueStacks](https://bluestacks.com/) - Android emulator for playing mobile games on PC. 🪟 🍎 ⭐
+- [BlueStacks](https://bluestacks.com) - Android emulator for playing mobile games on PC. 🪟 🍎 ⭐
 
 ## Other Emulators
 
@@ -220,13 +220,13 @@
 
 ## Graphics Tools
 
-- [GIMP](https://gimp.org/) - Versatile image editor for tasks like photo manipulation and graphic design. 🪟 🍎 🐧 🟢 ⭐
-- [Inkscape](https://inkscape.org/en/) - Vector graphics editor used for creating logos, illustrations, and more. 🪟 🍎 🐧 🟢 ⭐
-- [Krita](https://krita.org/) - Digital painting software designed for illustrators and concept artists. 🪟 🍎 🐧 🟢 ⭐
+- [GIMP](https://gimp.org) - Versatile image editor for tasks like photo manipulation and graphic design. 🪟 🍎 🐧 🟢 ⭐
+- [Inkscape](https://inkscape.org/en) - Vector graphics editor used for creating logos, illustrations, and more. 🪟 🍎 🐧 🟢 ⭐
+- [Krita](https://krita.org) - Digital painting software designed for illustrators and concept artists. 🪟 🍎 🐧 🟢 ⭐
 
 ## 3D Modeling and Animation
 
-- [Blender](https://blender.org/) - 3D creation tool supporting modeling, animation, rendering, video editing, and more. 🪟 🍎 🐧 🟢 ⭐
+- [Blender](https://blender.org) - 3D creation tool supporting modeling, animation, rendering, video editing, and more. 🪟 🍎 🐧 🟢 ⭐
 
 ## Security
 
@@ -238,7 +238,7 @@
 
 ## Image Viewers
 
-- [ImageGlass](https://imageglass.org/) - Lightweight, versatile image viewer. 🪟 🟢 ⭐
+- [ImageGlass](https://imageglass.org) - Lightweight, versatile image viewer. 🪟 🟢 ⭐
 
 ## Remote Access
 
@@ -248,27 +248,27 @@
 
 ### Video Editors  
 
-- [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve/) - Professional video editor with advanced color correction and effects. 🪟 🍎 🐧 ⭐
+- [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve) - Professional video editor with advanced color correction and effects. 🪟 🍎 🐧 ⭐
 
 ### Video Players  
 
-- [PotPlayer](https://potplayer.daum.net/) - Feature-rich video player with advanced playback options. 🪟 ⭐
+- [PotPlayer](https://potplayer.daum.net) - Feature-rich video player with advanced playback options. 🪟 ⭐
 
 ### Video Streaming and Recording  
 
-- [OBS Studio](https://obsproject.com/) - Software for live streaming and recording video. 🪟 🍎 🐧 🟢 ⭐ 
+- [OBS Studio](https://obsproject.com) - Software for live streaming and recording video. 🪟 🍎 🐧 🟢 ⭐ 
 
 ### Video Converters and Compressors  
 
-- [FFmpeg](https://ffmpeg.org/) - Powerful tool for format conversion and multimedia editing. 🪟 🍎 🐧 🟢 ⭐ 
+- [FFmpeg](https://ffmpeg.org) - Powerful tool for format conversion and multimedia editing. 🪟 🍎 🐧 🟢 ⭐ 
 
 ## VPN and Proxy Tools
 
 
 ## Utility
 
-- [AutoHotkey](https://autohotkey.com/) - Scripting language for task automation and custom hotkeys. 🪟 ⭐ 
-- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Utilities for file renaming, resizing, and productivity tools. 🪟 ⭐ 
+- [AutoHotkey](https://autohotkey.com) - Scripting language for task automation and custom hotkeys. 🪟 ⭐ 
+- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys) - Utilities for file renaming, resizing, and productivity tools. 🪟 ⭐ 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line tool for downloading audio and video. 🪟 🍎 🐧 🟢 ⭐
 
 ### Clipboard Management
@@ -276,27 +276,27 @@
 
 ### Metadata
 
-- [ExifTool](https://exiftool.org/) - Command-line tool for editing metadata in various file types. 🪟 🍎 🐧 ⭐
+- [ExifTool](https://exiftool.org) - Command-line tool for editing metadata in various file types. 🪟 🍎 🐧 ⭐
 
 
 ### Window Management
 
 - [FancyZones](https://github.com/microsoft/PowerToys) - Snap and arrange windows in multi-monitor setups. 🪟 🟢 ⭐
-- [Rectangle](https://rectangleapp.com/) - Efficient window manager with keyboard shortcut support. 🍎 ⭐
+- [Rectangle](https://rectangleapp.com) - Efficient window manager with keyboard shortcut support. 🍎 ⭐
 
 ### File Management
 
-- [Everything](https://voidtools.com/) - Fast file search tool indexing the entire file system. 🪟 ⭐ 
+- [Everything](https://voidtools.com) - Fast file search tool indexing the entire file system. 🪟 ⭐ 
 
 ### Application Management
 
-- [Bulk Crap Uninstaller](https://bcuninstaller.com/) - Powerful tool for uninstalling multiple applications and cleaning leftovers. 🪟 🟢 ⭐
+- [Bulk Crap Uninstaller](https://bcuninstaller.com) - Powerful tool for uninstalling multiple applications and cleaning leftovers. 🪟 🟢 ⭐
 
 ### Screenshot
 
-- [ShareX](https://getsharex.com/) - Powerful screenshot and screen recording tool with advanced editing options. 🪟 🟢 ⭐
-- [Snipaste](https://snipaste.com/) - Free, Customizable, Portable snipping tool.
+- [ShareX](https://getsharex.com) - Powerful screenshot and screen recording tool with advanced editing options. 🪟 🟢 ⭐
+- [Snipaste](https://snipaste.com) - Free, Customizable, Portable snipping tool.
 
 ### Space Visualizer
 
-- [WizTree](https://diskanalyzer.com/) - Fast disk space analyzer that scans drives and shows file size distribution. 🪟 ⭐
+- [WizTree](https://diskanalyzer.com) - Fast disk space analyzer that scans drives and shows file size distribution. 🪟 ⭐

@@ -21,7 +21,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Wednesday, January 29, 2025 at 08:59:33 AM UTC -->
+<!-- AF-TOC : Thursday, January 30, 2025 at 01:17:28 PM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -90,7 +90,7 @@
 
 ### Music Notation
 
-- [MuseScore](https://musescore.com/) - Open-source notation app for composing and sharing sheet music. 🤖 🍎 🟢  
+- [MuseScore](https://musescore.com) - Open-source notation app for composing and sharing sheet music. 🤖 🍎 🟢  
 
 ### Music Production
 
@@ -98,23 +98,23 @@
 
 ## Browsers
 
-- [Firefox](https://www.mozilla.org/firefox/) - Privacy-focused browser with customizable extensions and tracking protection. 🤖 🍎 🟢  
+- [Firefox](https://www.mozilla.org/firefox) - Privacy-focused browser with customizable extensions and tracking protection. 🤖 🍎 🟢  
 
 ## Communication
 
 ### Messaging
 
-- [Signal](https://signal.org/) - Encrypted messaging app with privacy-first design. 🤖 🍎 🟢  
-- [Element](https://element.io/) - Secure messaging with Matrix protocol and decentralized features. 🤖 🍎 🟢  
+- [Signal](https://signal.org) - Encrypted messaging app with privacy-first design. 🤖 🍎 🟢  
+- [Element](https://element.io) - Secure messaging with Matrix protocol and decentralized features. 🤖 🍎 🟢  
 
 ### Email Clients
 
 - [Proton Mail](https://proton.me/mail) - Encrypted email with no ads and advanced privacy tools. 🤖 🍎 🟢  
-- [FairEmail](https://email.faircode.eu/) - Lightweight open-source email client with strong privacy features. 🤖 🟢  
+- [FairEmail](https://email.faircode.eu) - Lightweight open-source email client with strong privacy features. 🤖 🟢  
 
 ## Compression and Archiving
 
-- [ZArchiver](https://zarchiver.ru/) - Open-source app for compressing and extracting files in various formats. 🤖 🟢  
+- [ZArchiver](https://zarchiver.ru) - Open-source app for compressing and extracting files in various formats. 🤖 🟢  
 
 ## Customize
 
@@ -123,7 +123,7 @@
 
 ### Wallpaper Tools
 
-- [Resplash](https://unsplash.com/) - Access Unsplash’s library for stunning, free wallpapers. 🤖 🍎 🟢  
+- [Resplash](https://unsplash.com) - Access Unsplash’s library for stunning, free wallpapers. 🤖 🍎 🟢  
 
 ## Data Management
 
@@ -135,7 +135,7 @@
 
 ## Developer Tools
 
-- [Termux](https://termux.dev/) - Terminal emulator with Linux packages for development. 🤖 🟢  
+- [Termux](https://termux.dev) - Terminal emulator with Linux packages for development. 🤖 🟢  
 
 ### API Development
 
@@ -149,8 +149,8 @@
 ### Game Engines
 
 - [Godot Engine](https://godotengine.org/download) - Create 2D and 3D games on the go with this open-source engine. 🤖 🟢  
-- [Pocket Code](https://www.catrobat.org/) - Build simple games and apps using visual programming. 🤖 🍎 🟢  
-- [GDevelop](https://gdevelop.io/) - Open-source game engine to create games without coding. 🤖 🟢  
+- [Pocket Code](https://www.catrobat.org) - Build simple games and apps using visual programming. 🤖 🍎 🟢  
+- [GDevelop](https://gdevelop.io) - Open-source game engine to create games without coding. 🤖 🟢  
 
 ### Virtualization
 
@@ -169,7 +169,7 @@
 
 ## Note Taking
 
-- [Joplin](https://joplinapp.org/) - Open-source note-taking app with end-to-end encryption. 🤖 🍎 🟢  
+- [Joplin](https://joplinapp.org) - Open-source note-taking app with end-to-end encryption. 🤖 🍎 🟢  
 
 ## Text Editors
 
@@ -190,7 +190,7 @@
 
 ### Password Managers
 
-- [Bitwarden](https://bitwarden.com/) - Open-source password manager with end-to-end encryption. 🤖 🍎 🟢  
+- [Bitwarden](https://bitwarden.com) - Open-source password manager with end-to-end encryption. 🤖 🍎 🟢  
 
 ## Image Viewers
 
@@ -215,8 +215,8 @@
 
 ## VPN and Proxy Tools
 
-- [ProtonVPN](https://protonvpn.com/) - Secure, encrypted VPN with no logs policy and high-speed servers. 🤖 🍎 🟢  
-- [Windscribe](https://windscribe.com/) - Privacy-focused VPN with a free option and wide server coverage. 🤖 🍎 🟢  
+- [ProtonVPN](https://protonvpn.com) - Secure, encrypted VPN with no logs policy and high-speed servers. 🤖 🍎 🟢  
+- [Windscribe](https://windscribe.com) - Privacy-focused VPN with a free option and wide server coverage. 🤖 🍎 🟢  
 
 ## Utility
 
