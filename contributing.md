@@ -10,14 +10,14 @@ Read these rules first and then make a PR or contribute. If you don't know how t
 - [Recommended icon requirements](#-recommended-icon-requirements)
 - [Maintainer guide](#-maintainer-guide)
 
-## • Suggesting an app or any support
+## — Suggesting an app or any support
 
 You can do this in a few ways. Like:
 
 - Making an issue in the repository. [Click here to make one.](https://github.com/Axorax/awesome-free-apps/issues/new?template=Blank+issue)
 - Joining the Discord server and messaging there. [Click here to join.](https://discord.com/invite/nKUFghjXQu)
 
-## • Editing the list
+## — Editing the list
 
 - Only modify these files; `README.md`, `MOBILE.md`
 
@@ -97,7 +97,7 @@ Update (MOBILE): Spotify
 Remove (MOBILE): Spotify
 ```
 
-## • Code contributions
+## — Code contributions
 
 If you make code contributions like modifying the CLI helper app, then follow these rules. You contribution won't be accepted if it:
 
@@ -113,7 +113,7 @@ Feat: AI to make app with CLI
 Update: Format function to be more strict
 ```
 
-## • Recommended icon requirements
+## — Recommended icon requirements
 
 - App should have a good GUI.
 - Must be optimized depending on the category and functionality. Like if a todo list app uses 1 GB of RAM, that's just annoying.
@@ -121,7 +121,7 @@ Update: Format function to be more strict
 - Must be from a trustworthy developer or company (Extra points if open-source).
 - Should be somewhat popular or well-known.
 
-## • Maintainer guide
+## — Maintainer guide
 
 If you become a maintainer (make an issue if you want to become one), here's a few things to know about:
 
