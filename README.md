@@ -694,6 +694,8 @@
 - [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - Display part of a window on top of others. 🪟 🟢
 - [Sway](https://github.com/swaywm/sway) - Wayland-based tiling window manager, i3-like. 🐧 🟢
 - [XMonad](https://xmonad.org) - Customizable tiling window manager. 🐧
+- [YASB](https://github.com/amnweb/yasb) - Highly configurable Windows status bar. 🪟 🟢
+- [Komorebi](https://github.com/LGUG2Z/komorebi) - Tiling window manager for Windows. 🪟 🟢
 
 ### File Management
 
