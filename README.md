@@ -365,6 +365,7 @@
 - [Skim](https://skim-app.sourceforge.io) - PDF viewer for annotation. 🍎 [🟢](https://github.com/JackieXie168/skim)
 - [Xournal++](https://xournalpp.github.io) - Handwriting and annotation tool for PDFs. 🪟 🍎 🐧 [🟢](https://github.com/xournalpp/xournalpp)
 - [PDFGear](https://www.pdfgear.com) - Read, edit, convert, merge, and sign PDF files across devices. 🪟 🍎
+- [PDFsam](https://pdfsam.org) - Extract pages, split, merge, mix and rotate PDF files. 🪟 🍎 🐧 [🟢](https://github.com/torakiki/pdfsam)
 
 ## Note Taking
 
