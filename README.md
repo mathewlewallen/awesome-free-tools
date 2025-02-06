@@ -450,11 +450,11 @@
 - [NVIDIA GeForce NOW](https://nvidia.com/en-us/geforce-now) - Free tier for streaming supported games from the cloud. 🪟 🍎 🐧
 - [Xbox Cloud Gaming](https://xbox.com/en-US/play) - Free trial with limited titles via the cloud. 🪟 🍎
 
-## Mobile Emulators  
+## Mobile Emulators
 
 - [BlueStacks](https://bluestacks.com) - Android emulator for playing mobile games on PC. 🪟 🍎 ⭐
 - [Andy](https://andyroid.net) - Android emulator to run mobile games and apps on PC. 🪟 🍎
-- [Genymotion](https://genymotion.com) - Android emulator with advanced features for developers and gamers. 🪟 🍎
+- [Genymotion](https://genymotion.com) - Android emulator with advanced features for developers and gamers. 🪟 🍎 🐧
 - [LDPlayer](https://ldplayer.net) - Lightweight Android emulator for gaming on PC. 🪟
 - [KoPlayer](https://koplayerpc.com) - Android emulator optimized for gaming and streaming. 🪟
 - [MEmu Play](https://memuplay.com) - Powerful Android emulator with excellent gaming support. 🪟
