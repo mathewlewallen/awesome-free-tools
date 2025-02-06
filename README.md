@@ -431,19 +431,19 @@
 - [EA App](https://ea.com/ea-app) - EA Origin alternative. 🪟
 - [Epic Games Store](https://epicgames.com/store/en-US) - Platform for exclusive and free games. 🪟 🍎
 - [GOG Galaxy](https://gog.com/galaxy) - DRM-free games and library management. 🪟 🍎
-- [Heroic Games Launcher](https://heroicgameslauncher.com) - Launcher for Epic, GOG. 🪟 🐧 🟢
+- [Heroic Games Launcher](https://heroicgameslauncher.com) - Launcher for Epic, GOG. 🪟 🍎 🐧 [🟢](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 - [Humble App](https://humblebundle.com/app) - Launcher for Humble Bundle games. 🪟
 - [Itch.io](https://itch.io/app) - Marketplace for indie games. 🪟 🍎 🐧
-- [Lutris](https://github.com/lutris) - Open-source game manager for Linux. 🐧 🟢
+- [Lutris](https://lutris.net) - Open-source game manager for Linux. 🐧 [🟢](https://github.com/lutris/lutris)
 - [Origin](https://origin.com) - EA game launcher. 🪟 🍎
 - [Riot Client](https://riotgames.com/en) - Launcher for League of Legends and more. 🪟 🍎
 - [Rockstar Games Launcher](https://socialclub.rockstargames.com/rockstar-games-launcher) - Launcher for Rockstar games. 🪟
-- [Playnite](https://playnite.link) - Unified game library manager. 🪟
-- [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) - Tool for managing Proton/Wine compatibility. 🐧 🟢
+- [Playnite](https://playnite.link) - Unified game library manager. 🪟 [🟢](https://github.com/JosefNemec/Playnite/)
+- [ProtonUp-Qt](https://davidotek.github.io/protonup-qt) - Tool for managing Proton/Wine compatibility. 🐧 [🟢](https://github.com/DavidoTek/ProtonUp-Qt)
 - [Porting Kit](https://portingkit.com) - Install Windows games on Mac. 🍎
 - [Ubisoft Connect](https://ubisoftconnect.com) - Game launcher for Ubisoft titles. 🪟 🍎
 
-### Cloud Gaming  
+### Cloud Gaming
 
 - [Antstream Arcade](https://antstream.com) - Free tier with retro games playable via the cloud. 🪟 🍎 🐧
 - [Boosteroid](https://boosteroid.com) - Free plan available for limited game streaming. 🪟 🍎 🐧
