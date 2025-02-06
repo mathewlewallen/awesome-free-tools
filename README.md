@@ -459,7 +459,7 @@
 - [KoPlayer](https://koplayerpc.com) - Android emulator optimized for gaming and streaming. 🪟
 - [MEmu Play](https://memuplay.com) - Powerful Android emulator with excellent gaming support. 🪟
 - [NoxPlayer](https://bignox.com) - Android emulator optimized for mobile gaming on desktop. 🪟 🍎
-- [Waydroid](https://waydro.id) - Container-based approach to boot a full Android system. 🐧
+- [Waydroid](https://waydro.id) - Container-based approach to boot a full Android system. 🐧 [🟢](https://github.com/waydroid/waydroid)
 
 ## Other Emulators
 
