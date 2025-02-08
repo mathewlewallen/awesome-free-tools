@@ -562,18 +562,17 @@
 
 - [FreeTube](https://freetubeapp.io) - Private YouTube client with no ads. 🪟 🍎 🐧
 
-### Video Editors  
+### Video Editors
 
 - [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve) - Professional video editor with advanced color correction and effects. 🪟 🍎 🐧 ⭐
 - [Capcut Desktop](https://capcut.com/tools/desktop-video-editor) - Simple video editor with many builtin effects. 🪟 🍎
-- [Shotcut](https://shotcut.org) - Video editor with a wide range of features. 🪟 🍎 🐧 🟢
-- [OpenShot](https://openshot.org) - Easy-to-use video editor with support for multiple video tracks. 🪟 🍎 🐧 🟢
-- [Kdenlive](https://kdenlive.org/en) - Video editor with multi-track editing and a powerful interface. 🪟 🍎 🐧 🟢
+- [Shotcut](https://shotcut.org) - Video editor with a wide range of features. 🪟 🍎 🐧 [🟢](https://github.com/mltframework/shotcut)
+- [OpenShot](https://openshot.org) - Easy-to-use video editor with support for multiple video tracks. 🪟 🍎 🐧 [🟢](https://github.com/OpenShot/openshot-qt)
+- [Kdenlive](https://kdenlive.org/en) - Video editor with multi-track editing and a powerful interface. 🪟 🍎 🐧 [🟢](https://github.com/KDE/kdenlive)
 - [Lightworks](https://lwks.com) - Professional video editor with advanced features for filmmaking. 🪟 🍎 🐧
-- [HitFilm Express](https://fxhome.com/product/hitfilm-express) - Feature-packed video editor with visual effects and compositing tools. 🪟 🍎
 - [VSDC Free Video Editor](https://videosoftdev.com/free-video-editor) - Non-linear video editor with a rich set of editing tools. 🪟
-- [Olive Video Editor](https://olivevideoeditor.org) - Non-linear video editor with powerful features and an intuitive interface. 🪟 🍎 🐧 🟢
-- [Avidemux](https://avidemux.sourceforge.net) - Video editor designed for simple cutting, filtering and encoding tasks. 🪟 🍎 🐧
+- [Olive Video Editor](https://olivevideoeditor.org) - Non-linear video editor with powerful features and an intuitive interface. 🪟 🍎 🐧 [🟢](https://github.com/olive-editor/olive)
+- [Avidemux](https://avidemux.sourceforge.net) - Video editor designed for simple cutting, filtering and encoding tasks. 🪟 🍎 🐧 [🟢](https://github.com/mean00/avidemux2)
 - [lossless-cut](https://losslesscut.app) - Swiss army knife of lossless video/audio editing. 🪟 🍎 🐧 [🟢](https://github.com/mifi/lossless-cut)
 
 ### Video Players  
