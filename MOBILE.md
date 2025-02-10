@@ -90,7 +90,7 @@
 
 ### Audio Recording
 
-- [Easy Voice Recorder](https://easyvoicerecorder.com) - High-quality voice recording with playback features for notes and interviews. 🤖 🍎
+- [Easy Voice Recorder](https://www.digipom.com/portfolio-items/easy-voice-recorder) - High-quality voice recording with playback features for notes and interviews. 🤖 🍎
 - [Dolby On](https://www.dolby.com/apps/dolby-on) - Enhances audio recordings with noise reduction and spatial sound effects. 🤖 🍎
 - [Otter](https://otter.ai) - Transcribes audio in real-time while recording. 🤖 🍎
 
