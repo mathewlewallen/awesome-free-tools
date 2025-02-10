@@ -156,7 +156,7 @@
 ### Wallpaper Tools
 
 - [Backdrops](https://www.backdrops.io) - Offers unique wallpapers with daily updates. 🤖 🍎
-- [Walpy](https://walpy.app) - Automatic wallpaper changes based on your preferences. 🤖
+- [Walpy](https://play.google.com/store/apps/details?id=com.feresr.walpy) - Automatic wallpaper changes based on your preferences. 🤖
 - [Vellum](https://www.getvellum.com) - High-quality curated wallpapers with minimalistic design options. 🍎
 - [Resplash](https://unsplash.com) - Access Unsplash’s library for stunning, free wallpapers. 🤖 🍎 🟢
 
