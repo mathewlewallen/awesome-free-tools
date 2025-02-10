@@ -140,7 +140,7 @@
 ## Compression and Archiving
 
 - [RAR](https://www.rarlab.com) - Supports multiple formats like ZIP and RAR with file encryption. 🤖 🍎
-- [ZArchiver](https://zarchiver.ru) - Open-source app for compressing and extracting files in various formats. 🤖 🟢
+- [ZArchiver](https://zdevs.ru/en/#:~:text=more%20here.-,ZARCHIVER,-ZArchiver%20%2D%20is%20a) - App for compressing and extracting files in various formats. 🤖 🍎
 - [WinZip](https://www.winzip.com) - Compress, unzip, and manage files with cloud integration. 🤖 🍎
 - [B1 Archiver](https://b1.org) - Simple file compression tool with multi-format support and encryption. 🤖 🍎
 
