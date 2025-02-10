@@ -348,7 +348,6 @@
 
 ### File Management
 
-- [ES File Explorer](https://www.es-file-explorer.com) - File manager with cloud storage support and system tools. 🤖
 - [Files by Google](https://files.google.com) - Organize, search, and clean up files with Google’s file manager. 🤖
 - [File Manager +](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager) - Lightweight file manager with cloud support and FTP. 🤖
 
