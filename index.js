@@ -50,7 +50,7 @@ function format(file = "README.md") {
   const updatedData = data
     .split('\n')
     .map(line => {
-      // line = line.replace(/https:\/\/www\./g, 'https://'); // removes www.
+      // line = line.replace(/https:\/\/www\./g, 'https://'); // removes www. (DON'T USE! Some links break!)
       line = line.replace(/\((https?:\/\/.*?)\/\)/g, "($1)"); // removes trailing /
       // if (line.startsWith('- [')) {
       //   const parts = line.split(' - ');

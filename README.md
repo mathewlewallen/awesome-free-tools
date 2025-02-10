@@ -105,7 +105,7 @@
 
 - [Audacity](https://audacityteam.org/download) - Audio editor for recording and editing sounds. 🪟 🍎 🐧 🟢 ⭐
 - [Ocenaudio](https://ocenaudio.com) - Easy-to-use audio editor for recording and analyzing sounds. 🪟 🍎 🐧
-- [Wavosaur](https://wavosaur.com) - Simple audio editor for recording, editing, and processing sound. 🪟
+- [Wavosaur](https://www.wavosaur.com) - Simple audio editor for recording, editing, and processing sound. 🪟
 
 ### DJ Software
 
@@ -290,7 +290,7 @@
 - [Unreal Engine](https://unrealengine.com) - Powerful, fully-featured game engine for high-quality 3D games. 🪟 🍎 🐧 ⭐
 - [Amazon Lumberyard](https://aws.amazon.com/lumberyard) - Free, cross-platform 3D game engine integrated with AWS and Twitch for multiplayer games. 🪟 🍎
 - [AppGameKit](https://appgamekit.com) - Flexible game engine for 2D and 3D games with simple scripting. 🪟 🍎 🐧
-- [Cocos2d](https://cocos.com/en) - Game engine for mobile and web games, focused on 2D games. 🪟 🍎 🐧 🟢
+- [Cocos2d](https://www.cocos.com/en) - Game engine for mobile and web games, focused on 2D games. 🪟 🍎 🐧 🟢
 - [Defold](https://defold.com) - Cross-platform 2D game engine with easy-to-use tools. 🪟 🍎 🐧
 - [CryEngine](https://cryengine.com) - Advanced game engine with cutting-edge graphics and tools for creating visually stunning games. 🪟
 - [Flixel](https://flixel.org) - 2D engine built with Haxe, suitable for platformers and action games. 🪟 🍎 🐧 🟢
@@ -325,7 +325,7 @@
 
 ## Documents
 
-- [CDisplayEx](https://cdisplayex.com) - Lightweight comic book reader (.cbr, .cbz, .pdf, manga). 🪟
+- [CDisplayEx](https://www.cdisplayex.com) - Lightweight comic book reader (.cbr, .cbz, .pdf, manga). 🪟
 
 ### Office Suites
 
@@ -349,7 +349,7 @@
 - [Koodo Reader](https://koodoreader.com/en) - EBook reader supporting 15+ formats. 🪟 🍎 🐧 [🟢](https://github.com/koodo-reader/koodo-reader)
 - [Naps2](https://naps2.com) - Scan documents to PDF and more, as simply as possible. 🪟 🍎 🐧 [🟢](https://github.com/cyanfish/naps2)
 - [Readest](https://readest.com) - Cross-platform eBook reader with tools. 🪟 🍎 🐧 [🟢](https://github.com/readest/readest)
-- [Scribus](https://scribus.net) - Layout and publishing software. 🪟 🍎 🐧 [🟢](https://github.com/scribusproject/scribus)
+- [Scribus](https://www.scribus.net) - Layout and publishing software. 🪟 🍎 🐧 [🟢](https://github.com/scribusproject/scribus)
 - [Sigil](https://sigil-ebook.com) - EPUB editor. 🪟 🍎 🐧 [🟢](https://github.com/Sigil-Ebook/Sigil)
 - [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12) - Reader for PDF, CBZ, and CBR formats. 🍎
 
@@ -445,15 +445,15 @@
 
 ### Cloud Gaming
 
-- [Antstream Arcade](https://antstream.com) - Free tier with retro games playable via the cloud. 🪟 🍎 🐧
+- [Antstream Arcade](https://www.antstream.com) - Free tier with retro games playable via the cloud. 🪟 🍎 🐧
 - [Boosteroid](https://boosteroid.com) - Free plan available for limited game streaming. 🪟 🍎 🐧
-- [NVIDIA GeForce NOW](https://nvidia.com/en-us/geforce-now) - Free tier for streaming supported games from the cloud. 🪟 🍎 🐧
-- [Xbox Cloud Gaming](https://xbox.com/en-US/play) - Free trial with limited titles via the cloud. 🪟 🍎
+- [NVIDIA GeForce NOW](https://www.nvidia.com/en-us/geforce-now) - Free tier for streaming supported games from the cloud. 🪟 🍎 🐧
+- [Xbox Cloud Gaming](https://www.xbox.com/en-US/play) - Free trial with limited titles via the cloud. 🪟 🍎
 
 ## Mobile Emulators
 
-- [BlueStacks](https://bluestacks.com) - Android emulator for playing mobile games on PC. 🪟 🍎 ⭐
-- [Andy](https://andyroid.net) - Android emulator to run mobile games and apps on PC. 🪟 🍎
+- [BlueStacks](https://www.bluestacks.com) - Android emulator for playing mobile games on PC. 🪟 🍎 ⭐
+- [Andy](https://www.andyroid.net) - Android emulator to run mobile games and apps on PC. 🪟 🍎
 - [Genymotion](https://genymotion.com) - Android emulator with advanced features for developers and gamers. 🪟 🍎 🐧
 - [LDPlayer](https://ldplayer.net) - Lightweight Android emulator for gaming on PC. 🪟
 - [KoPlayer](https://koplayerpc.com) - Android emulator optimized for gaming and streaming. 🪟
@@ -521,7 +521,7 @@
 - [Avast](https://avast.com/free-antivirus-download) - Antivirus to help detect and isolate potential cyberthreats. 🪟 🍎 🐧
 - [AVG Antivirus](https://avg.com/en-us/free-antivirus-download) - Free antivirus software to protect against viruses, malware, and spyware. 🪟 🍎
 - [Bitdefender](https://bitdefender.com/solutions/free.html) - Lightweight and powerful antivirus for essential protection. 🪟 🍎
-- [ClamAV](https://clamav.net) - Antivirus engine for detecting malware, viruses, and other threats. 🪟 🍎 🐧 🟢
+- [ClamAV](https://www.clamav.net) - Antivirus engine for detecting malware, viruses, and other threats. 🪟 🍎 🐧 🟢
 - [Malwarebytes](https://malwarebytes.com) - Malware removal tool offering real-time protection and cleanup. 🪟 🍎
 
 ### Password Managers
@@ -579,7 +579,7 @@
 
 - [PotPlayer](https://potplayer.daum.net) - Feature-rich video player with advanced playback options. 🪟 ⭐
 - [Bomi Player](https://bomi-player.github.io) - Advanced media player that supports a variety of video formats. 🐧
-- [Clementine Player](https://clementine-player.org) - Music and video player with a user-friendly interface. 🪟 🍎 🐧
+- [Clementine Player](https://www.clementine-player.org) - Music and video player with a user-friendly interface. 🪟 🍎 🐧
 - [GOM Player](https://gomlab.com/gomplayer-media-player) - Popular media player with support for most video formats and customizable features. 🪟 🍎
 - [IINA](https://iina.io) - Media player that claims to perform better than VLC. 🍎 🟢
 - [KMPlayer](https://kmplayer.com) - Media player supporting various video formats and streaming protocols. 🪟 🍎
@@ -629,7 +629,7 @@
 - [OpenVPN](https://openvpn.net/community-downloads) - VPN solution for secure internet connections with customizable settings. 🪟 🟢
 - [Proxifier](https://proxifier.com) - Windows proxy client that routes applications via a proxy server. 🪟
 - [Psiphon](https://psiphon.ca) - VPN and proxy tool for bypassing censorship. 🪟 🍎
-- [SoftEther VPN](https://softether.org) - Multi-protocol VPN software for secure connections. 🪟 🟢
+- [SoftEther VPN](https://www.softether.org) - Multi-protocol VPN software for secure connections. 🪟 🟢
 - [Sing-box](https://github.com/SagerNet/sing-box) - Universal proxy platform supporting multiple protocols. 🪟 🍎 🐧 🟢
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Modern Shadowsocks client for enhanced security. 🍎 🟢
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Minimal proxy tool using rule-based configuration. 🍎 🟢
@@ -706,15 +706,15 @@
 - [Files](https://files.community/download) - Modern file manager for easy file organization. 🪟 [🟢](https://github.com/files-community/Files)
 - [Free Commander](https://freecommander.com/en/summary) - Alternative file manager with added features. 🪟
 - [FileZilla](https://filezilla-project.org) - Reliable FTP, FTPS, and SFTP client for remote management. 🪟 🍎 🐧
-- [Listary](https://listary.com) - Free file search tool & app launcher. 🪟
+- [Listary](https://www.listary.com) - Free file search tool & app launcher. 🪟
 - [Q-Dir](https://softwareok.com/?seite=Freeware/Q-Dir) - Multi-pane file manager with up to four directory views. 🪟
 - [WinSCP](https://winscp.net) - Easy-to-use SFTP, FTP, and WebDAV client. 🪟 🟢
 - [Xftp 7](https://netsarang.com/en/xftp) - Flexible SFTP/FTP client for efficient file transfers. 🪟
 
 ### Application Management
 
-- [Bulk Crap Uninstaller](https://bcuninstaller.com) - Powerful tool for uninstalling multiple applications and cleaning leftovers. 🪟 🟢 ⭐
-- [Revo Uninstaller](https://revouninstaller.com/revo-uninstaller-free-download) - Advanced uninstaller to remove programs and residual files with free tier. 🪟
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com) - Powerful tool for uninstalling multiple applications and cleaning leftovers. 🪟 🟢 ⭐
+- [Revo Uninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download) - Advanced uninstaller to remove programs and residual files with free tier. 🪟
 
 ### Screenshot
 
