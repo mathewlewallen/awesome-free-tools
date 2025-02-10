@@ -178,7 +178,7 @@
 - [Edison Mail](https://mail.edison.tech/mac) - Customizable, intuitive email client with smart features. 🪟 🍎 🐧
 - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Electron-based desktop client for ProtonMail. 🪟 🍎 🐧 🟢
 - [eM Client](https://emclient.com) - Modern client to boost your productivity. 🪟
-- [Foxmail](https://www.foxmail.com/mac/en) - Fast, user-friendly email client. 🍎 🐧
+- [Foxmail](https://www.foxmail.com) - Fast, user-friendly email client. 🪟 🍎
 - [Mailbird](https://mailbird.com) - IMAP/POP3 client with customization options. 🪟
 - [Mailspring](https://getmailspring.com) - Beautiful, fast email client. 🪟 🍎 🐧 🟢
 - [Nylas Mail](https://nylas.com/nylas-mail) - Extensible desktop email app based on web technologies. 🪟 🍎 🐧
