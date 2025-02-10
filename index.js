@@ -1,5 +1,5 @@
 const fs = require('fs');
-const { execSync } = require('child_process');
+const { execSync, spawn } = require('child_process');
 
 function create(file, fileName, emoji) {
   const startTime = Date.now();
@@ -70,11 +70,67 @@ function format(file = "README.md") {
   console.log(`\x1b[32m${file} has been formatted.\x1b[0m`);
 }
 
+/**
+ * @returns {Array} list of links in a given file
+ */
+function getLinks(file = "README.md") {
+  const data = fs.readFileSync(file, "utf8");
+  const links = data.match(/\[.*?\]\(https?:\/\/.*?\)/g) || [];
+  return links.map((url) => url.split("(").at(-1).slice(0, -1));
+}
+
+/** Print the amount of links in a given file */
 function countLinks(file = "README.md") {
-  const data = fs.readFileSync(file, 'utf8');
-  const linkCount = (data.match(/\[.*?\]\(https?:\/\/.*?\)/g) || []).length;
+  const linkCount = getLinks(file).length;
   console.log(`Total links in ${file}: \x1b[32m${linkCount}\x1b[0m`);
 }
+
+/**
+ * DEPENDENCY: curl
+ * @param {any} url string
+ * @returns {Promise} test if a given url is reachable in 3 seconds
+ */
+function testUrl(url) {
+  return new Promise((resolve, reject) => {
+    const script = spawn("curl", ["-Is", "--connect-timeout", "3", url]);
+    let output = "";
+    let errorOutput = "";
+
+    script.stdout.on("data", (data) => {
+      output += data.toString();
+    });
+
+    script.stderr.on("data", (data) => {
+      errorOutput += data.toString();
+    });
+
+    script.on("close", (code) => {
+      if (code === 0) {
+        // console.log(url, "is valid");
+        resolve(output);
+      } else {
+        console.log(url, "is not reachable");
+        reject(errorOutput);
+      }
+    });
+
+    script.on("error", (err) => {
+      console.log(url, "failed to execute");
+      reject(err);
+    });
+  });
+}
+
+/** Test if all links in a given file are valid (reachable) */
+function testLinksReachable(file = "README.md") {
+  console.log(`Testing links in \x1b[32m${file}\x1b[0m`);
+  getLinks(file).forEach((url) => {
+    testUrl(url)
+      .then((_) => {})
+      .catch((_) => {});
+  });
+}
+
 
 function fastGit(message = "update") {
   try {
@@ -199,6 +255,9 @@ if (args.includes('--analyze')) {
   }
 } else if (args.includes('--all')) {
   runAll();
+} else if (args.includes('--test-links')) {
+  testLinksReachable("README.md");
+  testLinksReachable("MOBILE.md");
 } else {
   console.log("Usage:");
   console.log("  node index.js --categorize     Categorize based on icons");
