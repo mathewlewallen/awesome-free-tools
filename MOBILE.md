@@ -349,6 +349,7 @@
 ### File Management
 
 - [Files by Google](https://files.google.com) - Organize, search, and clean up files with Google’s file manager. 🤖
+- [CX File Explorer](https://cxfileexplorer.com) - Clean interface for managing files and transferring them to cloud or network storage. 🤖
 - [File Manager +](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager) - Lightweight file manager with cloud support and FTP. 🤖
 
 ### Application Management
