@@ -121,14 +121,30 @@ function testUrl(url) {
   });
 }
 
-/** Test if all links in a given file are valid (reachable) */
+/**
+ * Test if all links in a given file are valid (reachable)
+ * @param {string} file
+ * @returns {Promise}
+ */
 function testLinksReachable(file = "README.md") {
   console.log(`Testing links in \x1b[32m${file}\x1b[0m`);
-  getLinks(file).forEach((url) => {
-    testUrl(url)
-      .then((_) => {})
-      .catch((_) => {});
+
+  const promises = getLinks(file).map(async (url) => {
+    try {
+      await testUrl(url);
+    } catch (_) {}
   });
+
+  return Promise.all(promises);
+}
+
+async function testLinksInAllFiles() {
+  try {
+    await testLinksReachable("README.md");
+    await testLinksReachable("MOBILE.md");
+  } catch (error) {
+    console.error("An error occurred:", error);
+  }
 }
 
 
@@ -256,8 +272,7 @@ if (args.includes('--analyze')) {
 } else if (args.includes('--all')) {
   runAll();
 } else if (args.includes('--test-links')) {
-  testLinksReachable("README.md");
-  testLinksReachable("MOBILE.md");
+  testLinksInAllFiles()
 } else {
   console.log("Usage:");
   console.log("  node index.js --categorize     Categorize based on icons");
