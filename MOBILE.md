@@ -157,7 +157,7 @@
 
 - [Backdrops](https://www.backdrops.io) - Offers unique wallpapers with daily updates. 🤖 🍎
 - [Walpy](https://walpy.app) - Automatic wallpaper changes based on your preferences. 🤖
-- [Vellum](https://www.vellum.notion.so) - High-quality curated wallpapers with minimalistic design options. 🍎
+- [Vellum](https://www.getvellum.com) - High-quality curated wallpapers with minimalistic design options. 🍎
 - [Resplash](https://unsplash.com) - Access Unsplash’s library for stunning, free wallpapers. 🤖 🍎 🟢
 
 ## Data Management
