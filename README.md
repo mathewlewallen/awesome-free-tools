@@ -302,7 +302,7 @@
 - [OpenRA](https://openra.net) - Game engine for real-time strategy games, supporting mods for classic titles. 🪟 🍎 🐧 🟢
 - [PICO-8](https://lexaloffle.com/pico-8.php) - Fantasy console for making retro-style small games. 🪟 🍎 🐧
 - [Ren'Py](https://github.com/renpy/renpy) - Popular engine for creating visual novels with a simple scripting language. 🪟 🍎 🐧 🟢
-- [Pixel Game Maker MV](https://kadokawa.co.jp/pgmmv) - Game creation engine for 2D pixel games with no coding required. 🪟
+- [Pixel Game Maker MV](https://rpgmakerofficial.com/product/act/en/index.html) - Game creation engine for 2D pixel games with no coding required. 🪟
 - [Roblox Studio](https://create.roblox.com) - Engine for making games on Roblox. 🪟 🍎
 - [Scirra Construct](https://construct.net) - Powerful game engine with drag-and-drop and visual scripting for 2D games. 🪟 🍎 🐧
 - [Tiled](https://mapeditor.org) - Level editor for creating tile-based game maps, used with other engines. 🪟 🍎 🐧 🟢
