@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Thursday, January 30, 2025 at 01:17:28 PM UTC -->
+<!-- AF-TOC : Thursday, February 13, 2025 at 02:47:54 PM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -200,19 +200,19 @@
 
 ## Download Managers
 
-- [AB Download Manager](https://abdownloadmanager.com) - Easily download files from anywhere. 🪟 🐧 🟢 ⭐
+- [AB Download Manager](https://abdownloadmanager.com) - Easily download files from anywhere. 🪟 🐧 [🟢](https://github.com/amir1376/ab-download-manager) ⭐
 - [Free Download Manager](https://freedownloadmanager.org) - Modern download accelerator. 🪟 🍎 🐧 ⭐
 
 ## Games
 
 - [Steam](https://store.steampowered.com) - Platform for buying and playing PC games. 🪟 🍎 🐧 ⭐
 
-### Cloud Gaming  
+### Cloud Gaming
 
 
-## Mobile Emulators  
+## Mobile Emulators
 
-- [BlueStacks](https://bluestacks.com) - Android emulator for playing mobile games on PC. 🪟 🍎 ⭐
+- [BlueStacks](https://www.bluestacks.com) - Android emulator for playing mobile games on PC. 🪟 🍎 ⭐
 
 ## Other Emulators
 
@@ -246,7 +246,7 @@
 ## Video
 
 
-### Video Editors  
+### Video Editors
 
 - [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve) - Professional video editor with advanced color correction and effects. 🪟 🍎 🐧 ⭐
 
@@ -290,7 +290,7 @@
 
 ### Application Management
 
-- [Bulk Crap Uninstaller](https://bcuninstaller.com) - Powerful tool for uninstalling multiple applications and cleaning leftovers. 🪟 🟢 ⭐
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com) - Powerful tool for uninstalling multiple applications and cleaning leftovers. 🪟 🟢 ⭐
 
 ### Screenshot
 

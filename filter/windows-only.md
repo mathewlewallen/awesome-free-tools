@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Thursday, January 30, 2025 at 01:17:28 PM UTC -->
+<!-- AF-TOC : Thursday, February 13, 2025 at 02:47:54 PM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -105,7 +105,7 @@
 
 - [Audacity](https://audacityteam.org/download) - Audio editor for recording and editing sounds. 🪟 🍎 🐧 🟢 ⭐
 - [Ocenaudio](https://ocenaudio.com) - Easy-to-use audio editor for recording and analyzing sounds. 🪟 🍎 🐧
-- [Wavosaur](https://wavosaur.com) - Simple audio editor for recording, editing, and processing sound. 🪟
+- [Wavosaur](https://www.wavosaur.com) - Simple audio editor for recording, editing, and processing sound. 🪟
 
 ### DJ Software
 
@@ -174,6 +174,7 @@
 - [Edison Mail](https://mail.edison.tech/mac) - Customizable, intuitive email client with smart features. 🪟 🍎 🐧
 - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Electron-based desktop client for ProtonMail. 🪟 🍎 🐧 🟢
 - [eM Client](https://emclient.com) - Modern client to boost your productivity. 🪟
+- [Foxmail](https://www.foxmail.com) - Fast, user-friendly email client. 🪟 🍎
 - [Mailbird](https://mailbird.com) - IMAP/POP3 client with customization options. 🪟
 - [Mailspring](https://getmailspring.com) - Beautiful, fast email client. 🪟 🍎 🐧 🟢
 - [Nylas Mail](https://nylas.com/nylas-mail) - Extensible desktop email app based on web technologies. 🪟 🍎 🐧
@@ -270,7 +271,7 @@
 - [Unreal Engine](https://unrealengine.com) - Powerful, fully-featured game engine for high-quality 3D games. 🪟 🍎 🐧 ⭐
 - [Amazon Lumberyard](https://aws.amazon.com/lumberyard) - Free, cross-platform 3D game engine integrated with AWS and Twitch for multiplayer games. 🪟 🍎
 - [AppGameKit](https://appgamekit.com) - Flexible game engine for 2D and 3D games with simple scripting. 🪟 🍎 🐧
-- [Cocos2d](https://cocos.com/en) - Game engine for mobile and web games, focused on 2D games. 🪟 🍎 🐧 🟢
+- [Cocos2d](https://www.cocos.com/en) - Game engine for mobile and web games, focused on 2D games. 🪟 🍎 🐧 🟢
 - [Defold](https://defold.com) - Cross-platform 2D game engine with easy-to-use tools. 🪟 🍎 🐧
 - [CryEngine](https://cryengine.com) - Advanced game engine with cutting-edge graphics and tools for creating visually stunning games. 🪟
 - [Flixel](https://flixel.org) - 2D engine built with Haxe, suitable for platformers and action games. 🪟 🍎 🐧 🟢
@@ -282,7 +283,7 @@
 - [OpenRA](https://openra.net) - Game engine for real-time strategy games, supporting mods for classic titles. 🪟 🍎 🐧 🟢
 - [PICO-8](https://lexaloffle.com/pico-8.php) - Fantasy console for making retro-style small games. 🪟 🍎 🐧
 - [Ren'Py](https://github.com/renpy/renpy) - Popular engine for creating visual novels with a simple scripting language. 🪟 🍎 🐧 🟢
-- [Pixel Game Maker MV](https://kadokawa.co.jp/pgmmv) - Game creation engine for 2D pixel games with no coding required. 🪟
+- [Pixel Game Maker MV](https://rpgmakerofficial.com/product/act/en/index.html) - Game creation engine for 2D pixel games with no coding required. 🪟
 - [Roblox Studio](https://create.roblox.com) - Engine for making games on Roblox. 🪟 🍎
 - [Scirra Construct](https://construct.net) - Powerful game engine with drag-and-drop and visual scripting for 2D games. 🪟 🍎 🐧
 - [Tiled](https://mapeditor.org) - Level editor for creating tile-based game maps, used with other engines. 🪟 🍎 🐧 🟢
@@ -302,7 +303,7 @@
 
 ## Documents
 
-- [CDisplayEx](https://cdisplayex.com) - Lightweight comic book reader (.cbr, .cbz, .pdf, manga). 🪟
+- [CDisplayEx](https://www.cdisplayex.com) - Lightweight comic book reader (.cbr, .cbz, .pdf, manga). 🪟
 
 ### Office Suites
 
@@ -324,7 +325,7 @@
 - [Koodo Reader](https://koodoreader.com/en) - EBook reader supporting 15+ formats. 🪟 🍎 🐧 [🟢](https://github.com/koodo-reader/koodo-reader)
 - [Naps2](https://naps2.com) - Scan documents to PDF and more, as simply as possible. 🪟 🍎 🐧 [🟢](https://github.com/cyanfish/naps2)
 - [Readest](https://readest.com) - Cross-platform eBook reader with tools. 🪟 🍎 🐧 [🟢](https://github.com/readest/readest)
-- [Scribus](https://scribus.net) - Layout and publishing software. 🪟 🍎 🐧 [🟢](https://github.com/scribusproject/scribus)
+- [Scribus](https://www.scribus.net) - Layout and publishing software. 🪟 🍎 🐧 [🟢](https://github.com/scribusproject/scribus)
 - [Sigil](https://sigil-ebook.com) - EPUB editor. 🪟 🍎 🐧 [🟢](https://github.com/Sigil-Ebook/Sigil)
 
 ### PDF Tools
@@ -337,6 +338,7 @@
 - [PDF24](https://pdf24.org/en) - Easy PDF tools. 🪟
 - [Xournal++](https://xournalpp.github.io) - Handwriting and annotation tool for PDFs. 🪟 🍎 🐧 [🟢](https://github.com/xournalpp/xournalpp)
 - [PDFGear](https://www.pdfgear.com) - Read, edit, convert, merge, and sign PDF files across devices. 🪟 🍎
+- [PDFsam](https://pdfsam.org) - Extract pages, split, merge, mix and rotate PDF files. 🪟 🍎 🐧 [🟢](https://github.com/torakiki/pdfsam)
 
 ## Note Taking
 
@@ -374,14 +376,14 @@
 
 ## Download Managers
 
-- [AB Download Manager](https://abdownloadmanager.com) - Easily download files from anywhere. 🪟 🐧 🟢 ⭐
+- [AB Download Manager](https://abdownloadmanager.com) - Easily download files from anywhere. 🪟 🐧 [🟢](https://github.com/amir1376/ab-download-manager) ⭐
 - [Free Download Manager](https://freedownloadmanager.org) - Modern download accelerator. 🪟 🍎 🐧 ⭐
-- [Aria2](https://aria2.github.io) - Lightweight, command-line download utility supporting multiple protocols. 🪟 🍎 🐧 🟢
+- [Aria2](https://aria2.github.io) - Lightweight, command-line download utility supporting multiple protocols. 🪟 🍎 🐧 [🟢](https://github.com/aria2/aria2)
 - [Download Master](https://downloadmaster.com) - Download manager by WestByte. 🪟
-- [JDownloader](https://jdownloader.org) - Popular download manager. 🪟 🍎 🐧 🟢
-- [Motrix](https://motrix.app) - Simple and clean download manager with cross-platform support. 🪟 🍎 🐧 🟢
-- [Persepolis Download Manager](https://persepolisdm.github.io) - GUI for Aria2, providing an intuitive interface. 🪟 🍎 🐧 🟢
-- [Xtreme Download Manager (XDM)](https://xtremedownloadmanager.com) - Powerful tool to increase download speed. 🪟 🍎 🐧 🟢 
+- [JDownloader](https://jdownloader.org) - Popular download manager. 🪟 🍎 🐧 [🟢](https://support.jdownloader.org/en/knowledgebase/article/setup-ide-eclipse)
+- [Motrix](https://motrix.app) - Simple and clean download manager with cross-platform support. 🪟 🍎 🐧 [🟢](https://github.com/agalwood/Motrix)
+- [Persepolis Download Manager](https://persepolisdm.github.io) - GUI for Aria2, providing an intuitive interface. 🪟 🍎 🐧 [🟢](https://github.com/persepolisdm/persepolis)
+- [Xtreme Download Manager (XDM)](https://xtremedownloadmanager.com) - Powerful tool to increase download speed. 🪟 🍎 🐧 [🟢](https://github.com/subhra74/xdm)
 
 ## Games
 
@@ -392,27 +394,27 @@
 - [EA App](https://ea.com/ea-app) - EA Origin alternative. 🪟
 - [Epic Games Store](https://epicgames.com/store/en-US) - Platform for exclusive and free games. 🪟 🍎
 - [GOG Galaxy](https://gog.com/galaxy) - DRM-free games and library management. 🪟 🍎
-- [Heroic Games Launcher](https://heroicgameslauncher.com) - Launcher for Epic, GOG. 🪟 🐧 🟢
+- [Heroic Games Launcher](https://heroicgameslauncher.com) - Launcher for Epic, GOG. 🪟 🍎 🐧 [🟢](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 - [Humble App](https://humblebundle.com/app) - Launcher for Humble Bundle games. 🪟
 - [Itch.io](https://itch.io/app) - Marketplace for indie games. 🪟 🍎 🐧
 - [Origin](https://origin.com) - EA game launcher. 🪟 🍎
 - [Riot Client](https://riotgames.com/en) - Launcher for League of Legends and more. 🪟 🍎
 - [Rockstar Games Launcher](https://socialclub.rockstargames.com/rockstar-games-launcher) - Launcher for Rockstar games. 🪟
-- [Playnite](https://playnite.link) - Unified game library manager. 🪟
+- [Playnite](https://playnite.link) - Unified game library manager. 🪟 [🟢](https://github.com/JosefNemec/Playnite/)
 - [Ubisoft Connect](https://ubisoftconnect.com) - Game launcher for Ubisoft titles. 🪟 🍎
 
-### Cloud Gaming  
+### Cloud Gaming
 
-- [Antstream Arcade](https://antstream.com) - Free tier with retro games playable via the cloud. 🪟 🍎 🐧
+- [Antstream Arcade](https://www.antstream.com) - Free tier with retro games playable via the cloud. 🪟 🍎 🐧
 - [Boosteroid](https://boosteroid.com) - Free plan available for limited game streaming. 🪟 🍎 🐧
-- [NVIDIA GeForce NOW](https://nvidia.com/en-us/geforce-now) - Free tier for streaming supported games from the cloud. 🪟 🍎 🐧
-- [Xbox Cloud Gaming](https://xbox.com/en-US/play) - Free trial with limited titles via the cloud. 🪟 🍎
+- [NVIDIA GeForce NOW](https://www.nvidia.com/en-us/geforce-now) - Free tier for streaming supported games from the cloud. 🪟 🍎 🐧
+- [Xbox Cloud Gaming](https://www.xbox.com/en-US/play) - Free trial with limited titles via the cloud. 🪟 🍎
 
-## Mobile Emulators  
+## Mobile Emulators
 
-- [BlueStacks](https://bluestacks.com) - Android emulator for playing mobile games on PC. 🪟 🍎 ⭐
-- [Andy](https://andyroid.net) - Android emulator to run mobile games and apps on PC. 🪟 🍎
-- [Genymotion](https://genymotion.com) - Android emulator with advanced features for developers and gamers. 🪟 🍎
+- [BlueStacks](https://www.bluestacks.com) - Android emulator for playing mobile games on PC. 🪟 🍎 ⭐
+- [Andy](https://www.andyroid.net) - Android emulator to run mobile games and apps on PC. 🪟 🍎
+- [Genymotion](https://genymotion.com) - Android emulator with advanced features for developers and gamers. 🪟 🍎 🐧
 - [LDPlayer](https://ldplayer.net) - Lightweight Android emulator for gaming on PC. 🪟
 - [KoPlayer](https://koplayerpc.com) - Android emulator optimized for gaming and streaming. 🪟
 - [MEmu Play](https://memuplay.com) - Powerful Android emulator with excellent gaming support. 🪟
@@ -472,7 +474,7 @@
 - [Avast](https://avast.com/free-antivirus-download) - Antivirus to help detect and isolate potential cyberthreats. 🪟 🍎 🐧
 - [AVG Antivirus](https://avg.com/en-us/free-antivirus-download) - Free antivirus software to protect against viruses, malware, and spyware. 🪟 🍎
 - [Bitdefender](https://bitdefender.com/solutions/free.html) - Lightweight and powerful antivirus for essential protection. 🪟 🍎
-- [ClamAV](https://clamav.net) - Antivirus engine for detecting malware, viruses, and other threats. 🪟 🍎 🐧 🟢
+- [ClamAV](https://www.clamav.net) - Antivirus engine for detecting malware, viruses, and other threats. 🪟 🍎 🐧 🟢
 - [Malwarebytes](https://malwarebytes.com) - Malware removal tool offering real-time protection and cleanup. 🪟 🍎
 
 ### Password Managers
@@ -504,29 +506,29 @@
 - [TeamViewer](https://teamviewer.com/en) - Popular remote control software for desktop sharing and file transfer. 🪟 🍎 🐧
 - [Windows Remote Desktop](https://apps.apple.com/us/app/windows-app/id1295203466) - Connect to remote PCs, virtual apps, and desktops with ease. 🪟
 - [wmWebStack](https://webstack.wikimint.com) - Local server stack with one-click live publishing and remote device access. 🪟
+- [RemSupp](https://remsupp.com) - Simple remote desktop. 🪟 🍎 🐧
 
 ## Video
 
 - [FreeTube](https://freetubeapp.io) - Private YouTube client with no ads. 🪟 🍎 🐧
 
-### Video Editors  
+### Video Editors
 
 - [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve) - Professional video editor with advanced color correction and effects. 🪟 🍎 🐧 ⭐
 - [Capcut Desktop](https://capcut.com/tools/desktop-video-editor) - Simple video editor with many builtin effects. 🪟 🍎
-- [Shotcut](https://shotcut.org) - Video editor with a wide range of features. 🪟 🍎 🐧 🟢
-- [OpenShot](https://openshot.org) - Easy-to-use video editor with support for multiple video tracks. 🪟 🍎 🐧 🟢
-- [Kdenlive](https://kdenlive.org/en) - Video editor with multi-track editing and a powerful interface. 🪟 🍎 🐧 🟢
+- [Shotcut](https://shotcut.org) - Video editor with a wide range of features. 🪟 🍎 🐧 [🟢](https://github.com/mltframework/shotcut)
+- [OpenShot](https://openshot.org) - Easy-to-use video editor with support for multiple video tracks. 🪟 🍎 🐧 [🟢](https://github.com/OpenShot/openshot-qt)
+- [Kdenlive](https://kdenlive.org/en) - Video editor with multi-track editing and a powerful interface. 🪟 🍎 🐧 [🟢](https://github.com/KDE/kdenlive)
 - [Lightworks](https://lwks.com) - Professional video editor with advanced features for filmmaking. 🪟 🍎 🐧
-- [HitFilm Express](https://fxhome.com/product/hitfilm-express) - Feature-packed video editor with visual effects and compositing tools. 🪟 🍎
 - [VSDC Free Video Editor](https://videosoftdev.com/free-video-editor) - Non-linear video editor with a rich set of editing tools. 🪟
-- [Olive Video Editor](https://olivevideoeditor.org) - Non-linear video editor with powerful features and an intuitive interface. 🪟 🍎 🐧 🟢
-- [Avidemux](https://avidemux.sourceforge.net) - Video editor designed for simple cutting, filtering and encoding tasks. 🪟 🍎 🐧
+- [Olive Video Editor](https://olivevideoeditor.org) - Non-linear video editor with powerful features and an intuitive interface. 🪟 🍎 🐧 [🟢](https://github.com/olive-editor/olive)
+- [Avidemux](https://avidemux.sourceforge.net) - Video editor designed for simple cutting, filtering and encoding tasks. 🪟 🍎 🐧 [🟢](https://github.com/mean00/avidemux2)
 - [lossless-cut](https://losslesscut.app) - Swiss army knife of lossless video/audio editing. 🪟 🍎 🐧 [🟢](https://github.com/mifi/lossless-cut)
 
 ### Video Players  
 
 - [PotPlayer](https://potplayer.daum.net) - Feature-rich video player with advanced playback options. 🪟 ⭐
-- [Clementine Player](https://clementine-player.org) - Music and video player with a user-friendly interface. 🪟 🍎 🐧
+- [Clementine Player](https://www.clementine-player.org) - Music and video player with a user-friendly interface. 🪟 🍎 🐧
 - [GOM Player](https://gomlab.com/gomplayer-media-player) - Popular media player with support for most video formats and customizable features. 🪟 🍎
 - [KMPlayer](https://kmplayer.com) - Media player supporting various video formats and streaming protocols. 🪟 🍎
 - [Kodi](https://kodi.tv) - Media center that allows you to play and view most videos, music, podcasts, and other digital media files. 🪟 🍎 🐧 🟢
@@ -555,7 +557,7 @@
 
 - [FFmpeg](https://ffmpeg.org) - Powerful tool for format conversion and multimedia editing. 🪟 🍎 🐧 🟢 ⭐ 
 - [Any Video Converter](https://any-video-converter.com) - Supports batch conversion and output to various formats. 🪟 🍎
-- [FastFlix](https://github.com/cdgriffith/FatFlix) - GUI for fast encoding with H.264, HEVC, and AV1 support. 🪟 🟢
+- [FastFlix](https://github.com/cdgriffith/FastFlix) - GUI for fast encoding with H.264, HEVC, and AV1 support. 🪟 🟢
 - [Format Factory](http://www.pcfreetime.com/formatfactory) - Converts video, audio, and images with customizable settings. 🪟
 - [HandBrake](https://handbrake.fr) - Video transcoder with preset profiles for device compatibility. 🪟 🍎 🐧 🟢
 - [Shutter Encoder](https://shutterencoder.com) - Supports video, audio, and image conversion with extra processing tools. 🪟 🍎
@@ -572,7 +574,7 @@
 - [OpenVPN](https://openvpn.net/community-downloads) - VPN solution for secure internet connections with customizable settings. 🪟 🟢
 - [Proxifier](https://proxifier.com) - Windows proxy client that routes applications via a proxy server. 🪟
 - [Psiphon](https://psiphon.ca) - VPN and proxy tool for bypassing censorship. 🪟 🍎
-- [SoftEther VPN](https://softether.org) - Multi-protocol VPN software for secure connections. 🪟 🟢
+- [SoftEther VPN](https://www.softether.org) - Multi-protocol VPN software for secure connections. 🪟 🟢
 - [Sing-box](https://github.com/SagerNet/sing-box) - Universal proxy platform supporting multiple protocols. 🪟 🍎 🐧 🟢
 - [Twingate](https://twingate.com) - Zero trust access for secure private network connections. 🪟 🍎 🐧
 - [v2rayN](https://github.com/2dust/v2rayN) - Open source GUI for Xray and Sing-box. 🪟 🍎 🐧 🟢
@@ -595,7 +597,6 @@
 - [Twinkle Tray](https://twinkletray.com) - Simple tool to manage brightness across multiple monitors. 🪟
 - [Winpower](https://github.com/Axorax/winpower) - Advanced power settings and management for Windows. 🪟 🟢
 - [Windterm](https://github.com/kingToolbox/WindTerm) - SSH/Telnet/Serial/Shell/Sftp client for DevOps.  🪟 🍎 🐧 🟢
-- [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Simulate different system regions and languages. 🪟 🟢
 - [UniGetUI](https://www.marticliment.com/unigetui) - UI for popular package managers like  Winget, NPM, and more. 🪟 [🟢](https://github.com/marticliment/UniGetUI)
 
 ### Clipboard Management
@@ -634,15 +635,15 @@
 - [Files](https://files.community/download) - Modern file manager for easy file organization. 🪟 [🟢](https://github.com/files-community/Files)
 - [Free Commander](https://freecommander.com/en/summary) - Alternative file manager with added features. 🪟
 - [FileZilla](https://filezilla-project.org) - Reliable FTP, FTPS, and SFTP client for remote management. 🪟 🍎 🐧
-- [Listary](https://listary.com) - Free file search tool & app launcher. 🪟
+- [Listary](https://www.listary.com) - Free file search tool & app launcher. 🪟
 - [Q-Dir](https://softwareok.com/?seite=Freeware/Q-Dir) - Multi-pane file manager with up to four directory views. 🪟
 - [WinSCP](https://winscp.net) - Easy-to-use SFTP, FTP, and WebDAV client. 🪟 🟢
 - [Xftp 7](https://netsarang.com/en/xftp) - Flexible SFTP/FTP client for efficient file transfers. 🪟
 
 ### Application Management
 
-- [Bulk Crap Uninstaller](https://bcuninstaller.com) - Powerful tool for uninstalling multiple applications and cleaning leftovers. 🪟 🟢 ⭐
-- [Revo Uninstaller](https://revouninstaller.com/revo-uninstaller-free-download) - Advanced uninstaller to remove programs and residual files with free tier. 🪟
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com) - Powerful tool for uninstalling multiple applications and cleaning leftovers. 🪟 🟢 ⭐
+- [Revo Uninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download) - Advanced uninstaller to remove programs and residual files with free tier. 🪟
 
 ### Screenshot
 

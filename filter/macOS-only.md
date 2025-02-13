@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Thursday, January 30, 2025 at 01:17:28 PM UTC -->
+<!-- AF-TOC : Thursday, February 13, 2025 at 02:47:54 PM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -165,7 +165,7 @@
 - [CanaryMail](https://canarymail.io) - Secure email app with PGP support and AI assistance. 🍎 🐧
 - [Edison Mail](https://mail.edison.tech/mac) - Customizable, intuitive email client with smart features. 🪟 🍎 🐧
 - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Electron-based desktop client for ProtonMail. 🪟 🍎 🐧 🟢
-- [Foxmail](https://www.foxmail.com/mac/en) - Fast, user-friendly email client. 🍎 🐧
+- [Foxmail](https://www.foxmail.com) - Fast, user-friendly email client. 🪟 🍎
 - [Mailspring](https://getmailspring.com) - Beautiful, fast email client. 🪟 🍎 🐧 🟢
 - [Nylas Mail](https://nylas.com/nylas-mail) - Extensible desktop email app based on web technologies. 🪟 🍎 🐧
 - [Postbox](https://postbox-inc.com) - Advanced email management with productivity focus. 🪟 🍎
@@ -249,7 +249,7 @@
 - [Unreal Engine](https://unrealengine.com) - Powerful, fully-featured game engine for high-quality 3D games. 🪟 🍎 🐧 ⭐
 - [Amazon Lumberyard](https://aws.amazon.com/lumberyard) - Free, cross-platform 3D game engine integrated with AWS and Twitch for multiplayer games. 🪟 🍎
 - [AppGameKit](https://appgamekit.com) - Flexible game engine for 2D and 3D games with simple scripting. 🪟 🍎 🐧
-- [Cocos2d](https://cocos.com/en) - Game engine for mobile and web games, focused on 2D games. 🪟 🍎 🐧 🟢
+- [Cocos2d](https://www.cocos.com/en) - Game engine for mobile and web games, focused on 2D games. 🪟 🍎 🐧 🟢
 - [Defold](https://defold.com) - Cross-platform 2D game engine with easy-to-use tools. 🪟 🍎 🐧
 - [Flixel](https://flixel.org) - 2D engine built with Haxe, suitable for platformers and action games. 🪟 🍎 🐧 🟢
 - [GDevelop](https://gdevelop.io) - No-code engine for creating 2D games with a visual event system. 🪟 🍎 🐧
@@ -304,7 +304,7 @@
 - [Koodo Reader](https://koodoreader.com/en) - EBook reader supporting 15+ formats. 🪟 🍎 🐧 [🟢](https://github.com/koodo-reader/koodo-reader)
 - [Naps2](https://naps2.com) - Scan documents to PDF and more, as simply as possible. 🪟 🍎 🐧 [🟢](https://github.com/cyanfish/naps2)
 - [Readest](https://readest.com) - Cross-platform eBook reader with tools. 🪟 🍎 🐧 [🟢](https://github.com/readest/readest)
-- [Scribus](https://scribus.net) - Layout and publishing software. 🪟 🍎 🐧 [🟢](https://github.com/scribusproject/scribus)
+- [Scribus](https://www.scribus.net) - Layout and publishing software. 🪟 🍎 🐧 [🟢](https://github.com/scribusproject/scribus)
 - [Sigil](https://sigil-ebook.com) - EPUB editor. 🪟 🍎 🐧 [🟢](https://github.com/Sigil-Ebook/Sigil)
 - [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12) - Reader for PDF, CBZ, and CBR formats. 🍎
 
@@ -315,6 +315,7 @@
 - [Skim](https://skim-app.sourceforge.io) - PDF viewer for annotation. 🍎 [🟢](https://github.com/JackieXie168/skim)
 - [Xournal++](https://xournalpp.github.io) - Handwriting and annotation tool for PDFs. 🪟 🍎 🐧 [🟢](https://github.com/xournalpp/xournalpp)
 - [PDFGear](https://www.pdfgear.com) - Read, edit, convert, merge, and sign PDF files across devices. 🪟 🍎
+- [PDFsam](https://pdfsam.org) - Extract pages, split, merge, mix and rotate PDF files. 🪟 🍎 🐧 [🟢](https://github.com/torakiki/pdfsam)
 
 ## Note Taking
 
@@ -358,11 +359,11 @@
 ## Download Managers
 
 - [Free Download Manager](https://freedownloadmanager.org) - Modern download accelerator. 🪟 🍎 🐧 ⭐
-- [Aria2](https://aria2.github.io) - Lightweight, command-line download utility supporting multiple protocols. 🪟 🍎 🐧 🟢
-- [JDownloader](https://jdownloader.org) - Popular download manager. 🪟 🍎 🐧 🟢
-- [Motrix](https://motrix.app) - Simple and clean download manager with cross-platform support. 🪟 🍎 🐧 🟢
-- [Persepolis Download Manager](https://persepolisdm.github.io) - GUI for Aria2, providing an intuitive interface. 🪟 🍎 🐧 🟢
-- [Xtreme Download Manager (XDM)](https://xtremedownloadmanager.com) - Powerful tool to increase download speed. 🪟 🍎 🐧 🟢 
+- [Aria2](https://aria2.github.io) - Lightweight, command-line download utility supporting multiple protocols. 🪟 🍎 🐧 [🟢](https://github.com/aria2/aria2)
+- [JDownloader](https://jdownloader.org) - Popular download manager. 🪟 🍎 🐧 [🟢](https://support.jdownloader.org/en/knowledgebase/article/setup-ide-eclipse)
+- [Motrix](https://motrix.app) - Simple and clean download manager with cross-platform support. 🪟 🍎 🐧 [🟢](https://github.com/agalwood/Motrix)
+- [Persepolis Download Manager](https://persepolisdm.github.io) - GUI for Aria2, providing an intuitive interface. 🪟 🍎 🐧 [🟢](https://github.com/persepolisdm/persepolis)
+- [Xtreme Download Manager (XDM)](https://xtremedownloadmanager.com) - Powerful tool to increase download speed. 🪟 🍎 🐧 [🟢](https://github.com/subhra74/xdm)
 
 ## Games
 
@@ -370,24 +371,25 @@
 - [Battle.net](https://blizzard.com/en-us/apps/battle.net/desktop) - Platform for Blizzard games. 🪟 🍎
 - [Epic Games Store](https://epicgames.com/store/en-US) - Platform for exclusive and free games. 🪟 🍎
 - [GOG Galaxy](https://gog.com/galaxy) - DRM-free games and library management. 🪟 🍎
+- [Heroic Games Launcher](https://heroicgameslauncher.com) - Launcher for Epic, GOG. 🪟 🍎 🐧 [🟢](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 - [Itch.io](https://itch.io/app) - Marketplace for indie games. 🪟 🍎 🐧
 - [Origin](https://origin.com) - EA game launcher. 🪟 🍎
 - [Riot Client](https://riotgames.com/en) - Launcher for League of Legends and more. 🪟 🍎
 - [Porting Kit](https://portingkit.com) - Install Windows games on Mac. 🍎
 - [Ubisoft Connect](https://ubisoftconnect.com) - Game launcher for Ubisoft titles. 🪟 🍎
 
-### Cloud Gaming  
+### Cloud Gaming
 
-- [Antstream Arcade](https://antstream.com) - Free tier with retro games playable via the cloud. 🪟 🍎 🐧
+- [Antstream Arcade](https://www.antstream.com) - Free tier with retro games playable via the cloud. 🪟 🍎 🐧
 - [Boosteroid](https://boosteroid.com) - Free plan available for limited game streaming. 🪟 🍎 🐧
-- [NVIDIA GeForce NOW](https://nvidia.com/en-us/geforce-now) - Free tier for streaming supported games from the cloud. 🪟 🍎 🐧
-- [Xbox Cloud Gaming](https://xbox.com/en-US/play) - Free trial with limited titles via the cloud. 🪟 🍎
+- [NVIDIA GeForce NOW](https://www.nvidia.com/en-us/geforce-now) - Free tier for streaming supported games from the cloud. 🪟 🍎 🐧
+- [Xbox Cloud Gaming](https://www.xbox.com/en-US/play) - Free trial with limited titles via the cloud. 🪟 🍎
 
-## Mobile Emulators  
+## Mobile Emulators
 
-- [BlueStacks](https://bluestacks.com) - Android emulator for playing mobile games on PC. 🪟 🍎 ⭐
-- [Andy](https://andyroid.net) - Android emulator to run mobile games and apps on PC. 🪟 🍎
-- [Genymotion](https://genymotion.com) - Android emulator with advanced features for developers and gamers. 🪟 🍎
+- [BlueStacks](https://www.bluestacks.com) - Android emulator for playing mobile games on PC. 🪟 🍎 ⭐
+- [Andy](https://www.andyroid.net) - Android emulator to run mobile games and apps on PC. 🪟 🍎
+- [Genymotion](https://genymotion.com) - Android emulator with advanced features for developers and gamers. 🪟 🍎 🐧
 - [NoxPlayer](https://bignox.com) - Android emulator optimized for mobile gaming on desktop. 🪟 🍎
 
 ## Other Emulators
@@ -444,7 +446,7 @@
 - [Avast](https://avast.com/free-antivirus-download) - Antivirus to help detect and isolate potential cyberthreats. 🪟 🍎 🐧
 - [AVG Antivirus](https://avg.com/en-us/free-antivirus-download) - Free antivirus software to protect against viruses, malware, and spyware. 🪟 🍎
 - [Bitdefender](https://bitdefender.com/solutions/free.html) - Lightweight and powerful antivirus for essential protection. 🪟 🍎
-- [ClamAV](https://clamav.net) - Antivirus engine for detecting malware, viruses, and other threats. 🪟 🍎 🐧 🟢
+- [ClamAV](https://www.clamav.net) - Antivirus engine for detecting malware, viruses, and other threats. 🪟 🍎 🐧 🟢
 - [Malwarebytes](https://malwarebytes.com) - Malware removal tool offering real-time protection and cleanup. 🪟 🍎
 
 ### Password Managers
@@ -473,27 +475,27 @@
 - [Steam Link](https://apps.apple.com/us/app/steam-link/id1246969117) - Play your Steam games across devices using the Steam Link app. 🪟 🍎 🐧
 - [Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game streaming server for use with Moonlight. 🪟 🍎 🐧 🟢
 - [TeamViewer](https://teamviewer.com/en) - Popular remote control software for desktop sharing and file transfer. 🪟 🍎 🐧
+- [RemSupp](https://remsupp.com) - Simple remote desktop. 🪟 🍎 🐧
 
 ## Video
 
 - [FreeTube](https://freetubeapp.io) - Private YouTube client with no ads. 🪟 🍎 🐧
 
-### Video Editors  
+### Video Editors
 
 - [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve) - Professional video editor with advanced color correction and effects. 🪟 🍎 🐧 ⭐
 - [Capcut Desktop](https://capcut.com/tools/desktop-video-editor) - Simple video editor with many builtin effects. 🪟 🍎
-- [Shotcut](https://shotcut.org) - Video editor with a wide range of features. 🪟 🍎 🐧 🟢
-- [OpenShot](https://openshot.org) - Easy-to-use video editor with support for multiple video tracks. 🪟 🍎 🐧 🟢
-- [Kdenlive](https://kdenlive.org/en) - Video editor with multi-track editing and a powerful interface. 🪟 🍎 🐧 🟢
+- [Shotcut](https://shotcut.org) - Video editor with a wide range of features. 🪟 🍎 🐧 [🟢](https://github.com/mltframework/shotcut)
+- [OpenShot](https://openshot.org) - Easy-to-use video editor with support for multiple video tracks. 🪟 🍎 🐧 [🟢](https://github.com/OpenShot/openshot-qt)
+- [Kdenlive](https://kdenlive.org/en) - Video editor with multi-track editing and a powerful interface. 🪟 🍎 🐧 [🟢](https://github.com/KDE/kdenlive)
 - [Lightworks](https://lwks.com) - Professional video editor with advanced features for filmmaking. 🪟 🍎 🐧
-- [HitFilm Express](https://fxhome.com/product/hitfilm-express) - Feature-packed video editor with visual effects and compositing tools. 🪟 🍎
-- [Olive Video Editor](https://olivevideoeditor.org) - Non-linear video editor with powerful features and an intuitive interface. 🪟 🍎 🐧 🟢
-- [Avidemux](https://avidemux.sourceforge.net) - Video editor designed for simple cutting, filtering and encoding tasks. 🪟 🍎 🐧
+- [Olive Video Editor](https://olivevideoeditor.org) - Non-linear video editor with powerful features and an intuitive interface. 🪟 🍎 🐧 [🟢](https://github.com/olive-editor/olive)
+- [Avidemux](https://avidemux.sourceforge.net) - Video editor designed for simple cutting, filtering and encoding tasks. 🪟 🍎 🐧 [🟢](https://github.com/mean00/avidemux2)
 - [lossless-cut](https://losslesscut.app) - Swiss army knife of lossless video/audio editing. 🪟 🍎 🐧 [🟢](https://github.com/mifi/lossless-cut)
 
 ### Video Players  
 
-- [Clementine Player](https://clementine-player.org) - Music and video player with a user-friendly interface. 🪟 🍎 🐧
+- [Clementine Player](https://www.clementine-player.org) - Music and video player with a user-friendly interface. 🪟 🍎 🐧
 - [GOM Player](https://gomlab.com/gomplayer-media-player) - Popular media player with support for most video formats and customizable features. 🪟 🍎
 - [IINA](https://iina.io) - Media player that claims to perform better than VLC. 🍎 🟢
 - [KMPlayer](https://kmplayer.com) - Media player supporting various video formats and streaming protocols. 🪟 🍎
