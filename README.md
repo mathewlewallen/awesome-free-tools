@@ -611,7 +611,7 @@
 
 - [FFmpeg](https://ffmpeg.org) - Powerful tool for format conversion and multimedia editing. 🪟 🍎 🐧 🟢 ⭐ 
 - [Any Video Converter](https://any-video-converter.com) - Supports batch conversion and output to various formats. 🪟 🍎
-- [FastFlix](https://github.com/cdgriffith/FatFlix) - GUI for fast encoding with H.264, HEVC, and AV1 support. 🪟 🟢
+- [FastFlix](https://github.com/cdgriffith/FastFlix) - GUI for fast encoding with H.264, HEVC, and AV1 support. 🪟 🟢
 - [Format Factory](http://www.pcfreetime.com/formatfactory) - Converts video, audio, and images with customizable settings. 🪟
 - [HandBrake](https://handbrake.fr) - Video transcoder with preset profiles for device compatibility. 🪟 🍎 🐧 🟢
 - [Shutter Encoder](https://shutterencoder.com) - Supports video, audio, and image conversion with extra processing tools. 🪟 🍎
