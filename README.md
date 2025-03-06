@@ -687,7 +687,7 @@
 - [AltSnap](https://github.com/RamonUnch/AltSnap) - Snap windows to positions using keyboard shortcuts. 🪟 🟢
 - [AquaSnap](https://nurgo-software.com/products/aquasnap) - Window snapping, docking, and stretching features. 🪟
 - [GlazeWM](https://github.com/glzr-io/glazewm) - Tiling window manager inspired by i3. 🪟 🟢
-- [i3](https://i3wm.org) - Keyboard-driven tiling window manager. 🐧
+- [i3](https://i3wm.org) - Keyboard-driven tiling window manager. 🐧 [🟢](https://github.com/i3/i3)
 - [KDE Mover-Sizer](https://corz.org/windows/software/accessories/KDE-resizing-moving-for-Windows.php#section-Download) - Move and resize windows like in Linux. 🪟
 - [KWin](https://kde.org/plasma-desktop) - Tiling window manager with advanced features. 🐧
 - [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12) - Snap windows into organized tiles. 🍎
