@@ -641,7 +641,7 @@
 
 ## Utility
 
-- [AutoHotkey](https://autohotkey.com) - Scripting language for task automation and custom hotkeys. 🪟 ⭐ 
+- [AutoHotkey](https://autohotkey.com) - Scripting language for task automation and custom hotkeys. 🪟 [🟢](https://github.com/AutoHotkey/AutoHotkey) ⭐
 - [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys) - Utilities for file renaming, resizing, and productivity tools. 🪟 ⭐ 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line tool for downloading audio and video. 🪟 🍎 🐧 🟢 ⭐
 - [Advanced IP Scanner](https://advanced-ip-scanner.com) - Network scanner for detecting and analyzing devices on LAN. 🪟
