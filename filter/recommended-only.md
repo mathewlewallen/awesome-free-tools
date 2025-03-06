@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Thursday, February 13, 2025 at 02:47:54 PM UTC -->
+<!-- AF-TOC : Thursday, March 6, 2025 at 01:41:52 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -250,26 +250,26 @@
 
 - [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve) - Professional video editor with advanced color correction and effects. 🪟 🍎 🐧 ⭐
 
-### Video Players  
+### Video Players
 
 - [PotPlayer](https://potplayer.daum.net) - Feature-rich video player with advanced playback options. 🪟 ⭐
 
-### Video Streaming and Recording  
+### Video Streaming and Recording
 
-- [OBS Studio](https://obsproject.com) - Software for live streaming and recording video. 🪟 🍎 🐧 🟢 ⭐ 
+- [OBS Studio](https://obsproject.com) - Software for live streaming and recording video. 🪟 🍎 🐧 🟢 ⭐
 
-### Video Converters and Compressors  
+### Video Converters and Compressors
 
-- [FFmpeg](https://ffmpeg.org) - Powerful tool for format conversion and multimedia editing. 🪟 🍎 🐧 🟢 ⭐ 
+- [FFmpeg](https://ffmpeg.org) - Powerful tool for format conversion and multimedia editing. 🪟 🍎 🐧 🟢 ⭐
 
 ## VPN and Proxy Tools
 
 
 ## Utility
 
-- [AutoHotkey](https://autohotkey.com) - Scripting language for task automation and custom hotkeys. 🪟 ⭐ 
-- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys) - Utilities for file renaming, resizing, and productivity tools. 🪟 ⭐ 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line tool for downloading audio and video. 🪟 🍎 🐧 🟢 ⭐
+- [AutoHotkey](https://autohotkey.com) - Scripting language for task automation and custom hotkeys. 🪟 [🟢](https://github.com/AutoHotkey/AutoHotkey) ⭐
+- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys) - Utilities for file renaming, resizing, and productivity tools. 🪟 [🟢](https://github.com/microsoft/PowerToys) ⭐
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line tool for downloading audio and video. 🪟 🍎 🐧 [🟢](https://github.com/yt-dlp/yt-dlp) ⭐
 
 ### Clipboard Management
 
@@ -286,7 +286,7 @@
 
 ### File Management
 
-- [Everything](https://voidtools.com) - Fast file search tool indexing the entire file system. 🪟 ⭐ 
+- [Everything](https://voidtools.com) - Fast file search tool indexing the entire file system. 🪟 ⭐
 
 ### Application Management
 
