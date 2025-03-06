@@ -699,7 +699,7 @@
 
 ### File Management
 
-- [Everything](https://voidtools.com) - Fast file search tool indexing the entire file system. 🪟 ⭐ 
+- [Everything](https://voidtools.com) - Fast file search tool indexing the entire file system. 🪟 ⭐
 - [Double Commander](https://doublecmd.sourceforge.io) - Dual-pane manager with built-in editor and advanced search. 🪟 🍎 🐧
 - [Far Manager](https://farmanager.com) - File and archive manager with advanced functionality. 🪟
 - [Files](https://files.community/download) - Modern file manager for easy file organization. 🪟 [🟢](https://github.com/files-community/Files)
@@ -719,7 +719,7 @@
 
 - [ShareX](https://getsharex.com) - Powerful screenshot and screen recording tool with advanced editing options. 🪟 🟢 ⭐
 - [Capter](https://github.com/decipher3114/Capter) - Super simple screenshot tool. 🪟 🍎 🟢
-- [Flameshot](https://flameshot.org) - Customizable screenshot tool with an easy-to-use interface and built-in editor. 🐧 🪟 🍎
+- [Flameshot](https://flameshot.org) - Customizable screenshot tool with an easy-to-use interface and built-in editor. 🪟 🍎 🐧 [🟢](https://github.com/flameshot-org/flameshot)
 - [Greenshot](https://getgreenshot.org) - Screenshot tool for Windows that allows capturing, annotating, and editing screenshots. 🪟 🟢
 - [Lightshot](https://app.prntscr.com/en/index.html) - Fast and intuitive screenshot tool that allows capturing and editing images instantly. 🪟 🍎
 - [Monosnap](https://monosnap.com) - Simple screenshot tool that includes cloud integration for easy sharing. 🪟 🍎
