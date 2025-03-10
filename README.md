@@ -533,6 +533,7 @@
 - [NordPass](https://nordpass.com) - Secure password manager with autofill and password health insights. 🪟 🍎 🐧
 - [Passbolt](https://passbolt.com) - Team-oriented password manager for sharing and storing passwords securely. 🪟 🍎 🐧 🟢
 - [RoboForm](https://roboform.com) - Password manager and form filler with multi-platform synchronization. 🪟 🍎 🐧
+- [ProtonPass](https://proton.me/pass) - Free password manager with end-to-end encryption based in Switzerland. 🪟 🍎 🐧 [🟢](https://github.com/protonpass)
 
 ## Image Viewers
 
