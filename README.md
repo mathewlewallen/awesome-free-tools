@@ -267,6 +267,7 @@
 - [Mockoon](https://mockoon.com) - Desktop tool for creating and testing mock REST APIs. 🪟 🍎 🐧 [🟢](https://github.com/mockoon/mockoon)
 - [SoapUI Open Source](https://soapui.org) - For testing REST and SOAP APIs with scripting support. 🪟 🍎 🐧 [🟢](https://github.com/SmartBear/soapui)
 - [Paw](https://paw.cloud) - Advanced HTTP client. 🍎
+- [Yaak](https://yaak.app) - An offline and Git friendly API tester for HTTP, GraphQL, WebSockets, SSE, and gRPC. 🪟 🍎 🐧 [🟢](https://github.com/mountain-loop/yaak)
 
 ### Database
 
