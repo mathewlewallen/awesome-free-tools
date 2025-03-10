@@ -589,7 +589,6 @@
 - [RealPlayer](https://real.com) - Versatile media player for playing videos and streaming. 🪟 🍎
 - [Stremio](https://stremio.com) - Provides a secure, modern and seamless entertainment experience. 🪟 🍎 🐧
 - [ScreenBox](https://apps.microsoft.com/detail/9ntsnmsvcb5l?hl=en-US&gl=US) - Basically VLC but with a modern UI. 🪟
-- [ScreenToGif](https://screentogif.com) - Screen recording software that allows you to capture GIFs and videos with customizable export options. 🪟
 - [SMPlayer](https://sourceforge.net/projects/smplayer) - Media player with the ability to remember playback settings and support for various video formats. 🪟 🍎 🐧
 - [Videotape](https://usuaia.com/videotape) - Simple and minimalist video player for quick playback of local video files. 🪟
 - [VLC Media Player](https://videolan.org/vlc) - Media player supporting almost all video formats. 🪟 🍎 🐧 🟢
