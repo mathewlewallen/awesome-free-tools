@@ -1,0 +1,13 @@
+name: Tests Status
+on:
+  workflow_run:
+    workflows: ["Awesome Lint", "Build Category"]
+    types:
+      - completed
+jobs:
+  check:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: All required checks passed
+        run: echo "✅ All workflows passed"

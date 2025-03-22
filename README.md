@@ -1,6 +1,7 @@
 <div align="center">
 
 # Awesome Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a id="top"></a>
 <!-- Badges: Start -->
   <img src="https://img.shields.io/badge/PRs-Welcome-2e3359" alt="PRs WelcomeBadge" />
   <img src="https://img.shields.io/badge/Made%20for-Everyone-2e3359" alt="Made for Everyone Badge" />
@@ -8,6 +9,7 @@
 </div>
 <br/>
 <div align="center">
+  <img src="https://github.com/mathewlewallen/awesome-tools/actions/workflows/tests.yml/badge.svg" alt="All Tests Status" />
   <img src="https://img.shields.io/github/stars/mathewlewallen/awesome-tools?style=social" alt="GitHub Stars for Awesome Tools" />
   <img src="https://img.shields.io/github/contributors/mathewlewallen/awesome-tools" alt="GitHub Contributors for Awesome Tools" />
   <img src="https://img.shields.io/github/last-commit/mathewlewallen/awesome-tools" alt="GitHub Last Commit for Awesome Tools" />
@@ -16,13 +18,15 @@
 </div>
 <!-- Badges: End -->
 
-## Contents
+---
+<br/>
 
-- [✅ Completely Free (Hosted, No Limits)](#-completely-free-hosted-no-limits)
-- [💸 Extremely Cheap Tools (Flat Rate or Low Monthly)](#-extremely-cheap-tools-flat-rate-or-low-monthly)
-- [🧪 Free with Generous Tier](#-free-with-generous-tier)
-- [🛠️ Free to Self-Host](#️-free-to-self-host)
-- [❤️ Support](#️-support)
+- [Awesome Tools](#awesome-tools)
+  - [✅ Completely Free (Hosted, No Limits)](#-completely-free-hosted-no-limits)
+  - [💸 Extremely Cheap Tools (Flat Rate or Low Monthly)](#-extremely-cheap-tools-flat-rate-or-low-monthly)
+  - [🧪 Free with Generous Tier](#-free-with-generous-tier)
+  - [🛠️ Free to Self-Host](#️-free-to-self-host)
+  - [❤️ Support](#️-support)
 
 Every tool in this list is easy to integrate into any application. Therefore, the lists are separated by their pricing tiers. Please see [category.md](category.md) for a list sorted by categories.
 
@@ -40,7 +44,6 @@ Every tool in this list is easy to integrate into any application. Therefore, th
 
 ---
 <br/>
-<a id="free-hosted-no-limits"></a>
 
 ## ✅ Completely Free (Hosted, No Limits)
 
@@ -54,7 +57,6 @@ Site           | Category     | Description
 [Slack GitHub Action] | `DevOps` | Sends deploy, PR, or error notifications directly to your Slack.
 
 ---
-<a id="extremely-cheap-tools"></a>
 
 ## 💸 Extremely Cheap Tools (Flat Rate or Low Monthly)
 
@@ -66,7 +68,6 @@ Site          | Category     | Description
 [Instatus]    | `Status Page`  | Starts at $15/mo for hosted status pages.
 
 ---
-<a id="free-with-generous-tier"></a>
 
 ## 🧪 Free with Generous Tier
 
@@ -84,7 +85,6 @@ Site               | Category     | Description
 [Plausible Cloud]  | `Analytics`    | Free for sites under 10k monthly page views.
 
 ---
-<a id="free-to-self-host"></a>
 
 ## 🛠️ Free to Self-Host
 
@@ -123,7 +123,7 @@ Site             | Category     | Description
 >
 > If you want to become a maintainer, [then do so here.](https://github.com/mathewlewallen/awesome-tools/issues/1)
 
-[↑ Back to Top](#contents)
+[↑ Back to Top](#top)
 
 ---
 

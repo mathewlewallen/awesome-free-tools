@@ -1,4 +1,4 @@
-name: Build Category File
+name: Build Category
 
 on:
   workflow_dispatch:

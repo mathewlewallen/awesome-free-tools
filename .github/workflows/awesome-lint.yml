@@ -1,5 +1,5 @@
 
-name: Lint Awesome Tools Markdown
+name: Awesome Lint
 on:
   push:
     branches: [main]
