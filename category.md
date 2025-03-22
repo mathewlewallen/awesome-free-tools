@@ -1,6 +1,7 @@
 <div align="center">
 
 # Awesome Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a id="top"></a>
 <!-- Badges: Start -->
   <img src="https://img.shields.io/badge/PRs-Welcome-2e3359" alt="PRs WelcomeBadge" />
   <img src="https://img.shields.io/badge/Made%20for-Everyone-2e3359" alt="Made for Everyone Badge" />
@@ -8,6 +9,7 @@
 </div>
 <br/>
 <div align="center">
+  <img src="https://github.com/mathewlewallen/awesome-tools/actions/workflows/tests.yml/badge.svg" alt="All Tests Status" />
   <img src="https://img.shields.io/github/stars/mathewlewallen/awesome-tools?style=social" alt="GitHub Stars for Awesome Tools" />
   <img src="https://img.shields.io/github/contributors/mathewlewallen/awesome-tools" alt="GitHub Contributors for Awesome Tools" />
   <img src="https://img.shields.io/github/last-commit/mathewlewallen/awesome-tools" alt="GitHub Last Commit for Awesome Tools" />
