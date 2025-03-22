@@ -18,13 +18,11 @@
 
 ## Contents
 
-- [Awesome Tools ](#awesome-tools-)
-  - [Contents](#contents)
-  - [✅ Completely Free (Hosted, No Limits)](#-completely-free-hosted-no-limits)
-  - [💸 Extremely Cheap Tools (Flat Rate or Low Monthly)](#-extremely-cheap-tools-flat-rate-or-low-monthly)
-  - [🧪 Free with Generous Tier](#-free-with-generous-tier)
-  - [🛠️ Free to Self-Host](#️-free-to-self-host)
-  - [❤️ Support](#️-support)
+- [✅ Completely Free (Hosted, No Limits)](#-completely-free-hosted-no-limits)
+- [💸 Extremely Cheap Tools (Flat Rate or Low Monthly)](#-extremely-cheap-tools-flat-rate-or-low-monthly)
+- [🧪 Free with Generous Tier](#-free-with-generous-tier)
+- [🛠️ Free to Self-Host](#️-free-to-self-host)
+- [❤️ Support](#️-support)
 
 Every tool in this list is easy to integrate into any application. Therefore, the lists are separated by their pricing tiers. Please see [category.md](category.md) for a list sorted by categories.
 
@@ -55,8 +53,6 @@ Site           | Category     | Description
 [Calendly Embed] | `Scheduling` | Add meeting scheduling links or inline widgets with no backend.
 [Slack GitHub Action] | `DevOps` | Sends deploy, PR, or error notifications directly to your Slack.
 
-[↑ Back to Top](#contents)
-
 ---
 <a id="extremely-cheap-tools"></a>
 
@@ -68,8 +64,6 @@ Site          | Category     | Description
 [Bannerbear]  | `Media`        | Starts at $49/mo, auto-generates marketing/social images.
 [Buttondown]  | `Email`        | From $9/mo for newsletters, built-in analytics, and APIs.
 [Instatus]    | `Status Page`  | Starts at $15/mo for hosted status pages.
-
-[↑ Back to Top](#contents)
 
 ---
 <a id="free-with-generous-tier"></a>
@@ -88,8 +82,6 @@ Site               | Category     | Description
 [Stripe]           | `Billing`      | No platform fee, pay only transaction costs.
 [LemonSqueezy]     | `Billing`      | Free until you earn revenue (fees only on transactions).
 [Plausible Cloud]  | `Analytics`    | Free for sites under 10k monthly page views.
-
-[↑ Back to Top](#contents)
 
 ---
 <a id="free-to-self-host"></a>
@@ -114,8 +106,6 @@ Site             | Category     | Description
 [n8n]            | `Automation`   | Zapier-style automation platform, fully open source.
 [ELK Stack]      | `Logging`      | Elasticsearch, Logstash, and Kibana logging pipeline.
 [Fathom Lite]    | `Analytics`    | Lightweight, privacy-first website analytics.
-
-[↑ Back to Top](#contents)
 
 ---
 <a id="support"></a>
