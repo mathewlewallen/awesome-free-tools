@@ -1,32 +1,29 @@
-<div align="center">
+# Awesome Tools
+> A curated list of free (or extremely cheap) tools that are developer-friendly and easy to integrate to any application.
 
-# Awesome Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<a id="top"></a>
-<!-- Badges: Start -->
-  <img src="https://img.shields.io/badge/PRs-Welcome-2e3359" alt="PRs WelcomeBadge" />
-  <img src="https://img.shields.io/badge/Made%20for-Everyone-2e3359" alt="Made for Everyone Badge" />
-  <img src="https://img.shields.io/badge/open%20source-%E2%9C%94-2e3359" alt="Open Source Badge" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github.com/mathewlewallen/awesome-tools/actions/workflows/tests.yml/badge.svg" alt="All Tests Status" />
-  <img src="https://img.shields.io/github/stars/mathewlewallen/awesome-tools?style=social" alt="GitHub Stars for Awesome Tools" />
-  <img src="https://img.shields.io/github/contributors/mathewlewallen/awesome-tools" alt="GitHub Contributors for Awesome Tools" />
-  <img src="https://img.shields.io/github/last-commit/mathewlewallen/awesome-tools" alt="GitHub Last Commit for Awesome Tools" />
-  <img src="https://img.shields.io/github/license/mathewlewallen/awesome-tools?tab=CC0-1.0-1-ov-file" alt="GitHub License for Awesome Tools" />
-  <img src="https://img.shields.io/badge/status-active-success" alt="Active Status Badge" />
-</div>
-<!-- Badges: End -->
+![Awesome](https://awesome.re/badge.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-2e3359) ![Made for Everyone](https://img.shields.io/badge/Made%20for-Everyone-2e3359) ![Open Source](https://img.shields.io/badge/open%20source-%E2%9C%94-2e3359)  
+
+![Active Status](https://img.shields.io/badge/status-active-success)
+![Tests](https://github.com/mathewlewallen/awesome-tools/actions/workflows/tests.yml/badge.svg) ![Last Commit](https://img.shields.io/github/last-commit/mathewlewallen/awesome-tools) ![License](https://img.shields.io/github/license/mathewlewallen/awesome-tools?tab=CC0-1.0-1-ov-file)  
+
+![GitHub Stars](https://img.shields.io/github/stars/mathewlewallen/awesome-tools?style=social) ![Contributors](https://img.shields.io/github/contributors/mathewlewallen/awesome-tools) [![Follow on X](https://img.shields.io/badge/X-%40cloud_context_-blue?logo=x)](https://x.com/cloud_context_) [![Follow on Reddit](https://img.shields.io/badge/reddit-cloud_context_-orange?logo=reddit)](https://www.reddit.com/user/Cloud_Context) [![View on Product Hunt](https://img.shields.io/badge/Product%20Hunt-Cloud%20Context-DA552F?logo=producthunt&logoColor=white)](https://www.producthunt.com/@cloudcontext) [![Join Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/5QzMemJn) [![Sponsor on Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-yellow)](https://buymeacoffee.com/mathewlewallen)
+
 
 ---
-<br/>
+
+## Contents
 
 - [Awesome Tools](#awesome-tools)
   - [Completely Free (Hosted, No Limits)](#completely-free-hosted-no-limits)
   - [Extremely Cheap Tools (Flat Rate or Low Monthly)](#extremely-cheap-tools-flat-rate-or-low-monthly)
   - [Free with Generous Tier](#free-with-generous-tier)
   - [Free to Self-Host](#free-to-self-host)
-  - [Support](#support-)
+  - [Support](#support)
+  - [Project Badges](#project-badges)
+    - [GitHub Metadata](#github-metadata)
+    - [Project Health](#project-health)
+    - [Community & Support](#community--support)
+    - [Socials](#socials)
 
 
 Every tool in this list is easy to integrate into any application. Therefore, the lists are separated by their pricing tiers. Please see [category.md](category.md) for a list sorted by categories.
@@ -124,6 +121,51 @@ Site             | Category     | Description
 > If you want to become a maintainer, [then do so here.](https://github.com/mathewlewallen/awesome-tools/issues/1)
 
 [↑ Back to Top](#top)
+
+---
+
+## Project Badges
+
+### GitHub Metadata
+
+![GitHub Stars](https://img.shields.io/github/stars/mathewlewallen/awesome-tools?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/mathewlewallen/awesome-tools?style=social)
+![GitHub Watchers](https://img.shields.io/github/watchers/mathewlewallen/awesome-tools?style=social)
+![GitHub Contributors](https://img.shields.io/github/contributors/mathewlewallen/awesome-tools)
+![Last Commit](https://img.shields.io/github/last-commit/mathewlewallen/awesome-tools)
+![Repo Size](https://img.shields.io/github/repo-size/mathewlewallen/awesome-tools)
+![License](https://img.shields.io/github/license/mathewlewallen/awesome-tools)
+![Code Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
+![Built With](https://img.shields.io/badge/Built_with-Markdown-1f425f.svg)
+![Awesome Badge](https://awesome.re/badge.svg)
+
+### Project Health
+
+![Tests](https://github.com/mathewlewallen/awesome-tools/actions/workflows/tests.yml/badge.svg)
+![Awesome Lint](https://github.com/mathewlewallen/awesome-tools/actions/workflows/awesome-lint.yml/badge.svg)
+![Build Category](https://github.com/mathewlewallen/awesome-tools/actions/workflows/build-category.yml/badge.svg)
+![Issues](https://img.shields.io/github/issues/mathewlewallen/awesome-tools)
+![Closed Issues](https://img.shields.io/github/issues-closed/mathewlewallen/awesome-tools)
+![Pull Requests](https://img.shields.io/github/issues-pr/mathewlewallen/awesome-tools)
+
+
+### Community & Support
+
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-2e3359)
+![Made for Everyone](https://img.shields.io/badge/Made%20for-Everyone-2e3359)
+![Active Status](https://img.shields.io/badge/status-active-success)
+![Help Wanted](https://img.shields.io/badge/help%20wanted-yes-yellow)
+
+### Socials
+
+[![Follow on X](https://img.shields.io/badge/X-%40cloud_context_-blue?logo=x)](https://x.com/cloud_context_)
+[![Follow on Reddit](https://img.shields.io/badge/reddit-cloud_context_-orange?logo=reddit)](https://www.reddit.com/user/Cloud_Context)
+[![Join Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/5QzMemJn)
+[![Follow on Instagram](https://img.shields.io/badge/Instagram-%40cloud_context_-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/cloud_context_)
+[![Follow on GitHub](https://img.shields.io/badge/GitHub-%40mathewlewallen-181717?logo=github)](https://github.com/mathewlewallen)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-MathewLewallen-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathewlewallen/)
+[![View on Product Hunt](https://img.shields.io/badge/Product%20Hunt-Cloud%20Context-DA552F?logo=producthunt&logoColor=white)](https://www.producthunt.com/@cloudcontext)
+[![Sponsor on Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-yellow)](https://buymeacoffee.com/mathewlewallen)
 
 ---
 
