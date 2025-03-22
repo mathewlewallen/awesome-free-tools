@@ -20,13 +20,27 @@
   <img src="https://awesome.re/badge-flat2.svg" width="500" alt="Awesome Badge" />
 </div>
 <br/>
+
+## Contents
+
+- [Free: Hosted, No Limits](#free-hosted-no-limits)
+- [Extremely Cheap Tools](#extremely-cheap-tools)
+- [Free with Generous Tier](#free-with-generous-tier)
+- [Free to Self-Host](#free-to-self-host)
+- [Support](#support)
+
+Every tool in this list is easy to integrate into any application. Therefore, the lists are separated by their pricing tiers. If you are searching through categories, then `cntl+f`/`cmd+f` your category:
+
+`Security` `DevOps` `Scheduling` `Notifications` `Media` `Email` `Status Page` `Performance` `Monitoring` `Analytics` `Support` `Billing` `Feature Flags` `Localization` `CMS` `Automation` `Logging`
+
+---
 <div align="center">
 
 # Free, Cheap & <ins>**_Easy to Integrate_**</ins>
 
 </div>
 
-### **This is a curated list of tools that are:**
+### **This is a curated list of tools that are**
 
 - 🎯 Easy to integrate into **any app**
 
@@ -35,37 +49,6 @@
 - 🧩 Drop-in with minimal config (CLI, SDK, GitHub Action, etc.)
 
 - 🚀 Perfect for solo devs, MVPs, & indie hackers
-
----
-
-## Contents
-
-Every tool in this list is easy to integrate into any application. Therefore, the lists are separated by their pricing tiers. If you are searching through categories, then `cntl+f`/`cmd+f` your category:
-
-`Security` `DevOps` `Scheduling` `Notifications` `Media` `Email` `Status Page` `Performance` `Monitoring` `Analytics` `Support` `Billing` `Feature Flags` `Localization` `CMS` `Automation` `Logging`
-
-### Pricing Tiers
-
-- [Free: Hosted, No Limits](#free-hosted-no-limits)
-- [Extremely Cheap Tools](#extremely-cheap-tools)
-- [Free with Generous Tier](#free-with-generous-tier)
-- [Free to Self-Host](#free-to-self-host)
-
----
-
-## Support
-
-> [!IMPORTANT]
-> [<img src="logo.svg" align="right" height="200" alt="Cloud Context Logo">](http://www.cloudcontext.cc)
->
-> Maintaining this project requires a lot of time. [Donate to support me!](https://buymeacoffee.com/mathewlewallen) ❤️
->
-> I am just getting into Open Source, so please go check out my work:
-> [Github](https://github.com/mathewlewallen) - [Discord](https://discord.gg/5QzMemJn) — [X](https://x.com/cloud_context_) - [Reddit](https://www.reddit.com/user/Cloud_Context/)
->
-> Want to add something to the list? Check -> [contributing.md](contributing.md)
->
-> If you want to become a maintainer, [then do so here.](https://github.com/mathewlewallen/awesome-tools/issues/1)
 
 ---
 <br/>
@@ -138,6 +121,22 @@ Site             | Category     | Description
 [Fathom Lite]    | `Analytics`    | Lightweight, privacy-first website analytics.
 
 </div>
+
+---
+
+## Support
+
+> [!IMPORTANT]
+> [<img src="logo.svg" align="right" height="200" alt="Cloud Context Logo">](http://www.cloudcontext.cc)
+>
+> Maintaining this project requires a lot of time. [Donate to support me!](https://buymeacoffee.com/mathewlewallen) ❤️
+>
+> I am just getting into Open Source, so please go check out my work:
+> [Github](https://github.com/mathewlewallen) - [Discord](https://discord.gg/5QzMemJn) — [X](https://x.com/cloud_context_) - [Reddit](https://www.reddit.com/user/Cloud_Context/)
+>
+> Want to add something to the list? Check -> [contributing.md](contributing.md)
+>
+> If you want to become a maintainer, [then do so here.](https://github.com/mathewlewallen/awesome-tools/issues/1)
 
 ---
 
