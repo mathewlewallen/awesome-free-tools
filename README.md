@@ -1,8 +1,25 @@
+
 <p align="center">
-  <img src="./banner.png" width="auto" alt="Awesome Tools Banner" />
+  <img src="./banner.png" width="500" alt="Cloud Context Awesome Tools Banner" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-2e3359" />
+  <img src="https://img.shields.io/badge/Made%20for-Everyone-2e3359" />
+  <img src="https://img.shields.io/badge/open%20source-%E2%9C%94-2e3359" />
+  <img src="https://img.shields.io/badge/awesome-true-ff69b4" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/mathewlewallen/awesome-tools?style=social" />
+  <img src="https://img.shields.io/github/contributors/mathewlewallen/awesome-tools" />
+  <img src="https://img.shields.io/github/last-commit/mathewlewallen/awesome-tools" />
+  <img src="https://img.shields.io/github/license/mathewlewallen/awesome-tools" />
+  <img src="https://img.shields.io/badge/status-active-success" />
 </p>
 
-# Awesome Tools: Free, Cheap & <ins>**_Easy to Integrate_**</ins>
+<p align="center">
+  <img src="https://awesome.re/badge-flat2.svg" width="500" alt="Awesome"/>
+</p>
+
+---
+# Free, Cheap & <ins>**_Easy to Integrate_**</ins>
 
 A curated list of tools that are:
 - ✅ Easy to integrate into **any app**
