@@ -55,7 +55,7 @@ Every tool in this list is easy to integrate into any application. Therefore, th
 <div align="center">
 <a id="free-hosted-no-limits"></a>
 
-# ✅ Completely Free (Hosted, No Limits)
+## ✅ Completely Free (Hosted, No Limits)
 
 Site           | Category     | Description
 -------------- | ------------ | ------------------------------------------
@@ -69,7 +69,7 @@ Site           | Category     | Description
 ---
 <a id="extremely-cheap-tools"></a>
 
-# 💸 Extremely Cheap Tools (Flat Rate or Low Monthly)
+## 💸 Extremely Cheap Tools (Flat Rate or Low Monthly)
 
 Site          | Category     | Description
 ------------- | ------------ | ------------------------------------------
@@ -81,7 +81,7 @@ Site          | Category     | Description
 ---
 <a id="free-with-generous-tier"></a>
 
-# 🧪 Free with Generous Tier
+## 🧪 Free with Generous Tier
 
 Site               | Category     | Description
 ------------------ | ------------ | ------------------------------------------
@@ -99,7 +99,7 @@ Site               | Category     | Description
 ---
 <a id="free-to-self-host"></a>
 
-# 🛠️ Free to Self-Host
+## 🛠️ Free to Self-Host
 
 Site             | Category     | Description
 ---------------- | ------------ | ------------------------------------------
@@ -140,42 +140,42 @@ Site             | Category     | Description
 
 ---
 
-[Dependabot]: https://github.com/dependabot
-[CodeQL]: https://github.com/github/codeql-action
-[Socket.dev]: https://socket.dev
-[Turborepo Cache]: https://turbo.build/repo/docs/core-concepts/remote-caching
-[Calendly Embed]: https://help.calendly.com/hc/en-us/articles/223147027-Embed-options-overview
-[Slack GitHub Action]: https://github.com/marketplace/actions/slack-notify
+[dependabot]: https://github.com/dependabot
+[codeql]: https://github.com/github/codeql-action
+[socket.dev]: https://socket.dev
+[turborepo cache]: https://turbo.build/repo/docs/core-concepts/remote-caching
+[calendly embed]: https://help.calendly.com/hc/en-us/articles/223147027-Embed-options-overview
+[slack github action]: https://github.com/marketplace/actions/slack-notify
 
-[LogSnag]: https://logsnag.com
-[Bannerbear]: https://bannerbear.com
-[Buttondown]: https://buttondown.email
-[Instatus]: https://instatus.com
+[logsnag]: https://logsnag.com
+[bannerbear]: https://bannerbear.com
+[buttondown]: https://buttondown.email
+[instatus]: https://instatus.com
 
-[Vercel Analytics]: https://vercel.com/docs/analytics
-[Highlight.io]: https://highlight.io
-[Sentry]: https://sentry.io
-[PostHog Cloud]: https://posthog.com
-[Resend]: https://resend.com
-[Mailersend]: https://mailersend.com
-[Crisp Chat]: https://crisp.chat
-[Stripe]: https://stripe.com
-[LemonSqueezy]: https://lemonsqueezy.com
-[Plausible Cloud]: https://plausible.io
+[vercel analytics]: https://vercel.com/docs/analytics
+[highlight.io]: https://highlight.io
+[sentry]: https://sentry.io
+[posthog cloud]: https://posthog.com
+[resend]: https://resend.com
+[mailersend]: https://mailersend.com
+[crisp chat]: https://crisp.chat
+[stripe]: https://stripe.com
+[lemonsqueezy]: https://lemonsqueezy.com
+[plausible cloud]: https://plausible.io
 
-[Plausible OSS]: https://github.com/plausible/analytics
-[Umami]: https://github.com/umami-software/umami
-[PostHog OSS]: https://github.com/PostHog/posthog
-[Sentry OSS]: https://develop.sentry.dev/self-hosted/
-[Highlight OSS]: https://highlight.io/docs/general/self-host/self-host-overview
-[Unleash]: https://github.com/Unleash/unleash
-[Flagsmith]: https://github.com/Flagsmith/flagsmith
-[Cal.com]: https://github.com/calcom/cal.com
-[Tolgee]: https://github.com/tolgee/tolgee-platform
-[TinaCMS]: https://github.com/tinacms/tinacms
-[Payload CMS]: https://github.com/payloadcms/payload
-[Contentlayer]: https://github.com/contentlayerdev/contentlayer
-[Next.js + MDX]: https://nextjs.org/docs/advanced-features/using-mdx
+[plausible oss]: https://github.com/plausible/analytics
+[umami]: https://github.com/umami-software/umami
+[posthog oss]: https://github.com/PostHog/posthog
+[sentry oss]: https://develop.sentry.dev/self-hosted/
+[highlight oss]: https://highlight.io/docs/general/self-host/self-host-overview
+[unleash]: https://github.com/Unleash/unleash
+[flagsmith]: https://github.com/Flagsmith/flagsmith
+[cal.com]: https://github.com/calcom/cal.com
+[tolgee]: https://github.com/tolgee/tolgee-platform
+[tinacms]: https://github.com/tinacms/tinacms
+[payload cms]: https://github.com/payloadcms/payload
+[contentlayer]: https://github.com/contentlayerdev/contentlayer
+[next.js + mdx]: https://nextjs.org/docs/advanced-features/using-mdx
 [n8n]: https://github.com/n8n-io/n8n
-[ELK Stack]: https://www.elastic.co/what-is/elk-stack
-[Fathom Lite]: https://github.com/usefathom/fathom
+[elk stack]: https://www.elastic.co/what-is/elk-stack
+[fathom lite]: https://github.com/usefathom/fathom
