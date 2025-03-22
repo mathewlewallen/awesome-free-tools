@@ -1,6 +1,8 @@
 
 <p align="center">
   <img src="./banner.png" width="500" alt="Cloud Context Awesome Tools Banner" />
+  </p>
+<p align="center">
   <img src="https://img.shields.io/badge/PRs-Welcome-2e3359" />
   <img src="https://img.shields.io/badge/Made%20for-Everyone-2e3359" />
   <img src="https://img.shields.io/badge/open%20source-%E2%9C%94-2e3359" />
