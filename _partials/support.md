@@ -13,6 +13,6 @@
 >
 > Want to add something to the list? Check -> [contributing.md](contributing.md)
 >
-> If you want to become a maintainer, [then do so here.](https://github.com/mathewlewallen/awesome-tools/issues/1)
+> If you want to become a maintainer, [then do so here.](https://github.com/mathewlewallen/awesome-free-tools/issues/1)
 
 ---

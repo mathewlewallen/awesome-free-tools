@@ -98,7 +98,7 @@ If contributing scripts, CI configs, or logic:
 
 > 💡 You'll need a [GitHub account](https://github.com/join) to contribute.
 
-1. Visit the [GitHub repo](https://github.com/mathewlewallen/awesome-tools).
+1. Visit the [GitHub repo](https://github.com/mathewlewallen/awesome-free-tools).
 2. Confirm the tool is **not already listed** or marked in [`no-go-list.md`](no-go-list.md).
 3. Open `README.md` and click the pencil icon to edit.
 

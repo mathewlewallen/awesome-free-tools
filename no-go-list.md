@@ -8,4 +8,4 @@ Each tool falls into one of the following categories:
 - 💤 **Unmaintained** – The tool appears abandoned, with little to no recent development activity or updates.  
 - ⏳ **Deferred** – The tool may have potential, but requires further review, testing, or maturity before being added.
 
-> If you're a maintainer of one of these tools and believe it deserves reconsideration, feel free to [open an issue](https://github.com/mathewlewallen/awesome-tools/issues) or [submit a pull request](contributing.md).
+> If you're a maintainer of one of these tools and believe it deserves reconsideration, feel free to [open an issue](https://github.com/mathewlewallen/awesome-free-tools/issues) or [submit a pull request](contributing.md).
