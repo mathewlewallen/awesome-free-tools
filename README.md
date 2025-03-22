@@ -1,17 +1,15 @@
-# Awesome Tools
+# Awesome Tools ![Awesome](https://awesome.re/badge.svg)
 > A curated list of free (or extremely cheap) tools that are developer-friendly and easy to integrate to any application.
 
-![Awesome](https://awesome.re/badge.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-2e3359) ![Made for Everyone](https://img.shields.io/badge/Made%20for-Everyone-2e3359) ![Open Source](https://img.shields.io/badge/open%20source-%E2%9C%94-2e3359)  
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-2e3359) ![Made for Everyone](https://img.shields.io/badge/Made%20for-Everyone-2e3359) ![Open Source](https://img.shields.io/badge/open%20source-%E2%9C%94-2e3359) [![Sponsor on Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-2e3359)](https://buymeacoffee.com/mathewlewallen)
+
 
 ![Active Status](https://img.shields.io/badge/status-active-success)
 ![Tests](https://github.com/mathewlewallen/awesome-tools/actions/workflows/tests.yml/badge.svg) ![Last Commit](https://img.shields.io/github/last-commit/mathewlewallen/awesome-tools) ![License](https://img.shields.io/github/license/mathewlewallen/awesome-tools?tab=CC0-1.0-1-ov-file)  
 
-![GitHub Stars](https://img.shields.io/github/stars/mathewlewallen/awesome-tools?style=social) ![Contributors](https://img.shields.io/github/contributors/mathewlewallen/awesome-tools) [![Follow on X](https://img.shields.io/badge/X-%40cloud_context_-blue?logo=x)](https://x.com/cloud_context_) [![Follow on Reddit](https://img.shields.io/badge/reddit-cloud_context_-orange?logo=reddit)](https://www.reddit.com/user/Cloud_Context) [![View on Product Hunt](https://img.shields.io/badge/Product%20Hunt-Cloud%20Context-DA552F?logo=producthunt&logoColor=white)](https://www.producthunt.com/@cloudcontext) [![Join Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/5QzMemJn) [![Sponsor on Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-yellow)](https://buymeacoffee.com/mathewlewallen)
-
+![GitHub Stars](https://img.shields.io/github/stars/mathewlewallen/awesome-tools?style=social) ![Contributors](https://img.shields.io/github/contributors/mathewlewallen/awesome-tools) [![Follow on X](https://img.shields.io/badge/X-%40cloud_context_-blue?logo=x)](https://x.com/cloud_context_) [![Follow on Reddit](https://img.shields.io/badge/reddit-cloud_context_-orange?logo=reddit)](https://www.reddit.com/user/Cloud_Context) [![View on Product Hunt](https://img.shields.io/badge/Product%20Hunt-Cloud%20Context-DA552F?logo=producthunt&logoColor=white)](https://www.producthunt.com/@cloudcontext) [![Join Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/5QzMemJn)
 
 ---
-
-## Contents
 
 - [Awesome Tools](#awesome-tools)
   - [Completely Free (Hosted, No Limits)](#completely-free-hosted-no-limits)
@@ -126,6 +124,8 @@ Site             | Category     | Description
 
 ## Project Badges
 
+> Badges are a free easy way to enhance README.md files and attract contributors. Here is a compilation of some you can use in your project.
+
 ### GitHub Metadata
 
 ![GitHub Stars](https://img.shields.io/github/stars/mathewlewallen/awesome-tools?style=social)
@@ -158,14 +158,10 @@ Site             | Category     | Description
 
 ### Socials
 
-[![Follow on X](https://img.shields.io/badge/X-%40cloud_context_-blue?logo=x)](https://x.com/cloud_context_)
-[![Follow on Reddit](https://img.shields.io/badge/reddit-cloud_context_-orange?logo=reddit)](https://www.reddit.com/user/Cloud_Context)
-[![Join Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/5QzMemJn)
 [![Follow on Instagram](https://img.shields.io/badge/Instagram-%40cloud_context_-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/cloud_context_)
-[![Follow on GitHub](https://img.shields.io/badge/GitHub-%40mathewlewallen-181717?logo=github)](https://github.com/mathewlewallen)
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-MathewLewallen-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathewlewallen/)
 [![View on Product Hunt](https://img.shields.io/badge/Product%20Hunt-Cloud%20Context-DA552F?logo=producthunt&logoColor=white)](https://www.producthunt.com/@cloudcontext)
-[![Sponsor on Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-yellow)](https://buymeacoffee.com/mathewlewallen)
+
 
 ---
 
