@@ -1,11 +1,14 @@
-<div style="background-image: url('./logo.svg'); height: 200px;"></div>
-# Awesome SaaS Tools: Free, Cheap & Easy to Integrate
+<p align="center">
+  <img src="./banner.png" width="auto" alt="Awesome Tools Banner" />
+</p>
+
+# Awesome Tools: Free, Cheap & <ins>**_Easy to Integrate_**</ins>
 
 A curated list of tools that are:
-- ✅ Easy to integrate into **any SaaS app**
-- 💸 Either **completely free**, **extremely cheap**, or **free with generous tier**
-- 🧩 Drop-in with minimal config (CLI, SDK, GitHub Action)
-- 🚀 Perfect for solo devs, SaaS MVPs, and indie hackers
+- ✅ Easy to integrate into **any app**
+- 💸 Either **completely free**, **extremely cheap**, has a **generous free tier**, or **free to self-host**
+- 🧩 Drop-in with minimal config (CLI, SDK, GitHub Action, etc.)
+- 🚀 Perfect for solo devs, MVPs, & indie hackers
 
 ---
 
@@ -76,8 +79,8 @@ Site             | Category     | Description
 [Dependabot]: https://github.com/dependabot
 [CodeQL]: https://github.com/github/codeql-action
 [Socket.dev]: https://socket.dev
-[Turborepo Cache]: https://vercel.com/docs/cli/turbo
-[Calendly Embed]: https://help.calendly.com/hc/en-us/articles/4414736739867
+[Turborepo Cache]: https://turbo.build/repo/docs/core-concepts/remote-caching
+[Calendly Embed]: https://help.calendly.com/hc/en-us/articles/223147027-Embed-options-overview
 [Slack GitHub Action]: https://github.com/marketplace/actions/slack-notify
 
 [LogSnag]: https://logsnag.com

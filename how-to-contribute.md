@@ -1,12 +1,7 @@
 # How to contribute?
 
-## Video guide
-
-https://github.com/user-attachments/assets/d76b0e06-826f-49b6-b4c4-39a91ba856bf
-
-## Adding something
-
-You'll need a [GitHub account](https://github.com/join)!
+> [!NOTE]
+> You'll need a [GitHub account](https://github.com/join)!
 
 1. Access the GitHub page (https://github.com/axorax/awesome-free-apps). Make sure the app is not in the main list or in [archived.md](archived.md). If it is in archived.md, mention it when you make the PR.
 
