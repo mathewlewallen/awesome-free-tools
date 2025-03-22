@@ -12,6 +12,8 @@
 
 ---
 
+## Contents
+
 - [Completely Free (Hosted, No Limits)](#completely-free-hosted-no-limits)
 - [Extremely Cheap Tools (Flat Rate or Low Monthly)](#extremely-cheap-tools-flat-rate-or-low-monthly)
 - [Free with Generous Tier](#free-with-generous-tier)
