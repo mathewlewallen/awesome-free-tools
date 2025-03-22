@@ -2,131 +2,101 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
-Read these rules first and then make a PR or contribute. If you don't know how to do that, then check [how-to-contribute.md](how-to-contribute.md)
+---
 
-- [Suggesting an app or any support](#-suggesting-an-app-or-any-support)
-- [Editing the list](#-editing-the-list)
-- [Code contributions](#-code-contributions)
-- [Recommended icon requirements](#-recommended-icon-requirements)
-- [Maintainer guide](#-maintainer-guide)
+## ✅ Contribution Checklist
 
-## — Suggesting an app or any support
+- Make sure tools are **easy to integrate** — CLI, GitHub Action, API, or lightweight SDK.  
+- Ensure the tool fits **SaaS workflows** (e.g., billing, auth, analytics, DevOps, etc.).  
+- Only submit tools that are:  
+  - **Completely free**  
+  - **Extremely cheap** (flat-rate or solo-developer friendly)  
+  - **Free with generous tier**  
+  - **Free to self-host** (MIT, Apache-2.0, etc.)  
+- Use the correct section for each tool.  
+- Follow the formatting template (see below).  
 
-You can do this in a few ways. Like:
+---
 
-- Making an issue in the repository. [Click here to make one.](https://github.com/Axorax/awesome-free-apps/issues/new?template=Blank+issue)
-- Joining the Discord server and messaging there. [Click here to join.](https://discord.com/invite/nKUFghjXQu)
+## 🔄 Updating Your PR
 
-## — Editing the list
+If your pull request doesn’t meet the guidelines, maintainers will request changes. There’s no need to open a new PR — just edit the existing one.
 
-- Only modify these files; `README.md`, `MOBILE.md`
+[Here’s how to update a PR.](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
 
-`README.md` for desktop apps. <br>
-`MOBILE.md` for mobile apps.
+---
 
-- Do not change the order of any apps like ordering alphabetically.
+## ✍️ Template for Adding a Tool
 
-### Adding an app to an existing category
-
-- App should be added like this and it should be added to the **bottom of the specific category**:
-
-```
-- [Winpower](https://github.com/Axorax/winpower) - Advanced power settings and management for Windows. 🪟 🟢
-```
-
-- The icons (emojis) should go after the description. There is a reference table at the top of the README file.
-
-- Description of the app should be short and only highlight the features. Don't include random nonsense like if your app falls under the "Clipboard Management" category and you write "Software to manage clipboard.", that provides no information about the app.
-
-- The description should end with a period (.), no other symbols like !, ?, etc. are allowed.
-
-- The description shouldn't start with words like "A", "An", "The", etc. Example:
-
-```
-❌ A lightweight app to do something.
-✅ Lightweight app to do something.
-```
-
-- When the app is open-source, make the 🟢 icon a link to the source code of the project. If the app has a separate
-website, use it as the link for the app name. Otherwise use the source code link for both the name and the icon. Example:
+Please add new entries in the correct category at the **bottom** of the list.
 
 ```md
-- [Neovim](https://neovim.io) - Advanced Vim-based text editor with improved extensibility, plugins, and modern features. 🪟 🍎 🐧 [🟢](https://github.com/neovim/neovim)
-- [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Privacy-focused Chromium with Google services removed. 🪟 🍎 🐧 [🟢](https://github.com/ungoogled-software/ungoogled-chromium)
+- **Tool Name** – Category – Short, useful description.
 ```
 
-### Adding a new category
-
-- Do not create an empty category.
-
-- Use `##` for the main category and `###` for sub-categories. Example:
-
+**Good example:**  
 ```md
-## Audio
-
-- <example app>
-
-### Music creation
-
-- <example app in a more specific sub-category>
+- **LogSnag** – Notifications – Visual event tracking and logging with real-time UI.
 ```
 
-- For the position, add it after another category that is somewhat related otherwise add it alphabetically.
+**Avoid:**  
+- Overly generic descriptions (e.g. "Tool to manage analytics")  
+- Starting with "A", "An", or "The"  
+- Ending with symbols like `!`, `?`, or emojis in the main list  
 
-- Do not modify the table of content. It is auto-generated.
+---
 
-### Commit message
+## 🧩 Categories
 
-- Use `Add: name` to add a new app.
-- Use `Update: name` to update an existing app.
-- Use `Remove: name` to remove an app.
+Use one of the following categories:
 
-You can optionally specify the list for all of them. Examples:
+- Security  
+- DevOps  
+- Analytics  
+- Monitoring  
+- Email  
+- Support  
+- Billing  
+- Scheduling  
+- CMS  
+- Automation  
+- Logging  
+- Feature Flags  
+- Localization  
+- Performance  
+- Notifications  
+
+If a new category is needed, make sure at least **one tool** fits it before submitting.
+
+---
+
+## 📦 Commit Message Format
+
+Please use consistent commit messages:
 
 ```console
-Add: Winpower
-Update: Winpower
-Remove: Winpower
-
-Add (PC): Inkless
-Update (PC): Inkless
-Remove (PC): Inkless
-
-Add (MOBILE): Spotify
-Update (MOBILE): Spotify
-Remove (MOBILE): Spotify
+Add: Tool Name  
+Update: Tool Name  
+Remove: Tool Name  
 ```
 
-## — Code contributions
-
-If you make code contributions like modifying the CLI helper app, then follow these rules. You contribution won't be accepted if it:
-
-- Breaks the code of conduct.
-- Is only a code refactor.
-- Has little to no benefit or effect.
-- Breaks the codebase.
-
-For the commit message, use `Feat` for new features, `Update` to modify something. Examples:
-
+**Examples:**  
 ```console
-Feat: AI to make app with CLI
-Update: Format function to be more strict
+Add: LogSnag  
+Update: Highlight.io  
+Remove: Fathom Lite  
 ```
 
-## — Recommended icon requirements
+---
 
-- App should have a good GUI.
-- Must be optimized depending on the category and functionality. Like if a todo list app uses 1 GB of RAM, that's just annoying.
-- App must provide useful functionality.
-- Must be from a trustworthy developer or company (Extra points if open-source).
-- Should be somewhat popular or well-known.
+## 🛠 Code Contributions
 
-## — Maintainer guide
+If you are contributing to helper scripts, CI tools, or automation in this repo:
 
-If you become a maintainer (make an issue if you want to become one), here's a few things to know about:
+- Follow standard JS/TS formatting with Prettier.  
+- Avoid breaking changes without discussion.  
+- Use `Feat:` or `Fix:` in commit messages for clarity.  
 
-- Review PRs to make sure people follow the rules in this file.
-- You should follow the rules here as well.
-- Make sure you abide by the code of conduct.
-- In the actions tab, there's an action called `Update main file`. It auto-generates the ToC, filters and a lot more. So, you don't have to do any of that. This action should be run once a week to keep everything upto date.
-- You can join the Discord server to make communications easier. [Click here to join.](https://discord.com/invite/nKUFghjXQu)
+---
+
+Thank you for making SaaS development easier for everyone 🚀
