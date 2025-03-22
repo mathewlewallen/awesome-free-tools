@@ -1,4 +1,4 @@
-name: Tests Status
+name: Tests
 on:
   workflow_run:
     workflows: ["Awesome Lint", "Build Category"]
