@@ -15,6 +15,4 @@
 >
 > If you want to become a maintainer, [then do so here.](https://github.com/mathewlewallen/awesome-tools/issues/1)
 
-[↑ Back to Top](#contents)
-
 ---

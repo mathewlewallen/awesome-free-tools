@@ -108,7 +108,7 @@ Site             | Category     | Description
 
 > [<img src=".github/logo.svg" align="right" height="200" alt="Cloud Context Logo">](http://www.cloudcontext.cc)
 >
-> Maintaining this project requires a lot of time. [Donate to support me!](https://buymeacoffee.com/mathewlewallen) ❤️
+> Maintaining this project requires a lot of time. [Donate to support me!](.github/FUNDING.yml) ❤️
 >
 > I am just getting into Open Source, so please go check out my work
 >
