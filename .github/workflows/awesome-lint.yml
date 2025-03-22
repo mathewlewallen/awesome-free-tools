@@ -1,0 +1,27 @@
+
+name: Lint Awesome Tools Markdown
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - 'no-go-list.md'
+      - 'category.md'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - 'no-go-list.md'
+      - 'category.md'
+jobs:
+  Awesome_Lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Lint
+        run: npx awesome-lint
+      - name: Lint complete
+        run: echo "✅ All markdown files passed awesome-lint"

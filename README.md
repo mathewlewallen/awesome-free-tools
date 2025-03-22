@@ -1,58 +1,47 @@
 <div align="center">
-  <img src="./banner.png" width="500" alt="Cloud Context Awesome Tools Banner" />
-</div>
-<div align="center">
+
+# Awesome Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<!-- Badges: Start -->
   <img src="https://img.shields.io/badge/PRs-Welcome-2e3359" alt="PRs WelcomeBadge" />
   <img src="https://img.shields.io/badge/Made%20for-Everyone-2e3359" alt="Made for Everyone Badge" />
   <img src="https://img.shields.io/badge/open%20source-%E2%9C%94-2e3359" alt="Open Source Badge" />
-  <img src="https://img.shields.io/badge/Awesome-True-ff69b4" alt="Awesome True Badge" />
 </div>
 <br/>
 <div align="center">
   <img src="https://img.shields.io/github/stars/mathewlewallen/awesome-tools?style=social" alt="GitHub Stars for Awesome Tools" />
   <img src="https://img.shields.io/github/contributors/mathewlewallen/awesome-tools" alt="GitHub Contributors for Awesome Tools" />
   <img src="https://img.shields.io/github/last-commit/mathewlewallen/awesome-tools" alt="GitHub Last Commit for Awesome Tools" />
-  <img src="https://img.shields.io/github/license/mathewlewallen/awesome-tools" alt="GitHub License for Awesome Tools" />
+  <img src="https://img.shields.io/github/license/mathewlewallen/awesome-tools?tab=CC0-1.0-1-ov-file" alt="GitHub License for Awesome Tools" />
   <img src="https://img.shields.io/badge/status-active-success" alt="Active Status Badge" />
 </div>
-<br/>
-<div align="center">
-  <img src="https://awesome.re/badge-flat2.svg" width="500" alt="Awesome Badge" />
-</div>
-<br/>
+<!-- Badges: End -->
 
 ## Contents
 
-- [Free: Hosted, No Limits](#free-hosted-no-limits)
-- [Extremely Cheap Tools](#extremely-cheap-tools)
-- [Free with Generous Tier](#free-with-generous-tier)
-- [Free to Self-Host](#free-to-self-host)
-- [Support](#support)
+- [Awesome Tools ](#awesome-tools-)
+  - [Contents](#contents)
+  - [✅ Completely Free (Hosted, No Limits)](#-completely-free-hosted-no-limits)
+  - [💸 Extremely Cheap Tools (Flat Rate or Low Monthly)](#-extremely-cheap-tools-flat-rate-or-low-monthly)
+  - [🧪 Free with Generous Tier](#-free-with-generous-tier)
+  - [🛠️ Free to Self-Host](#️-free-to-self-host)
+  - [❤️ Support](#️-support)
 
-Every tool in this list is easy to integrate into any application. Therefore, the lists are separated by their pricing tiers. If you are searching through categories, then `cntl+f`/`cmd+f` your category:
-
-`Security` `DevOps` `Scheduling` `Notifications` `Media` `Email` `Status Page` `Performance` `Monitoring` `Analytics` `Support` `Billing` `Feature Flags` `Localization` `CMS` `Automation` `Logging`
+Every tool in this list is easy to integrate into any application. Therefore, the lists are separated by their pricing tiers. Please see [category.md](category.md) for a list sorted by categories.
 
 ---
-<div align="center">
+<p align="center">
+  <strong><ins><em><span style="font-size: 1.75em;">Free, Cheap & Easy to Integrate</span></em></ins></strong>
+</p>
 
-# Free, Cheap & <ins>**_Easy to Integrate_**</ins>
+**This is a curated list of tools that are:**
 
-</div>
-
-### **This is a curated list of tools that are**
-
-- 🎯 Easy to integrate into **any app**
-
-- 💸 Either **completely free**, **extremely cheap**, has a **generous free tier**, or **free to self-host**
-
-- 🧩 Drop-in with minimal config (CLI, SDK, GitHub Action, etc.)
-
+- 🎯 Easy to integrate into **any app**  
+- 💸 Either **completely free**, **extremely cheap**, has a **generous free tier**, or **free to self-host**  
+- 🧩 Drop-in with minimal config (CLI, SDK, GitHub Action, etc.)  
 - 🚀 Perfect for solo devs, MVPs, & indie hackers
 
 ---
 <br/>
-<div align="center">
 <a id="free-hosted-no-limits"></a>
 
 ## ✅ Completely Free (Hosted, No Limits)
@@ -66,6 +55,8 @@ Site           | Category     | Description
 [Calendly Embed] | `Scheduling` | Add meeting scheduling links or inline widgets with no backend.
 [Slack GitHub Action] | `DevOps` | Sends deploy, PR, or error notifications directly to your Slack.
 
+[↑ Back to Top](#contents)
+
 ---
 <a id="extremely-cheap-tools"></a>
 
@@ -77,6 +68,8 @@ Site          | Category     | Description
 [Bannerbear]  | `Media`        | Starts at $49/mo, auto-generates marketing/social images.
 [Buttondown]  | `Email`        | From $9/mo for newsletters, built-in analytics, and APIs.
 [Instatus]    | `Status Page`  | Starts at $15/mo for hosted status pages.
+
+[↑ Back to Top](#contents)
 
 ---
 <a id="free-with-generous-tier"></a>
@@ -95,6 +88,8 @@ Site               | Category     | Description
 [Stripe]           | `Billing`      | No platform fee, pay only transaction costs.
 [LemonSqueezy]     | `Billing`      | Free until you earn revenue (fees only on transactions).
 [Plausible Cloud]  | `Analytics`    | Free for sites under 10k monthly page views.
+
+[↑ Back to Top](#contents)
 
 ---
 <a id="free-to-self-host"></a>
@@ -120,23 +115,25 @@ Site             | Category     | Description
 [ELK Stack]      | `Logging`      | Elasticsearch, Logstash, and Kibana logging pipeline.
 [Fathom Lite]    | `Analytics`    | Lightweight, privacy-first website analytics.
 
-</div>
+[↑ Back to Top](#contents)
 
 ---
+<a id="support"></a>
 
-## Support
+## ❤️ Support
 
-> [!IMPORTANT]
-> [<img src="logo.svg" align="right" height="200" alt="Cloud Context Logo">](http://www.cloudcontext.cc)
+> [<img src=".github/logo.svg" align="right" height="200" alt="Cloud Context Logo">](http://www.cloudcontext.cc)
 >
 > Maintaining this project requires a lot of time. [Donate to support me!](https://buymeacoffee.com/mathewlewallen) ❤️
 >
 > I am just getting into Open Source, so please go check out my work:
-> [Github](https://github.com/mathewlewallen) - [Discord](https://discord.gg/5QzMemJn) — [X](https://x.com/cloud_context_) - [Reddit](https://www.reddit.com/user/Cloud_Context/)
+> [GitHub](https://github.com/mathewlewallen) - [Discord](https://discord.gg/5QzMemJn) — [X](https://x.com/cloud_context_) - [Reddit](https://www.reddit.com/user/Cloud_Context/)
 >
 > Want to add something to the list? Check -> [contributing.md](contributing.md)
 >
 > If you want to become a maintainer, [then do so here.](https://github.com/mathewlewallen/awesome-tools/issues/1)
+
+[↑ Back to Top](#contents)
 
 ---
 
