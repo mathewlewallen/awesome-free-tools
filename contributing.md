@@ -11,7 +11,6 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 - Ensure the tool fits **app workflows** (e.g., billing, auth, analytics, DevOps, etc.).  
 - Only submit tools that are:
   - **Completely free**
-  - **Extremely cheap** (flat-rate or solo-developer friendly)
   - **Free with generous tier**
   - **Free to self-host** (MIT, Apache-2.0, etc.)
 - Use the correct **category** and **pricing tier**.

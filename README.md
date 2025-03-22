@@ -1,37 +1,38 @@
-# Awesome Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Free Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of free tools that are developer-friendly and easy to integrate to any application.
+
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-2e3359) ![Made for Everyone](https://img.shields.io/badge/Made%20for-Everyone-2e3359) ![Open Source](https://img.shields.io/badge/open%20source-%E2%9C%94-2e3359) [![Sponsor on Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-2e3359)](https://buymeacoffee.com/mathewlewallen)
+
+
+![Active Status](https://img.shields.io/badge/status-active-success)
+![Tests](https://github.com/mathewlewallen/awesome-tools/actions/workflows/tests.yml/badge.svg) ![Last Commit](https://img.shields.io/github/last-commit/mathewlewallen/awesome-tools) ![License](https://img.shields.io/github/license/mathewlewallen/awesome-tools?tab=CC0-1.0-1-ov-file)  
+
+![GitHub Stars](https://img.shields.io/github/stars/mathewlewallen/awesome-tools?style=social) ![Contributors](https://img.shields.io/github/contributors/mathewlewallen/awesome-tools) [![Follow on X](https://img.shields.io/badge/X-%40cloud_context_-blue?logo=x)](https://x.com/cloud_context_) [![Follow on Reddit](https://img.shields.io/badge/reddit-cloud_context_-orange?logo=reddit)](https://www.reddit.com/user/Cloud_Context)
 
 ---
 
 ## Contents
 
 - [Completely Free (Hosted, No Limits)](#completely-free-hosted-no-limits)
-- [Extremely Cheap Tools (Flat Rate or Low Monthly)](#extremely-cheap-tools-flat-rate-or-low-monthly)
 - [Free with Generous Tier](#free-with-generous-tier)
 - [Free to Self-Host](#free-to-self-host)
 - [Support](#support)
 - [Project Badges](#project-badges)
 
-> A curated list of free (or extremely cheap) tools that are developer-friendly and easy to integrate to any application.
+
+
+Every tool in this list is easy to integrate into any application. Therefore, the lists are separated by their pricing tiers. Please see [category.md](category.md) for a list sorted by categories.
 
 ---
-
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-2e3359) ![Made for Everyone](https://img.shields.io/badge/Made%20for-Everyone-2e3359) ![Open Source](https://img.shields.io/badge/open%20source-%E2%9C%94-2e3359) [![Sponsor on Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-2e3359)](https://buymeacoffee.com/mathewlewallen)
-
-![Active Status](https://img.shields.io/badge/status-active-success)
-![Tests](https://github.com/mathewlewallen/awesome-tools/actions/workflows/tests.yml/badge.svg) ![Last Commit](https://img.shields.io/github/last-commit/mathewlewallen/awesome-tools) ![License](https://img.shields.io/github/license/mathewlewallen/awesome-tools?tab=CC0-1.0-1-ov-file)  
-
-![GitHub Stars](https://img.shields.io/github/stars/mathewlewallen/awesome-tools?style=social) ![Contributors](https://img.shields.io/github/contributors/mathewlewallen/awesome-tools)
-
----
-
 <p align="center">
-  <strong><ins><em><span style="font-size: 1.75em;">Free, Cheap & Easy to Integrate</span></em></ins></strong>
+  <strong><ins><em><span style="font-size: 1.75em;">Free & Easy to Integrate</span></em></ins></strong>
 </p>
 
 **This is a curated list of tools that are:**
 
 - 🎯 Easy to integrate into **any app**  
-- 💸 Either **completely free**, **extremely cheap**, has a **generous free tier**, or **free to self-host**  
+- 💸 Either **completely free**, has a **generous free tier**, or **free to self-host**  
 - 🧩 Drop-in with minimal config (CLI, SDK, GitHub Action, etc.)  
 - 🚀 Perfect for solo devs, MVPs, & indie hackers
 
@@ -48,17 +49,6 @@ Site           | Category     | Description
 [Turborepo Cache] | `DevOps`   | Free on Vercel, speeds up builds across monorepo packages.
 [Calendly Embed] | `Scheduling` | Add meeting scheduling links or inline widgets with no backend.
 [Slack GitHub Action] | `DevOps` | Sends deploy, PR, or error notifications directly to your Slack.
-
----
-
-## Extremely Cheap Tools (Flat Rate or Low Monthly)
-
-Site          | Category     | Description
-------------- | ------------ | ------------------------------------------
-[LogSnag]     | `Notifications`| $9/mo for enhanced event tracking and logging.
-[Bannerbear]  | `Media`        | Starts at $49/mo, auto-generates marketing/social images.
-[Buttondown]  | `Email`        | From $9/mo for newsletters, built-in analytics, and APIs.
-[Instatus]    | `Status Page`  | Starts at $15/mo for hosted status pages.
 
 ---
 
@@ -104,13 +94,17 @@ Site             | Category     | Description
 
 ## Support
 
+> [<img src=".github/logo.svg" align="right" height="200" alt="Cloud Context Logo">](http://www.cloudcontext.cc)
+>
 > Maintaining this project requires a lot of time. [Donate to support me!](.github/FUNDING.yml) ❤️
 >
-> Want to add something to the list? Check → [contributing.md](contributing.md)
+> I am just getting into Open Source, so please go check out my work
+>
+> Want to add something to the list? Check -> [contributing.md](contributing.md)
 >
 > If you want to become a maintainer, [then do so here.](https://github.com/mathewlewallen/awesome-tools/issues/1)
 
-[↑ Back to Top](#contents)
+[↑ Back to Top](#top)
 
 ---
 

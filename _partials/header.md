@@ -1,6 +1,6 @@
-# Awesome Tools ![Awesome](https://awesome.re/badge.svg)
+# Awesome Free Tools ![Awesome](https://awesome.re/badge.svg)
 
-> A curated list of free (or extremely cheap) tools that are developer-friendly and easy to integrate to any application.
+> A curated list of free tools that are developer-friendly and easy to integrate to any application.
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-2e3359) ![Made for Everyone](https://img.shields.io/badge/Made%20for-Everyone-2e3359) ![Open Source](https://img.shields.io/badge/open%20source-%E2%9C%94-2e3359) [![Sponsor on Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-2e3359)](https://buymeacoffee.com/mathewlewallen)
 

@@ -3,7 +3,7 @@
 ## ✅ Checklist
 
 - [ ] I've read the [contribution guidelines](contributing.md).
-- [ ] The tool is not already on the [Awesome Tools List](README.md)
+- [ ] The tool is not already on the [Awesome Free Tools List](README.md)
 - [ ] This tool fits one of the existing pricing tiers and categories.
 - [ ] The tool is easy to integrate and provides developer-friendly docs or SDKs.
 - [ ] I have verified the tool is currently maintained and not deprecated.
@@ -23,7 +23,7 @@
 <!-- Example: https://logsnag.com -->
 
 **Pricing Tier:**  
-<!-- Select one: Completely Free / Extremely Cheap / Generous Free Tier / Free to Self-Host -->
+<!-- Select one: Completely Free / Generous Free Tier / Free to Self-Host -->
 
 **Category:**  
 <!-- Example: Analytics, CMS, Scheduling, Email, etc. -->
@@ -35,7 +35,7 @@
 
 ## Optional Section
 
->Please feel free to justify why your tools belongs on the awesome tools list.
+>Please feel free to justify why your tools belongs on the awesome free tools list.
 
 ### 📝 Notes
 
@@ -53,5 +53,5 @@
 
 ## 🤝 Thank You
 
-Thanks for contributing to **Awesome Tools**! 🚀  
+Thanks for contributing to **Awesome Free Tools**! 🚀  
 Your submission will be reviewed shortly.
