@@ -16,7 +16,11 @@
 
 
 
-Every tool in this list is easy to integrate into any application. Therefore, the lists are separated by their pricing tiers. Please see [category.md](category.md) for a list sorted by categories.
+Every tool in this list is easy to integrate into any application. Therefore, the lists are separated by their pricing tiers.
+
+See [category.md](category.md) for a list sorted by categories.
+
+See [queue.md](queue.md) for tools being reviewed to add to the list.
 
 ---
 <p align="center">
@@ -29,6 +33,7 @@ Every tool in this list is easy to integrate into any application. Therefore, th
 - 💸 Either **completely free**, has a **generous free tier**, or **free to self-host**  
 - 🧩 Drop-in with minimal config (CLI, SDK, GitHub Action, etc.)  
 - 🚀 Perfect for solo devs, MVPs, & indie hackers
+
 
 ---
 <br/>
