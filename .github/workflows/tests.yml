@@ -1,13 +1,39 @@
 name: Tests
 on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
   workflow_run:
     workflows: ["Awesome Lint", "Build Category"]
     types:
       - completed
 jobs:
-  check:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+  check-workflows:
     runs-on: ubuntu-latest
     steps:
-      - name: All required checks passed
-        run: echo "✅ All workflows passed"
+      - name: ⬇️ Fetch latest workflow runs
+        id: get_runs
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const requiredWorkflows = ["Awesome Lint", "Build Category"];
+            const { data: runs } = await github.rest.actions.listWorkflowRunsForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              per_page: 100
+            });
+            const failed = requiredWorkflows.some(name => {
+              const run = runs.workflow_runs.find(r => r.name === name && r.head_branch === context.ref.replace('refs/heads/', ''));
+              return !run || run.conclusion !== "success";
+            });
+            core.setOutput("failed", failed);
+      - name: ❌ Fail if any workflow failed
+        if: steps.get_runs.outputs.failed == 'true'
+        run: |
+          echo "One or more required workflows failed."
+          exit 1
+      - name: ✅ All workflows passed
+        if: steps.get_runs.outputs.failed != 'true'
+        run: echo "All required workflows passed."
