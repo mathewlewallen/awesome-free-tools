@@ -4,8 +4,9 @@
   <img src="https://img.shields.io/badge/PRs-Welcome-2e3359" />
   <img src="https://img.shields.io/badge/Made%20for-Everyone-2e3359" />
   <img src="https://img.shields.io/badge/open%20source-%E2%9C%94-2e3359" />
-  <img src="https://img.shields.io/badge/awesome-true-ff69b4" />
+  <img src="https://img.shields.io/badge/Awesome-True-ff69b4" />
 </p>
+<br/>
 <p align="center">
   <img src="https://img.shields.io/github/stars/mathewlewallen/awesome-tools?style=social" />
   <img src="https://img.shields.io/github/contributors/mathewlewallen/awesome-tools" />
@@ -13,16 +14,17 @@
   <img src="https://img.shields.io/github/license/mathewlewallen/awesome-tools" />
   <img src="https://img.shields.io/badge/status-active-success" />
 </p>
-
+<br/>
 <p align="center">
   <img src="https://awesome.re/badge-flat2.svg" width="500" alt="Awesome"/>
 </p>
 
 ---
+
 # Free, Cheap & <ins>**_Easy to Integrate_**</ins>
 
 A curated list of tools that are:
-- ✅ Easy to integrate into **any app**
+- 🎯 Easy to integrate into **any app**
 - 💸 Either **completely free**, **extremely cheap**, has a **generous free tier**, or **free to self-host**
 - 🧩 Drop-in with minimal config (CLI, SDK, GitHub Action, etc.)
 - 🚀 Perfect for solo devs, MVPs, & indie hackers
