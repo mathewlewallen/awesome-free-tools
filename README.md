@@ -10,6 +10,7 @@
 - [Completely Free (Hosted, No Limits)](#completely-free-hosted-no-limits)
 - [Free with Generous Tier](#free-with-generous-tier)
 - [Free to Self-Host](#free-to-self-host)
+- [Free Stuff](#free-stuff)
 - [Support](#support)
 - [Project Badges](#project-badges)
 
@@ -87,6 +88,22 @@ Site             | Category     | Description
 [n8n]            | `Automation`   | Zapier-style automation platform, fully open source.
 [ELK Stack]      | `Logging`      | Elasticsearch, Logstash, and Kibana logging pipeline.
 [Fathom Lite]    | `Analytics`    | Lightweight, privacy-first website analytics.
+
+---
+
+## Free Stuff
+
+- [KDE](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books#readme)
+- [PocketBase](https://github.com/benallfree/awesome-pocketbase#readme) - An open-source, Go-based backend in one file.
+- [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
+- [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
+- [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
+- [Tor](https://github.com/polycarbohydrate/awesome-tor#readme) - A free overlay network for enabling anonymous communication.
+- [Free for Developers](https://github.com/ripienaar/free-for-dev#readme)
+- [Free Software](https://github.com/johnjago/awesome-free-software#readme) - Free as in freedom.
+- [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
+- [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) - Companies that offer their tools and services for free to open source projects.
 
 ---
 
