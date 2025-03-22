@@ -1,4 +1,4 @@
-# Awesome Tools ![Awesome](https://awesome.re/badge.svg)
+# Awesome Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of free (or extremely cheap) tools that are developer-friendly and easy to integrate to any application.
 
@@ -14,17 +14,13 @@
 
 ## Contents
 
-- [Awesome Tools](#awesome-tools)
-  - [Completely Free (Hosted, No Limits)](#completely-free-hosted-no-limits)
-  - [Extremely Cheap Tools (Flat Rate or Low Monthly)](#extremely-cheap-tools-flat-rate-or-low-monthly)
-  - [Free with Generous Tier](#free-with-generous-tier)
-  - [Free to Self-Host](#free-to-self-host)
-  - [Support](#support)
-  - [Project Badges](#project-badges)
-    - [GitHub Metadata](#github-metadata)
-    - [Project Health](#project-health)
-    - [Community & Support](#community--support)
-    - [Socials](#socials)
+- [Completely Free (Hosted, No Limits)](#completely-free-hosted-no-limits)
+- [Extremely Cheap Tools (Flat Rate or Low Monthly)](#extremely-cheap-tools-flat-rate-or-low-monthly)
+- [Free with Generous Tier](#free-with-generous-tier)
+- [Free to Self-Host](#free-to-self-host)
+- [Support](#support)
+- [Project Badges](#project-badges)
+
 
 
 Every tool in this list is easy to integrate into any application. Therefore, the lists are separated by their pricing tiers. Please see [category.md](category.md) for a list sorted by categories.
@@ -114,8 +110,7 @@ Site             | Category     | Description
 >
 > Maintaining this project requires a lot of time. [Donate to support me!](https://buymeacoffee.com/mathewlewallen) ❤️
 >
-> I am just getting into Open Source, so please go check out my work:
-> [GitHub](https://github.com/mathewlewallen) - [Discord](https://discord.gg/5QzMemJn) — [X](https://x.com/cloud_context_) - [Reddit](https://www.reddit.com/user/Cloud_Context/)
+> I am just getting into Open Source, so please go check out my work
 >
 > Want to add something to the list? Check -> [contributing.md](contributing.md)
 >
@@ -163,7 +158,6 @@ Site             | Category     | Description
 
 [![Follow on Instagram](https://img.shields.io/badge/Instagram-%40cloud_context_-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/cloud_context_)
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-MathewLewallen-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathewlewallen/)
-[![View on Product Hunt](https://img.shields.io/badge/Product%20Hunt-Cloud%20Context-DA552F?logo=producthunt&logoColor=white)](https://www.producthunt.com/@cloudcontext)
 [![View on Product Hunt](https://img.shields.io/badge/Product%20Hunt-Cloud%20Context-DA552F?logo=producthunt&logoColor=white)](https://www.producthunt.com/@cloudcontext)
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/5QzMemJn)
 
