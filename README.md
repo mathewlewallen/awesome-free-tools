@@ -22,11 +22,12 @@
 <br/>
 
 - [Awesome Tools](#awesome-tools)
-  - [✅ Completely Free (Hosted, No Limits)](#free)
-  - [💸 Extremely Cheap Tools (Flat Rate or Low Monthly)](#cheap)
-  - [🧪 Free with Generous Tier](#free-tier)
-  - [🛠️ Free to Self-Host](#️self-host)
-  - [❤️ Support](#️support)
+  - [Completely Free (Hosted, No Limits)](#completely-free-hosted-no-limits)
+  - [Extremely Cheap Tools (Flat Rate or Low Monthly)](#extremely-cheap-tools-flat-rate-or-low-monthly)
+  - [Free with Generous Tier](#free-with-generous-tier)
+  - [Free to Self-Host](#free-to-self-host)
+  - [Support](#support-)
+
 
 Every tool in this list is easy to integrate into any application. Therefore, the lists are separated by their pricing tiers. Please see [category.md](category.md) for a list sorted by categories.
 
@@ -44,9 +45,8 @@ Every tool in this list is easy to integrate into any application. Therefore, th
 
 ---
 <br/>
-<a id="free"></a>
 
-## ✅ Completely Free (Hosted, No Limits)
+## Completely Free (Hosted, No Limits)
 
 Site           | Category     | Description
 -------------- | ------------ | ------------------------------------------
@@ -58,9 +58,8 @@ Site           | Category     | Description
 [Slack GitHub Action] | `DevOps` | Sends deploy, PR, or error notifications directly to your Slack.
 
 ---
-<a id="cheap"></a>
 
-## 💸 Extremely Cheap Tools (Flat Rate or Low Monthly)
+## Extremely Cheap Tools (Flat Rate or Low Monthly)
 
 Site          | Category     | Description
 ------------- | ------------ | ------------------------------------------
@@ -70,9 +69,8 @@ Site          | Category     | Description
 [Instatus]    | `Status Page`  | Starts at $15/mo for hosted status pages.
 
 ---
-<a id="free-tier"></a>
 
-## 🧪 Free with Generous Tier
+## Free with Generous Tier
 
 Site               | Category     | Description
 ------------------ | ------------ | ------------------------------------------
@@ -88,9 +86,8 @@ Site               | Category     | Description
 [Plausible Cloud]  | `Analytics`    | Free for sites under 10k monthly page views.
 
 ---
-<a id="self-host"></a>
 
-## 🛠️ Free to Self-Host
+## Free to Self-Host
 
 Site             | Category     | Description
 ---------------- | ------------ | ------------------------------------------
@@ -112,9 +109,8 @@ Site             | Category     | Description
 [Fathom Lite]    | `Analytics`    | Lightweight, privacy-first website analytics.
 
 ---
-<a id="support"></a>
 
-## ❤️ Support
+## Support
 
 > [<img src=".github/logo.svg" align="right" height="200" alt="Cloud Context Logo">](http://www.cloudcontext.cc)
 >
