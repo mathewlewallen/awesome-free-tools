@@ -4,11 +4,10 @@
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-2e3359) ![Made for Everyone](https://img.shields.io/badge/Made%20for-Everyone-2e3359) ![Open Source](https://img.shields.io/badge/open%20source-%E2%9C%94-2e3359) [![Sponsor on Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-2e3359)](https://buymeacoffee.com/mathewlewallen)
 
-
 ![Active Status](https://img.shields.io/badge/status-active-success)
 ![Tests](https://github.com/mathewlewallen/awesome-tools/actions/workflows/tests.yml/badge.svg) ![Last Commit](https://img.shields.io/github/last-commit/mathewlewallen/awesome-tools) ![License](https://img.shields.io/github/license/mathewlewallen/awesome-tools?tab=CC0-1.0-1-ov-file)  
 
-![GitHub Stars](https://img.shields.io/github/stars/mathewlewallen/awesome-tools?style=social) ![Contributors](https://img.shields.io/github/contributors/mathewlewallen/awesome-tools) [![Follow on X](https://img.shields.io/badge/X-%40cloud_context_-blue?logo=x)](https://x.com/cloud_context_) [![Follow on Reddit](https://img.shields.io/badge/reddit-cloud_context_-orange?logo=reddit)](https://www.reddit.com/user/Cloud_Context)
+![GitHub Stars](https://img.shields.io/github/stars/mathewlewallen/awesome-tools?style=social) ![Contributors](https://img.shields.io/github/contributors/mathewlewallen/awesome-tools)
 
 ---
 
@@ -21,11 +20,8 @@
 - [Support](#support)
 - [Project Badges](#project-badges)
 
-
-
-Every tool in this list is easy to integrate into any application. Therefore, the lists are separated by their pricing tiers. Please see [category.md](category.md) for a list sorted by categories.
-
 ---
+
 <p align="center">
   <strong><ins><em><span style="font-size: 1.75em;">Free, Cheap & Easy to Integrate</span></em></ins></strong>
 </p>
@@ -106,17 +102,13 @@ Site             | Category     | Description
 
 ## Support
 
-> [<img src=".github/logo.svg" align="right" height="200" alt="Cloud Context Logo">](http://www.cloudcontext.cc)
->
 > Maintaining this project requires a lot of time. [Donate to support me!](.github/FUNDING.yml) ❤️
 >
-> I am just getting into Open Source, so please go check out my work
->
-> Want to add something to the list? Check -> [contributing.md](contributing.md)
+> Want to add something to the list? Check → [contributing.md](contributing.md)
 >
 > If you want to become a maintainer, [then do so here.](https://github.com/mathewlewallen/awesome-tools/issues/1)
 
-[↑ Back to Top](#top)
+[↑ Back to Top](#contents)
 
 ---
 
