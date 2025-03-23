@@ -39,82 +39,82 @@ See [queue.md](queue.md) for tools being reviewed to add to the list.
 
 ## Completely Free (Hosted, No Limits)
 
-Site           | Category     | Description
--------------- | ------------ | ------------------------------------------
-[Dependabot]   | `Security`     | Auto-updates dependencies and patches vulnerabilities in GitHub repos.
-[CodeQL]       | `Security`     | GitHub-native static code analysis that catches security issues before they ship.
-[Socket.dev]   | `Security`     | Real-time protection from malicious or hijacked npm packages.
-[Turborepo Cache] | `DevOps`   | Free on Vercel, speeds up builds across monorepo packages.
-[Calendly Embed] | `Scheduling` | Add meeting scheduling links or inline widgets with no backend.
-[Slack GitHub Action] | `DevOps` | Sends deploy, PR, or error notifications directly to your Slack.
-[ChatGPT] | `AI` | Conversational AI model for code and productivity tasks.
-[Google Gemini] | `AI` | Multimodal AI platform from Google for writing, coding, and image tasks.
+Site                | Category     | Description
+------------------- | ------------ | ------------------------------------------
+[ChatGPT]           | `AI` | Conversational AI model for code and productivity tasks.
+[Google Gemini]     | `AI` | Multimodal AI platform from Google for writing, coding, and image tasks.
 [Microsoft CoPilot] | `AI` | AI integrated into Microsoft 365 tools and GitHub.
-[DeepSeek] | `AI` | AI-powered search and assistant.
-[Claude] | `AI` | AI by Anthropic with a strong focus on ethical alignment.
-[GitHub] | `Version Control` | Code hosting platform with collaboration, CI/CD, and issue tracking.
-[BitBucket] | `Version Control` | Git solution from Atlassian, integrates with Jira and Trello.
-[GitLab] | `Version Control` | Full DevOps lifecycle tool, Git hosting and pipelines.
-[Azure Repos] | `Version Control` | Git repos integrated with Azure DevOps.
-[AWS CodeCommit] | `Version Control` | Private Git hosting from Amazon Web Services.
-[AWS Free Tier] | `Cloud` | Cloud services with always-free and trial tiers.
+[DeepSeek]          | `AI` | AI-powered search and assistant.
+[Claude]            | `AI` | AI by Anthropic with a strong focus on ethical alignment.
+[Codium]            | `AI` | Codeium’s AI code assistant.
+[Qodo]              | `AI` | AI programming partner.
+[AWS Free Tier]     | `Cloud` | Cloud services with always-free and trial tiers.
 [Microsoft Azure Free Tier] | `Cloud` | Microsoft cloud services with free quotas and credits.
-[Google Cloud Free Tier] | `Cloud` | GCP services with free-tier access and generous trial.
-[Digital Ocean] | `Cloud` | Developer-focused cloud platform with scalable infrastructure.
-[GitHub Pages] | `Hosting` | Free static site hosting directly from GitHub repos.
-[Firebase Hosting] | `Hosting` | Google service to host and deploy static and dynamic content.
-[Netlify] | `Hosting` | Serverless web deployment with CI/CD, functions, and forms.
-[Vercel] | `Hosting` | Zero-config frontend deployment with CDN and preview URLs.
-[Amazon S3] | `Hosting` | Static file storage and hosting with public access support.
-[Surge] | `Hosting` | Static site publishing for frontend devs via CLI.
-[Lark Email] | `Email` | Business email from the Lark Suite.
-[CloudFlare] | `DNS/CDN` | Global CDN, DDoS protection, DNS, and analytics.
-[ClouDNS] | `DNS/CDN` | Managed DNS hosting provider.
-[Let's Encrypt] | `Security` | Free automated TLS/SSL certificates.
-[Pingdom] | `Monitoring` | Uptime and performance monitoring.
+[Google Cloud Free Tier]    | `Cloud` | GCP services with free-tier access and generous trial.
+[Digital Ocean]     | `Cloud` | Developer-focused cloud platform with scalable infrastructure.
+[Code Climate]      | `Code Quality` | Automated code review and test coverage.
+[CloudFlare]        | `DNS/CDN` | Global CDN, DDoS protection, DNS, and analytics.
+[ClouDNS]           | `DNS/CDN` | Managed DNS hosting provider.
+[Turborepo Cache]   | `DevOps` | Free on Vercel, speeds up builds across monorepo packages.
+[Slack GitHub Action] | `DevOps` | Sends deploy, PR, or error notifications directly to your Slack.
+[Humanitec]         | `DevOps` | Internal developer platform for building golden paths.
+[Docker]            | `DevOps` | Container platform for building and deploying apps.
+[Laragon]           | `DevOps` | Local server for Windows.
+[XAMPP]             | `DevOps` | Local development environment for PHP and MySQL.
+[FileZilla]         | `DevOps` | FTP client for transferring files to servers.
+[FreeFileSync]      | `DevOps` | Folder comparison and synchronization tool.
+[WinSCP]            | `DevOps` | SFTP, FTP, and SCP client for file transfer.
+[PuTTY]             | `DevOps` | Terminal emulator and SSH client.
+[Sublime Text]      | `Editor` | Fast, lightweight code editor with plugin ecosystem.
+[Lark Email]        | `Email` | Business email from the Lark Suite.
+[GitHub Pages]      | `Hosting` | Free static site hosting directly from GitHub repos.
+[Firebase Hosting]  | `Hosting` | Google service to host and deploy static and dynamic content.
+[Netlify]           | `Hosting` | Serverless web deployment with CI/CD, functions, and forms.
+[Vercel]            | `Hosting` | Zero-config frontend deployment with CDN and preview URLs.
+[Amazon S3]         | `Hosting` | Static file storage and hosting with public access support.
+[Surge]             | `Hosting` | Static site publishing for frontend devs via CLI.
+[VSCode]            | `IDE` | Open source code editor from Microsoft.
+[Visual Studio]     | `IDE` | Full-featured IDE for Windows development.
+[WebStorm]          | `IDE` | JetBrains JavaScript IDE.
+[NetBeans]          | `IDE` | Apache IDE for Java and other languages.
+[Eclipse]           | `IDE` | IDE for Java and web development.
+[JetBrains IDEs]    | `IDE` | Professional tools for web and enterprise languages.
+[Google IDX]        | `IDE` | Web-based AI-powered IDE by Google.
+[VSCode.dev]        | `IDE` | Browser-based version of VSCode.
+[Windsurf]          | `IDE` | AI-powered coding experience by Codeium.
+[CodeAnywhere]      | `IDE` | Cloud IDE for remote teams and containers.
+[Cloud9]            | `IDE` | AWS-hosted online IDE.
+[Koding]            | `IDE` | Cloud development environments.
+[Pingdom]           | `Monitoring` | Uptime and performance monitoring.
 [PageSpeed Insights] | `Performance` | Google’s tool for analyzing web performance.
-[WebPageTest] | `Performance` | Real browser-based performance testing.
-[GTMetrix] | `Performance` | Website speed and performance reports.
-[Import.io] | `Scraping` | Extract structured data from any website.
-[WebHose] | `Scraping` | Web data crawling and scraping API.
-[Dexi.io] | `Scraping` | Visual web scraping and data automation tool.
-[ParseHub] | `Scraping` | Extract data from websites using a visual builder.
-[80Legs] | `Scraping` | Web crawling and scraping engine.
-[ScrapingHub] | `Scraping` | Cloud-based scraping platform.
-[Scrapy] | `Scraping` | Python framework for extracting data from websites.
-[Scraper (Chrome)] | `Scraping` | Chrome extension to extract structured data from web pages.
+[WebPageTest]       | `Performance` | Real browser-based performance testing.
+[GTMetrix]          | `Performance` | Website speed and performance reports.
+[JSFiddle]          | `Playground` | Live HTML/CSS/JS editor with preview.
+[Plunker]           | `Playground` | Online community for creating and sharing web apps.
+[CodePen]           | `Playground` | Frontend design sandbox with live preview.
+[JSBin]             | `Playground` | JS testing tool with live code sharing.
+[Calendly Embed]    | `Scheduling` | Add meeting scheduling links or inline widgets with no backend.
+[Import.io]         | `Scraping` | Extract structured data from any website.
+[WebHose]           | `Scraping` | Web data crawling and scraping API.
+[Dexi.io]           | `Scraping` | Visual web scraping and data automation tool.
+[ParseHub]          | `Scraping` | Extract data from websites using a visual builder.
+[80Legs]            | `Scraping` | Web crawling and scraping engine.
+[ScrapingHub]       | `Scraping` | Cloud-based scraping platform.
+[Scrapy]            | `Scraping` | Python framework for extracting data from websites.
+[Scraper (Chrome)]  | `Scraping` | Chrome extension to extract structured data from web pages.
 [Web Scraper (Chrome)] | `Scraping` | Chrome extension for site navigation and data scraping.
 [Abstract Web Scraping API] | `Scraping` | Structured web scraping API.
-[VSCode] | `IDE` | Open source code editor from Microsoft.
-[Visual Studio] | `IDE` | Full-featured IDE for Windows development.
-[Sublime Text] | `Editor` | Fast, lightweight code editor with plugin ecosystem.
-[WebStorm] | `IDE` | JetBrains JavaScript IDE.
-[NetBeans] | `IDE` | Apache IDE for Java and other languages.
-[Eclipse] | `IDE` | IDE for Java and web development.
-[JetBrains IDEs] | `IDE` | Professional tools for web and enterprise languages.
-[Google IDX] | `IDE` | Web-based AI-powered IDE by Google.
-[VSCode.dev] | `IDE` | Browser-based version of VSCode.
-[Windsurf] | `IDE` | AI-powered coding experience by Codeium.
-[CodeAnywhere] | `IDE` | Cloud IDE for remote teams and containers.
-[Cloud9] | `IDE` | AWS-hosted online IDE.
-[Koding] | `IDE` | Cloud development environments.
-[Humanitec] | `DevOps` | Internal developer platform for building golden paths.
-[Codium] | `AI` | Codeium’s AI code assistant.
-[Qodo] | `AI` | AI programming partner.
-[JSFiddle] | `Playground` | Live HTML/CSS/JS editor with preview.
-[Plunker] | `Playground` | Online community for creating and sharing web apps.
-[CodePen] | `Playground` | Frontend design sandbox with live preview.
-[JSBin] | `Playground` | JS testing tool with live code sharing.
-[Docker] | `DevOps` | Container platform for building and deploying apps.
-[Laragon] | `DevOps` | Local server for Windows.
-[XAMPP] | `DevOps` | Local development environment for PHP and MySQL.
-[FileZilla] | `DevOps` | FTP client for transferring files to servers.
-[FreeFileSync] | `DevOps` | Folder comparison and synchronization tool.
-[CryptoMator] | `Security` | End-to-end encryption for cloud storage.
-[WinSCP] | `DevOps` | SFTP, FTP, and SCP client for file transfer.
-[PuTTY] | `DevOps` | Terminal emulator and SSH client.
-[Sauce Labs] | `Testing` | Cross-browser cloud testing platform.
-[Code Climate] | `Code Quality` | Automated code review and test coverage.
+[Dependabot]        | `Security` | Auto-updates dependencies and patches vulnerabilities in GitHub repos.
+[CodeQL]            | `Security` | GitHub-native static code analysis that catches security issues before they ship.
+[Socket.dev]        | `Security` | Real-time protection from malicious or hijacked npm packages.
+[Let's Encrypt]     | `Security` | Free automated TLS/SSL certificates.
+[CryptoMator]       | `Security` | End-to-end encryption for cloud storage.
+[Sauce Labs]        | `Testing` | Cross-browser cloud testing platform.
+[GitHub]            | `Version Control` | Code hosting platform with collaboration, CI/CD, and issue tracking.
+[BitBucket]         | `Version Control` | Git solution from Atlassian, integrates with Jira and Trello.
+[GitLab]            | `Version Control` | Full DevOps lifecycle tool, Git hosting and pipelines.
+[Azure Repos]       | `Version Control` | Git repos integrated with Azure DevOps.
+[AWS CodeCommit]    | `Version Control` | Private Git hosting from Amazon Web Services.
 
 ---
 
@@ -122,16 +122,16 @@ Site           | Category     | Description
 
 Site               | Category     | Description
 ------------------ | ------------ | ------------------------------------------
-[Vercel Analytics] | `Performance`  | Track real-user metrics like TTFB, CLS, and LCP.
-[Highlight.io]     | `Monitoring`   | Session replay, error tracking, and logging in one SDK.
-[Sentry]           | `Monitoring`   | Catch and triage frontend/backend exceptions.
 [PostHog Cloud]    | `Analytics`    | Event tracking, feature flags, and product analytics.
-[Resend]           | `Email`        | Send up to 3,000 emails/month on the free tier.
-[Mailersend]       | `Email`        | 3,000 free emails/month with analytics and templates.
-[Crisp Chat]       | `Support`      | Free live chat widget with a shared inbox.
+[Plausible Cloud]  | `Analytics`    | Free for sites under 10k monthly page views.
 [Stripe]           | `Billing`      | No platform fee, pay only transaction costs.
 [LemonSqueezy]     | `Billing`      | Free until you earn revenue (fees only on transactions).
-[Plausible Cloud]  | `Analytics`    | Free for sites under 10k monthly page views.
+[Resend]           | `Email`        | Send up to 3,000 emails/month on the free tier.
+[Mailersend]       | `Email`        | 3,000 free emails/month with analytics and templates.
+[Highlight.io]     | `Monitoring`   | Session replay, error tracking, and logging in one SDK.
+[Sentry]           | `Monitoring`   | Catch and triage frontend/backend exceptions.
+[Vercel Analytics] | `Performance`  | Track real-user metrics like TTFB, CLS, and LCP.
+[Crisp Chat]       | `Support`      | Free live chat widget with a shared inbox.
 
 ---
 
@@ -316,7 +316,7 @@ Site               | Category     | Description
 [Free Programming Books]: https://github.com/EbookFoundation/free-programming-books#readme
 [PocketBase]: https://github.com/benallfree/awesome-pocketbase#readme
 [Certificates]: https://github.com/PanXProject/awesome-certificates#readme
-[Cyber Security University]: https://github.com/brootware/awesome-cyber-security-university#readme)
+[Cyber Security University]: https://github.com/brootware/awesome-cyber-security-university#readme
 [Robotic Tooling]: https://github.com/protontypes/awesome-robotic-tooling#readme
 [Tor]: https://github.com/polycarbohydrate/awesome-tor#readme
 [Free for Developers]: https://github.com/ripienaar/free-for-dev#readme

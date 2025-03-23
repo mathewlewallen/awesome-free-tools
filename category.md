@@ -340,7 +340,7 @@ Tool | Description | Pricing Tier
 [Free Programming Books]: https://github.com/EbookFoundation/free-programming-books#readme
 [PocketBase]: https://github.com/benallfree/awesome-pocketbase#readme
 [Certificates]: https://github.com/PanXProject/awesome-certificates#readme
-[Cyber Security University]: https://github.com/brootware/awesome-cyber-security-university#readme)
+[Cyber Security University]: https://github.com/brootware/awesome-cyber-security-university#readme
 [Robotic Tooling]: https://github.com/protontypes/awesome-robotic-tooling#readme
 [Tor]: https://github.com/polycarbohydrate/awesome-tor#readme
 [Free for Developers]: https://github.com/ripienaar/free-for-dev#readme
