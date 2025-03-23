@@ -43,23 +43,25 @@ Add new tools in the appropriate pricing section and place them at the **bottom*
 
 Choose from the following categories:
 
-- Analytics  
-- Automation  
-- Billing  
-- CMS  
-- DevOps  
-- Email  
-- Feature Flags  
-- Localization  
-- Logging  
-- Media  
-- Monitoring  
-- Notifications  
-- Performance  
-- Scheduling  
-- Security  
-- Status Page  
+- AI
+- Analytics
+- Billing
+- Code Quality
+- DevOps
+- DNS/CDN
+- Editor
+- Email
+- Hosting
+- IDE
+- Monitoring
+- Performance
+- Playground
+- Scheduling
+- Scraping
+- Security
 - Support
+- Testing
+- Version Control
 
 > Need a new category? Justify it and ensure **at least one** relevant tool fits.
 
