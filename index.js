@@ -85,7 +85,7 @@ function writeCategoryFile(outputFile = 'category.md') {
 
   output += `\n\n---\n<p align="center">\n  <strong><ins><em><span style="font-size: 1.75em;">Free & Easy to Integrate</span></em></ins></strong>\n</p>\n\n`;
 
-  output += `**This is a curated list of tools that are:**\n\n- 🎯 Easy to integrate into **any app**  \n- 💸 Either **completely free**, has a **generous free tier**, or **free to self-host**  \n- 🧩 Drop-in with minimal config (CLI, SDK, GitHub Action, etc.)  \n- 🚀 Perfect for solo devs, MVPs, & indie hackers\n\n---\n\n`;
+  output += `**This is a curated list of tools that are:**\n\n- 🎯 Easy to integrate into **any app**  \n- 💸 Either **completely free** or has a **generous free tier**.  \n- 🧩 Drop-in with minimal config (CLI, SDK, GitHub Action, etc.)  \n- 🚀 Perfect for solo devs, MVPs, & indie hackers\n\n---\n\n`;
 
   Object.keys(tools).sort().forEach(category => {
     output += `## ${category}\n\n`;

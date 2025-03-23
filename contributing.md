@@ -12,7 +12,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 - Only submit tools that are:
   - **Completely free**
   - **Free with generous tier**
-  - **Free to self-host** (MIT, Apache-2.0, etc.)
+- Make sure the tool isn't on [**Awesome Self-hosted**](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - Use the correct **category** and **pricing tier**.
 - Check that the tool isn’t already in [`no-go-list.md`](no-go-list.md) before submitting.
 - Follow the PR [template](.github/PULL_REQUEST_TEMPLATE.md) and formatting guide.

@@ -9,7 +9,6 @@
 
 - [Completely Free (Hosted, No Limits)](#completely-free-hosted-no-limits)
 - [Free with Generous Tier](#free-with-generous-tier)
-- [Free to Self-Host](#free-to-self-host)
 - [Free Stuff](#free-stuff)
 - [Support](#support)
 - [Project Badges](#project-badges)
@@ -30,7 +29,7 @@ See [queue.md](queue.md) for tools being reviewed to add to the list.
 **This is a curated list of tools that are:**
 
 - 🎯 Easy to integrate into **any app**  
-- 💸 Either **completely free**, has a **generous free tier**, or **free to self-host**  
+- 💸 Either **completely free** or has a **generous free tier**  
 - 🧩 Drop-in with minimal config (CLI, SDK, GitHub Action, etc.)  
 - 🚀 Perfect for solo devs, MVPs, & indie hackers
 
@@ -68,31 +67,8 @@ Site               | Category     | Description
 
 ---
 
-## Free to Self-Host
-
+> Self-Hosted options are no longer listed.
 > Visit the [Awesome Self-Hosted Repo](https://github.com/awesome-selfhosted/awesome-selfhosted/tree/master) or their [website](https://awesome-selfhosted.net/) for more self-hosted options.
-
-> We will be phasing out of self-host options for this repo since they cover it very well.
-
-
-Site             | Category     | Description
----------------- | ------------ | ------------------------------------------
-[Plausible OSS]  | `Analytics`    | GDPR-compliant, cookie-free analytics.
-[Umami]          | `Analytics`    | Clean and simple analytics dashboard.
-[PostHog OSS]    | `Analytics`    | Event tracking, feature flags, heatmaps, session recording.
-[Sentry OSS]     | `Monitoring`   | Run your own instance for full control over logs.
-[Highlight OSS]  | `Monitoring`   | Session replay and logging via Docker.
-[Unleash]        | `Feature Flags`| Self-hosted feature flag platform.
-[Flagsmith]      | `Feature Flags`| Alternative to LaunchDarkly, fully open source.
-[Cal.com]        | `Scheduling`   | Open-source Calendly alternative.
-[Tolgee]         | `Localization` | In-context translation UI with self-hosting support.
-[TinaCMS]        | `CMS`          | Markdown-based CMS with inline editing.
-[Payload CMS]    | `CMS`          | Headless CMS with Mongo/Postgres and admin panel.
-[Contentlayer]   | `CMS`          | Markdown to TypeScript-powered content ingestion.
-[Next.js + MDX]  | `CMS`          | Combine markdown content with React components.
-[n8n]            | `Automation`   | Zapier-style automation platform, fully open source.
-[ELK Stack]      | `Logging`      | Elasticsearch, Logstash, and Kibana logging pipeline.
-[Fathom Lite]    | `Analytics`    | Lightweight, privacy-first website analytics.
 
 ---
 
@@ -202,20 +178,3 @@ Site             | Category     | Description
 [stripe]: https://stripe.com
 [lemonsqueezy]: https://lemonsqueezy.com
 [plausible cloud]: https://plausible.io
-
-[plausible oss]: https://github.com/plausible/analytics
-[umami]: https://github.com/umami-software/umami
-[posthog oss]: https://github.com/PostHog/posthog
-[sentry oss]: https://develop.sentry.dev/self-hosted/
-[highlight oss]: https://highlight.io/docs/general/self-host/self-host-overview
-[unleash]: https://github.com/Unleash/unleash
-[flagsmith]: https://github.com/Flagsmith/flagsmith
-[cal.com]: https://github.com/calcom/cal.com
-[tolgee]: https://github.com/tolgee/tolgee-platform
-[tinacms]: https://github.com/tinacms/tinacms
-[payload cms]: https://github.com/payloadcms/payload
-[contentlayer]: https://github.com/contentlayerdev/contentlayer
-[next.js + mdx]: https://nextjs.org/docs/advanced-features/using-mdx
-[n8n]: https://github.com/n8n-io/n8n
-[elk stack]: https://www.elastic.co/what-is/elk-stack
-[fathom lite]: https://github.com/usefathom/fathom

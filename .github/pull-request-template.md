@@ -4,6 +4,7 @@
 
 - [ ] I've read the [contribution guidelines](contributing.md).
 - [ ] The tool is not already on the [Awesome Free Tools List](README.md)
+- [ ] The tool is not listed on [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [ ] This tool fits one of the existing pricing tiers and categories.
 - [ ] The tool is easy to integrate and provides developer-friendly docs or SDKs.
 - [ ] I have verified the tool is currently maintained and not deprecated.
@@ -23,7 +24,7 @@
 <!-- Example: https://logsnag.com -->
 
 **Pricing Tier:**  
-<!-- Select one: Completely Free / Generous Free Tier / Free to Self-Host -->
+<!-- Select one: Completely Free / Generous Free Tier -->
 
 **Category:**  
 <!-- Example: Analytics, CMS, Scheduling, Email, etc. -->
