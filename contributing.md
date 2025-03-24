@@ -119,4 +119,11 @@ Need help? [Learn how to amend a PR.](https://github.com/RichardLitt/knowledge/b
 
 ---
 
+### Maintainers
+
+- [@mathewlewallen](https://github.com/mathewlewallen) — Creator
+- [@A-4-Atom](https://github.com/A-4-Atom) — Maintainer
+
+> Pull Requests will be reviewed by one of the maintainers (@mathewlewallen or @A-4-Atom).
+
 Thank you for helping developers find better tools 🚀

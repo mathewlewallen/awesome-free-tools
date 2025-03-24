@@ -168,6 +168,11 @@ Site               | Category     | Description
 >
 > If you want to become a maintainer, [then do so here.](https://github.com/mathewlewallen/awesome-free-tools/issues/1)
 
+### Maintainers
+
+- [@mathewlewallen](https://github.com/mathewlewallen) — Creator
+- [@A-4-Atom](https://github.com/A-4-Atom) — Maintainer
+
 [↑ Back to Top](#top)
 
 ---
