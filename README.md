@@ -3,7 +3,7 @@
 > A curated list of free tools that are developer-friendly and easy to integrate to any application.
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-2e3359?logo=buymeacoffee)](https://buymeacoffee.com/mathewlewallen) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-2e3359) ![Made for Everyone](https://img.shields.io/badge/Made%20for-Everyone-2e3359) ![Open Source](https://img.shields.io/badge/open%20source-%E2%9C%94-2e3359) [![](https://img.shields.io/liberapay/goal/mathewlewallen?logo=liberapay)](https://liberapay.com/mathewlewallen/)
----
+
 
 ## Contents
 
@@ -25,17 +25,15 @@ See [queue.md](queue.md) for tools being reviewed to add to the list.
 <p align="center">
   <strong><ins><em><span style="font-size: 1.75em;">Free & Easy to Integrate</span></em></ins></strong>
 </p>
-
-**This is a curated list of tools that are:**
-
-- 🎯 Easy to integrate into **any app**  
-- 💸 Either **completely free** or has a **generous free tier**  
-- 🧩 Drop-in with minimal config (CLI, SDK, GitHub Action, etc.)  
-- 🚀 Perfect for solo devs, MVPs, & indie hackers
-
+<strong><h3>This is a curated list of tools that are:</h3></strong>
+<ul>
+  <li>🎯 Easy to integrate into <strong>any app</strong></li>
+  <li>💸 Either <strong>completely free</strong> or has a <strong>generous free tier</strong></li>
+  <li>🧩 Drop-in with minimal config (CLI, SDK, GitHub Action, etc.)</li>
+  <li>🚀 Perfect for solo devs, MVPs, & indie hackers</li>
+</ul>
 
 ---
-<br/>
 
 ## Completely Free (Hosted, No Limits)
 
@@ -46,7 +44,7 @@ Site                | Category     | Description
 [Microsoft CoPilot] | `AI` | AI integrated into Microsoft 365 tools and GitHub.
 [DeepSeek]          | `AI` | AI-powered search and assistant.
 [Claude]            | `AI` | AI by Anthropic with a strong focus on ethical alignment.
-[Codium]            | `AI` | Codeium’s AI code assistant.
+[Codium]            | `AI` | Codeium's AI code assistant.
 [Qodo]              | `AI` | AI programming partner.
 [AWS Free Tier]     | `Cloud` | Cloud services with always-free and trial tiers.
 [Microsoft Azure Free Tier] | `Cloud` | Microsoft cloud services with free quotas and credits.
@@ -86,7 +84,7 @@ Site                | Category     | Description
 [Cloud9]            | `IDE` | AWS-hosted online IDE.
 [Koding]            | `IDE` | Cloud development environments.
 [Pingdom]           | `Monitoring` | Uptime and performance monitoring.
-[PageSpeed Insights] | `Performance` | Google’s tool for analyzing web performance.
+[PageSpeed Insights] | `Performance` | Google's tool for analyzing web performance.
 [WebPageTest]       | `Performance` | Real browser-based performance testing.
 [GTMetrix]          | `Performance` | Website speed and performance reports.
 [JSFiddle]          | `Playground` | Live HTML/CSS/JS editor with preview.
@@ -170,8 +168,8 @@ Site               | Category     | Description
 
 ### Maintainers
 
-- [@mathewlewallen](https://github.com/mathewlewallen) — Creator
-- [@A-4-Atom](https://github.com/A-4-Atom) — Maintainer
+- [@mathewlewallen](https://github.com/mathewlewallen) - Creator.
+- [@A-4-Atom](https://github.com/A-4-Atom) - Maintainer.
 
 [↑ Back to Top](#top)
 
@@ -235,74 +233,74 @@ Site               | Category     | Description
 [turborepo cache]: https://turbo.build/repo/docs/core-concepts/remote-caching
 [calendly embed]: https://help.calendly.com/hc/en-us/articles/223147027-Embed-options-overview
 [slack github action]: https://github.com/marketplace/actions/slack-notify
-[ChatGPT]: https://chatgpt.com
-[Google Gemini]: https://gemini.google.com
-[Microsoft CoPilot]: https://copilot.microsoft.com
-[DeepSeek]: https://www.deepseek.com
-[Claude]: https://claude.ai
-[GitHub]: https://github.com
-[BitBucket]: https://bitbucket.com
-[GitLab]: https://gitlab.com
-[Azure Repos]: https://azure.microsoft.com/en-us/products/devops/repos
-[AWS CodeCommit]: https://aws.amazon.com/codecommit/
-[AWS Free Tier]: https://aws.amazon.com
-[Microsoft Azure Free Tier]: https://azure.microsoft.com
-[Google Cloud Free Tier]: https://cloud.google.com
-[Digital Ocean]: https://digitalocean.com
-[GitHub Pages]: https://pages.github.com
-[Firebase Hosting]: https://firebase.google.com/products/hosting
-[Netlify]: https://www.netlify.com
-[Vercel]: https://vercel.com
-[Amazon S3]: https://aws.amazon.com/s3/
-[Surge]: https://surge.sh
-[Lark Email]: https://www.larksuite.com/en_us/product/email
-[CloudFlare]: https://www.cloudflare.com/
-[ClouDNS]: https://cloudns.net/
-[Let's Encrypt]: https://letsencrypt.org/
-[Pingdom]: http://tools.pingdom.com/fpt
-[PageSpeed Insights]: https://developers.google.com/speed/pagespeed/insights
-[WebPageTest]: http://www.webpagetest.org/
-[GTMetrix]: http://gtmetrix.com/
-[Import.io]: https://www.import.io/
-[WebHose]: https://webhose.io/scraping-tools
-[Dexi.io]: https://dexi.io/
-[ParseHub]: https://www.parsehub.com/
-[80Legs]: http://80legs.com/
-[ScrapingHub]: https://scrapinghub.com/
-[Scrapy]: https://scrapy.org/
-[Scraper (Chrome)]: https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd
-[Web Scraper (Chrome)]: https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
-[Abstract Web Scraping API]: https://www.abstractapi.com/web-scraping-api
-[VSCode]: https://code.visualstudio.com/
-[Visual Studio]: https://www.visualstudio.com/
-[Sublime Text]: https://www.sublimetext.com/
-[WebStorm]: https://www.jetbrains.com/webstorm/
-[NetBeans]: http://netbeans.org/
-[Eclipse]: https://eclipse.org/
-[JetBrains IDEs]: https://www.jetbrains.com/ides/
-[Google IDX]: https://idx.dev
-[VSCode.dev]: https://vscode.dev
-[Windsurf]: https://codeium.com/windsurf
-[CodeAnywhere]: https://codeanywhere.com
-[Cloud9]: https://c9.io
-[Koding]: https://koding.com
-[Humanitec]: https://humanitec.com
-[Codium]: https://codeium.com
-[Qodo]: https://www.qodo.ai
-[JSFiddle]: https://jsfiddle.net
-[Plunker]: https://plnkr.co/
-[CodePen]: http://codepen.io/
-[JSBin]: https://jsbin.com/
-[Docker]: https://www.docker.com
-[Laragon]: https://laragon.org
-[XAMPP]: https://www.apachefriends.org
-[FileZilla]: https://filezilla-project.org/
-[FreeFileSync]: https://freefilesync.org/
-[CryptoMator]: https://cryptomator.org/
-[WinSCP]: https://winscp.net
-[PuTTY]: http://www.putty.org/
-[Sauce Labs]: https://saucelabs.com/
-[Code Climate]: https://codeclimate.com
+[chatgpt]: https://chatgpt.com
+[google gemini]: https://gemini.google.com
+[microsoft copilot]: https://copilot.microsoft.com
+[deepseek]: https://www.deepseek.com
+[claude]: https://claude.ai
+[github]: https://github.com
+[bitbucket]: https://bitbucket.com
+[gitlab]: https://gitlab.com
+[azure repos]: https://azure.microsoft.com/en-us/products/devops/repos
+[aws codecommit]: https://aws.amazon.com/codecommit/
+[aws free tier]: https://aws.amazon.com
+[microsoft azure free tier]: https://azure.microsoft.com
+[google cloud free tier]: https://cloud.google.com
+[digital ocean]: https://digitalocean.com
+[github pages]: https://pages.github.com
+[firebase hosting]: https://firebase.google.com/products/hosting
+[netlify]: https://www.netlify.com
+[vercel]: https://vercel.com
+[amazon s3]: https://aws.amazon.com/s3/
+[surge]: https://surge.sh
+[lark email]: https://www.larksuite.com/en_us/product/email
+[cloudflare]: https://www.cloudflare.com/
+[cloudns]: https://cloudns.net/
+[let's encrypt]: https://letsencrypt.org/
+[pingdom]: http://tools.pingdom.com/fpt
+[pagespeed insights]: https://developers.google.com/speed/pagespeed/insights
+[webpagetest]: http://www.webpagetest.org/
+[gtmetrix]: http://gtmetrix.com/
+[import.io]: https://www.import.io/
+[webhose]: https://webhose.io/scraping-tools
+[dexi.io]: https://dexi.io/
+[parsehub]: https://www.parsehub.com/
+[80legs]: http://80legs.com/
+[scrapinghub]: https://scrapinghub.com/
+[scrapy]: https://scrapy.org/
+[scraper (chrome)]: https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd
+[web scraper (chrome)]: https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
+[abstract web scraping api]: https://www.abstractapi.com/web-scraping-api
+[vscode]: https://code.visualstudio.com/
+[visual studio]: https://www.visualstudio.com/
+[sublime text]: https://www.sublimetext.com/
+[webstorm]: https://www.jetbrains.com/webstorm/
+[netbeans]: http://netbeans.org/
+[eclipse]: https://eclipse.org/
+[jetbrains ides]: https://www.jetbrains.com/ides/
+[google idx]: https://idx.dev
+[vscode.dev]: https://vscode.dev
+[windsurf]: https://codeium.com/windsurf
+[codeanywhere]: https://codeanywhere.com
+[cloud9]: https://c9.io
+[koding]: https://koding.com
+[humanitec]: https://humanitec.com
+[codium]: https://codeium.com
+[qodo]: https://www.qodo.ai
+[jsfiddle]: https://jsfiddle.net
+[plunker]: https://plnkr.co/
+[codepen]: http://codepen.io/
+[jsbin]: https://jsbin.com/
+[docker]: https://www.docker.com
+[laragon]: https://laragon.org
+[xampp]: https://www.apachefriends.org
+[filezilla]: https://filezilla-project.org/
+[freefilesync]: https://freefilesync.org/
+[cryptomator]: https://cryptomator.org/
+[winscp]: https://winscp.net
+[putty]: http://www.putty.org/
+[sauce labs]: https://saucelabs.com/
+[code climate]: https://codeclimate.com
 
 <!-- Generous Free Tier -->
 [vercel analytics]: https://vercel.com/docs/analytics
@@ -317,14 +315,14 @@ Site               | Category     | Description
 [plausible cloud]: https://plausible.io
 
 <!-- Free Stuff -->
-[KDE]: https://github.com/francoism90/awesome-kde#readme
-[Free Programming Books]: https://github.com/EbookFoundation/free-programming-books#readme
-[PocketBase]: https://github.com/benallfree/awesome-pocketbase#readme
-[Certificates]: https://github.com/PanXProject/awesome-certificates#readme
-[Cyber Security University]: https://github.com/brootware/awesome-cyber-security-university#readme
-[Robotic Tooling]: https://github.com/protontypes/awesome-robotic-tooling#readme
-[Tor]: https://github.com/polycarbohydrate/awesome-tor#readme
-[Free for Developers]: https://github.com/ripienaar/free-for-dev#readme
-[Free Software]: https://github.com/johnjago/awesome-free-software#readme
-[Web Monetization]: https://github.com/thomasbnt/awesome-web-monetization#readme
-[Open Source Supporters]: https://github.com/zachflower/awesome-open-source-supporters#readme
+[kde]: https://github.com/francoism90/awesome-kde#readme
+[free programming books]: https://github.com/EbookFoundation/free-programming-books#readme
+[pocketbase]: https://github.com/benallfree/awesome-pocketbase#readme
+[certificates]: https://github.com/PanXProject/awesome-certificates#readme
+[cyber security university]: https://github.com/brootware/awesome-cyber-security-university#readme
+[robotic tooling]: https://github.com/protontypes/awesome-robotic-tooling#readme
+[tor]: https://github.com/polycarbohydrate/awesome-tor#readme
+[free for developers]: https://github.com/ripienaar/free-for-dev#readme
+[free software]: https://github.com/johnjago/awesome-free-software#readme
+[web monetization]: https://github.com/thomasbnt/awesome-web-monetization#readme
+[open source supporters]: https://github.com/zachflower/awesome-open-source-supporters#readme
