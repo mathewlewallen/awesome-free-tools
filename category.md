@@ -222,6 +222,7 @@ Tool | Description | Pricing Tier
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
 [Sauce Labs] | Cross-browser cloud testing platform. | Completely Free (Hosted, No Limits)
+[HttpMaster] | HTTP testing and debugging tool. | Completely Free (Hosted, No Limits)
 
 ## Version Control
 
@@ -326,6 +327,7 @@ Tool | Description | Pricing Tier
 [putty]: http://www.putty.org/
 [sauce labs]: https://saucelabs.com/
 [code climate]: https://codeclimate.com
+[httpmaster]: https://www.httpmaster.net/
 [vercel analytics]: https://vercel.com/docs/analytics
 [highlight.io]: https://highlight.io
 [sentry]: https://sentry.io
