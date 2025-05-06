@@ -108,6 +108,7 @@ Site                | Category     | Description
 [Let's Encrypt]     | `Security` | Free automated TLS/SSL certificates.
 [CryptoMator]       | `Security` | End-to-end encryption for cloud storage.
 [Sauce Labs]        | `Testing` | Cross-browser cloud testing platform.
+[HttpMaster]        | `Testing` | HTTP testing and debugging tool.
 [GitHub]            | `Version Control` | Code hosting platform with collaboration, CI/CD, and issue tracking.
 [BitBucket]         | `Version Control` | Git solution from Atlassian, integrates with Jira and Trello.
 [GitLab]            | `Version Control` | Full DevOps lifecycle tool, Git hosting and pipelines.
@@ -301,6 +302,7 @@ Site               | Category     | Description
 [putty]: http://www.putty.org/
 [sauce labs]: https://saucelabs.com/
 [code climate]: https://codeclimate.com
+[httpmaster]: https://www.httpmaster.net/
 
 <!-- Generous Free Tier -->
 [vercel analytics]: https://vercel.com/docs/analytics
