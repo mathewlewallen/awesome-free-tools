@@ -45,9 +45,11 @@ Choose from the following categories:
 
 - AI
 - Analytics
+- Auth
 - Billing
 - Code Quality
 - DevOps
+- Design
 - DNS/CDN
 - Editor
 - Email

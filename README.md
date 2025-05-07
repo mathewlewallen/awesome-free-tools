@@ -41,21 +41,17 @@ Site                | Category     | Description
 ------------------- | ------------ | ------------------------------------------
 [ChatGPT]           | `AI` | Conversational AI model for code and productivity tasks.
 [Google Gemini]     | `AI` | Multimodal AI platform from Google for writing, coding, and image tasks.
-[Microsoft CoPilot] | `AI` | AI integrated into Microsoft 365 tools and GitHub.
 [DeepSeek]          | `AI` | AI-powered search and assistant.
 [Claude]            | `AI` | AI by Anthropic with a strong focus on ethical alignment.
-[Codium]            | `AI` | Codeium's AI code assistant.
 [Qodo]              | `AI` | AI programming partner.
 [AWS Free Tier]     | `Cloud` | Cloud services with always-free and trial tiers.
-[Microsoft Azure Free Tier] | `Cloud` | Microsoft cloud services with free quotas and credits.
-[Google Cloud Free Tier]    | `Cloud` | GCP services with free-tier access and generous trial.
-[Digital Ocean]     | `Cloud` | Developer-focused cloud platform with scalable infrastructure.
-[Code Climate]      | `Code Quality` | Automated code review and test coverage.
+[Microsoft Azure Free Tier] | `Cloud` | Microsoft cloud services with free quotas and credits. Look into the $$$ credit and extras.
+[Google Cloud Free Tier]    | `Cloud` | GCP services with free-tier access and generous trial. Look into the $$$ extras.
+[Code Climate]      | `Code Quality` | Automated code review and test coverage (Free for OSS).
 [CloudFlare]        | `DNS/CDN` | Global CDN, DDoS protection, DNS, and analytics.
 [ClouDNS]           | `DNS/CDN` | Managed DNS hosting provider.
 [Turborepo Cache]   | `DevOps` | Free on Vercel, speeds up builds across monorepo packages.
 [Slack GitHub Action] | `DevOps` | Sends deploy, PR, or error notifications directly to your Slack.
-[Humanitec]         | `DevOps` | Internal developer platform for building golden paths.
 [Docker]            | `DevOps` | Container platform for building and deploying apps.
 [Laragon]           | `DevOps` | Local server for Windows.
 [XAMPP]             | `DevOps` | Local development environment for PHP and MySQL.
@@ -63,7 +59,6 @@ Site                | Category     | Description
 [FreeFileSync]      | `DevOps` | Folder comparison and synchronization tool.
 [WinSCP]            | `DevOps` | SFTP, FTP, and SCP client for file transfer.
 [PuTTY]             | `DevOps` | Terminal emulator and SSH client.
-[Sublime Text]      | `Editor` | Fast, lightweight code editor with plugin ecosystem.
 [Lark Email]        | `Email` | Business email from the Lark Suite.
 [GitHub Pages]      | `Hosting` | Free static site hosting directly from GitHub repos.
 [Firebase Hosting]  | `Hosting` | Google service to host and deploy static and dynamic content.
@@ -73,7 +68,6 @@ Site                | Category     | Description
 [Surge]             | `Hosting` | Static site publishing for frontend devs via CLI.
 [VSCode]            | `IDE` | Open source code editor from Microsoft.
 [Visual Studio]     | `IDE` | Full-featured IDE for Windows development.
-[WebStorm]          | `IDE` | JetBrains JavaScript IDE.
 [NetBeans]          | `IDE` | Apache IDE for Java and other languages.
 [Eclipse]           | `IDE` | IDE for Java and web development.
 [JetBrains IDEs]    | `IDE` | Professional tools for web and enterprise languages.
@@ -82,7 +76,7 @@ Site                | Category     | Description
 [Windsurf]          | `IDE` | AI-powered coding experience by Codeium.
 [CodeAnywhere]      | `IDE` | Cloud IDE for remote teams and containers.
 [Cloud9]            | `IDE` | AWS-hosted online IDE.
-[Koding]            | `IDE` | Cloud development environments.
+[Koding]            | `IDE` | Cloud development environments (Free for OSS).
 [Pingdom]           | `Monitoring` | Uptime and performance monitoring.
 [PageSpeed Insights] | `Performance` | Google's tool for analyzing web performance.
 [WebPageTest]       | `Performance` | Real browser-based performance testing.
@@ -93,7 +87,7 @@ Site                | Category     | Description
 [JSBin]             | `Playground` | JS testing tool with live code sharing.
 [Calendly Embed]    | `Scheduling` | Add meeting scheduling links or inline widgets with no backend.
 [Import.io]         | `Scraping` | Extract structured data from any website.
-[WebHose]           | `Scraping` | Web data crawling and scraping API.
+[Webz.io]           | `Scraping` | Web data crawling and scraping API.
 [Dexi.io]           | `Scraping` | Visual web scraping and data automation tool.
 [ParseHub]          | `Scraping` | Extract data from websites using a visual builder.
 [80Legs]            | `Scraping` | Web crawling and scraping engine.
@@ -114,6 +108,42 @@ Site                | Category     | Description
 [GitLab]            | `Version Control` | Full DevOps lifecycle tool, Git hosting and pipelines.
 [Azure Repos]       | `Version Control` | Git repos integrated with Azure DevOps.
 [AWS CodeCommit]    | `Version Control` | Private Git hosting from Amazon Web Services.
+[DevDocs] | `Development` | Fast, searchable documentation browser with offline mode for 100-plus languages & APIs.
+[Coolify Status] | `Monitoring` | Open-source status-page dashboard for uptime and incident tracking.
+[Haikei] | `Design` | SVG background generator for waves, blobs, gradients, and more.
+[NotebookLM] | `AI` | Google AI research assistant that answers questions about your uploaded docs.
+[Mistral AI Playground] | `AI` | No-login playground to test Mixtral and other Mistral open LLMs.
+[Open WebUI] | `AI` | ChatGPT-style UI for interacting with local LLMs such as LLaMA and Mistral.
+[GoatCounter] | `Analytics` | Lightweight, privacy-respecting web analytics.
+[Better Uptime] | `Monitoring` | Free uptime monitoring with email/SMS alerts and a hosted status page.
+[Ray.so] | `Design` | Create beautiful code screenshots with customizable themes.
+[Iconshock Free Bundle] | `Design` | Thousands of editable, royalty-free SVG/PNG icon sets.
+[Diagrams.net] | `Design` | Diagramming tool for flowcharts, architecture, org charts, and more.
+[SmallDev.tools] | `Utilities` | Online formatters, validators, and developer helpers—no signup.
+[Klotho] | `DevTools` | CLI that converts application code into cloud infrastructure.
+[OpenAPI.Tools] | `API` | Directory of free tools for designing and testing OpenAPI specs.
+[Kandinsky 3 Playground] | `AI` | Image generator powered by Sberbank’s Kandinsky diffusion model.
+[Langfuse OSS] | `Observability` | Analytics & tracing platform for LLM apps (open source).
+[Tails] | `UI Kit` | Library of modern Tailwind CSS components and templates.
+[Neobrutalism Components] | `UI Kit` | Brutalist Tailwind component library for landing pages.
+[Documenso] | `Utilities` | Open-source digital document-signing platform.
+[Public APIs] | `API` | Searchable index of free public APIs with examples.
+[OpenPeeps] | `Design` | Hand-drawn vector illustration library for UI mock-ups.
+[Hoppscotch] | `API` | Open-source API client for REST, GraphQL and WebSocket testing.
+[Tana Packer] | `Productivity` | CLI to export Tana outlines to Markdown.
+[Snippet Generator] | `DevTools` | Generate styled code-snippet images for sharing.
+[FreeCodeCamp] | `Education` | Full coding curriculum with certifications and projects.
+[Sourcegraph Cody] | `AI` | AI assistant for code navigation and refactoring (VS Code & CLI).
+[Carbon] | `Design` | Convert code snippets to share-ready images.
+[Astro] | `Development` | Static-site framework that ships zero JS by default.
+[OpenUI] | `UI Kit` | Community spec & resources for accessible custom elements.
+[Fontshare] | `Design` | Free, high-quality commercial-use fonts.
+[Mailtolink.me] | `Utilities` | Generate custom `mailto:` links with pre-filled fields.
+[Responsively App] | `DevTools` | Browser to test websites across multiple viewports simultaneously.
+[Snapdrop] | `Utilities` | Browser-based AirDrop alternative for local file transfers.
+[Runno Playground] | `Playground` | Runs C, Python, Ruby, Lua, etc. in-browser via WebAssembly.
+[Turborepo] | `Tooling` | High-performance build system for JS/TS monorepos.
+[Monaspace Fonts] | `Design` | Distinctive family of monospaced fonts by GitHub.
 
 ---
 
@@ -123,6 +153,7 @@ Site               | Category     | Description
 ------------------ | ------------ | ------------------------------------------
 [PostHog Cloud]    | `Analytics`    | Event tracking, feature flags, and product analytics.
 [Plausible Cloud]  | `Analytics`    | Free for sites under 10k monthly page views.
+[AuthO]              | `Auth` | Authentication/authorization platform.
 [Stripe]           | `Billing`      | No platform fee, pay only transaction costs.
 [LemonSqueezy]     | `Billing`      | Free until you earn revenue (fees only on transactions).
 [Resend]           | `Email`        | Send up to 3,000 emails/month on the free tier.
@@ -131,6 +162,15 @@ Site               | Category     | Description
 [Sentry]           | `Monitoring`   | Catch and triage frontend/backend exceptions.
 [Vercel Analytics] | `Performance`  | Track real-user metrics like TTFB, CLS, and LCP.
 [Crisp Chat]       | `Support`      | Free live chat widget with a shared inbox.
+[Replit Ghostwriter] | `AI` | Coding assistant inside Replit IDE; Starter plan free for 3 public projects.
+[LottieFiles] | `Design` | JSON animation marketplace/editor; free unlimited previews and basic editing.
+[Pipedream] | `Automation` | Serverless workflows with 100 000+ monthly executions free.
+[Hookdeck] | `Automation` | Webhook ingestion platform; 100 000 monthly events on the dev tier.
+[Mintlify Writer] | `Documentation` | AI documentation editor; hobby plan free for 1 user & custom domain.
+[SimpleLogin] | `Privacy` | Create up to 15 email aliases to hide your real address.
+[Pinggy] | `DevTools` | Instant public URLs & tunnels to localhost; unlimited free bandwidth.
+[StackBlitz] | `Development` | Browser IDE; unlimited public projects & repos on free plan.
+[Formbricks] | `Analytics` | Surveys & product feedback; unlimited surveys, 1 000 responses/mo free.
 
 ---
 
@@ -236,7 +276,6 @@ Site               | Category     | Description
 [slack github action]: https://github.com/marketplace/actions/slack-notify
 [chatgpt]: https://chatgpt.com
 [google gemini]: https://gemini.google.com
-[microsoft copilot]: https://copilot.microsoft.com
 [deepseek]: https://www.deepseek.com
 [claude]: https://claude.ai
 [github]: https://github.com
@@ -247,7 +286,6 @@ Site               | Category     | Description
 [aws free tier]: https://aws.amazon.com
 [microsoft azure free tier]: https://azure.microsoft.com
 [google cloud free tier]: https://cloud.google.com
-[digital ocean]: https://digitalocean.com
 [github pages]: https://pages.github.com
 [firebase hosting]: https://firebase.google.com/products/hosting
 [netlify]: https://www.netlify.com
@@ -263,7 +301,7 @@ Site               | Category     | Description
 [webpagetest]: http://www.webpagetest.org/
 [gtmetrix]: http://gtmetrix.com/
 [import.io]: https://www.import.io/
-[webhose]: https://webhose.io/scraping-tools
+[Webz.io]: https://Webz.io
 [dexi.io]: https://dexi.io/
 [parsehub]: https://www.parsehub.com/
 [80legs]: http://80legs.com/
@@ -274,8 +312,6 @@ Site               | Category     | Description
 [abstract web scraping api]: https://www.abstractapi.com/web-scraping-api
 [vscode]: https://code.visualstudio.com/
 [visual studio]: https://www.visualstudio.com/
-[sublime text]: https://www.sublimetext.com/
-[webstorm]: https://www.jetbrains.com/webstorm/
 [netbeans]: http://netbeans.org/
 [eclipse]: https://eclipse.org/
 [jetbrains ides]: https://www.jetbrains.com/ides/
@@ -285,8 +321,6 @@ Site               | Category     | Description
 [codeanywhere]: https://codeanywhere.com
 [cloud9]: https://c9.io
 [koding]: https://koding.com
-[humanitec]: https://humanitec.com
-[codium]: https://codeium.com
 [qodo]: https://www.qodo.ai
 [jsfiddle]: https://jsfiddle.net
 [plunker]: https://plnkr.co/
@@ -303,8 +337,45 @@ Site               | Category     | Description
 [sauce labs]: https://saucelabs.com/
 [code climate]: https://codeclimate.com
 [httpmaster]: https://www.httpmaster.net/
+[DevDocs]: https://devdocs.io
+[Coolify Status]: https://github.com/coollabsio/status
+[Haikei]: https://haikei.app
+[NotebookLM]: https://notebooklm.google.com
+[Mistral AI Playground]: https://huggingface.co/spaces/mistralai
+[Open WebUI]: https://github.com/open-webui/open-webui
+[GoatCounter]: https://www.goatcounter.com
+[Better Uptime]: https://betteruptime.com
+[Ray.so]: https://ray.so
+[Iconshock Free Bundle]: https://www.iconshock.com/free-icons
+[Diagrams.net]: https://www.diagrams.net
+[SmallDev.tools]: https://smalldev.tools
+[Klotho]: https://klo.dev
+[OpenAPI.Tools]: https://openapi.tools
+[Kandinsky 3 Playground]: https://fusionbrain.ai
+[Langfuse OSS]: https://github.com/langfuse/langfuse
+[Tails]: https://tails.blotter.com
+[Neobrutalism Components]: https://neobrutalism-components.vercel.app
+[Documenso]: https://documenso.com
+[Public APIs]: https://public-apis.io
+[OpenPeeps]: https://www.openpeeps.com
+[Hoppscotch]: https://hoppscotch.io
+[Tana Packer]: https://github.com/tanapacker/tana-packer
+[Snippet Generator]: https://snippet-generator.app
+[FreeCodeCamp]: https://www.freecodecamp.org
+[Sourcegraph Cody]: https://sourcegraph.com/cody
+[Carbon]: https://carbon.now.sh
+[Astro]: https://astro.build
+[OpenUI]: https://openui.org
+[Fontshare]: https://www.fontshare.com
+[Mailtolink.me]: https://mailtolink.me
+[Responsively App]: https://responsively.appsimultaneously.app
+[Snapdrop]: https://snapdrop.net
+[Runno Playground]: https://play.runno.dev
+[Turborepo]: https://turbo.build/repo
+[Monaspace Fonts]: https://monaspace.githubnext.com
 
 <!-- Generous Free Tier -->
+[authO]: https://auth0.com/
 [vercel analytics]: https://vercel.com/docs/analytics
 [highlight.io]: https://highlight.io
 [sentry]: https://sentry.io
@@ -315,6 +386,15 @@ Site               | Category     | Description
 [stripe]: https://stripe.com
 [lemonsqueezy]: https://lemonsqueezy.com
 [plausible cloud]: https://plausible.io
+[Replit Ghostwriter]: https://replit.com
+[LottieFiles]: https://lottiefiles.com
+[Pipedream]: https://pipedream.com
+[Hookdeck]: https://hookdeck.com
+[Mintlify Writer]: https://mintlify.com
+[SimpleLogin]: https://simplelogin.io
+[Pinggy]: https://pinggy.io
+[StackBlitz]: https://stackblitz.com
+[Formbricks]: https://formbricks.com
 
 <!-- Free Stuff -->
 [kde]: https://github.com/francoism90/awesome-kde#readme
