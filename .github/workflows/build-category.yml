@@ -8,8 +8,8 @@ on:
   push:
     paths:
       - 'README.md'
-      - 'index.js'
-      - 'organize.js'
+      - 'actions/index.js'
+      - 'actions/organize.js'
       - '_partials/**'
 
 jobs:
@@ -28,7 +28,7 @@ jobs:
 
       - name: Run code orangization script
         id: organize
-        run: node organize.js
+        run: node actions/organize.js
         
       - name: Check organize.js success
         if: steps.organize.outcome != 'success'
@@ -38,7 +38,7 @@ jobs:
 
       - name: Run category generation script
         id: index
-        run: node index.js
+        run: node actions/index.js
         
       - name: Check index.js success
         if: steps.index.outcome != 'success'
