@@ -11,7 +11,6 @@
 
 - [Completely Free (Hosted, No Limits)](#completely-free-hosted-no-limits)
 - [Free with Generous Tier](#free-with-generous-tier)
-- [Support](#support)
 - [Project Badges](#project-badges)
 
 
