@@ -122,7 +122,7 @@ Site                | Category     | Description
 [SmallDev.tools] | `Utilities` | Online formatters, validators, and developer helpers—no signup.
 [Klotho] | `DevTools` | CLI that converts application code into cloud infrastructure.
 [OpenAPI.Tools] | `API` | Directory of free tools for designing and testing OpenAPI specs.
-[Kandinsky 3 Playground] | `AI` | Image generator powered by Sberbank’s Kandinsky diffusion model.
+[Kandinsky 3 Playground] | `AI` | Image generator powered by Sberbanks Kandinsky diffusion model.
 [Langfuse OSS] | `Observability` | Analytics & tracing platform for LLM apps (open source).
 [Tails] | `UI Kit` | Library of modern Tailwind CSS components and templates.
 [Neobrutalism Components] | `UI Kit` | Brutalist Tailwind component library for landing pages.
@@ -153,7 +153,7 @@ Site               | Category     | Description
 ------------------ | ------------ | ------------------------------------------
 [PostHog Cloud]    | `Analytics`    | Event tracking, feature flags, and product analytics.
 [Plausible Cloud]  | `Analytics`    | Free for sites under 10k monthly page views.
-[AuthO]              | `Auth` | Authentication/authorization platform.
+[Auth0]              | `Auth` | Authentication/authorization platform.
 [Stripe]           | `Billing`      | No platform fee, pay only transaction costs.
 [LemonSqueezy]     | `Billing`      | Free until you earn revenue (fees only on transactions).
 [Resend]           | `Email`        | Send up to 3,000 emails/month on the free tier.
@@ -301,7 +301,7 @@ Site               | Category     | Description
 [webpagetest]: http://www.webpagetest.org/
 [gtmetrix]: http://gtmetrix.com/
 [import.io]: https://www.import.io/
-[Webz.io]: https://Webz.io
+[webz.io]: https://Webz.io
 [dexi.io]: https://dexi.io/
 [parsehub]: https://www.parsehub.com/
 [80legs]: http://80legs.com/
@@ -343,7 +343,7 @@ Site               | Category     | Description
 [notebooklm]: https://notebooklm.google.com
 [mistral ai playground]: https://huggingface.co/spaces/mistralai
 [open webui]: https://github.com/open-webui/open-webui
-[gGoatcounter]: https://www.goatcounter.com
+[goatcounter]: https://www.goatcounter.com
 [better uptime]: https://betteruptime.com
 [ray.so]: https://ray.so
 [iconshock free bundle]: https://www.iconshock.com/free-icons
