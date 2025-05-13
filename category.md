@@ -374,7 +374,7 @@ Tool | Description | Pricing Tier
 
 ---
 
-## Footer
+## Footnotes
 
 Self-Hosted options are no longer listed.
 
