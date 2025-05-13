@@ -10,5 +10,9 @@ Each tool falls into one of the following categories:
 
 > If you're a maintainer of one of these tools and believe it deserves reconsideration, feel free to [open an issue](https://github.com/mathewlewallen/awesome-free-tools/issues) or [submit a pull request](contributing.md).
 
-Pika (Design) Paid service
-Have I Been PWNED API (Security) Requires paid subscription
+---
+
+Site | Category | Reason | Status
+-----|----------|--------|--------
+Pika | Design | Paid service | Rejected
+Have I Been PWNED API | Security | Requires paid subscription | Rejected
