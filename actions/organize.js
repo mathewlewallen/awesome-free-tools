@@ -3,140 +3,150 @@
 const fs = require('fs');
 
 const README_PATH = 'README.md';
-const HEADER_PATH = './_partials/header-main.md'; // Updated path
+const HEADER_PATH = './_partials/header-main.md';
 const README_DATA_PATH = './_partials/readme-data.md';
 const SUPPORT_PATH = './_partials/support.md';
 
 /**
- * Extract tool rows from a specific section from readme-data.md
+ * Extracts the tools and link references from readme-data.md
  */
-function extractToolsBySection(sectionHeading) {
-    const content = fs.readFileSync(README_DATA_PATH, 'utf-8');
-    const lines = content.split('\n');
+function extractReadmeData(filePath) {
+  const content = fs.readFileSync(filePath, 'utf-8');
+  const freeSectionStart = '## Completely Free (Hosted, No Limits)';
+  const generousTierStart = '## Free with Generous Tier';
+  const linkReferencesStart = '<!-- Completely Free -->';
 
-    const tools = [];
-    let inSection = false;
-    let passedHeader = false;
+  const freeSectionStartIndex = content.indexOf(freeSectionStart);
+  const generousTierStartIndex = content.indexOf(generousTierStart);
+  const linkReferencesStartIndex = content.indexOf(linkReferencesStart);
 
-    for (let i = 0; i < lines.length; i++) {
-        const line = lines[i];
+  if (freeSectionStartIndex === -1 || generousTierStartIndex === -1 || linkReferencesStartIndex === -1) {
+    console.error('Could not find sections in readme-data.md');
+    return { freeTools: [], generousTierTools: [], linkReferences: '' };
+  }
 
-        // Start capturing tools
-        if (line.startsWith(`## ${sectionHeading}`)) {
-            inSection = true;
-            continue;
-        }
+  const freeToolsText = content.substring(freeSectionStartIndex, generousTierStartIndex).trim();
+  const generousTierToolsText = content.substring(generousTierStartIndex, linkReferencesStartIndex).trim();
+  const linkReferences = content.substring(linkReferencesStartIndex).trim();
 
-        // Stop when we hit a new section or end of table
-        if (inSection && line.startsWith('## ')) {
-            break;
-        }
+  const freeTools = parseToolsFromMarkdownTable(freeToolsText);
+  const generousTierTools = parseToolsFromMarkdownTable(generousTierToolsText);
 
-        if (inSection) {
-            if (!passedHeader && line.startsWith('Site | Category | Description')) {
-                passedHeader = true;
-                continue;
-            }
+  return { freeTools, generousTierTools, linkReferences };
+}
 
-            if (passedHeader && line.includes('|')) {
-                const parts = line.split('|').map(part => part.trim());
-                if (parts.length === 3) {
-                    const [name, category, description] = parts;
-                    if (name && category && description) {
-                        tools.push({
-                            name,
-                            category,
-                            description,
-                        });
-                    }
-                }
-            }
-        }
+/**
+ * Parses the tool rows from a markdown table.
+ */
+function parseToolsFromMarkdownTable(markdown) {
+  const lines = markdown.split('\n');
+  const tools = [];
+  let inTable = false;
+
+  for (const line of lines) {
+    if (line.startsWith('Site') && line.includes('|')) {
+      inTable = true;
+      continue;
     }
 
-    return tools;
+    if (inTable && line.startsWith('---')) {
+      continue;
+    }
+
+    if (inTable && line.includes('|')) {
+      const parts = line.split('|').map(part => part.trim());
+      if (parts.length === 3) {
+        const [name, category, description] = parts;
+        tools.push({ name, category, description });
+      }
+    } else if (inTable && line.trim() === '') {
+      inTable = false;
+    }
+  }
+  return tools;
 }
 
 /**
  * Sort tools alphabetically by Site name
  */
 function sortToolsByName(tools) {
-    return tools.sort((a, b) => a.name.localeCompare(b.name));
+  return tools.sort((a, b) => a.name.localeCompare(b.name));
 }
 
 /**
  * Renders tools back to markdown
  */
 function renderToolsSection(title, tools) {
-    let md = `## ${title}\n\n`;
-    md += `Site | Category | Description\n`;
-    md += `-----|----------|------------\n`;
+  let md = `## ${title}\n\n`;
+  md += `Site | Category | Description\n`;
+  md += `-----|----------|------------\n`;
 
-    for (const tool of tools) {
-        md += `${tool.name} | ${tool.category} | ${tool.description}\n`;
-    }
+  for (const tool of tools) {
+    md += `${tool.name} | ${tool.category} | ${tool.description}\n`;
+  }
 
-    md += `\n`;
-    return md;
+  md += `\n`;
+  return md;
 }
 
 function getHeaderContent() {
-    try {
-        return fs.readFileSync(HEADER_PATH, 'utf-8');
-    } catch (error) {
-        console.error(`Error reading header file: ${HEADER_PATH}`, error);
-        return '';
-    }
+  try {
+    return fs.readFileSync(HEADER_PATH, 'utf-8');
+  } catch (error) {
+    console.error(`Error reading header file: ${HEADER_PATH}`, error);
+    return '';
+  }
 }
 
 function getSupportContent() {
-    try {
-        return fs.readFileSync(SUPPORT_PATH, 'utf-8');
-    } catch (error) {
-        console.error(`Error reading support file: ${SUPPORT_PATH}`, error);
-        return '';
-    }
+  try {
+    return fs.readFileSync(SUPPORT_PATH, 'utf-8');
+  } catch (error) {
+    console.error(`Error reading support file: ${SUPPORT_PATH}`, error);
+    return '';
+  }
 }
 
 /**
  * Write a complete README with sorted sections
  */
 function writeOrganizedReadme() {
-    const header = getHeaderContent();
-    const freeTools = extractToolsBySection('Completely Free (Hosted, No Limits)');
-    const tierTools = extractToolsBySection('Free with Generous Tier');
+  const header = getHeaderContent();
+  const { freeTools, generousTierTools, linkReferences } = extractReadmeData(README_DATA_PATH);
 
-    const sortedFreeTools = sortToolsByName(freeTools);
-    const sortedTierTools = sortToolsByName(tierTools);
+  const sortedFreeTools = sortToolsByName(freeTools);
+  const sortedGenerousTierTools = sortToolsByName(generousTierTools);
 
-    const freeSection = renderToolsSection('✅ Completely Free (Hosted, No Limits)', sortedFreeTools);
-    const tierSection = renderToolsSection('💸 Free with Generous Tier', sortedTierTools);
+  const freeSection = renderToolsSection('## Completely Free (Hosted, No Limits)', sortedFreeTools);
+  const generousTierSection = renderToolsSection('## Free with Generous Tier', sortedGenerousTierTools);
 
-    const support = getSupportContent();
+  const support = getSupportContent();
 
-    const finalOutput = [
-        header,
-        '',
-        freeSection,
-        '---',
-        '',
-        tierSection,
-        '---',
-        '',
-        support,
-    ].join('\n');
+  const finalOutput = [
+    header,
+    '',
+    freeSection,
+    '---',
+    '',
+    generousTierSection,
+    '---',
+    '',
+    linkReferences,
+    '',
+    support,
+  ].join('\n');
 
-    fs.writeFileSync(README_PATH, finalOutput, 'utf-8');
-    console.log(`\n📁 Rewritten: \x1b[32m${README_PATH}\x1b[0m`);
+  fs.writeFileSync(README_PATH, finalOutput, 'utf-8');
+  console.log(`\n📁 Rewritten: \x1b[32m${README_PATH}\x1b[0m`);
 }
 
 function run() {
-    writeOrganizedReadme();
+  writeOrganizedReadme();
 }
 
 try {
-    run();
+  run();
 } catch (error) {
-    console.error("Error in organize.js:", error);
-    process.exit(1);
+  console.error("Error in organize.js:", error);
+  process.exit(1);
 }
