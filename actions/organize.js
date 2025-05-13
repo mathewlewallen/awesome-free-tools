@@ -1,9 +1,9 @@
-// organize-readme.js
+// actions/organize.js
 
 const fs = require('fs');
 
 const README_PATH = 'README.md';
-const HEADER_PATH = './_partials/header-main.md';
+const HEADER_PATH = './_partials/header-main.md'; // Updated path
 const README_DATA_PATH = './_partials/readme-data.md';
 const SUPPORT_PATH = './_partials/support.md';
 
