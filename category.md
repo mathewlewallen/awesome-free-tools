@@ -74,7 +74,7 @@ Tool | Description | Pricing Tier
 [NotebookLM] | Google AI research assistant that answers questions about your uploaded docs. | Completely Free (Hosted, No Limits)
 [Mistral AI Playground] | No-login playground to test Mixtral and other Mistral open LLMs. | Completely Free (Hosted, No Limits)
 [Open WebUI] | ChatGPT-style UI for interacting with local LLMs such as LLaMA and Mistral. | Completely Free (Hosted, No Limits)
-[Kandinsky 3 Playground] | Image generator powered by Sberbank’s Kandinsky diffusion model. | Completely Free (Hosted, No Limits)
+[Kandinsky 3 Playground] | Image generator powered by Sberbanks Kandinsky diffusion model. | Completely Free (Hosted, No Limits)
 [Sourcegraph Cody] | AI assistant for code navigation and refactoring (VS Code & CLI). | Completely Free (Hosted, No Limits)
 [Replit Ghostwriter] | Coding assistant inside Replit IDE; Starter plan free for 3 public projects. | Free with Generous Tier
 
@@ -99,7 +99,7 @@ Tool | Description | Pricing Tier
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[AuthO] | Authentication/authorization platform. | Free with Generous Tier
+[Auth0] | Authentication/authorization platform. | Free with Generous Tier
 
 ## Automation
 
@@ -404,7 +404,7 @@ Tool | Description | Pricing Tier
 [webpagetest]: http://www.webpagetest.org/
 [gtmetrix]: http://gtmetrix.com/
 [import.io]: https://www.import.io/
-[Webz.io]: https://Webz.io
+[webz.io]: https://Webz.io
 [dexi.io]: https://dexi.io/
 [parsehub]: https://www.parsehub.com/
 [80legs]: http://80legs.com/
@@ -446,7 +446,7 @@ Tool | Description | Pricing Tier
 [notebooklm]: https://notebooklm.google.com
 [mistral ai playground]: https://huggingface.co/spaces/mistralai
 [open webui]: https://github.com/open-webui/open-webui
-[gGoatcounter]: https://www.goatcounter.com
+[goatcounter]: https://www.goatcounter.com
 [better uptime]: https://betteruptime.com
 [ray.so]: https://ray.so
 [iconshock free bundle]: https://www.iconshock.com/free-icons
