@@ -1,5 +1,10 @@
 
 name: Awesome Lint
+
+permissions:
+  contents: read
+  actions: read
+  
 on:
   push:
     branches: [main]
