@@ -97,6 +97,25 @@ function getSupportContent() {
     }
 }
 
+/**
+ *  Extract content between "Free Stuff" and "Support"
+ */
+function extractFreeStuffSection() {
+    const content = fs.readFileSync(README_PATH, 'utf-8');
+    const startMarker = '## Free Stuff';
+    const endMarker = '## Support';
+
+    const startIndex = content.indexOf(startMarker);
+    const endIndex = content.indexOf(endMarker);
+
+    if (startIndex === -1 || endIndex === -1) {
+        console.warn('Could not find Free Stuff or Support sections.');
+        return '';
+    }
+
+    return content.substring(startIndex, endIndex).trim();
+}
+
 function getReferenceLinks() {
     const content = fs.readFileSync(README_PATH, 'utf-8');
     const refLinks = content.split('\n').filter(l => l.match(/^\[.*?\]:\s+https?:\/\//));
@@ -110,7 +129,7 @@ function writeOrganizedReadme() {
     const header = getHeaderContent();
     const freeTools = extractToolsBySection('Completely Free (Hosted, No Limits)');
     const tierTools = extractToolsBySection('Free with Generous Tier');
-    const freeStuff = extractSectionAfter('Free Stuff');
+    const freeStuff = extractFreeStuffSection();
     const support = getSupportContent();
     const refLinks = getReferenceLinks();
 
@@ -138,16 +157,6 @@ function writeOrganizedReadme() {
 
     fs.writeFileSync(README_PATH, finalOutput, 'utf-8');
     console.log(`\n📁 Rewritten: \x1b[32m${README_PATH}\x1b[0m`);
-}
-
-/**
- * Extract all lines after a given header (tail sections)
- */
-function extractSectionAfter(header) {
-    const content = fs.readFileSync(README_PATH, 'utf-8');
-    const pattern = new RegExp(`## ${header}[\\s\\S]*`, 'g');
-    const match = content.match(pattern);
-    return match ? match[0].trim() : '';
 }
 
 function run() {
