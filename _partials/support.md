@@ -1,6 +1,6 @@
 ---
 
-## Footer
+## Footnotes
 
 Self-Hosted options are no longer listed.
 
