@@ -1,3 +1,3 @@
-This is a list of all tools being reviewed to add to the list.
+Current as of: 2025-05-13
 
-Up to date: 7 May 2025
+This is a list of all tools being reviewed to add to the list.
