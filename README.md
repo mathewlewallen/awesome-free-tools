@@ -138,7 +138,7 @@ Site                | Category     | Description
 [Astro] | `Development` | Static-site framework that ships zero JS by default.
 [OpenUI] | `UI Kit` | Community spec & resources for accessible custom elements.
 [Fontshare] | `Design` | Free, high-quality commercial-use fonts.
-[Mailtolink.me] | `Utilities` | Generate custom `mailto:` links with pre-filled fields.
+[Mailtolink.me] | `Utilities` | Generate custom mailto: links with pre-filled fields.
 [Responsively App] | `DevTools` | Browser to test websites across multiple viewports simultaneously.
 [Snapdrop] | `Utilities` | Browser-based AirDrop alternative for local file transfers.
 [Runno Playground] | `Playground` | Runs C, Python, Ruby, Lua, etc. in-browser via WebAssembly.
@@ -337,45 +337,45 @@ Site               | Category     | Description
 [sauce labs]: https://saucelabs.com/
 [code climate]: https://codeclimate.com
 [httpmaster]: https://www.httpmaster.net/
-[DevDocs]: https://devdocs.io
-[Coolify Status]: https://github.com/coollabsio/status
-[Haikei]: https://haikei.app
-[NotebookLM]: https://notebooklm.google.com
-[Mistral AI Playground]: https://huggingface.co/spaces/mistralai
-[Open WebUI]: https://github.com/open-webui/open-webui
-[GoatCounter]: https://www.goatcounter.com
-[Better Uptime]: https://betteruptime.com
-[Ray.so]: https://ray.so
-[Iconshock Free Bundle]: https://www.iconshock.com/free-icons
-[Diagrams.net]: https://www.diagrams.net
-[SmallDev.tools]: https://smalldev.tools
-[Klotho]: https://klo.dev
-[OpenAPI.Tools]: https://openapi.tools
-[Kandinsky 3 Playground]: https://fusionbrain.ai
-[Langfuse OSS]: https://github.com/langfuse/langfuse
-[Tails]: https://tails.blotter.com
-[Neobrutalism Components]: https://neobrutalism-components.vercel.app
-[Documenso]: https://documenso.com
-[Public APIs]: https://public-apis.io
-[OpenPeeps]: https://www.openpeeps.com
-[Hoppscotch]: https://hoppscotch.io
-[Tana Packer]: https://github.com/tanapacker/tana-packer
-[Snippet Generator]: https://snippet-generator.app
-[FreeCodeCamp]: https://www.freecodecamp.org
-[Sourcegraph Cody]: https://sourcegraph.com/cody
-[Carbon]: https://carbon.now.sh
-[Astro]: https://astro.build
-[OpenUI]: https://openui.org
-[Fontshare]: https://www.fontshare.com
-[Mailtolink.me]: https://mailtolink.me
-[Responsively App]: https://responsively.appsimultaneously.app
-[Snapdrop]: https://snapdrop.net
-[Runno Playground]: https://play.runno.dev
-[Turborepo]: https://turbo.build/repo
-[Monaspace Fonts]: https://monaspace.githubnext.com
+[devdocs]: https://devdocs.io
+[coolify status]: https://github.com/coollabsio/status
+[haikei]: https://haikei.app
+[notebooklm]: https://notebooklm.google.com
+[mistral ai playground]: https://huggingface.co/spaces/mistralai
+[open webui]: https://github.com/open-webui/open-webui
+[gGoatcounter]: https://www.goatcounter.com
+[better uptime]: https://betteruptime.com
+[ray.so]: https://ray.so
+[iconshock free bundle]: https://www.iconshock.com/free-icons
+[diagrams.net]: https://www.diagrams.net
+[smalldev.tools]: https://smalldev.tools
+[klotho]: https://klo.dev
+[openapi.tools]: https://openapi.tools
+[kandinsky 3 playground]: https://fusionbrain.ai
+[langfuse oss]: https://github.com/langfuse/langfuse
+[tails]: https://tails.blotter.com
+[neobrutalism components]: https://neobrutalism-components.vercel.app
+[documenso]: https://documenso.com
+[public apis]: https://public-apis.io
+[openpeeps]: https://www.openpeeps.com
+[hoppscotch]: https://hoppscotch.io
+[tana packer]: https://github.com/tanapacker/tana-packer
+[snippet generator]: https://snippet-generator.app
+[freecodecamp]: https://www.freecodecamp.org
+[sourcegraph cody]: https://sourcegraph.com/cody
+[carbon]: https://carbon.now.sh
+[astro]: https://astro.build
+[openui]: https://openui.org
+[fontshare]: https://www.fontshare.com
+[mailtolink.me]: https://mailtolink.me
+[responsively app]: https://responsively.appsimultaneously.app
+[snapdrop]: https://snapdrop.net
+[runno playground]: https://play.runno.dev
+[turborepo]: https://turbo.build/repo
+[monaspace fonts]: https://monaspace.githubnext.com
 
 <!-- Generous Free Tier -->
-[authO]: https://auth0.com/
+[auth0]: https://auth0.com/
 [vercel analytics]: https://vercel.com/docs/analytics
 [highlight.io]: https://highlight.io
 [sentry]: https://sentry.io
@@ -386,15 +386,15 @@ Site               | Category     | Description
 [stripe]: https://stripe.com
 [lemonsqueezy]: https://lemonsqueezy.com
 [plausible cloud]: https://plausible.io
-[Replit Ghostwriter]: https://replit.com
-[LottieFiles]: https://lottiefiles.com
-[Pipedream]: https://pipedream.com
-[Hookdeck]: https://hookdeck.com
-[Mintlify Writer]: https://mintlify.com
-[SimpleLogin]: https://simplelogin.io
-[Pinggy]: https://pinggy.io
-[StackBlitz]: https://stackblitz.com
-[Formbricks]: https://formbricks.com
+[replit ghostwriter]: https://replit.com
+[lottiefiles]: https://lottiefiles.com
+[pipedream]: https://pipedream.com
+[hookdeck]: https://hookdeck.com
+[mintlify writer]: https://mintlify.com
+[simplelogin]: https://simplelogin.io
+[pinggy]: https://pinggy.io
+[stackblitz]: https://stackblitz.com
+[formbricks]: https://formbricks.com
 
 <!-- Free Stuff -->
 [kde]: https://github.com/francoism90/awesome-kde#readme
