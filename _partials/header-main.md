@@ -9,7 +9,6 @@
 
 - [Completely Free (Hosted, No Limits)](#completely-free-hosted-no-limits)
 - [Free with Generous Tier](#free-with-generous-tier)
-- [Free Stuff](#free-stuff)
 - [Support](#support)
 - [Project Badges](#project-badges)
 
