@@ -338,7 +338,7 @@ Visit the [Awesome Self-Hosted Repo](https://github.com/awesome-selfhosted/aweso
 
 ### Support
 
-> [<img src="_partials/logo.svg" align="right" height="200" alt="Awesome Free Tools Logo">](https://github.com/mathewlewallen/awesome-free-tools)
+> [<img src="_partials/logo.svg" align="right" height="200" alt="Awesome Free Tools Logo">](https://github.com/mathewlewallen/opencloudmap)
 >
 > Maintaining this project requires a lot of time. [Donate to support me!](.github/FUNDING.yml) ❤️
 >
