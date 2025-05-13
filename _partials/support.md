@@ -1,14 +1,14 @@
 ---
 
+## Footer
+
 Self-Hosted options are no longer listed.
 
 Visit the [Awesome Self-Hosted Repo](https://github.com/awesome-selfhosted/awesome-selfhosted/tree/master) or their [website](https://awesome-selfhosted.net/) for more self-hosted options.
 
----
+### Support
 
-## Support
-
-> [<img src=".github/logo.svg" align="right" height="200" alt="Cloud Context Logo">](http://www.cloudcontext.cc)
+> [<img src="_partials/logo.svg" align="right" height="200" alt="Awesome Free Tools Logo">](https://github.com/mathewlewallen/awesome-free-tools)
 >
 > Maintaining this project requires a lot of time. [Donate to support me!](.github/FUNDING.yml) ❤️
 >
@@ -25,9 +25,7 @@ Visit the [Awesome Self-Hosted Repo](https://github.com/awesome-selfhosted/aweso
 
 [↑ Back to Top](#top)
 
----
-
-## Project Badges
+### Project Badges
 
 > Badges are a free easy way to enhance README.md files and attract contributors. Here is a compilation of some you can use in your project.
 
@@ -72,6 +70,5 @@ Visit the [Awesome Self-Hosted Repo](https://github.com/awesome-selfhosted/aweso
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-MathewLewallen-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathewlewallen/)
 [![View on Product Hunt](https://img.shields.io/badge/Product%20Hunt-Cloud%20Context-DA552F?logo=producthunt&logoColor=white)](https://www.producthunt.com/@cloudcontext)
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/5QzMemJn)
-
 [![Follow on X](https://img.shields.io/badge/X-%40cloud_context_-blue?logo=x)](https://x.com/cloud_context_)
 [![Follow on Reddit](https://img.shields.io/badge/reddit-cloud_context_-orange?logo=reddit)](https://www.reddit.com/user/Cloud_Context)
