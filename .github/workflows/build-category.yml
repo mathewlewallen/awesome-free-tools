@@ -6,6 +6,7 @@ on:
     paths:
       - 'README.md'
       - 'index.js'
+      - 'organize.js'
       - '_partials/**'
 
 jobs:
@@ -21,6 +22,9 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '22'
+
+      - name: Run code orangization script
+        run: node organize.js
 
       - name: Run category generation script
         run: node index.js
