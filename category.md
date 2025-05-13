@@ -67,307 +67,307 @@
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[ChatGPT] | Conversational AI model for code and productivity tasks. | ## Completely Free (Hosted, No Limits)
-[Claude] | AI by Anthropic with a strong focus on ethical alignment. | ## Completely Free (Hosted, No Limits)
-[DeepSeek] | AI-powered search and assistant. | ## Completely Free (Hosted, No Limits)
-[Google Gemini] | Multimodal AI platform from Google for writing, coding, and image tasks. | ## Completely Free (Hosted, No Limits)
-[Kandinsky 3 Playground] | Image generator powered by Sberbanks Kandinsky diffusion model. | ## Completely Free (Hosted, No Limits)
-[Mistral AI Playground] | No-login playground to test Mixtral and other Mistral open LLMs. | ## Completely Free (Hosted, No Limits)
-[NotebookLM] | Google AI research assistant that answers questions about your uploaded docs. | ## Completely Free (Hosted, No Limits)
-[Open WebUI] | ChatGPT-style UI for interacting with local LLMs such as LLaMA and Mistral. | ## Completely Free (Hosted, No Limits)
-[Qodo] | AI programming partner. | ## Completely Free (Hosted, No Limits)
-[Sourcegraph Cody] | AI assistant for code navigation and refactoring (VS Code & CLI). | ## Completely Free (Hosted, No Limits)
-[Replit Ghostwriter] | Coding assistant inside Replit IDE; Starter plan free for 3 public projects. | ## Free with Generous Tier
+[ChatGPT] | Conversational AI model for code and productivity tasks. | Completely Free (Hosted, No Limits)
+[Claude] | AI by Anthropic with a strong focus on ethical alignment. | Completely Free (Hosted, No Limits)
+[DeepSeek] | AI-powered search and assistant. | Completely Free (Hosted, No Limits)
+[Google Gemini] | Multimodal AI platform from Google for writing, coding, and image tasks. | Completely Free (Hosted, No Limits)
+[Kandinsky 3 Playground] | Image generator powered by Sberbanks Kandinsky diffusion model. | Completely Free (Hosted, No Limits)
+[Mistral AI Playground] | No-login playground to test Mixtral and other Mistral open LLMs. | Completely Free (Hosted, No Limits)
+[NotebookLM] | Google AI research assistant that answers questions about your uploaded docs. | Completely Free (Hosted, No Limits)
+[Open WebUI] | ChatGPT-style UI for interacting with local LLMs such as LLaMA and Mistral. | Completely Free (Hosted, No Limits)
+[Qodo] | AI programming partner. | Completely Free (Hosted, No Limits)
+[Sourcegraph Cody] | AI assistant for code navigation and refactoring (VS Code & CLI). | Completely Free (Hosted, No Limits)
+[Replit Ghostwriter] | Coding assistant inside Replit IDE; Starter plan free for 3 public projects. | Free with Generous Tier
 
 ## API
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Hoppscotch] | Open-source API client for REST, GraphQL and WebSocket testing. | ## Completely Free (Hosted, No Limits)
-[OpenAPI.Tools] | Directory of free tools for designing and testing OpenAPI specs. | ## Completely Free (Hosted, No Limits)
-[Public APIs] | Searchable index of free public APIs with examples. | ## Completely Free (Hosted, No Limits)
+[Hoppscotch] | Open-source API client for REST, GraphQL and WebSocket testing. | Completely Free (Hosted, No Limits)
+[OpenAPI.Tools] | Directory of free tools for designing and testing OpenAPI specs. | Completely Free (Hosted, No Limits)
+[Public APIs] | Searchable index of free public APIs with examples. | Completely Free (Hosted, No Limits)
 
 ## Analytics
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[GoatCounter] | Lightweight, privacy-respecting web analytics. | ## Completely Free (Hosted, No Limits)
-[Formbricks] | Surveys & product feedback; unlimited surveys, 1 000 responses/mo free. | ## Free with Generous Tier
-[Plausible Cloud] | Free for sites under 10k monthly page views. | ## Free with Generous Tier
-[PostHog Cloud] | Event tracking, feature flags, and product analytics. | ## Free with Generous Tier
+[GoatCounter] | Lightweight, privacy-respecting web analytics. | Completely Free (Hosted, No Limits)
+[Formbricks] | Surveys & product feedback; unlimited surveys, 1 000 responses/mo free. | Free with Generous Tier
+[Plausible Cloud] | Free for sites under 10k monthly page views. | Free with Generous Tier
+[PostHog Cloud] | Event tracking, feature flags, and product analytics. | Free with Generous Tier
 
 ## Auth
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Auth0] | Authentication/authorization platform. | ## Free with Generous Tier
+[Auth0] | Authentication/authorization platform. | Free with Generous Tier
 
 ## Automation
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Hookdeck] | Webhook ingestion platform; 100 000 monthly events on the dev tier. | ## Free with Generous Tier
-[Pipedream] | Serverless workflows with 100 000+ monthly executions free. | ## Free with Generous Tier
+[Hookdeck] | Webhook ingestion platform; 100 000 monthly events on the dev tier. | Free with Generous Tier
+[Pipedream] | Serverless workflows with 100 000+ monthly executions free. | Free with Generous Tier
 
 ## Billing
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[LemonSqueezy] | Free until you earn revenue (fees only on transactions). | ## Free with Generous Tier
-[Stripe] | No platform fee, pay only transaction costs. | ## Free with Generous Tier
+[LemonSqueezy] | Free until you earn revenue (fees only on transactions). | Free with Generous Tier
+[Stripe] | No platform fee, pay only transaction costs. | Free with Generous Tier
 
 ## Cloud
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[AWS Free Tier] | Cloud services with always-free and trial tiers. | ## Completely Free (Hosted, No Limits)
-[Google Cloud Free Tier] | GCP services with free-tier access and generous trial. Look into the $$$ extras. | ## Completely Free (Hosted, No Limits)
-[Microsoft Azure Free Tier] | Microsoft cloud services with free quotas and credits. Look into the $$$ credit and extras. | ## Completely Free (Hosted, No Limits)
+[AWS Free Tier] | Cloud services with always-free and trial tiers. | Completely Free (Hosted, No Limits)
+[Google Cloud Free Tier] | GCP services with free-tier access and generous trial. Look into the $$$ extras. | Completely Free (Hosted, No Limits)
+[Microsoft Azure Free Tier] | Microsoft cloud services with free quotas and credits. Look into the $$$ credit and extras. | Completely Free (Hosted, No Limits)
 
 ## Code Quality
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Code Climate] | Automated code review and test coverage (Free for OSS). | ## Completely Free (Hosted, No Limits)
+[Code Climate] | Automated code review and test coverage (Free for OSS). | Completely Free (Hosted, No Limits)
 
 ## DNS/CDN
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[CloudFlare] | Global CDN, DDoS protection, DNS, and analytics. | ## Completely Free (Hosted, No Limits)
-[ClouDNS] | Managed DNS hosting provider. | ## Completely Free (Hosted, No Limits)
+[CloudFlare] | Global CDN, DDoS protection, DNS, and analytics. | Completely Free (Hosted, No Limits)
+[ClouDNS] | Managed DNS hosting provider. | Completely Free (Hosted, No Limits)
 
 ## Design
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Carbon] | Convert code snippets to share-ready images. | ## Completely Free (Hosted, No Limits)
-[Diagrams.net] | Diagramming tool for flowcharts, architecture, org charts, and more. | ## Completely Free (Hosted, No Limits)
-[Fontshare] | Free, high-quality commercial-use fonts. | ## Completely Free (Hosted, No Limits)
-[Haikei] | SVG background generator for waves, blobs, gradients, and more. | ## Completely Free (Hosted, No Limits)
-[Iconshock Free Bundle] | Thousands of editable, royalty-free SVG/PNG icon sets. | ## Completely Free (Hosted, No Limits)
-[Monaspace Fonts] | Distinctive family of monospaced fonts by GitHub. | ## Completely Free (Hosted, No Limits)
-[OpenPeeps] | Hand-drawn vector illustration library for UI mock-ups. | ## Completely Free (Hosted, No Limits)
-[Ray.so] | Create beautiful code screenshots with customizable themes. | ## Completely Free (Hosted, No Limits)
-[LottieFiles] | JSON animation marketplace/editor; free unlimited previews and basic editing. | ## Free with Generous Tier
+[Carbon] | Convert code snippets to share-ready images. | Completely Free (Hosted, No Limits)
+[Diagrams.net] | Diagramming tool for flowcharts, architecture, org charts, and more. | Completely Free (Hosted, No Limits)
+[Fontshare] | Free, high-quality commercial-use fonts. | Completely Free (Hosted, No Limits)
+[Haikei] | SVG background generator for waves, blobs, gradients, and more. | Completely Free (Hosted, No Limits)
+[Iconshock Free Bundle] | Thousands of editable, royalty-free SVG/PNG icon sets. | Completely Free (Hosted, No Limits)
+[Monaspace Fonts] | Distinctive family of monospaced fonts by GitHub. | Completely Free (Hosted, No Limits)
+[OpenPeeps] | Hand-drawn vector illustration library for UI mock-ups. | Completely Free (Hosted, No Limits)
+[Ray.so] | Create beautiful code screenshots with customizable themes. | Completely Free (Hosted, No Limits)
+[LottieFiles] | JSON animation marketplace/editor; free unlimited previews and basic editing. | Free with Generous Tier
 
 ## DevOps
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Docker] | Container platform for building and deploying apps. | ## Completely Free (Hosted, No Limits)
-[FileZilla] | FTP client for transferring files to servers. | ## Completely Free (Hosted, No Limits)
-[FreeFileSync] | Folder comparison and synchronization tool. | ## Completely Free (Hosted, No Limits)
-[Laragon] | Local server for Windows. | ## Completely Free (Hosted, No Limits)
-[PuTTY] | Terminal emulator and SSH client. | ## Completely Free (Hosted, No Limits)
-[Slack GitHub Action] | Sends deploy, PR, or error notifications directly to your Slack. | ## Completely Free (Hosted, No Limits)
-[Turborepo Cache] | Free on Vercel, speeds up builds across monorepo packages. | ## Completely Free (Hosted, No Limits)
-[WinSCP] | SFTP, FTP, and SCP client for file transfer. | ## Completely Free (Hosted, No Limits)
-[XAMPP] | Local development environment for PHP and MySQL. | ## Completely Free (Hosted, No Limits)
+[Docker] | Container platform for building and deploying apps. | Completely Free (Hosted, No Limits)
+[FileZilla] | FTP client for transferring files to servers. | Completely Free (Hosted, No Limits)
+[FreeFileSync] | Folder comparison and synchronization tool. | Completely Free (Hosted, No Limits)
+[Laragon] | Local server for Windows. | Completely Free (Hosted, No Limits)
+[PuTTY] | Terminal emulator and SSH client. | Completely Free (Hosted, No Limits)
+[Slack GitHub Action] | Sends deploy, PR, or error notifications directly to your Slack. | Completely Free (Hosted, No Limits)
+[Turborepo Cache] | Free on Vercel, speeds up builds across monorepo packages. | Completely Free (Hosted, No Limits)
+[WinSCP] | SFTP, FTP, and SCP client for file transfer. | Completely Free (Hosted, No Limits)
+[XAMPP] | Local development environment for PHP and MySQL. | Completely Free (Hosted, No Limits)
 
 ## DevTools
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Klotho] | CLI that converts application code into cloud infrastructure. | ## Completely Free (Hosted, No Limits)
-[Responsively App] | Browser to test websites across multiple viewports simultaneously. | ## Completely Free (Hosted, No Limits)
-[Snippet Generator] | Generate styled code-snippet images for sharing. | ## Completely Free (Hosted, No Limits)
-[Pinggy] | Instant public URLs & tunnels to localhost; unlimited free bandwidth. | ## Free with Generous Tier
+[Klotho] | CLI that converts application code into cloud infrastructure. | Completely Free (Hosted, No Limits)
+[Responsively App] | Browser to test websites across multiple viewports simultaneously. | Completely Free (Hosted, No Limits)
+[Snippet Generator] | Generate styled code-snippet images for sharing. | Completely Free (Hosted, No Limits)
+[Pinggy] | Instant public URLs & tunnels to localhost; unlimited free bandwidth. | Free with Generous Tier
 
 ## Development
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Astro] | Static-site framework that ships zero JS by default. | ## Completely Free (Hosted, No Limits)
-[DevDocs] | Fast, searchable documentation browser with offline mode for 100-plus languages & APIs. | ## Completely Free (Hosted, No Limits)
-[StackBlitz] | Browser IDE; unlimited public projects & repos on free plan. | ## Free with Generous Tier
+[Astro] | Static-site framework that ships zero JS by default. | Completely Free (Hosted, No Limits)
+[DevDocs] | Fast, searchable documentation browser with offline mode for 100-plus languages & APIs. | Completely Free (Hosted, No Limits)
+[StackBlitz] | Browser IDE; unlimited public projects & repos on free plan. | Free with Generous Tier
 
 ## Documentation
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Mintlify Writer] | AI documentation editor; hobby plan free for 1 user & custom domain. | ## Free with Generous Tier
+[Mintlify Writer] | AI documentation editor; hobby plan free for 1 user & custom domain. | Free with Generous Tier
 
 ## Education
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[FreeCodeCamp] | Full coding curriculum with certifications and projects. | ## Completely Free (Hosted, No Limits)
+[FreeCodeCamp] | Full coding curriculum with certifications and projects. | Completely Free (Hosted, No Limits)
 
 ## Email
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Lark Email] | Business email from the Lark Suite. | ## Completely Free (Hosted, No Limits)
-[Mailersend] | 3,000 free emails/month with analytics and templates. | ## Free with Generous Tier
-[Resend] | Send up to 3,000 emails/month on the free tier. | ## Free with Generous Tier
+[Lark Email] | Business email from the Lark Suite. | Completely Free (Hosted, No Limits)
+[Mailersend] | 3,000 free emails/month with analytics and templates. | Free with Generous Tier
+[Resend] | Send up to 3,000 emails/month on the free tier. | Free with Generous Tier
 
 ## Hosting
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Amazon S3] | Static file storage and hosting with public access support. | ## Completely Free (Hosted, No Limits)
-[Firebase Hosting] | Google service to host and deploy static and dynamic content. | ## Completely Free (Hosted, No Limits)
-[GitHub Pages] | Free static site hosting directly from GitHub repos. | ## Completely Free (Hosted, No Limits)
-[Netlify] | Serverless web deployment with CI/CD, functions, and forms. | ## Completely Free (Hosted, No Limits)
-[Surge] | Static site publishing for frontend devs via CLI. | ## Completely Free (Hosted, No Limits)
-[Vercel] | Zero-config frontend deployment with CDN and preview URLs. | ## Completely Free (Hosted, No Limits)
+[Amazon S3] | Static file storage and hosting with public access support. | Completely Free (Hosted, No Limits)
+[Firebase Hosting] | Google service to host and deploy static and dynamic content. | Completely Free (Hosted, No Limits)
+[GitHub Pages] | Free static site hosting directly from GitHub repos. | Completely Free (Hosted, No Limits)
+[Netlify] | Serverless web deployment with CI/CD, functions, and forms. | Completely Free (Hosted, No Limits)
+[Surge] | Static site publishing for frontend devs via CLI. | Completely Free (Hosted, No Limits)
+[Vercel] | Zero-config frontend deployment with CDN and preview URLs. | Completely Free (Hosted, No Limits)
 
 ## IDE
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Cloud9] | AWS-hosted online IDE. | ## Completely Free (Hosted, No Limits)
-[CodeAnywhere] | Cloud IDE for remote teams and containers. | ## Completely Free (Hosted, No Limits)
-[Eclipse] | IDE for Java and web development. | ## Completely Free (Hosted, No Limits)
-[Google IDX] | Web-based AI-powered IDE by Google. | ## Completely Free (Hosted, No Limits)
-[JetBrains IDEs] | Professional tools for web and enterprise languages. | ## Completely Free (Hosted, No Limits)
-[Koding] | Cloud development environments (Free for OSS). | ## Completely Free (Hosted, No Limits)
-[NetBeans] | Apache IDE for Java and other languages. | ## Completely Free (Hosted, No Limits)
-[Visual Studio] | Full-featured IDE for Windows development. | ## Completely Free (Hosted, No Limits)
-[VSCode.dev] | Browser-based version of VSCode. | ## Completely Free (Hosted, No Limits)
-[VSCode] | Open source code editor from Microsoft. | ## Completely Free (Hosted, No Limits)
-[Windsurf] | AI-powered coding experience by Codeium. | ## Completely Free (Hosted, No Limits)
+[Cloud9] | AWS-hosted online IDE. | Completely Free (Hosted, No Limits)
+[CodeAnywhere] | Cloud IDE for remote teams and containers. | Completely Free (Hosted, No Limits)
+[Eclipse] | IDE for Java and web development. | Completely Free (Hosted, No Limits)
+[Google IDX] | Web-based AI-powered IDE by Google. | Completely Free (Hosted, No Limits)
+[JetBrains IDEs] | Professional tools for web and enterprise languages. | Completely Free (Hosted, No Limits)
+[Koding] | Cloud development environments (Free for OSS). | Completely Free (Hosted, No Limits)
+[NetBeans] | Apache IDE for Java and other languages. | Completely Free (Hosted, No Limits)
+[Visual Studio] | Full-featured IDE for Windows development. | Completely Free (Hosted, No Limits)
+[VSCode.dev] | Browser-based version of VSCode. | Completely Free (Hosted, No Limits)
+[VSCode] | Open source code editor from Microsoft. | Completely Free (Hosted, No Limits)
+[Windsurf] | AI-powered coding experience by Codeium. | Completely Free (Hosted, No Limits)
 
 ## Miscellaneous
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Certificates] | Free computer science certifications to showcase your knowledge. | ## Completely Free (Hosted, No Limits)
-[Cyber Security University] | Free educational resources that focus on learning by doing. | ## Completely Free (Hosted, No Limits)
-[Free for Developers] | A list of things that are free for Devs. | ## Completely Free (Hosted, No Limits)
-[Free Programming Books] | Free books on programming for anyone. | ## Completely Free (Hosted, No Limits)
-[Free Software] | Free software for anyone to use. | ## Completely Free (Hosted, No Limits)
-[KDE] | A free software community dedicated to creating an open and user-friendly computing experience. | ## Completely Free (Hosted, No Limits)
-[Open Source Supporters] | Companies that offer their tools and services for free to open source projects. | ## Completely Free (Hosted, No Limits)
-[PocketBase] | An open-source, Go-based backend in one file. | ## Completely Free (Hosted, No Limits)
-[Robotic Tooling] | Free and open tools for professional robotic development. | ## Completely Free (Hosted, No Limits)
-[Tor] | A free overlay network for enabling anonymous communication. | ## Completely Free (Hosted, No Limits)
-[Web Monetization] | A free open web standard service that allows you to send money directly in your browser. | ## Completely Free (Hosted, No Limits)
+[Certificates] | Free computer science certifications to showcase your knowledge. | Completely Free (Hosted, No Limits)
+[Cyber Security University] | Free educational resources that focus on learning by doing. | Completely Free (Hosted, No Limits)
+[Free for Developers] | A list of things that are free for Devs. | Completely Free (Hosted, No Limits)
+[Free Programming Books] | Free books on programming for anyone. | Completely Free (Hosted, No Limits)
+[Free Software] | Free software for anyone to use. | Completely Free (Hosted, No Limits)
+[KDE] | A free software community dedicated to creating an open and user-friendly computing experience. | Completely Free (Hosted, No Limits)
+[Open Source Supporters] | Companies that offer their tools and services for free to open source projects. | Completely Free (Hosted, No Limits)
+[PocketBase] | An open-source, Go-based backend in one file. | Completely Free (Hosted, No Limits)
+[Robotic Tooling] | Free and open tools for professional robotic development. | Completely Free (Hosted, No Limits)
+[Tor] | A free overlay network for enabling anonymous communication. | Completely Free (Hosted, No Limits)
+[Web Monetization] | A free open web standard service that allows you to send money directly in your browser. | Completely Free (Hosted, No Limits)
 
 ## Monitoring
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Better Uptime] | Free uptime monitoring with email/SMS alerts and a hosted status page. | ## Completely Free (Hosted, No Limits)
-[Coolify Status] | Open-source status-page dashboard for uptime and incident tracking. | ## Completely Free (Hosted, No Limits)
-[Pingdom] | Uptime and performance monitoring. | ## Completely Free (Hosted, No Limits)
-[Highlight.io] | Session replay, error tracking, and logging in one SDK. | ## Free with Generous Tier
-[Sentry] | Catch and triage frontend/backend exceptions. | ## Free with Generous Tier
+[Better Uptime] | Free uptime monitoring with email/SMS alerts and a hosted status page. | Completely Free (Hosted, No Limits)
+[Coolify Status] | Open-source status-page dashboard for uptime and incident tracking. | Completely Free (Hosted, No Limits)
+[Pingdom] | Uptime and performance monitoring. | Completely Free (Hosted, No Limits)
+[Highlight.io] | Session replay, error tracking, and logging in one SDK. | Free with Generous Tier
+[Sentry] | Catch and triage frontend/backend exceptions. | Free with Generous Tier
 
 ## Observability
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Langfuse OSS] | Analytics & tracing platform for LLM apps (open source). | ## Completely Free (Hosted, No Limits)
+[Langfuse OSS] | Analytics & tracing platform for LLM apps (open source). | Completely Free (Hosted, No Limits)
 
 ## Performance
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[GTMetrix] | Website speed and performance reports. | ## Completely Free (Hosted, No Limits)
-[PageSpeed Insights] | Google's tool for analyzing web performance. | ## Completely Free (Hosted, No Limits)
-[WebPageTest] | Real browser-based performance testing. | ## Completely Free (Hosted, No Limits)
-[Vercel Analytics] | Track real-user metrics like TTFB, CLS, and LCP. | ## Free with Generous Tier
+[GTMetrix] | Website speed and performance reports. | Completely Free (Hosted, No Limits)
+[PageSpeed Insights] | Google's tool for analyzing web performance. | Completely Free (Hosted, No Limits)
+[WebPageTest] | Real browser-based performance testing. | Completely Free (Hosted, No Limits)
+[Vercel Analytics] | Track real-user metrics like TTFB, CLS, and LCP. | Free with Generous Tier
 
 ## Playground
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[CodePen] | Frontend design sandbox with live preview. | ## Completely Free (Hosted, No Limits)
-[JSBin] | JS testing tool with live code sharing. | ## Completely Free (Hosted, No Limits)
-[JSFiddle] | Live HTML/CSS/JS editor with preview. | ## Completely Free (Hosted, No Limits)
-[Plunker] | Online community for creating and sharing web apps. | ## Completely Free (Hosted, No Limits)
-[Runno Playground] | Runs C, Python, Ruby, Lua, etc. in-browser via WebAssembly. | ## Completely Free (Hosted, No Limits)
+[CodePen] | Frontend design sandbox with live preview. | Completely Free (Hosted, No Limits)
+[JSBin] | JS testing tool with live code sharing. | Completely Free (Hosted, No Limits)
+[JSFiddle] | Live HTML/CSS/JS editor with preview. | Completely Free (Hosted, No Limits)
+[Plunker] | Online community for creating and sharing web apps. | Completely Free (Hosted, No Limits)
+[Runno Playground] | Runs C, Python, Ruby, Lua, etc. in-browser via WebAssembly. | Completely Free (Hosted, No Limits)
 
 ## Privacy
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[SimpleLogin] | Create up to 15 email aliases to hide your real address. | ## Free with Generous Tier
+[SimpleLogin] | Create up to 15 email aliases to hide your real address. | Free with Generous Tier
 
 ## Productivity
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Tana Packer] | CLI to export Tana outlines to Markdown. | ## Completely Free (Hosted, No Limits)
+[Tana Packer] | CLI to export Tana outlines to Markdown. | Completely Free (Hosted, No Limits)
 
 ## Scheduling
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Calendly Embed] | Add meeting scheduling links or inline widgets with no backend. | ## Completely Free (Hosted, No Limits)
+[Calendly Embed] | Add meeting scheduling links or inline widgets with no backend. | Completely Free (Hosted, No Limits)
 
 ## Scraping
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[80Legs] | Web crawling and scraping engine. | ## Completely Free (Hosted, No Limits)
-[Abstract Web Scraping API] | Structured web scraping API. | ## Completely Free (Hosted, No Limits)
-[Dexi.io] | Visual web scraping and data automation tool. | ## Completely Free (Hosted, No Limits)
-[Import.io] | Extract structured data from any website. | ## Completely Free (Hosted, No Limits)
-[ParseHub] | Extract data from websites using a visual builder. | ## Completely Free (Hosted, No Limits)
-[Scraper (Chrome)] | Chrome extension to extract structured data from web pages. | ## Completely Free (Hosted, No Limits)
-[ScrapingHub] | Cloud-based scraping platform. | ## Completely Free (Hosted, No Limits)
-[Scrapy] | Python framework for extracting data from websites. | ## Completely Free (Hosted, No Limits)
-[Web Scraper (Chrome)] | Chrome extension for site navigation and data scraping. | ## Completely Free (Hosted, No Limits)
-[Webz.io] | Web data crawling and scraping API. | ## Completely Free (Hosted, No Limits)
+[80Legs] | Web crawling and scraping engine. | Completely Free (Hosted, No Limits)
+[Abstract Web Scraping API] | Structured web scraping API. | Completely Free (Hosted, No Limits)
+[Dexi.io] | Visual web scraping and data automation tool. | Completely Free (Hosted, No Limits)
+[Import.io] | Extract structured data from any website. | Completely Free (Hosted, No Limits)
+[ParseHub] | Extract data from websites using a visual builder. | Completely Free (Hosted, No Limits)
+[Scraper (Chrome)] | Chrome extension to extract structured data from web pages. | Completely Free (Hosted, No Limits)
+[ScrapingHub] | Cloud-based scraping platform. | Completely Free (Hosted, No Limits)
+[Scrapy] | Python framework for extracting data from websites. | Completely Free (Hosted, No Limits)
+[Web Scraper (Chrome)] | Chrome extension for site navigation and data scraping. | Completely Free (Hosted, No Limits)
+[Webz.io] | Web data crawling and scraping API. | Completely Free (Hosted, No Limits)
 
 ## Security
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[CodeQL] | GitHub-native static code analysis that catches security issues before they ship. | ## Completely Free (Hosted, No Limits)
-[CryptoMator] | End-to-end encryption for cloud storage. | ## Completely Free (Hosted, No Limits)
-[Dependabot] | Auto-updates dependencies and patches vulnerabilities in GitHub repos. | ## Completely Free (Hosted, No Limits)
-[Let's Encrypt] | Free automated TLS/SSL certificates. | ## Completely Free (Hosted, No Limits)
-[Socket.dev] | Real-time protection from malicious or hijacked npm packages. | ## Completely Free (Hosted, No Limits)
+[CodeQL] | GitHub-native static code analysis that catches security issues before they ship. | Completely Free (Hosted, No Limits)
+[CryptoMator] | End-to-end encryption for cloud storage. | Completely Free (Hosted, No Limits)
+[Dependabot] | Auto-updates dependencies and patches vulnerabilities in GitHub repos. | Completely Free (Hosted, No Limits)
+[Let's Encrypt] | Free automated TLS/SSL certificates. | Completely Free (Hosted, No Limits)
+[Socket.dev] | Real-time protection from malicious or hijacked npm packages. | Completely Free (Hosted, No Limits)
 
 ## Support
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Crisp Chat] | Free live chat widget with a shared inbox. | ## Free with Generous Tier
+[Crisp Chat] | Free live chat widget with a shared inbox. | Free with Generous Tier
 
 ## Testing
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[HttpMaster] | HTTP testing and debugging tool. | ## Completely Free (Hosted, No Limits)
-[Sauce Labs] | Cross-browser cloud testing platform. | ## Completely Free (Hosted, No Limits)
+[HttpMaster] | HTTP testing and debugging tool. | Completely Free (Hosted, No Limits)
+[Sauce Labs] | Cross-browser cloud testing platform. | Completely Free (Hosted, No Limits)
 
 ## Tooling
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Turborepo] | High-performance build system for JS/TS monorepos. | ## Completely Free (Hosted, No Limits)
+[Turborepo] | High-performance build system for JS/TS monorepos. | Completely Free (Hosted, No Limits)
 
 ## UI Kit
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Neobrutalism Components] | Brutalist Tailwind component library for landing pages. | ## Completely Free (Hosted, No Limits)
-[OpenUI] | Community spec & resources for accessible custom elements. | ## Completely Free (Hosted, No Limits)
-[Tails] | Library of modern Tailwind CSS components and templates. | ## Completely Free (Hosted, No Limits)
+[Neobrutalism Components] | Brutalist Tailwind component library for landing pages. | Completely Free (Hosted, No Limits)
+[OpenUI] | Community spec & resources for accessible custom elements. | Completely Free (Hosted, No Limits)
+[Tails] | Library of modern Tailwind CSS components and templates. | Completely Free (Hosted, No Limits)
 
 ## Utilities
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[Documenso] | Open-source digital document-signing platform. | ## Completely Free (Hosted, No Limits)
-[Mailtolink.me] | Generate custom mailto: links with pre-filled fields. | ## Completely Free (Hosted, No Limits)
-[SmallDev.tools] | Online formatters, validators, and developer helpers—no signup. | ## Completely Free (Hosted, No Limits)
-[Snapdrop] | Browser-based AirDrop alternative for local file transfers. | ## Completely Free (Hosted, No Limits)
+[Documenso] | Open-source digital document-signing platform. | Completely Free (Hosted, No Limits)
+[Mailtolink.me] | Generate custom mailto: links with pre-filled fields. | Completely Free (Hosted, No Limits)
+[SmallDev.tools] | Online formatters, validators, and developer helpers—no signup. | Completely Free (Hosted, No Limits)
+[Snapdrop] | Browser-based AirDrop alternative for local file transfers. | Completely Free (Hosted, No Limits)
 
 ## Version Control
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
-[AWS CodeCommit] | Private Git hosting from Amazon Web Services. | ## Completely Free (Hosted, No Limits)
-[Azure Repos] | Git repos integrated with Azure DevOps. | ## Completely Free (Hosted, No Limits)
-[BitBucket] | Git solution from Atlassian, integrates with Jira and Trello. | ## Completely Free (Hosted, No Limits)
-[GitHub] | Code hosting platform with collaboration, CI/CD, and issue tracking. | ## Completely Free (Hosted, No Limits)
-[GitLab] | Full DevOps lifecycle tool, Git hosting and pipelines. | ## Completely Free (Hosted, No Limits)
+[AWS CodeCommit] | Private Git hosting from Amazon Web Services. | Completely Free (Hosted, No Limits)
+[Azure Repos] | Git repos integrated with Azure DevOps. | Completely Free (Hosted, No Limits)
+[BitBucket] | Git solution from Atlassian, integrates with Jira and Trello. | Completely Free (Hosted, No Limits)
+[GitHub] | Code hosting platform with collaboration, CI/CD, and issue tracking. | Completely Free (Hosted, No Limits)
+[GitLab] | Full DevOps lifecycle tool, Git hosting and pipelines. | Completely Free (Hosted, No Limits)
 
 ---
 
