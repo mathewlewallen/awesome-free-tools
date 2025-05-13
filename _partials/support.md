@@ -1,33 +1,8 @@
 ---
 
-## Footnotes
+## Project Badges
 
-Self-Hosted options are no longer listed.
-
-Visit the [Awesome Self-Hosted Repo](https://github.com/awesome-selfhosted/awesome-selfhosted/tree/master) or their [website](https://awesome-selfhosted.net/) for more self-hosted options.
-
-### Support
-
-> [<img src="_partials/logo.svg" align="right" height="200" alt="Awesome Free Tools Logo">](https://github.com/mathewlewallen/opencloudmap)
->
-> Maintaining this project requires a lot of time. [Donate to support me!](.github/FUNDING.yml) ❤️
->
-> I am just getting into Open Source, so please go check out my work
->
-> Want to add something to the list? Check -> [contributing.md](contributing.md)
->
-> If you want to become a maintainer, [then do so here.](https://github.com/mathewlewallen/awesome-free-tools/issues/1)
-
-### Maintainers
-
-- [@mathewlewallen](https://github.com/mathewlewallen) - Creator.
-- [@A-4-Atom](https://github.com/A-4-Atom) - Maintainer.
-
-[↑ Back to Top](#top)
-
-### Project Badges
-
-> Badges are a free easy way to enhance README.md files and attract contributors. Here is a compilation of some you can use in your project.
+Badges are a free easy way to enhance README.md files and attract contributors. Here is a compilation of some you can use in your project.
 
 ### GitHub Metadata
 
@@ -72,3 +47,29 @@ Visit the [Awesome Self-Hosted Repo](https://github.com/awesome-selfhosted/aweso
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/5QzMemJn)
 [![Follow on X](https://img.shields.io/badge/X-%40cloud_context_-blue?logo=x)](https://x.com/cloud_context_)
 [![Follow on Reddit](https://img.shields.io/badge/reddit-cloud_context_-orange?logo=reddit)](https://www.reddit.com/user/Cloud_Context)
+
+---
+
+## Footnotes
+
+**Self-Hosted options are no longer listed.** - Visit the [Awesome Self-Hosted Repo](https://github.com/awesome-selfhosted/awesome-selfhosted/tree/master) or their [website](https://awesome-selfhosted.net/) for more self-hosted options.
+
+### Support
+
+> [<img src="_partials/logo.svg" align="right" height="200" alt="Awesome Free Tools Logo">](https://github.com/mathewlewallen/opencloudmap)
+>
+> Maintaining this project requires a lot of time. [Donate to support me!](.github/FUNDING.yml) ❤️
+>
+> I am just getting into Open Source, so please go check out my work
+>
+> Want to add something to the list? Check -> [contributing.md](contributing.md)
+>
+> If you want to become a maintainer, [then do so here.](https://github.com/mathewlewallen/awesome-free-tools/issues/1)
+
+### Maintainers
+
+- [@mathewlewallen](https://github.com/mathewlewallen) - Creator.
+- [@A-4-Atom](https://github.com/A-4-Atom) - Maintainer.
+
+[↑ Back to Top](#top)
+
