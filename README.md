@@ -51,50 +51,7 @@ Site | Category | Description
 
 ---
 
---------------- | ------------ | ------------------------------------------
-[PostHog Cloud]    | `Analytics`    | Event tracking, feature flags, and product analytics.
-[Plausible Cloud]  | `Analytics`    | Free for sites under 10k monthly page views.
-[Auth0]              | `Auth` | Authentication/authorization platform.
-[Stripe]           | `Billing`      | No platform fee, pay only transaction costs.
-[LemonSqueezy]     | `Billing`      | Free until you earn revenue (fees only on transactions).
-[Resend]           | `Email`        | Send up to 3,000 emails/month on the free tier.
-[Mailersend]       | `Email`        | 3,000 free emails/month with analytics and templates.
-[Highlight.io]     | `Monitoring`   | Session replay, error tracking, and logging in one SDK.
-[Sentry]           | `Monitoring`   | Catch and triage frontend/backend exceptions.
-[Vercel Analytics] | `Performance`  | Track real-user metrics like TTFB, CLS, and LCP.
-[Crisp Chat]       | `Support`      | Free live chat widget with a shared inbox.
-[Replit Ghostwriter] | `AI` | Coding assistant inside Replit IDE; Starter plan free for 3 public projects.
-[LottieFiles] | `Design` | JSON animation marketplace/editor; free unlimited previews and basic editing.
-[Pipedream] | `Automation` | Serverless workflows with 100 000+ monthly executions free.
-[Hookdeck] | `Automation` | Webhook ingestion platform; 100 000 monthly events on the dev tier.
-[Mintlify Writer] | `Documentation` | AI documentation editor; hobby plan free for 1 user & custom domain.
-[SimpleLogin] | `Privacy` | Create up to 15 email aliases to hide your real address.
-[Pinggy] | `DevTools` | Instant public URLs & tunnels to localhost; unlimited free bandwidth.
-[StackBlitz] | `Development` | Browser IDE; unlimited public projects & repos on free plan.
-[Formbricks] | `Analytics` | Surveys & product feedback; unlimited surveys, 1 000 responses/mo free.
 
----
-
-> Self-Hosted options are no longer listed.
-> Visit the [Awesome Self-Hosted Repo](https://github.com/awesome-selfhosted/awesome-selfhosted/tree/master) or their [website](https://awesome-selfhosted.net/) for more self-hosted options.
-
----
-
-## Free Stuff
-
-- [KDE] - A free software community dedicated to creating an open and user-friendly computing experience.
-- [Free Programming Books] - Free books on programming for anyone.
-- [PocketBase] - An open-source, Go-based backend in one file.
-- [Certificates] - Free computer science certifications to showcase your knowledge.
-- [Cyber Security University] - Free educational resources that focus on learning by doing.
-- [Robotic Tooling] - Free and open tools for professional robotic development.
-- [Tor] - A free overlay network for enabling anonymous communication.
-- [Free for Developers] - A list of things that are free for Devs.
-- [Free Software] - Free software for anyone to use.
-- [Web Monetization] - A free open web standard service that allows you to send money directly in your browser.
-- [Open Source Supporters] - Companies that offer their tools and services for free to open source projects.
-
----
 
 ---
 
