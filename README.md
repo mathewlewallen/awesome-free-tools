@@ -14,7 +14,6 @@
 - [Project Badges](#project-badges)
 
 
-
 Every tool in this list is easy to integrate into any application. Therefore, the lists are separated by their pricing tiers.
 
 See [category.md](category.md) for a list sorted by categories.
