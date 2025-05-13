@@ -59,22 +59,6 @@ Visit the [Awesome Self-Hosted Repo](https://github.com/awesome-selfhosted/aweso
 
 ---
 
-## Free Stuff
-
-- [KDE] - A free software community dedicated to creating an open and user-friendly computing experience.
-- [Free Programming Books] - Free books on programming for anyone.
-- [PocketBase] - An open-source, Go-based backend in one file.
-- [Certificates] - Free computer science certifications to showcase your knowledge.
-- [Cyber Security University] - Free educational resources that focus on learning by doing.
-- [Robotic Tooling] - Free and open tools for professional robotic development.
-- [Tor] - A free overlay network for enabling anonymous communication.
-- [Free for Developers] - A list of things that are free for Devs.
-- [Free Software] - Free software for anyone to use.
-- [Web Monetization] - A free open web standard service that allows you to send money directly in your browser.
-- [Open Source Supporters] - Companies that offer their tools and services for free to open source projects.
-
----
-
 ## Support
 
 > [<img src=".github/logo.svg" align="right" height="200" alt="Cloud Context Logo">](http://www.cloudcontext.cc)
