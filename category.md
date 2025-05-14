@@ -1,4 +1,4 @@
-# Awesome Free Tools ![Awesome](https://awesome.re/badge.svg)
+# Awesome Free Tools [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="_partials/logo.svg" align="right" width="100">](https://github.com/mathewlewallen/awesome-free-tools)
 
