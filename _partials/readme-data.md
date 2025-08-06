@@ -126,6 +126,7 @@ Site               | Category     | Description
 ------------------ | ------------ | ------------------------------------------
 [PostHog Cloud]    | `Analytics`    | Event tracking, feature flags, and product analytics.
 [Plausible Cloud]  | `Analytics`    | Free for sites under 10k monthly page views.
+[Repohistory]      | `Analytics`    | GitHub repo analytics tool; Free for tracking one repo.
 [Auth0]              | `Auth` | Authentication/authorization platform.
 [Stripe]           | `Billing`      | No platform fee, pay only transaction costs.
 [LemonSqueezy]     | `Billing`      | Free until you earn revenue (fees only on transactions).
@@ -271,6 +272,7 @@ Site               | Category     | Description
 [highlight.io]: https://highlight.io
 [sentry]: https://sentry.io
 [posthog cloud]: https://posthog.com
+[repohistory]: https://repohistory.com
 [resend]: https://resend.com
 [mailersend]: https://mailersend.com
 [crisp chat]: https://crisp.chat
