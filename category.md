@@ -98,6 +98,7 @@ Tool | Description | Pricing Tier
 [Formbricks] | Surveys & product feedback; unlimited surveys, 1 000 responses/mo free. | Free with Generous Tier
 [Plausible Cloud] | Free for sites under 10k monthly page views. | Free with Generous Tier
 [PostHog Cloud] | Event tracking, feature flags, and product analytics. | Free with Generous Tier
+[Repohistory] | GitHub repo analytics tool; Free for tracking one repo. | Free with Generous Tier
 
 ## Auth
 
@@ -570,6 +571,7 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 [highlight.io]: https://highlight.io
 [sentry]: https://sentry.io
 [posthog cloud]: https://posthog.com
+[repohistory]: https://repohistory.com
 [resend]: https://resend.com
 [mailersend]: https://mailersend.com
 [crisp chat]: https://crisp.chat
