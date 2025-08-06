@@ -167,7 +167,6 @@ Site | Category | Description
 [Formbricks] | `Analytics` | Surveys & product feedback; unlimited surveys, 1 000 responses/mo free.
 [Plausible Cloud] | `Analytics` | Free for sites under 10k monthly page views.
 [PostHog Cloud] | `Analytics` | Event tracking, feature flags, and product analytics.
-[Repohistory] | `Analytics` | GitHub repo analytics tool; Free for tracking one repo.
 [Auth0] | `Auth` | Authentication/authorization platform.
 [Hookdeck] | `Automation` | Webhook ingestion platform; 100 000 monthly events on the dev tier.
 [Pipedream] | `Automation` | Serverless workflows with 100 000+ monthly executions free.
@@ -312,7 +311,6 @@ Site | Category | Description
 [highlight.io]: https://highlight.io
 [sentry]: https://sentry.io
 [posthog cloud]: https://posthog.com
-[repohistory]: https://repohistory.com
 [resend]: https://resend.com
 [mailersend]: https://mailersend.com
 [crisp chat]: https://crisp.chat
