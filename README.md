@@ -50,6 +50,7 @@ Site | Category | Description
 [Qodo] | `AI` | AI programming partner.
 [Sourcegraph Cody] | `AI` | AI assistant for code navigation and refactoring (VS Code & CLI).
 [GoatCounter] | `Analytics` | Lightweight, privacy-respecting web analytics.
+[FullSession](https://www.fullsession.io/) | Analytics | Session replay and user behavior analytics for websites
 [Hoppscotch] | `API` | Open-source API client for REST, GraphQL and WebSocket testing.
 [OpenAPI.Tools] | `API` | Directory of free tools for designing and testing OpenAPI specs.
 [Public APIs] | `API` | Searchable index of free public APIs with examples.
