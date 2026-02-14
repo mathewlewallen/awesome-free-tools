@@ -51,6 +51,7 @@ Site | Category | Description
 [Sourcegraph Cody] | `AI` | AI assistant for code navigation and refactoring (VS Code & CLI).
 [GoatCounter] | `Analytics` | Lightweight, privacy-respecting web analytics.
 [Hoppscotch] | `API` | Open-source API client for REST, GraphQL and WebSocket testing.
+[NexTool] | `Developer Tools` | 228+ free browser-based tools (JSON, regex, CSS, color, code formatters). 100% client-side, no tracking.
 [OpenAPI.Tools] | `API` | Directory of free tools for designing and testing OpenAPI specs.
 [Public APIs] | `API` | Searchable index of free public APIs with examples.
 [AWS Free Tier] | `Cloud` | Cloud services with always-free and trial tiers.
@@ -404,3 +405,4 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 
 [↑ Back to Top](#top)
 
+[NexTool]: https://nextool.app/free-tools/
