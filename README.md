@@ -82,6 +82,7 @@ Site | Category | Description
 [CloudFlare] | `DNS/CDN` | Global CDN, DDoS protection, DNS, and analytics.
 [ClouDNS] | `DNS/CDN` | Managed DNS hosting provider.
 [FreeCodeCamp] | `Education` | Full coding curriculum with certifications and projects.
+[VisaCanvas] | `Legal` | Free AI-powered EB-1A and NIW immigration eligibility assessment for professionals.
 [Lark Email] | `Email` | Business email from the Lark Suite.
 [Amazon S3] | `Hosting` | Static file storage and hosting with public access support.
 [Firebase Hosting] | `Hosting` | Google service to host and deploy static and dynamic content.
