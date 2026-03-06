@@ -65,6 +65,7 @@ Site | Category | Description
 [Monaspace Fonts] | `Design` | Distinctive family of monospaced fonts by GitHub.
 [OpenPeeps] | `Design` | Hand-drawn vector illustration library for UI mock-ups.
 [Ray.so] | `Design` | Create beautiful code screenshots with customizable themes.
+[Image Landscape Converter] | `Design` | Rotate portrait or sideways photos to landscape orientation. 100% browser-based, no upload required.
 [Astro] | `Development` | Static-site framework that ships zero JS by default.
 [DevDocs] | `Development` | Fast, searchable documentation browser with offline mode for 100-plus languages & APIs.
 [Docker] | `DevOps` | Container platform for building and deploying apps.
@@ -267,6 +268,7 @@ Site | Category | Description
 [goatcounter]: https://www.goatcounter.com
 [better uptime]: https://betteruptime.com
 [ray.so]: https://ray.so
+[image landscape converter]: https://image-landscape-converter.vercel.app
 [iconshock free bundle]: https://www.iconshock.com/free-icons
 [diagrams.net]: https://www.diagrams.net
 [smalldev.tools]: https://smalldev.tools
