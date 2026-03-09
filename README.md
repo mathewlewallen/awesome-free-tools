@@ -118,6 +118,7 @@ Site | Category | Description
 [GTMetrix] | `Performance` | Website speed and performance reports.
 [PageSpeed Insights] | `Performance` | Google's tool for analyzing web performance.
 [WebPageTest] | `Performance` | Real browser-based performance testing.
+[GEOScore AI] | `Performance` | Free AI search visibility scanner checking 11 GEO signals for AI search engine optimization.
 [CodePen] | `Playground` | Frontend design sandbox with live preview.
 [JSBin] | `Playground` | JS testing tool with live code sharing.
 [JSFiddle] | `Playground` | Live HTML/CSS/JS editor with preview.
@@ -220,6 +221,7 @@ Site | Category | Description
 [pingdom]: http://tools.pingdom.com/fpt
 [pagespeed insights]: https://developers.google.com/speed/pagespeed/insights
 [webpagetest]: http://www.webpagetest.org/
+[geoscore ai]: https://geoscoreai.com
 [gtmetrix]: http://gtmetrix.com/
 [import.io]: https://www.import.io/
 [webz.io]: https://Webz.io
