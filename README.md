@@ -79,6 +79,7 @@ Site | Category | Description
 [Klotho] | `DevTools` | CLI that converts application code into cloud infrastructure.
 [Responsively App] | `DevTools` | Browser to test websites across multiple viewports simultaneously.
 [Snippet Generator] | `DevTools` | Generate styled code-snippet images for sharing.
+[ToolSparkr] | `DevTools` | 35+ free online developer tools including JSON formatter, URL encoder, password generator, Base64 encoder, hash generators, QR code generator, UUID generator, and DNS lookup. No signup, browser-based.
 [CloudFlare] | `DNS/CDN` | Global CDN, DDoS protection, DNS, and analytics.
 [ClouDNS] | `DNS/CDN` | Managed DNS hosting provider.
 [FreeCodeCamp] | `Education` | Full coding curriculum with certifications and projects.
@@ -282,6 +283,7 @@ Site | Category | Description
 [hoppscotch]: https://hoppscotch.io
 [tana packer]: https://github.com/tanapacker/tana-packer
 [snippet generator]: https://snippet-generator.app
+[toolsparkr]: https://toolsparkr.com
 [freecodecamp]: https://www.freecodecamp.org
 [sourcegraph cody]: https://sourcegraph.com/cody
 [carbon]: https://carbon.now.sh
