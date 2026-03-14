@@ -79,6 +79,7 @@ Site | Category | Description
 [Klotho] | `DevTools` | CLI that converts application code into cloud infrastructure.
 [Responsively App] | `DevTools` | Browser to test websites across multiple viewports simultaneously.
 [Snippet Generator] | `DevTools` | Generate styled code-snippet images for sharing.
+[ZapTools] | `DevTools` | 114+ free browser-based developer tools. JSON formatter, regex tester, Base64 encoder, CSS generators, code formatters, and more. No signup, runs in browser.
 [CloudFlare] | `DNS/CDN` | Global CDN, DDoS protection, DNS, and analytics.
 [ClouDNS] | `DNS/CDN` | Managed DNS hosting provider.
 [FreeCodeCamp] | `Education` | Full coding curriculum with certifications and projects.
@@ -150,6 +151,7 @@ Site | Category | Description
 [Mailtolink.me] | `Utilities` | Generate custom mailto: links with pre-filled fields.
 [SmallDev.tools] | `Utilities` | Online formatters, validators, and developer helpers—no signup.
 [Snapdrop] | `Utilities` | Browser-based AirDrop alternative for local file transfers.
+[ZapInvoice] | `Utilities` | Free invoice generator for freelancers. Create professional invoices, download as PDF, email to clients. No signup required for basic features.
 [AWS CodeCommit] | `Version Control` | Private Git hosting from Amazon Web Services.
 [Azure Repos] | `Version Control` | Git repos integrated with Azure DevOps.
 [BitBucket] | `Version Control` | Git solution from Atlassian, integrates with Jira and Trello.
@@ -290,6 +292,8 @@ Site | Category | Description
 [fontshare]: https://www.fontshare.com
 [mailtolink.me]: https://mailtolink.me
 [responsively app]: https://responsively.appsimultaneously.app
+[zaptools]: https://zaptools.web.app
+[zapinvoice]: https://zapinvoice.web.app
 [snapdrop]: https://snapdrop.net
 [runno playground]: https://play.runno.dev
 [turborepo]: https://turbo.build/repo
