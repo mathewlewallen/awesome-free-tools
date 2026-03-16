@@ -65,6 +65,7 @@ Site | Category | Description
 [Monaspace Fonts] | `Design` | Distinctive family of monospaced fonts by GitHub.
 [OpenPeeps] | `Design` | Hand-drawn vector illustration library for UI mock-ups.
 [Ray.so] | `Design` | Create beautiful code screenshots with customizable themes.
+[JustBlogged] | `Content` | No-setup blogging platform with built-in SEO, custom domains, and beautiful themes. Free forever.
 [Astro] | `Development` | Static-site framework that ships zero JS by default.
 [DevDocs] | `Development` | Fast, searchable documentation browser with offline mode for 100-plus languages & APIs.
 [Docker] | `DevOps` | Container platform for building and deploying apps.
@@ -286,6 +287,7 @@ Site | Category | Description
 [sourcegraph cody]: https://sourcegraph.com/cody
 [carbon]: https://carbon.now.sh
 [astro]: https://astro.build
+[justblogged]: https://justblogged.com
 [openui]: https://openui.org
 [fontshare]: https://www.fontshare.com
 [mailtolink.me]: https://mailtolink.me
