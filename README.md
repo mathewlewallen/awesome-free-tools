@@ -79,6 +79,7 @@ Site | Category | Description
 [Klotho] | `DevTools` | CLI that converts application code into cloud infrastructure.
 [Responsively App] | `DevTools` | Browser to test websites across multiple viewports simultaneously.
 [Snippet Generator] | `DevTools` | Generate styled code-snippet images for sharing.
+[UtilShed] | `DevTools` | 100+ free browser-based developer tools — JSON formatter, Base64 encoder, hash generator, regex tester, and more. No signup, fully client-side.
 [CloudFlare] | `DNS/CDN` | Global CDN, DDoS protection, DNS, and analytics.
 [ClouDNS] | `DNS/CDN` | Managed DNS hosting provider.
 [FreeCodeCamp] | `Education` | Full coding curriculum with certifications and projects.
@@ -328,6 +329,7 @@ Site | Category | Description
 [pinggy]: https://pinggy.io
 [stackblitz]: https://stackblitz.com
 [formbricks]: https://formbricks.com
+[UtilShed]: https://utilshed.com
 
 ---
 
