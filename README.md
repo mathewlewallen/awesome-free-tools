@@ -176,6 +176,8 @@ Site | Category | Description
 [LottieFiles] | `Design` | JSON animation marketplace/editor; free unlimited previews and basic editing.
 [StackBlitz] | `Development` | Browser IDE; unlimited public projects & repos on free plan.
 [Pinggy] | `DevTools` | Instant public URLs & tunnels to localhost; unlimited free bandwidth.
+[DevTools] | `DevTools` | 14 free client-side developer tools: JSON formatter, Base64 encoder, JWT decoder, UUID generator, hash generator, regex tester, and more. 5 ops/day free.
+[ImgTools] | `Image` | Free online image tools: compress, resize, crop, convert, watermark, background removal. 5 ops/day free.
 [Mintlify Writer] | `Documentation` | AI documentation editor; hobby plan free for 1 user & custom domain.
 [Mailersend] | `Email` | 3,000 free emails/month with analytics and templates.
 [Resend] | `Email` | Send up to 3,000 emails/month on the free tier.
@@ -404,3 +406,6 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 
 [↑ Back to Top](#top)
 
+
+[DevTools]: https://devtools.davrapps.dev
+[ImgTools]: https://imgtools.davrapps.dev
