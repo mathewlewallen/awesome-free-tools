@@ -74,6 +74,7 @@ Site                | Category     | Description
 [DevDocs] | `Development` | Fast, searchable documentation browser with offline mode for 100-plus languages & APIs.
 [Coolify Status] | `Monitoring` | Open-source status-page dashboard for uptime and incident tracking.
 [Haikei] | `Design` | SVG background generator for waves, blobs, gradients, and more.
+[JigsawMake] | `Design` | Free online puzzle maker for jigsaw, crossword, word search, sudoku and bingo cards.
 [NotebookLM] | `AI` | Google AI research assistant that answers questions about your uploaded docs.
 [Mistral AI Playground] | `AI` | No-login playground to test Mixtral and other Mistral open LLMs.
 [Open WebUI] | `AI` | ChatGPT-style UI for interacting with local LLMs such as LLaMA and Mistral.
@@ -222,6 +223,7 @@ Site               | Category     | Description
 [devdocs]: https://devdocs.io
 [coolify status]: https://github.com/coollabsio/status
 [haikei]: https://haikei.app
+[jigsawmake]: https://jigsawmake.com
 [notebooklm]: https://notebooklm.google.com
 [mistral ai playground]: https://huggingface.co/spaces/mistralai
 [open webui]: https://github.com/open-webui/open-webui
