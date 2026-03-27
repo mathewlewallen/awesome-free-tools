@@ -62,6 +62,7 @@ Site | Category | Description
 [Fontshare] | `Design` | Free, high-quality commercial-use fonts.
 [Haikei] | `Design` | SVG background generator for waves, blobs, gradients, and more.
 [Iconshock Free Bundle] | `Design` | Thousands of editable, royalty-free SVG/PNG icon sets.
+[JigsawMake] | `Design` | Free online puzzle maker for jigsaw, crossword, word search, sudoku and bingo cards.
 [Monaspace Fonts] | `Design` | Distinctive family of monospaced fonts by GitHub.
 [OpenPeeps] | `Design` | Hand-drawn vector illustration library for UI mock-ups.
 [Ray.so] | `Design` | Create beautiful code screenshots with customizable themes.
@@ -262,6 +263,7 @@ Site | Category | Description
 [devdocs]: https://devdocs.io
 [coolify status]: https://github.com/coollabsio/status
 [haikei]: https://haikei.app
+[jigsawmake]: https://jigsawmake.com
 [notebooklm]: https://notebooklm.google.com
 [mistral ai playground]: https://huggingface.co/spaces/mistralai
 [open webui]: https://github.com/open-webui/open-webui

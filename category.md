@@ -150,6 +150,7 @@ Tool | Description | Pricing Tier
 [Fontshare] | Free, high-quality commercial-use fonts. | Completely Free (Hosted, No Limits)
 [Haikei] | SVG background generator for waves, blobs, gradients, and more. | Completely Free (Hosted, No Limits)
 [Iconshock Free Bundle] | Thousands of editable, royalty-free SVG/PNG icon sets. | Completely Free (Hosted, No Limits)
+[JigsawMake] | Free online puzzle maker for jigsaw, crossword, word search, sudoku and bingo cards. | Completely Free (Hosted, No Limits)
 [Monaspace Fonts] | Distinctive family of monospaced fonts by GitHub. | Completely Free (Hosted, No Limits)
 [OpenPeeps] | Hand-drawn vector illustration library for UI mock-ups. | Completely Free (Hosted, No Limits)
 [Ray.so] | Create beautiful code screenshots with customizable themes. | Completely Free (Hosted, No Limits)
@@ -523,6 +524,7 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 [devdocs]: https://devdocs.io
 [coolify status]: https://github.com/coollabsio/status
 [haikei]: https://haikei.app
+[jigsawmake]: https://jigsawmake.com
 [notebooklm]: https://notebooklm.google.com
 [mistral ai playground]: https://huggingface.co/spaces/mistralai
 [open webui]: https://github.com/open-webui/open-webui
