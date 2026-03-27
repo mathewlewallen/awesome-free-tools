@@ -118,6 +118,7 @@ Site                | Category     | Description
 [Free Software] | `Miscellaneous` | Free software for anyone to use.
 [Web Monetization] | `Miscellaneous` | A free open web standard service that allows you to send money directly in your browser.
 [Open Source Supporters] | `Miscellaneous` | Companies that offer their tools and services for free to open source projects.
+[ZeroKit.dev] | `DevTools` | 117 free browser-based developer tools including JSON formatter, regex tester, and DNS lookup.
 ---
 
 ## Free with Generous Tier
@@ -265,6 +266,7 @@ Site               | Category     | Description
 [free software]: https://github.com/johnjago/awesome-free-software#readme
 [web monetization]: https://github.com/thomasbnt/awesome-web-monetization#readme
 [open source supporters]: https://github.com/zachflower/awesome-open-source-supporters#readme
+[zerokit.dev]: https://zerokit.dev
 
 <!-- Generous Free Tier -->
 [auth0]: https://auth0.com/
