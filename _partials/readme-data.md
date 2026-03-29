@@ -143,6 +143,8 @@ Site               | Category     | Description
 [Mintlify Writer] | `Documentation` | AI documentation editor; hobby plan free for 1 user & custom domain.
 [SimpleLogin] | `Privacy` | Create up to 15 email aliases to hide your real address.
 [Pinggy] | `DevTools` | Instant public URLs & tunnels to localhost; unlimited free bandwidth.
+[DevTools] | `DevTools` | 14 free client-side developer tools: JSON formatter, Base64 encoder, JWT decoder, UUID generator, hash generator, regex tester, and more.
+[ImgTools] | `Image` | Free online image tools: compress, resize, crop, convert, watermark, and background removal.
 [StackBlitz] | `Development` | Browser IDE; unlimited public projects & repos on free plan.
 [Formbricks] | `Analytics` | Surveys & product feedback; unlimited surveys, 1 000 responses/mo free.
 
@@ -288,3 +290,5 @@ Site               | Category     | Description
 [pinggy]: https://pinggy.io
 [stackblitz]: https://stackblitz.com
 [formbricks]: https://formbricks.com
+[devtools]: https://devtools.davrapps.dev
+[imgtools]: https://imgtools.davrapps.dev
