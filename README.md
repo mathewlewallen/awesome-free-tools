@@ -177,10 +177,12 @@ Site | Category | Description
 [Stripe] | `Billing` | No platform fee, pay only transaction costs.
 [LottieFiles] | `Design` | JSON animation marketplace/editor; free unlimited previews and basic editing.
 [StackBlitz] | `Development` | Browser IDE; unlimited public projects & repos on free plan.
+[DevTools] | `DevTools` | 14 free client-side developer tools: JSON formatter, Base64 encoder, JWT decoder, UUID generator, hash generator, regex tester, and more.
 [Pinggy] | `DevTools` | Instant public URLs & tunnels to localhost; unlimited free bandwidth.
 [Mintlify Writer] | `Documentation` | AI documentation editor; hobby plan free for 1 user & custom domain.
 [Mailersend] | `Email` | 3,000 free emails/month with analytics and templates.
 [Resend] | `Email` | Send up to 3,000 emails/month on the free tier.
+[ImgTools] | `Image` | Free online image tools: compress, resize, crop, convert, watermark, and background removal.
 [Highlight.io] | `Monitoring` | Session replay, error tracking, and logging in one SDK.
 [Sentry] | `Monitoring` | Catch and triage frontend/backend exceptions.
 [Vercel Analytics] | `Performance` | Track real-user metrics like TTFB, CLS, and LCP.
@@ -332,6 +334,8 @@ Site | Category | Description
 [pinggy]: https://pinggy.io
 [stackblitz]: https://stackblitz.com
 [formbricks]: https://formbricks.com
+[devtools]: https://devtools.davrapps.dev
+[imgtools]: https://imgtools.davrapps.dev
 
 ---
 

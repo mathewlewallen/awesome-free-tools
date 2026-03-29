@@ -35,6 +35,7 @@
 - [Email](#email)
 - [Hosting](#hosting)
 - [IDE](#ide)
+- [Image](#image)
 - [Miscellaneous](#miscellaneous)
 - [Monitoring](#monitoring)
 - [Observability](#observability)
@@ -178,6 +179,7 @@ Tool | Description | Pricing Tier
 [Responsively App] | Browser to test websites across multiple viewports simultaneously. | Completely Free (Hosted, No Limits)
 [Snippet Generator] | Generate styled code-snippet images for sharing. | Completely Free (Hosted, No Limits)
 [ZeroKit.dev] | 117 free browser-based developer tools including JSON formatter, regex tester, and DNS lookup. | Completely Free (Hosted, No Limits)
+[DevTools] | 14 free client-side developer tools: JSON formatter, Base64 encoder, JWT decoder, UUID generator, hash generator, regex tester, and more. | Free with Generous Tier
 [Pinggy] | Instant public URLs & tunnels to localhost; unlimited free bandwidth. | Free with Generous Tier
 
 ## Development
@@ -234,6 +236,12 @@ Tool | Description | Pricing Tier
 [VSCode.dev] | Browser-based version of VSCode. | Completely Free (Hosted, No Limits)
 [VSCode] | Open source code editor from Microsoft. | Completely Free (Hosted, No Limits)
 [Windsurf] | AI-powered coding experience by Codeium. | Completely Free (Hosted, No Limits)
+
+## Image
+
+Tool | Description | Pricing Tier
+---- | ----------- | -------------
+[ImgTools] | Free online image tools: compress, resize, crop, convert, watermark, and background removal. | Free with Generous Tier
 
 ## Miscellaneous
 
@@ -591,3 +599,5 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 [pinggy]: https://pinggy.io
 [stackblitz]: https://stackblitz.com
 [formbricks]: https://formbricks.com
+[devtools]: https://devtools.davrapps.dev
+[imgtools]: https://imgtools.davrapps.dev
