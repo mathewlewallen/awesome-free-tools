@@ -49,6 +49,7 @@ Site | Category | Description
 [Open WebUI] | `AI` | ChatGPT-style UI for interacting with local LLMs such as LLaMA and Mistral.
 [Qodo] | `AI` | AI programming partner.
 [Sourcegraph Cody] | `AI` | AI assistant for code navigation and refactoring (VS Code & CLI).
+[Kitmul](https://kitmul.com) | `AI` | 100+ free AI-powered browser tools for PDF, image, video, text & dev tasks. No signup, all processing runs locally.
 [GoatCounter] | `Analytics` | Lightweight, privacy-respecting web analytics.
 [Hoppscotch] | `API` | Open-source API client for REST, GraphQL and WebSocket testing.
 [OpenAPI.Tools] | `API` | Directory of free tools for designing and testing OpenAPI specs.
