@@ -187,6 +187,7 @@ Site | Category | Description
 [Sentry] | `Monitoring` | Catch and triage frontend/backend exceptions.
 [Vercel Analytics] | `Performance` | Track real-user metrics like TTFB, CLS, and LCP.
 [SimpleLogin] | `Privacy` | Create up to 15 email aliases to hide your real address.
+[ConvertPrivately] | `Privacy` | Privacy-first file conversion and utility tools for PDFs, images, documents, and data. 250+ tools, almost all run in-browser with no uploads or tracking.
 [Crisp Chat] | `Support` | Free live chat widget with a shared inbox.
 
 
@@ -336,6 +337,7 @@ Site | Category | Description
 [formbricks]: https://formbricks.com
 [devtools]: https://devtools.davrapps.dev
 [imgtools]: https://imgtools.davrapps.dev
+[convertprivately]: https://convertprivately.com
 
 ---
 
