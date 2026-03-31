@@ -77,6 +77,7 @@ Site | Category | Description
 [Turborepo Cache] | `DevOps` | Free on Vercel, speeds up builds across monorepo packages.
 [WinSCP] | `DevOps` | SFTP, FTP, and SCP client for file transfer.
 [XAMPP] | `DevOps` | Local development environment for PHP and MySQL.
+[AnyTools.io] | `DevTools` | Browser-based developer toolkit (JSON, JWT, regex, cron, Base64, SHA, color, and 25+ more tools). No login, no ads, fully client-side.
 [Klotho] | `DevTools` | CLI that converts application code into cloud infrastructure.
 [Responsively App] | `DevTools` | Browser to test websites across multiple viewports simultaneously.
 [Snippet Generator] | `DevTools` | Generate styled code-snippet images for sharing.
@@ -193,6 +194,7 @@ Site | Category | Description
 ---
 
 <!-- Completely Free -->
+[anytools.io]: https://anytools.io/anytools/
 [dependabot]: https://github.com/dependabot
 [codeql]: https://github.com/github/codeql-action
 [socket.dev]: https://socket.dev
