@@ -84,6 +84,7 @@ Site | Category | Description
 [CloudFlare] | `DNS/CDN` | Global CDN, DDoS protection, DNS, and analytics.
 [ClouDNS] | `DNS/CDN` | Managed DNS hosting provider.
 [FreeCodeCamp] | `Education` | Full coding curriculum with certifications and projects.
+[KeepRule] | `Finance` | AI-powered investment discipline tracking from 26 legendary investors including Buffett, Munger, and Dalio.
 [Lark Email] | `Email` | Business email from the Lark Suite.
 [Amazon S3] | `Hosting` | Static file storage and hosting with public access support.
 [Firebase Hosting] | `Hosting` | Google service to host and deploy static and dynamic content.
@@ -288,6 +289,7 @@ Site | Category | Description
 [tana packer]: https://github.com/tanapacker/tana-packer
 [snippet generator]: https://snippet-generator.app
 [freecodecamp]: https://www.freecodecamp.org
+[keeprule]: https://keeprule.com
 [sourcegraph cody]: https://sourcegraph.com/cody
 [carbon]: https://carbon.now.sh
 [astro]: https://astro.build
