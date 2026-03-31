@@ -78,6 +78,11 @@ Site | Category | Description
 [WinSCP] | `DevOps` | SFTP, FTP, and SCP client for file transfer.
 [XAMPP] | `DevOps` | Local development environment for PHP and MySQL.
 [Klotho] | `DevTools` | CLI that converts application code into cloud infrastructure.
+[Webhook Debugger] | `DevTools` | Free online webhook debugging tool - capture, inspect and debug webhooks in real-time.
+[Redirect Checker] | `DevTools` | Analyze HTTP redirect chains and detect redirect loops.
+[JSON Viewer] | `DevTools` | Free online JSON viewer, formatter and validator with syntax highlighting.
+[SSL Certificate Monitor] | `DevTools` | Monitor SSL/TLS certificate expiry dates and get alerts.
+[DNS Propagation Checker] | `DevTools` | Check DNS record propagation across multiple global DNS servers.
 [Responsively App] | `DevTools` | Browser to test websites across multiple viewports simultaneously.
 [Snippet Generator] | `DevTools` | Generate styled code-snippet images for sharing.
 [ZeroKit.dev] | `DevTools` | 117 free browser-based developer tools including JSON formatter, regex tester, and DNS lookup.
@@ -295,6 +300,11 @@ Site | Category | Description
 [fontshare]: https://www.fontshare.com
 [mailtolink.me]: https://mailtolink.me
 [responsively app]: https://responsively.appsimultaneously.app
+[webhook debugger]: https://webhook-debugger.autocompany.workers.dev
+[redirect checker]: https://redirect-checker.autocompany.workers.dev
+[json viewer]: https://json-viewer.autocompany.workers.dev
+[ssl certificate monitor]: https://ssl-certificate-monitor.autocompany.workers.dev
+[dns propagation checker]: https://dns-propagation-checker.autocompany.workers.dev
 [snapdrop]: https://snapdrop.net
 [runno playground]: https://play.runno.dev
 [turborepo]: https://turbo.build/repo
