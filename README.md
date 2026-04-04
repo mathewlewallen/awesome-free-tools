@@ -40,6 +40,7 @@ See [queue.md](queue.md) for tools being reviewed to add to the list.
 Site | Category | Description
 -----|----------|------------
 [ChatGPT] | `AI` | Conversational AI model for code and productivity tasks.
+[Utilko] | `Developer Tools` `Productivity` | 300+ free online tools — JSON formatter, calculators, converters, image tools, PDF tools. All client-side, no signup.
 [Claude] | `AI` | AI by Anthropic with a strong focus on ethical alignment.
 [DeepSeek] | `AI` | AI-powered search and assistant.
 [Google Gemini] | `AI` | Multimodal AI platform from Google for writing, coding, and image tasks.
@@ -412,3 +413,4 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 
 [↑ Back to Top](#top)
 
+[Utilko]: https://utilko.com
