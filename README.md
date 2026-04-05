@@ -48,6 +48,7 @@ Site | Category | Description
 [NotebookLM] | `AI` | Google AI research assistant that answers questions about your uploaded docs.
 [Open WebUI] | `AI` | ChatGPT-style UI for interacting with local LLMs such as LLaMA and Mistral.
 [Qodo] | `AI` | AI programming partner.
+[CalcFi] | `Finance` | 312+ free financial calculators — mortgage, taxes, FIRE, debt payoff, compound interest. No signup, no ads, free PDF reports.
 [Sourcegraph Cody] | `AI` | AI assistant for code navigation and refactoring (VS Code & CLI).
 [GoatCounter] | `Analytics` | Lightweight, privacy-respecting web analytics.
 [Hoppscotch] | `API` | Open-source API client for REST, GraphQL and WebSocket testing.
