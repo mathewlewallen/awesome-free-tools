@@ -161,6 +161,7 @@ Site | Category | Description
 
 ---
 
+[ToolNest] | `Tools` | 696+ free online tools — PDF, image, AI, calculators, developer, games, text, converters. No signup.
 ## Free with Generous Tier
 
 Site | Category | Description
@@ -405,6 +406,7 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 >
 > If you want to become a maintainer, [then do so here.](https://github.com/mathewlewallen/awesome-free-tools/issues/1)
 
+[ToolNest]: https://toolnest.dsremo.com
 ### Maintainers
 
 - [@mathewlewallen](https://github.com/mathewlewallen) - Creator.
