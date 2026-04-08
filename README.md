@@ -127,6 +127,8 @@ Site | Category | Description
 [Runno Playground] | `Playground` | Runs C, Python, Ruby, Lua, etc. in-browser via WebAssembly.
 [Tana Packer] | `Productivity` | CLI to export Tana outlines to Markdown.
 [Calendly Embed] | `Scheduling` | Add meeting scheduling links or inline widgets with no backend.
+[Overloop CLI] | `Outbound` | AI-powered outbound engine. Source 450M+ contacts, email + LinkedIn campaigns. JSON output. `npm i -g overloop-cli`
+[Signals CLI] | `Outbound` | Intent signal monitoring. LinkedIn engagers, keyword posters, job changers, funding. JSON output. `npm i -g signals-sortlist-cli`
 [80Legs] | `Scraping` | Web crawling and scraping engine.
 [Abstract Web Scraping API] | `Scraping` | Structured web scraping API.
 [Dexi.io] | `Scraping` | Visual web scraping and data automation tool.
@@ -311,6 +313,8 @@ Site | Category | Description
 [web monetization]: https://github.com/thomasbnt/awesome-web-monetization#readme
 [open source supporters]: https://github.com/zachflower/awesome-open-source-supporters#readme
 [zerokit.dev]: https://zerokit.dev
+[overloop cli]: https://github.com/sortlist/overloop-cli
+[signals cli]: https://github.com/sortlist/signals-cli
 
 <!-- Generous Free Tier -->
 [auth0]: https://auth0.com/
