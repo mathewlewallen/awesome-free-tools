@@ -241,6 +241,7 @@ Tool | Description | Pricing Tier
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
+[convert.rocks] | Free client-side image converter (HEIC, WebP, AVIF, PNG). All processing in browser, no uploads. | Completely Free
 [ImgTools] | Free online image tools: compress, resize, crop, convert, watermark, and background removal. | Free with Generous Tier
 
 ## Miscellaneous
@@ -601,3 +602,4 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 [formbricks]: https://formbricks.com
 [devtools]: https://devtools.davrapps.dev
 [imgtools]: https://imgtools.davrapps.dev
+[convert.rocks]: https://www.convert.rocks
