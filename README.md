@@ -80,7 +80,7 @@ Site | Category | Description
 [Klotho] | `DevTools` | CLI that converts application code into cloud infrastructure.
 [Responsively App] | `DevTools` | Browser to test websites across multiple viewports simultaneously.
 [Snippet Generator] | `DevTools` | Generate styled code-snippet images for sharing.
-[ZeroKit.dev] | `DevTools` | 117 free browser-based developer tools including JSON formatter, regex tester, and DNS lookup.
+[ZeroKit.dev] | `DevTools` | 125 free developer tools including AI Readiness Checker, Website Grader, DNS lookup, and regex tester. Client-side first, with server-side analysis.
 [CloudFlare] | `DNS/CDN` | Global CDN, DDoS protection, DNS, and analytics.
 [ClouDNS] | `DNS/CDN` | Managed DNS hosting provider.
 [FreeCodeCamp] | `Education` | Full coding curriculum with certifications and projects.
