@@ -167,6 +167,7 @@ Site | Category | Description
 -----|----------|------------
 [Replit Ghostwriter] | `AI` | Coding assistant inside Replit IDE; Starter plan free for 3 public projects.
 [Formbricks] | `Analytics` | Surveys & product feedback; unlimited surveys, 1 000 responses/mo free.
+[BionicForms] | `Analytics` | AI-powered form builder with free NPS calculator, sample size calculator, and AI survey analysis.
 [Plausible Cloud] | `Analytics` | Free for sites under 10k monthly page views.
 [PostHog Cloud] | `Analytics` | Event tracking, feature flags, and product analytics.
 [Repohistory] | `Analytics` | GitHub repo analytics tool; Free for tracking one repo.
@@ -334,6 +335,7 @@ Site | Category | Description
 [pinggy]: https://pinggy.io
 [stackblitz]: https://stackblitz.com
 [formbricks]: https://formbricks.com
+[BionicForms]: https://bionicforms.com
 [devtools]: https://devtools.davrapps.dev
 [imgtools]: https://imgtools.davrapps.dev
 
