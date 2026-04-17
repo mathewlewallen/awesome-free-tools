@@ -50,6 +50,9 @@ Site | Category | Description
 [Qodo] | `AI` | AI programming partner.
 [Sourcegraph Cody] | `AI` | AI assistant for code navigation and refactoring (VS Code & CLI).
 [GoatCounter] | `Analytics` | Lightweight, privacy-respecting web analytics.
+[iGotFomo Market Pulse] | `Finance` | Live market dashboard with indices, sector heatmap, movers, and fear/greed gauge. No signup.
+[iGotFomo Stock Calculator] | `Finance` | Investment return, DCA, and options P/L calculator with live stock prices.
+[iGotFomo Ticker Widget] | `Widget` | Embeddable live stock ticker (S&P 500, NASDAQ, DOW, BTC, ETH). Shadow DOM, one-line embed.
 [Hoppscotch] | `API` | Open-source API client for REST, GraphQL and WebSocket testing.
 [OpenAPI.Tools] | `API` | Directory of free tools for designing and testing OpenAPI specs.
 [Public APIs] | `API` | Searchable index of free public APIs with examples.
@@ -270,6 +273,9 @@ Site | Category | Description
 [mistral ai playground]: https://huggingface.co/spaces/mistralai
 [open webui]: https://github.com/open-webui/open-webui
 [goatcounter]: https://www.goatcounter.com
+[igotfomo market pulse]: https://igotfomo.com/tools/market-pulse.html
+[igotfomo stock calculator]: https://igotfomo.com/tools/stock-calculator.html
+[igotfomo ticker widget]: https://igotfomo.com/widgets/
 [better uptime]: https://betteruptime.com
 [ray.so]: https://ray.so
 [iconshock free bundle]: https://www.iconshock.com/free-icons
