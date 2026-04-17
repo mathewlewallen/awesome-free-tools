@@ -81,6 +81,7 @@ Site | Category | Description
 [Responsively App] | `DevTools` | Browser to test websites across multiple viewports simultaneously.
 [Snippet Generator] | `DevTools` | Generate styled code-snippet images for sharing.
 [ZeroKit.dev] | `DevTools` | 117 free browser-based developer tools including JSON formatter, regex tester, and DNS lookup.
+[Varstatt Toolkit](https://varstatt.com/toolkit) | `DevTools` | 35+ free browser-based developer tools for encoding, text, design, network, security, and time tasks.
 [CloudFlare] | `DNS/CDN` | Global CDN, DDoS protection, DNS, and analytics.
 [ClouDNS] | `DNS/CDN` | Managed DNS hosting provider.
 [FreeCodeCamp] | `Education` | Full coding curriculum with certifications and projects.
@@ -411,4 +412,3 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 - [@A-4-Atom](https://github.com/A-4-Atom) - Maintainer.
 
 [↑ Back to Top](#top)
-
