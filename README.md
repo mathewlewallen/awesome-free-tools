@@ -411,4 +411,4 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 - [@A-4-Atom](https://github.com/A-4-Atom) - Maintainer.
 
 [↑ Back to Top](#top)
-
+- [KeyboardTester.click](https://keyboardtester.click) - Free browser-based hardware diagnostic suite — 90+ tools for keyboard, mouse, monitor, audio, and webcam testing. No signup, open source.
