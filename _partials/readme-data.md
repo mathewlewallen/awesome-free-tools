@@ -29,6 +29,7 @@ Site                | Category     | Description
 [Vercel]            | `Hosting` | Zero-config frontend deployment with CDN and preview URLs.
 [Amazon S3]         | `Hosting` | Static file storage and hosting with public access support.
 [Surge]             | `Hosting` | Static site publishing for frontend devs via CLI.
+[KeyboardTester.click] | `Hardware` | Free browser-based hardware diagnostic suite — keyboard, mouse, monitor, audio, webcam testing in 90+ tools. No login. Open source.
 [VSCode]            | `IDE` | Open source code editor from Microsoft.
 [Visual Studio]     | `IDE` | Full-featured IDE for Windows development.
 [NetBeans]          | `IDE` | Apache IDE for Java and other languages.
@@ -296,3 +297,5 @@ Site               | Category     | Description
 [formbricks]: https://formbricks.com
 [devtools]: https://devtools.davrapps.dev
 [imgtools]: https://imgtools.davrapps.dev
+
+[KeyboardTester.click]: https://keyboardtester.click
