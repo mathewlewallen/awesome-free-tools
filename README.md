@@ -26,16 +26,17 @@ See [queue.md](queue.md) for tools being reviewed to add to the list.
 </p>
 <strong><h3>This is a curated list of tools that are:</h3></strong>
 <ul>
-  <li>🎯 Easy to integrate into <strong>any app</strong></li>
-  <li>💸 Either <strong>completely free</strong> or has a <strong>generous free tier</strong></li>
-  <li>🧩 Drop-in with minimal config (CLI, SDK, GitHub Action, etc.)</li>
-  <li>🚀 Perfect for solo devs, MVPs, & indie hackers</li>
+  <li>ð¯ Easy to integrate into <strong>any app</strong></li>
+  <li>ð¸ Either <strong>completely free</strong> or has a <strong>generous free tier</strong></li>
+  <li>ð§© Drop-in with minimal config (CLI, SDK, GitHub Action, etc.)</li>
+  <li>ð Perfect for solo devs, MVPs, & indie hackers</li>
 </ul>
 
 ---
 
 
 ## Completely Free (Hosted, No Limits)
+- [Remove Audio](https://remove-audio.com) — Remove audio from any video file free in your browser. No uploads, no sign-up, no watermarks. Batch up to 20 clips. WebAssembly-powered.
 
 Site | Category | Description
 -----|----------|------------
@@ -150,7 +151,7 @@ Site | Category | Description
 [Tails] | `UI Kit` | Library of modern Tailwind CSS components and templates.
 [Documenso] | `Utilities` | Open-source digital document-signing platform.
 [Mailtolink.me] | `Utilities` | Generate custom mailto: links with pre-filled fields.
-[SmallDev.tools] | `Utilities` | Online formatters, validators, and developer helpers—no signup.
+[SmallDev.tools] | `Utilities` | Online formatters, validators, and developer helpersâno signup.
 [Snapdrop] | `Utilities` | Browser-based AirDrop alternative for local file transfers.
 [AWS CodeCommit] | `Version Control` | Private Git hosting from Amazon Web Services.
 [Azure Repos] | `Version Control` | Git repos integrated with Azure DevOps.
@@ -397,7 +398,7 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 
 > [<img src="_partials/logo.svg" align="right" height="200" alt="Awesome Free Tools Logo">](https://github.com/mathewlewallen/opencloudmap)
 >
-> Maintaining this project requires a lot of time. [Donate to support me!](.github/FUNDING.yml) ❤️
+> Maintaining this project requires a lot of time. [Donate to support me!](.github/FUNDING.yml) â¤ï¸
 >
 > I am just getting into Open Source, so please go check out my work
 >
@@ -410,5 +411,5 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 - [@mathewlewallen](https://github.com/mathewlewallen) - Creator.
 - [@A-4-Atom](https://github.com/A-4-Atom) - Maintainer.
 
-[↑ Back to Top](#top)
+[â Back to Top](#top)
 
