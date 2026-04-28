@@ -36,6 +36,7 @@ See [queue.md](queue.md) for tools being reviewed to add to the list.
 
 
 ## Completely Free (Hosted, No Limits)
+- [Remove Audio](https://remove-audio.com) — Remove audio from any video file free in your browser. No uploads, no sign-up, no watermarks. Batch up to 20 clips. WebAssembly-powered.
 
 Site | Category | Description
 -----|----------|------------
