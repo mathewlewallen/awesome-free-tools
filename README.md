@@ -9,6 +9,8 @@
 
 ## Contents
 
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free no-signup web utilities: domain name generator with availability check, OG image generator, AI background remover (runs locally), favicon generator, color palette generator, SEO meta tag generator. Adding more daily.
+
 - [Completely Free (Hosted, No Limits)](#completely-free-hosted-no-limits)
 - [Free with Generous Tier](#free-with-generous-tier)
 - [Project Badges](#project-badges)
@@ -411,4 +413,5 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 - [@A-4-Atom](https://github.com/A-4-Atom) - Maintainer.
 
 [↑ Back to Top](#top)
+
 
