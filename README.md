@@ -183,6 +183,7 @@ Site | Category | Description
 [Mailersend] | `Email` | 3,000 free emails/month with analytics and templates.
 [Resend] | `Email` | Send up to 3,000 emails/month on the free tier.
 [ImgTools] | `Image` | Free online image tools: compress, resize, crop, convert, watermark, and background removal.
+[igly.ai] | `AI, Image` | Free AI image editing: background removal, inpainting, upscaling, and generative fill. Demo: https://www.youtube.com/watch?v=HB2E1WZ12is
 [Highlight.io] | `Monitoring` | Session replay, error tracking, and logging in one SDK.
 [Sentry] | `Monitoring` | Catch and triage frontend/backend exceptions.
 [Vercel Analytics] | `Performance` | Track real-user metrics like TTFB, CLS, and LCP.
