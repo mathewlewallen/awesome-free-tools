@@ -187,6 +187,7 @@ Site | Category | Description
 [Sentry] | `Monitoring` | Catch and triage frontend/backend exceptions.
 [Vercel Analytics] | `Performance` | Track real-user metrics like TTFB, CLS, and LCP.
 [SimpleLogin] | `Privacy` | Create up to 15 email aliases to hide your real address.
+[InstaPV] | `Social` | Anonymous Instagram viewer for public stories, posts, reels, highlights and recent-followed timelines. No login required.
 [Crisp Chat] | `Support` | Free live chat widget with a shared inbox.
 
 
@@ -331,6 +332,7 @@ Site | Category | Description
 [hookdeck]: https://hookdeck.com
 [mintlify writer]: https://mintlify.com
 [simplelogin]: https://simplelogin.io
+[instapv]: https://www.instapv.ai/
 [pinggy]: https://pinggy.io
 [stackblitz]: https://stackblitz.com
 [formbricks]: https://formbricks.com
