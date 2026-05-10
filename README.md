@@ -161,6 +161,15 @@ Site | Category | Description
 
 ---
 
+- [Levyio](https://levyio.com/) - Free US tax calculators by state and city. 2026 IRS-aligned methodology.
+- [Amortio](https://www.amortio.com/) - Free mortgage calculators using Freddie Mac PMMS rate data.
+- [Hammerio](https://hammerio.com/) - Free construction cost calculators by US city.
+- [Calorique](https://calorique.io/) - Free nutrition calculators (TDEE, BMR, macros).
+- [Degreecalc](https://degreecalc.com/) - Free college cost and ROI calculators.
+- [Jouleio](https://jouleio.com/) - Free solar payback and EV cost calculators.
+- [Bytepane](https://bytepane.com/) - Free developer tools suite (50+ utilities).
+- [Salario](https://salario.io/) - Free US salary calculator by city × occupation.
+
 ## Free with Generous Tier
 
 Site | Category | Description
@@ -411,4 +420,3 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 - [@A-4-Atom](https://github.com/A-4-Atom) - Maintainer.
 
 [↑ Back to Top](#top)
-
