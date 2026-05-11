@@ -157,6 +157,7 @@ Site | Category | Description
 [BitBucket] | `Version Control` | Git solution from Atlassian, integrates with Jira and Trello.
 [GitHub] | `Version Control` | Code hosting platform with collaboration, CI/CD, and issue tracking.
 [GitLab] | `Version Control` | Full DevOps lifecycle tool, Git hosting and pipelines.
+[Acento] | `DevTools` | Multilingual client-side calculators, dev formatters and text tools across 9 languages; no signup, no upload.
 
 
 ---
@@ -311,6 +312,7 @@ Site | Category | Description
 [web monetization]: https://github.com/thomasbnt/awesome-web-monetization#readme
 [open source supporters]: https://github.com/zachflower/awesome-open-source-supporters#readme
 [zerokit.dev]: https://zerokit.dev
+[acento]: https://www.acento.io
 
 <!-- Generous Free Tier -->
 [auth0]: https://auth0.com/
