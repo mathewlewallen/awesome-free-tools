@@ -157,6 +157,7 @@ Site | Category | Description
 [BitBucket] | `Version Control` | Git solution from Atlassian, integrates with Jira and Trello.
 [GitHub] | `Version Control` | Code hosting platform with collaboration, CI/CD, and issue tracking.
 [GitLab] | `Version Control` | Full DevOps lifecycle tool, Git hosting and pipelines.
+[TinyTools] | `DevTools` | 30+ free single-purpose browser-based tools — favicon generator, color palette, OG image generator, SEO meta tag generator, AI cost calculator, AI disclosure generators (EU AI Act + NY), background remover, image upscaler, MCP config generator, prompt injection tester, and more. No signup, open source.
 
 
 ---
@@ -311,6 +312,7 @@ Site | Category | Description
 [web monetization]: https://github.com/thomasbnt/awesome-web-monetization#readme
 [open source supporters]: https://github.com/zachflower/awesome-open-source-supporters#readme
 [zerokit.dev]: https://zerokit.dev
+[tinytools]: https://tinytools-smoky.vercel.app/
 
 <!-- Generous Free Tier -->
 [auth0]: https://auth0.com/
