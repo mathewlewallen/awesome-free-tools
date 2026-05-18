@@ -80,6 +80,7 @@ Site | Category | Description
 [Klotho] | `DevTools` | CLI that converts application code into cloud infrastructure.
 [Responsively App] | `DevTools` | Browser to test websites across multiple viewports simultaneously.
 [Snippet Generator] | `DevTools` | Generate styled code-snippet images for sharing.
+[TinyTools] | `DevTools` | 9 free single-purpose browser utilities (favicon generator, OG image generator, color palette, AI background remover that runs locally, SEO meta tag generator, AI cost calculator, etc.) — no signup, open source.
 [ZeroKit.dev] | `DevTools` | 117 free browser-based developer tools including JSON formatter, regex tester, and DNS lookup.
 [CloudFlare] | `DNS/CDN` | Global CDN, DDoS protection, DNS, and analytics.
 [ClouDNS] | `DNS/CDN` | Managed DNS hosting provider.
@@ -305,6 +306,7 @@ Site | Category | Description
 [certificates]: https://github.com/PanXProject/awesome-certificates#readme
 [cyber security university]: https://github.com/brootware/awesome-cyber-security-university#readme
 [robotic tooling]: https://github.com/protontypes/awesome-robotic-tooling#readme
+[tinytools]: https://tinytools-smoky.vercel.app/
 [tor]: https://github.com/polycarbohydrate/awesome-tor#readme
 [free for developers]: https://github.com/ripienaar/free-for-dev#readme
 [free software]: https://github.com/johnjago/awesome-free-software#readme
