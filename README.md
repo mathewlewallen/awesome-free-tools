@@ -175,6 +175,7 @@ Site | Category | Description
 [Pipedream] | `Automation` | Serverless workflows with 100 000+ monthly executions free.
 [LemonSqueezy] | `Billing` | Free until you earn revenue (fees only on transactions).
 [Stripe] | `Billing` | No platform fee, pay only transaction costs.
+[Gesturo] | `Design` | Native gesture drawing app for artists; free tier with daily session, timer, animation and cinema modes, community challenges.
 [LottieFiles] | `Design` | JSON animation marketplace/editor; free unlimited previews and basic editing.
 [StackBlitz] | `Development` | Browser IDE; unlimited public projects & repos on free plan.
 [DevTools] | `DevTools` | 14 free client-side developer tools: JSON formatter, Base64 encoder, JWT decoder, UUID generator, hash generator, regex tester, and more.
@@ -326,6 +327,7 @@ Site | Category | Description
 [lemonsqueezy]: https://lemonsqueezy.com
 [plausible cloud]: https://plausible.io
 [replit ghostwriter]: https://replit.com
+[gesturo]: https://gesturo.fr
 [lottiefiles]: https://lottiefiles.com
 [pipedream]: https://pipedream.com
 [hookdeck]: https://hookdeck.com
