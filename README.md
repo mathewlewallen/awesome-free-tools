@@ -62,6 +62,7 @@ Site | Category | Description
 [Fontshare] | `Design` | Free, high-quality commercial-use fonts.
 [Haikei] | `Design` | SVG background generator for waves, blobs, gradients, and more.
 [Iconshock Free Bundle] | `Design` | Thousands of editable, royalty-free SVG/PNG icon sets.
+[IDPhotoSnap] | `Design` | Free browser-only passport & visa photo maker for 100+ countries. Crops to official government specs, removes background client-side, no upload, no signup, no watermark.
 [JigsawMake] | `Design` | Free online puzzle maker for jigsaw, crossword, word search, sudoku and bingo cards.
 [Monaspace Fonts] | `Design` | Distinctive family of monospaced fonts by GitHub.
 [OpenPeeps] | `Design` | Hand-drawn vector illustration library for UI mock-ups.
@@ -336,6 +337,7 @@ Site | Category | Description
 [formbricks]: https://formbricks.com
 [devtools]: https://devtools.davrapps.dev
 [imgtools]: https://imgtools.davrapps.dev
+[idphotosnap]: https://idphotosnap.com
 
 ---
 
