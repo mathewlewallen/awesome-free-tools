@@ -412,3 +412,6 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 
 [↑ Back to Top](#top)
 
+
+
+- [PDF Toolbox](https://pdftoolbox-three.vercel.app) - Free browser-based PDF toolkit — compress, merge, split, convert. Local processing, no uploads.
