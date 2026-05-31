@@ -175,6 +175,7 @@ Tool | Description | Pricing Tier
 
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
+[Adwatak] | 40+ free online tools (calculators, converters, text, image, dev) in Arabic & English. No signup. | Completely Free (Hosted, No Limits)
 [Klotho] | CLI that converts application code into cloud infrastructure. | Completely Free (Hosted, No Limits)
 [Responsively App] | Browser to test websites across multiple viewports simultaneously. | Completely Free (Hosted, No Limits)
 [Snippet Generator] | Generate styled code-snippet images for sharing. | Completely Free (Hosted, No Limits)
