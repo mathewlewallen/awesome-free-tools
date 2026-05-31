@@ -77,6 +77,7 @@ Site | Category | Description
 [Turborepo Cache] | `DevOps` | Free on Vercel, speeds up builds across monorepo packages.
 [WinSCP] | `DevOps` | SFTP, FTP, and SCP client for file transfer.
 [XAMPP] | `DevOps` | Local development environment for PHP and MySQL.
+[Adwatak] | `DevTools` | 40+ free online tools (calculators, converters, text, image, dev) in Arabic & English. No signup.
 [Klotho] | `DevTools` | CLI that converts application code into cloud infrastructure.
 [Responsively App] | `DevTools` | Browser to test websites across multiple viewports simultaneously.
 [Snippet Generator] | `DevTools` | Generate styled code-snippet images for sharing.
