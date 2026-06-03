@@ -66,6 +66,7 @@ Site | Category | Description
 [Monaspace Fonts] | `Design` | Distinctive family of monospaced fonts by GitHub.
 [OpenPeeps] | `Design` | Hand-drawn vector illustration library for UI mock-ups.
 [Ray.so] | `Design` | Create beautiful code screenshots with customizable themes.
+[TinyTools] | `Utilities` | Free single-purpose web utilities - domain name generator, OG image generator, AI background remover, favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, content disclosure generator, robots.txt generator. All browser-based, no signup.
 [Astro] | `Development` | Static-site framework that ships zero JS by default.
 [DevDocs] | `Development` | Fast, searchable documentation browser with offline mode for 100-plus languages & APIs.
 [Docker] | `DevOps` | Container platform for building and deploying apps.
@@ -411,4 +412,3 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 - [@A-4-Atom](https://github.com/A-4-Atom) - Maintainer.
 
 [↑ Back to Top](#top)
-
