@@ -157,6 +157,7 @@ Site | Category | Description
 [BitBucket] | `Version Control` | Git solution from Atlassian, integrates with Jira and Trello.
 [GitHub] | `Version Control` | Code hosting platform with collaboration, CI/CD, and issue tracking.
 [GitLab] | `Version Control` | Full DevOps lifecycle tool, Git hosting and pipelines.
+[Mac PPI Calculator & Retina Checker] | `Design` | Calculate a monitor's pixel density and whether it renders Retina-sharp on macOS.
 
 
 ---
@@ -290,6 +291,7 @@ Site | Category | Description
 [freecodecamp]: https://www.freecodecamp.org
 [sourcegraph cody]: https://sourcegraph.com/cody
 [carbon]: https://carbon.now.sh
+[mac ppi calculator & retina checker]: https://retinadesk.com/tools/ppi-calculator/
 [astro]: https://astro.build
 [openui]: https://openui.org
 [fontshare]: https://www.fontshare.com
