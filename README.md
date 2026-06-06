@@ -157,6 +157,7 @@ Site | Category | Description
 [BitBucket] | `Version Control` | Git solution from Atlassian, integrates with Jira and Trello.
 [GitHub] | `Version Control` | Code hosting platform with collaboration, CI/CD, and issue tracking.
 [GitLab] | `Version Control` | Full DevOps lifecycle tool, Git hosting and pipelines.
+[Discover Web Tools] | `Development` | 130+ free, browser-based dev and SEO tools covering JSON, Base64, JWT, hashing, regex and image conversion. Fully client-side, no signup.
 
 
 ---
@@ -206,6 +207,7 @@ Site | Category | Description
 [github]: https://github.com
 [bitbucket]: https://bitbucket.com
 [gitlab]: https://gitlab.com
+[discover web tools]: https://discoverwebtools.com
 [azure repos]: https://azure.microsoft.com/en-us/products/devops/repos
 [aws codecommit]: https://aws.amazon.com/codecommit/
 [aws free tier]: https://aws.amazon.com
