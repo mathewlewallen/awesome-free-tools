@@ -120,6 +120,7 @@ Site                | Category     | Description
 [Web Monetization] | `Miscellaneous` | A free open web standard service that allows you to send money directly in your browser.
 [Open Source Supporters] | `Miscellaneous` | Companies that offer their tools and services for free to open source projects.
 [ZeroKit.dev] | `DevTools` | 117 free browser-based developer tools including JSON formatter, regex tester, and DNS lookup.
+[ToolKnit] | Utilities | 76 free browser-based tools for PDF, image, video, audio, text and more. 100% client-side, no uploads, no sign-up.
 ---
 
 ## Free with Generous Tier
@@ -296,3 +297,4 @@ Site               | Category     | Description
 [formbricks]: https://formbricks.com
 [devtools]: https://devtools.davrapps.dev
 [imgtools]: https://imgtools.davrapps.dev
+[toolknit]: https://toolknit.com
