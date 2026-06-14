@@ -179,6 +179,7 @@ Tool | Description | Pricing Tier
 [Responsively App] | Browser to test websites across multiple viewports simultaneously. | Completely Free (Hosted, No Limits)
 [Snippet Generator] | Generate styled code-snippet images for sharing. | Completely Free (Hosted, No Limits)
 [ZeroKit.dev] | 117 free browser-based developer tools including JSON formatter, regex tester, and DNS lookup. | Completely Free (Hosted, No Limits)
+[ToolsNova](https://toolsnova.net) | 100 free browser-based tools for developers and traders — JSON formatter, Base64 encoder, hash generator, XAU/USD pip calculator and more. No signup required. | Completely Free (Hosted, No Limits)
 [DevTools] | 14 free client-side developer tools: JSON formatter, Base64 encoder, JWT decoder, UUID generator, hash generator, regex tester, and more. | Free with Generous Tier
 [Pinggy] | Instant public URLs & tunnels to localhost; unlimited free bandwidth. | Free with Generous Tier
 
