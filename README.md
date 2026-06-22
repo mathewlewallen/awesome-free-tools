@@ -77,6 +77,7 @@ Site | Category | Description
 [Turborepo Cache] | `DevOps` | Free on Vercel, speeds up builds across monorepo packages.
 [WinSCP] | `DevOps` | SFTP, FTP, and SCP client for file transfer.
 [XAMPP] | `DevOps` | Local development environment for PHP and MySQL.
+[JSONViewerTool] | `DevTools` | 50+ free client-side JSON tools: viewer, formatter, validator, compare, and JSON↔CSV/YAML/XML converters. No signup, nothing uploaded.
 [Klotho] | `DevTools` | CLI that converts application code into cloud infrastructure.
 [Responsively App] | `DevTools` | Browser to test websites across multiple viewports simultaneously.
 [Snippet Generator] | `DevTools` | Generate styled code-snippet images for sharing.
@@ -336,6 +337,7 @@ Site | Category | Description
 [formbricks]: https://formbricks.com
 [devtools]: https://devtools.davrapps.dev
 [imgtools]: https://imgtools.davrapps.dev
+[jsonviewertool]: https://jsonviewertool.com
 
 ---
 
