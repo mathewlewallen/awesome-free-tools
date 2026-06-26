@@ -183,6 +183,7 @@ Site | Category | Description
 [Mailersend] | `Email` | 3,000 free emails/month with analytics and templates.
 [Resend] | `Email` | Send up to 3,000 emails/month on the free tier.
 [ImgTools] | `Image` | Free online image tools: compress, resize, crop, convert, watermark, and background removal.
+[BulkPicTools](https://bulkpictools.com) | `Image` | Free online image tools with tool chaining — compress, convert, crop 200+ images locally. Local AI, no uploads, no account.
 [Highlight.io] | `Monitoring` | Session replay, error tracking, and logging in one SDK.
 [Sentry] | `Monitoring` | Catch and triage frontend/backend exceptions.
 [Vercel Analytics] | `Performance` | Track real-user metrics like TTFB, CLS, and LCP.
