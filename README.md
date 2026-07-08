@@ -188,7 +188,7 @@ Site | Category | Description
 [Vercel Analytics] | `Performance` | Track real-user metrics like TTFB, CLS, and LCP.
 [SimpleLogin] | `Privacy` | Create up to 15 email aliases to hide your real address.
 [Crisp Chat] | `Support` | Free live chat widget with a shared inbox.
-
+[Knocket] | `Support` | Free-forever live chat widget + contact page with unified inbox. No seat limits.
 
 ---
 
@@ -412,3 +412,4 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 
 [↑ Back to Top](#top)
 
+[knocket]: https://trtc.io/solutions/knocket
