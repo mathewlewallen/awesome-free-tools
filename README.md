@@ -107,6 +107,7 @@ Site | Category | Description
 [Free for Developers] | `Miscellaneous` | A list of things that are free for Devs.
 [Free Programming Books] | `Miscellaneous` | Free books on programming for anyone.
 [Free Software] | `Miscellaneous` | Free software for anyone to use.
+[Grant Match] | `Miscellaneous` | Free, no-signup tool that matches your startup/nonprofit to open US federal grants (SBIR/STTR & more) by deadline; runs on live grants.gov data.
 [KDE] | `Miscellaneous` | A free software community dedicated to creating an open and user-friendly computing experience.
 [Open Source Supporters] | `Miscellaneous` | Companies that offer their tools and services for free to open source projects.
 [PocketBase] | `Miscellaneous` | An open-source, Go-based backend in one file.
@@ -206,6 +207,7 @@ Site | Category | Description
 [github]: https://github.com
 [bitbucket]: https://bitbucket.com
 [gitlab]: https://gitlab.com
+[grant match]: https://autogranthunter.com/grant-match/?ref=awesome-free-tools
 [azure repos]: https://azure.microsoft.com/en-us/products/devops/repos
 [aws codecommit]: https://aws.amazon.com/codecommit/
 [aws free tier]: https://aws.amazon.com
