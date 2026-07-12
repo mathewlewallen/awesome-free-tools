@@ -152,6 +152,7 @@ Site | Category | Description
 [Mailtolink.me] | `Utilities` | Generate custom mailto: links with pre-filled fields.
 [SmallDev.tools] | `Utilities` | Online formatters, validators, and developer helpers—no signup.
 [Snapdrop] | `Utilities` | Browser-based AirDrop alternative for local file transfers.
+[Toolio] | `Utilities` | 195 browser tools—PDF, image, converters, calculators, dev utilities—most running client-side with no upload.
 [AWS CodeCommit] | `Version Control` | Private Git hosting from Amazon Web Services.
 [Azure Repos] | `Version Control` | Git repos integrated with Azure DevOps.
 [BitBucket] | `Version Control` | Git solution from Atlassian, integrates with Jira and Trello.
@@ -296,6 +297,7 @@ Site | Category | Description
 [mailtolink.me]: https://mailtolink.me
 [responsively app]: https://responsively.appsimultaneously.app
 [snapdrop]: https://snapdrop.net
+[toolio]: https://toolio.pongvn.com
 [runno playground]: https://play.runno.dev
 [turborepo]: https://turbo.build/repo
 [monaspace fonts]: https://monaspace.githubnext.com
