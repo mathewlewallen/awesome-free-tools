@@ -84,6 +84,7 @@ Site                | Category     | Description
 [Iconshock Free Bundle] | `Design` | Thousands of editable, royalty-free SVG/PNG icon sets.
 [Diagrams.net] | `Design` | Diagramming tool for flowcharts, architecture, org charts, and more.
 [SmallDev.tools] | `Utilities` | Online formatters, validators, and developer helpers—no signup.
+[CodeKitHub]           | `Utilities`   | 47 free browser-based tools: formatters, converters, calculators, and AI prompt libraries—no signup.
 [Klotho] | `DevTools` | CLI that converts application code into cloud infrastructure.
 [OpenAPI.Tools] | `API` | Directory of free tools for designing and testing OpenAPI specs.
 [Kandinsky 3 Playground] | `AI` | Image generator powered by Sberbanks Kandinsky diffusion model.
@@ -271,6 +272,7 @@ Site               | Category     | Description
 [web monetization]: https://github.com/thomasbnt/awesome-web-monetization#readme
 [open source supporters]: https://github.com/zachflower/awesome-open-source-supporters#readme
 [zerokit.dev]: https://zerokit.dev
+[codekithub]: https://codekithub.com/en/
 
 <!-- Generous Free Tier -->
 [auth0]: https://auth0.com/
