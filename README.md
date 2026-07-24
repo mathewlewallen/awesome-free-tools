@@ -157,6 +157,7 @@ Site | Category | Description
 [BitBucket] | `Version Control` | Git solution from Atlassian, integrates with Jira and Trello.
 [GitHub] | `Version Control` | Code hosting platform with collaboration, CI/CD, and issue tracking.
 [GitLab] | `Version Control` | Full DevOps lifecycle tool, Git hosting and pipelines.
+[Free Invoice Generator] | `Finance` | Create professional PDF invoices in seconds with automatic totals, logo upload, and no signup required.
 
 
 ---
@@ -336,6 +337,7 @@ Site | Category | Description
 [formbricks]: https://formbricks.com
 [devtools]: https://devtools.davrapps.dev
 [imgtools]: https://imgtools.davrapps.dev
+[free invoice generator]: https://invoice-generator.appsnap.co.uk
 
 ---
 
