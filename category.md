@@ -89,6 +89,7 @@ Tool | Description | Pricing Tier
 ---- | ----------- | -------------
 [Hoppscotch] | Open-source API client for REST, GraphQL and WebSocket testing. | Completely Free (Hosted, No Limits)
 [OpenAPI.Tools] | Directory of free tools for designing and testing OpenAPI specs. | Completely Free (Hosted, No Limits)
+[Planomy Tax Data] | Current US tax and retirement figures as JSON: income tax brackets, 401(k)/IRA/HSA limits, Social Security, Medicare IRMAA and RMD ages. No key, CORS-open, every figure cited to its IRS, SSA or CMS source. | Completely Free (Hosted, No Limits)
 [Public APIs] | Searchable index of free public APIs with examples. | Completely Free (Hosted, No Limits)
 
 ## Analytics
@@ -578,6 +579,7 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 [web monetization]: https://github.com/thomasbnt/awesome-web-monetization#readme
 [open source supporters]: https://github.com/zachflower/awesome-open-source-supporters#readme
 [zerokit.dev]: https://zerokit.dev
+[planomy tax data]: https://planomy.net/data/?utm_source=awesome-free-tools&utm_medium=oss-listing&utm_campaign=open-data
 [auth0]: https://auth0.com/
 [vercel analytics]: https://vercel.com/docs/analytics
 [highlight.io]: https://highlight.io
