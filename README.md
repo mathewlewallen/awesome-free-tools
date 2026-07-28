@@ -57,6 +57,7 @@ Site | Category | Description
 [Google Cloud Free Tier] | `Cloud` | GCP services with free-tier access and generous trial. Look into the $$$ extras.
 [Microsoft Azure Free Tier] | `Cloud` | Microsoft cloud services with free quotas and credits. Look into the $$$ credit and extras.
 [Code Climate] | `Code Quality` | Automated code review and test coverage (Free for OSS).
+[BarcodeGen] | `Design` | Free online barcode generator supporting 35+ formats with bulk generation and PNG/SVG download.
 [Carbon] | `Design` | Convert code snippets to share-ready images.
 [Diagrams.net] | `Design` | Diagramming tool for flowcharts, architecture, org charts, and more.
 [Fontshare] | `Design` | Free, high-quality commercial-use fonts.
@@ -311,6 +312,8 @@ Site | Category | Description
 [web monetization]: https://github.com/thomasbnt/awesome-web-monetization#readme
 [open source supporters]: https://github.com/zachflower/awesome-open-source-supporters#readme
 [zerokit.dev]: https://zerokit.dev
+
+[barcodegen]: https://www.barcodegen.net
 
 <!-- Generous Free Tier -->
 [auth0]: https://auth0.com/
