@@ -52,6 +52,7 @@ Site | Category | Description
 [GoatCounter] | `Analytics` | Lightweight, privacy-respecting web analytics.
 [Hoppscotch] | `API` | Open-source API client for REST, GraphQL and WebSocket testing.
 [OpenAPI.Tools] | `API` | Directory of free tools for designing and testing OpenAPI specs.
+[Planomy Tax Data] | `API` | Current US tax and retirement figures as JSON: income tax brackets, 401(k)/IRA/HSA limits, Social Security, Medicare IRMAA and RMD ages. No key, CORS-open, every figure cited to its IRS, SSA or CMS source.
 [Public APIs] | `API` | Searchable index of free public APIs with examples.
 [AWS Free Tier] | `Cloud` | Cloud services with always-free and trial tiers.
 [Google Cloud Free Tier] | `Cloud` | GCP services with free-tier access and generous trial. Look into the $$$ extras.
@@ -311,6 +312,7 @@ Site | Category | Description
 [web monetization]: https://github.com/thomasbnt/awesome-web-monetization#readme
 [open source supporters]: https://github.com/zachflower/awesome-open-source-supporters#readme
 [zerokit.dev]: https://zerokit.dev
+[planomy tax data]: https://planomy.net/data/?utm_source=awesome-free-tools&utm_medium=oss-listing&utm_campaign=open-data
 
 <!-- Generous Free Tier -->
 [auth0]: https://auth0.com/
