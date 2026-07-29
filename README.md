@@ -150,6 +150,7 @@ Site | Category | Description
 [Tails] | `UI Kit` | Library of modern Tailwind CSS components and templates.
 [Documenso] | `Utilities` | Open-source digital document-signing platform.
 [Mailtolink.me] | `Utilities` | Generate custom mailto: links with pre-filled fields.
+[PDF Mavericks] | `Utilities` | Compress, merge, split, sign and convert PDFs in the browser; files never leave the device.
 [SmallDev.tools] | `Utilities` | Online formatters, validators, and developer helpers—no signup.
 [Snapdrop] | `Utilities` | Browser-based AirDrop alternative for local file transfers.
 [AWS CodeCommit] | `Version Control` | Private Git hosting from Amazon Web Services.
@@ -332,6 +333,7 @@ Site | Category | Description
 [mintlify writer]: https://mintlify.com
 [simplelogin]: https://simplelogin.io
 [pinggy]: https://pinggy.io
+[pdf mavericks]: https://www.pdfmavericks.com/compress
 [stackblitz]: https://stackblitz.com
 [formbricks]: https://formbricks.com
 [devtools]: https://devtools.davrapps.dev
