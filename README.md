@@ -81,6 +81,7 @@ Site | Category | Description
 [Responsively App] | `DevTools` | Browser to test websites across multiple viewports simultaneously.
 [Snippet Generator] | `DevTools` | Generate styled code-snippet images for sharing.
 [ZeroKit.dev] | `DevTools` | 117 free browser-based developer tools including JSON formatter, regex tester, and DNS lookup.
+[Gracestack Dev Tools] | `DevTools` | 14 free browser-based developer tools: JSON formatter, regex tester, JWT decoder, image optimizer, color contrast checker, CSS gradient generator, markdown previewer, and more. No signup required.
 [CloudFlare] | `DNS/CDN` | Global CDN, DDoS protection, DNS, and analytics.
 [ClouDNS] | `DNS/CDN` | Managed DNS hosting provider.
 [FreeCodeCamp] | `Education` | Full coding curriculum with certifications and projects.
@@ -311,6 +312,7 @@ Site | Category | Description
 [web monetization]: https://github.com/thomasbnt/awesome-web-monetization#readme
 [open source supporters]: https://github.com/zachflower/awesome-open-source-supporters#readme
 [zerokit.dev]: https://zerokit.dev
+[gracestack dev tools]: https://tools.gracestack.se/dev-tools.html
 
 <!-- Generous Free Tier -->
 [auth0]: https://auth0.com/
