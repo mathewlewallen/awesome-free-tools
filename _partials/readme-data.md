@@ -297,3 +297,4 @@ Site               | Category     | Description
 [formbricks]: https://formbricks.com
 [devtools]: https://devtools.davrapps.dev
 [imgtools]: https://imgtools.davrapps.dev
+[concrete estimator hub]: https://concreteestimatorhub.com/
