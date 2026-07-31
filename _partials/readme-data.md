@@ -105,6 +105,7 @@ Site                | Category     | Description
 [Mailtolink.me] | `Utilities` | Generate custom mailto: links with pre-filled fields.
 [Responsively App] | `DevTools` | Browser to test websites across multiple viewports simultaneously.
 [Snapdrop] | `Utilities` | Browser-based AirDrop alternative for local file transfers.
+[Concrete Estimator Hub] | `Utilities` | Free concrete calculators for slabs, bag counts, ready-mix comparisons, footings, post holes, and project-cost planning.
 [Runno Playground] | `Playground` | Runs C, Python, Ruby, Lua, etc. in-browser via WebAssembly.
 [Turborepo] | `Tooling` | High-performance build system for JS/TS monorepos.
 [Monaspace Fonts] | `Design` | Distinctive family of monospaced fonts by GitHub.
