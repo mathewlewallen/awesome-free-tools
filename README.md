@@ -66,6 +66,7 @@ Site | Category | Description
 [Monaspace Fonts] | `Design` | Distinctive family of monospaced fonts by GitHub.
 [OpenPeeps] | `Design` | Hand-drawn vector illustration library for UI mock-ups.
 [Ray.so] | `Design` | Create beautiful code screenshots with customizable themes.
+[U2Tool] | `Design` | Free in-browser suite: chart generators (timeline, gantt, sankey), text converters and validators — no sign-up, data stays on your device.
 [Astro] | `Development` | Static-site framework that ships zero JS by default.
 [DevDocs] | `Development` | Fast, searchable documentation browser with offline mode for 100-plus languages & APIs.
 [Docker] | `DevOps` | Container platform for building and deploying apps.
