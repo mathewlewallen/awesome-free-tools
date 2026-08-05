@@ -148,6 +148,7 @@ Site | Category | Description
 [Neobrutalism Components] | `UI Kit` | Brutalist Tailwind component library for landing pages.
 [OpenUI] | `UI Kit` | Community spec & resources for accessible custom elements.
 [Tails] | `UI Kit` | Library of modern Tailwind CSS components and templates.
+[ByteRivet] | `Utilities` | Browser-based file tools — exact-byte-size test file generator plus PDF/image conversion. No upload, no signup.
 [Documenso] | `Utilities` | Open-source digital document-signing platform.
 [Mailtolink.me] | `Utilities` | Generate custom mailto: links with pre-filled fields.
 [SmallDev.tools] | `Utilities` | Online formatters, validators, and developer helpers—no signup.
@@ -193,6 +194,7 @@ Site | Category | Description
 ---
 
 <!-- Completely Free -->
+[byterivet]: https://byterivet.com
 [dependabot]: https://github.com/dependabot
 [codeql]: https://github.com/github/codeql-action
 [socket.dev]: https://socket.dev
