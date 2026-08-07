@@ -412,3 +412,7 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 
 [↑ Back to Top](#top)
 
+## Web utilities
+
+- **[Vaytric Link Health](https://vaytric.com/link-health/)** — Free multi-URL broken link checker (HTTP status + titles).
+
