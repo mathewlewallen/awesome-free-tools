@@ -411,6 +411,7 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 
 - [@mathewlewallen](https://github.com/mathewlewallen) - Creator.
 - [@A-4-Atom](https://github.com/A-4-Atom) - Maintainer.
+* [Korelyy](https://korelyy.com) - 100+ free browser-based tools (emoji mixer, password generator, JSON formatter, QR codes, life-weeks, etc.) running entirely client-side. No signup, no tracking, 6 languages.
 
 [↑ Back to Top](#top)
 
