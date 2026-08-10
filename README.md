@@ -149,6 +149,7 @@ Site | Category | Description
 [OpenUI] | `UI Kit` | Community spec & resources for accessible custom elements.
 [Tails] | `UI Kit` | Library of modern Tailwind CSS components and templates.
 [Documenso] | `Utilities` | Open-source digital document-signing platform.
+[Korelyy] | `Utilities` | A growing set of browser-based tools: JSON, Base64, color, QR codes, image and PDF utilities. Runs client-side, no signup.
 [Mailtolink.me] | `Utilities` | Generate custom mailto: links with pre-filled fields.
 [SmallDev.tools] | `Utilities` | Online formatters, validators, and developer helpers—no signup.
 [Snapdrop] | `Utilities` | Browser-based AirDrop alternative for local file transfers.
@@ -336,6 +337,7 @@ Site | Category | Description
 [formbricks]: https://formbricks.com
 [devtools]: https://devtools.davrapps.dev
 [imgtools]: https://imgtools.davrapps.dev
+[korelyy]: https://korelyy.com/en/
 
 ---
 
@@ -409,6 +411,7 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 
 - [@mathewlewallen](https://github.com/mathewlewallen) - Creator.
 - [@A-4-Atom](https://github.com/A-4-Atom) - Maintainer.
+* [Korelyy](https://korelyy.com) - 100+ free browser-based tools (emoji mixer, password generator, JSON formatter, QR codes, life-weeks, etc.) running entirely client-side. No signup, no tracking, 6 languages.
 
 [↑ Back to Top](#top)
 
