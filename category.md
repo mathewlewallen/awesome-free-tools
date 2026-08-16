@@ -176,6 +176,7 @@ Tool | Description | Pricing Tier
 Tool | Description | Pricing Tier
 ---- | ----------- | -------------
 [Klotho] | CLI that converts application code into cloud infrastructure. | Completely Free (Hosted, No Limits)
+[NeatJSON] | Free browser-based JSON formatter, validator, minifier, diff checker, and schema validator, plus 90+ other dev tools. | Completely Free (Hosted, No Limits)
 [Responsively App] | Browser to test websites across multiple viewports simultaneously. | Completely Free (Hosted, No Limits)
 [Snippet Generator] | Generate styled code-snippet images for sharing. | Completely Free (Hosted, No Limits)
 [ZeroKit.dev] | 117 free browser-based developer tools including JSON formatter, regex tester, and DNS lookup. | Completely Free (Hosted, No Limits)
@@ -578,6 +579,7 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 [web monetization]: https://github.com/thomasbnt/awesome-web-monetization#readme
 [open source supporters]: https://github.com/zachflower/awesome-open-source-supporters#readme
 [zerokit.dev]: https://zerokit.dev
+[neatjson]: https://neatjson.com
 [auth0]: https://auth0.com/
 [vercel analytics]: https://vercel.com/docs/analytics
 [highlight.io]: https://highlight.io

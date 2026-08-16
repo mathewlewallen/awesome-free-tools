@@ -78,6 +78,7 @@ Site | Category | Description
 [WinSCP] | `DevOps` | SFTP, FTP, and SCP client for file transfer.
 [XAMPP] | `DevOps` | Local development environment for PHP and MySQL.
 [Klotho] | `DevTools` | CLI that converts application code into cloud infrastructure.
+[NeatJSON] | `DevTools` | Free browser-based JSON formatter, validator, minifier, diff checker, and schema validator, plus 90+ other dev tools.
 [Responsively App] | `DevTools` | Browser to test websites across multiple viewports simultaneously.
 [Snippet Generator] | `DevTools` | Generate styled code-snippet images for sharing.
 [ZeroKit.dev] | `DevTools` | 117 free browser-based developer tools including JSON formatter, regex tester, and DNS lookup.
@@ -311,6 +312,7 @@ Site | Category | Description
 [web monetization]: https://github.com/thomasbnt/awesome-web-monetization#readme
 [open source supporters]: https://github.com/zachflower/awesome-open-source-supporters#readme
 [zerokit.dev]: https://zerokit.dev
+[neatjson]: https://neatjson.com
 
 <!-- Generous Free Tier -->
 [auth0]: https://auth0.com/
