@@ -126,6 +126,7 @@ Site | Category | Description
 [Plunker] | `Playground` | Online community for creating and sharing web apps.
 [Runno Playground] | `Playground` | Runs C, Python, Ruby, Lua, etc. in-browser via WebAssembly.
 [Tana Packer] | `Productivity` | CLI to export Tana outlines to Markdown.
+[Tabox] | `Productivity` | Browser extension that saves tabs and tab groups into collections and restores sessions in one click.
 [Calendly Embed] | `Scheduling` | Add meeting scheduling links or inline widgets with no backend.
 [80Legs] | `Scraping` | Web crawling and scraping engine.
 [Abstract Web Scraping API] | `Scraping` | Structured web scraping API.
@@ -196,6 +197,7 @@ Site | Category | Description
 [dependabot]: https://github.com/dependabot
 [codeql]: https://github.com/github/codeql-action
 [socket.dev]: https://socket.dev
+[Tabox]: https://www.tabox.co
 [turborepo cache]: https://turbo.build/repo/docs/core-concepts/remote-caching
 [calendly embed]: https://help.calendly.com/hc/en-us/articles/223147027-Embed-options-overview
 [slack github action]: https://github.com/marketplace/actions/slack-notify
