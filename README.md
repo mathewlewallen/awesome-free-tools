@@ -157,6 +157,13 @@ Site | Category | Description
 [BitBucket] | `Version Control` | Git solution from Atlassian, integrates with Jira and Trello.
 [GitHub] | `Version Control` | Code hosting platform with collaboration, CI/CD, and issue tracking.
 [GitLab] | `Version Control` | Full DevOps lifecycle tool, Git hosting and pipelines.
+[Codex Theme Builder] | `Utilities` | Browser theme builder for OpenAI Codex with live preview and CSS token export.
+[SkyCOTL Tools] | `Utilities` | Guides and calculators for Sky: Children of the Light.
+[WattsCalc] | `Utilities` | Wattage and electricity cost calculator for appliances and devices.
+[Lawn Mowing Cost Calculator] | `Utilities` | Lawn mowing cost estimates by area, rate, and extras.
+[Embroidery Pricing Calculator] | `Utilities` | Embroidery job pricing from stitches, fabric, and labor.
+[Image to Crochet Pattern] | `Utilities` | Converts images into crochet patterns in the browser.
+[Pressure Washer Fix] | `Utilities` | Troubleshooting guides for common pressure washer problems.
 
 
 ---
@@ -200,6 +207,14 @@ Site | Category | Description
 [calendly embed]: https://help.calendly.com/hc/en-us/articles/223147027-Embed-options-overview
 [slack github action]: https://github.com/marketplace/actions/slack-notify
 [chatgpt]: https://chatgpt.com
+[codex theme builder]: https://codextheme.tools
+[skycotl tools]: https://skycotl.tools
+[wattscalc]: https://wattscalc.com
+[lawn mowing cost calculator]: https://lawnmowingcalculator.com
+[embroidery pricing calculator]: https://embroiderypricingcalculator.com
+[image to crochet pattern]: https://imagetocrochetpattern.com
+[pressure washer fix]: https://pressurewasherfix.com
+
 [google gemini]: https://gemini.google.com
 [deepseek]: https://www.deepseek.com
 [claude]: https://claude.ai
