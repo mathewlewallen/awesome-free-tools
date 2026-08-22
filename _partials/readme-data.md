@@ -120,6 +120,7 @@ Site                | Category     | Description
 [Web Monetization] | `Miscellaneous` | A free open web standard service that allows you to send money directly in your browser.
 [Open Source Supporters] | `Miscellaneous` | Companies that offer their tools and services for free to open source projects.
 [ZeroKit.dev] | `DevTools` | 117 free browser-based developer tools including JSON formatter, regex tester, and DNS lookup.
+[Got My Tools](https://gotmytools.com) | `Productivity` | Free browser-based calculators, converters, and file tools (PDF/Excel/images/dev/text) — nothing is ever uploaded.
 ---
 
 ## Free with Generous Tier
