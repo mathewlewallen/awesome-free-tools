@@ -84,6 +84,7 @@ Site                | Category     | Description
 [Iconshock Free Bundle] | `Design` | Thousands of editable, royalty-free SVG/PNG icon sets.
 [Diagrams.net] | `Design` | Diagramming tool for flowcharts, architecture, org charts, and more.
 [SmallDev.tools] | `Utilities` | Online formatters, validators, and developer helpers—no signup.
+[SolveBar] | `Utilities` | Free browser-based tools: JSON formatter, Base64 encoder, hash generator, password generator, unit converter, and more.
 [Klotho] | `DevTools` | CLI that converts application code into cloud infrastructure.
 [OpenAPI.Tools] | `API` | Directory of free tools for designing and testing OpenAPI specs.
 [Kandinsky 3 Playground] | `AI` | Image generator powered by Sberbanks Kandinsky diffusion model.
@@ -153,6 +154,7 @@ Site               | Category     | Description
 ---
 
 <!-- Completely Free -->
+[solvebar]: https://solvebar.com
 [dependabot]: https://github.com/dependabot
 [codeql]: https://github.com/github/codeql-action
 [socket.dev]: https://socket.dev
