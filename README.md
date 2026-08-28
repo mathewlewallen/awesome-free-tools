@@ -80,6 +80,7 @@ Site | Category | Description
 [Klotho] | `DevTools` | CLI that converts application code into cloud infrastructure.
 [Responsively App] | `DevTools` | Browser to test websites across multiple viewports simultaneously.
 [Snippet Generator] | `DevTools` | Generate styled code-snippet images for sharing.
+[TextUtil] | `DevTools` | 50+ free browser-based text and developer tools (JSON/XML/CSS formatters, Base64, hashing, UUID); 100% client-side, nothing uploaded.
 [ZeroKit.dev] | `DevTools` | 117 free browser-based developer tools including JSON formatter, regex tester, and DNS lookup.
 [CloudFlare] | `DNS/CDN` | Global CDN, DDoS protection, DNS, and analytics.
 [ClouDNS] | `DNS/CDN` | Managed DNS hosting provider.
@@ -412,3 +413,5 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 
 [↑ Back to Top](#top)
 
+
+[TextUtil]: https://www.textutil.com/
