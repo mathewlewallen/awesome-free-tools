@@ -150,6 +150,7 @@ Site | Category | Description
 [Tails] | `UI Kit` | Library of modern Tailwind CSS components and templates.
 [Documenso] | `Utilities` | Open-source digital document-signing platform.
 [Mailtolink.me] | `Utilities` | Generate custom mailto: links with pre-filled fields.
+[Nutilz] | `Utilities` | 23 free browser-based developer tools: regex tester, JSON formatter, unit converter, and calculators.
 [SmallDev.tools] | `Utilities` | Online formatters, validators, and developer helpers—no signup.
 [Snapdrop] | `Utilities` | Browser-based AirDrop alternative for local file transfers.
 [AWS CodeCommit] | `Version Control` | Private Git hosting from Amazon Web Services.
@@ -193,6 +194,7 @@ Site | Category | Description
 ---
 
 <!-- Completely Free -->
+[nutilz]: https://nutilz.com
 [dependabot]: https://github.com/dependabot
 [codeql]: https://github.com/github/codeql-action
 [socket.dev]: https://socket.dev
