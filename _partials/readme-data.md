@@ -91,6 +91,7 @@ Site                | Category     | Description
 [Tails] | `UI Kit` | Library of modern Tailwind CSS components and templates.
 [Neobrutalism Components] | `UI Kit` | Brutalist Tailwind component library for landing pages.
 [Documenso] | `Utilities` | Open-source digital document-signing platform.
+[Nutilz] | `Utilities` | 23 free browser-based developer tools: regex tester, JSON formatter, unit converter, and calculators.
 [Public APIs] | `API` | Searchable index of free public APIs with examples.
 [OpenPeeps] | `Design` | Hand-drawn vector illustration library for UI mock-ups.
 [Hoppscotch] | `API` | Open-source API client for REST, GraphQL and WebSocket testing.
@@ -153,6 +154,7 @@ Site               | Category     | Description
 ---
 
 <!-- Completely Free -->
+[nutilz]: https://nutilz.com
 [dependabot]: https://github.com/dependabot
 [codeql]: https://github.com/github/codeql-action
 [socket.dev]: https://socket.dev

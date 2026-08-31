@@ -370,6 +370,7 @@ Tool | Description | Pricing Tier
 ---- | ----------- | -------------
 [Documenso] | Open-source digital document-signing platform. | Completely Free (Hosted, No Limits)
 [Mailtolink.me] | Generate custom mailto: links with pre-filled fields. | Completely Free (Hosted, No Limits)
+[Nutilz] | 23 free browser-based developer tools: regex tester, JSON formatter, unit converter, and calculators. | Completely Free (Hosted, No Limits)
 [SmallDev.tools] | Online formatters, validators, and developer helpers—no signup. | Completely Free (Hosted, No Limits)
 [Snapdrop] | Browser-based AirDrop alternative for local file transfers. | Completely Free (Hosted, No Limits)
 
@@ -460,6 +461,7 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 
 
 
+[nutilz]: https://nutilz.com
 [dependabot]: https://github.com/dependabot
 [codeql]: https://github.com/github/codeql-action
 [socket.dev]: https://socket.dev
