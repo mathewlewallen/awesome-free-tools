@@ -150,6 +150,7 @@ Site | Category | Description
 [Tails] | `UI Kit` | Library of modern Tailwind CSS components and templates.
 [Documenso] | `Utilities` | Open-source digital document-signing platform.
 [Mailtolink.me] | `Utilities` | Generate custom mailto: links with pre-filled fields.
+[NetProblem] | `Utilities` | 96 free browser-based tools -- calculators, converters, PDF tools, generators, dev utilities. No signup, nothing uploaded, EN/RU/ES.
 [SmallDev.tools] | `Utilities` | Online formatters, validators, and developer helpers—no signup.
 [Snapdrop] | `Utilities` | Browser-based AirDrop alternative for local file transfers.
 [AWS CodeCommit] | `Version Control` | Private Git hosting from Amazon Web Services.
@@ -290,6 +291,7 @@ Site | Category | Description
 [freecodecamp]: https://www.freecodecamp.org
 [sourcegraph cody]: https://sourcegraph.com/cody
 [carbon]: https://carbon.now.sh
+[netproblem]: https://netproblem.online
 [astro]: https://astro.build
 [openui]: https://openui.org
 [fontshare]: https://www.fontshare.com
