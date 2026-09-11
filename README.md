@@ -64,6 +64,7 @@ Site | Category | Description
 [Iconshock Free Bundle] | `Design` | Thousands of editable, royalty-free SVG/PNG icon sets.
 [JigsawMake] | `Design` | Free online puzzle maker for jigsaw, crossword, word search, sudoku and bingo cards.
 [Monaspace Fonts] | `Design` | Distinctive family of monospaced fonts by GitHub.
+[Normal Map Bench] | `Design` | Browser-based normal map generator for game art; OpenGL/DirectX output with live strength, smoothing, edge and lighting controls. No signup, files stay local.
 [OpenPeeps] | `Design` | Hand-drawn vector illustration library for UI mock-ups.
 [Ray.so] | `Design` | Create beautiful code screenshots with customizable themes.
 [Astro] | `Development` | Static-site framework that ships zero JS by default.
@@ -299,6 +300,7 @@ Site | Category | Description
 [runno playground]: https://play.runno.dev
 [turborepo]: https://turbo.build/repo
 [monaspace fonts]: https://monaspace.githubnext.com
+[normal map bench]: https://normalmapbench.com/
 [kde]: https://github.com/francoism90/awesome-kde#readme
 [free programming books]: https://github.com/EbookFoundation/free-programming-books#readme
 [pocketbase]: https://github.com/benallfree/awesome-pocketbase#readme
