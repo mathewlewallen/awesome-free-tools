@@ -276,6 +276,7 @@ Site | Category | Description
 [diagrams.net]: https://www.diagrams.net
 [smalldev.tools]: https://smalldev.tools
 [klotho]: https://klo.dev
+[testmygears]: https://testmygears.com/
 [openapi.tools]: https://openapi.tools
 [kandinsky 3 playground]: https://fusionbrain.ai
 [langfuse oss]: https://github.com/langfuse/langfuse
