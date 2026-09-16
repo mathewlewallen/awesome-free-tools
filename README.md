@@ -148,6 +148,7 @@ Site | Category | Description
 [Neobrutalism Components] | `UI Kit` | Brutalist Tailwind component library for landing pages.
 [OpenUI] | `UI Kit` | Community spec & resources for accessible custom elements.
 [Tails] | `UI Kit` | Library of modern Tailwind CSS components and templates.
+[Free Business Tools] | `Utilities` | 40 embeddable browser calculators — VAT, GST, MRR, CAC, invoice generators. Zero dependencies, no signup, MIT-licensed.
 [Documenso] | `Utilities` | Open-source digital document-signing platform.
 [Mailtolink.me] | `Utilities` | Generate custom mailto: links with pre-filled fields.
 [SmallDev.tools] | `Utilities` | Online formatters, validators, and developer helpers—no signup.
@@ -199,6 +200,7 @@ Site | Category | Description
 [turborepo cache]: https://turbo.build/repo/docs/core-concepts/remote-caching
 [calendly embed]: https://help.calendly.com/hc/en-us/articles/223147027-Embed-options-overview
 [slack github action]: https://github.com/marketplace/actions/slack-notify
+[free business tools]: https://github.com/ytinsta1741-ops/free-business-tools
 [chatgpt]: https://chatgpt.com
 [google gemini]: https://gemini.google.com
 [deepseek]: https://www.deepseek.com
