@@ -160,6 +160,7 @@ Site | Category | Description
 
 
 ---
+- [Utiliome](https://utiliome.com/) - A zero-backend suite of 188 developer, PDF, and image utilities that runs 100% locally in your browser via WebAssembly (no server uploads).
 
 ## Free with Generous Tier
 
