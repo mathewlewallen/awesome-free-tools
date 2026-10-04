@@ -149,6 +149,7 @@ Site               | Category     | Description
 [ImgTools] | `Image` | Free online image tools: compress, resize, crop, convert, watermark, and background removal.
 [StackBlitz] | `Development` | Browser IDE; unlimited public projects & repos on free plan.
 [Formbricks] | `Analytics` | Surveys & product feedback; unlimited surveys, 1 000 responses/mo free.
+[Shipvela] | `Hosting` | Publish React, Vite and static sites from GitHub or a CLI; free Hobby includes 3 projects and 20 publishes/month.
 
 ---
 
@@ -296,3 +297,5 @@ Site               | Category     | Description
 [formbricks]: https://formbricks.com
 [devtools]: https://devtools.davrapps.dev
 [imgtools]: https://imgtools.davrapps.dev
+
+[shipvela]: https://shipvela.com/
