@@ -152,6 +152,7 @@ Site | Category | Description
 [Mailtolink.me] | `Utilities` | Generate custom mailto: links with pre-filled fields.
 [SmallDev.tools] | `Utilities` | Online formatters, validators, and developer helpers—no signup.
 [Snapdrop] | `Utilities` | Browser-based AirDrop alternative for local file transfers.
+| [ToolVaultly](https://toolvaultly.com) | Free calculators, converters and PDF tools — no sign-up |
 [AWS CodeCommit] | `Version Control` | Private Git hosting from Amazon Web Services.
 [Azure Repos] | `Version Control` | Git repos integrated with Azure DevOps.
 [BitBucket] | `Version Control` | Git solution from Atlassian, integrates with Jira and Trello.
