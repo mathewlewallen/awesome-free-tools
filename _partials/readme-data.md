@@ -149,6 +149,7 @@ Site               | Category     | Description
 [ImgTools] | `Image` | Free online image tools: compress, resize, crop, convert, watermark, and background removal.
 [StackBlitz] | `Development` | Browser IDE; unlimited public projects & repos on free plan.
 [Formbricks] | `Analytics` | Surveys & product feedback; unlimited surveys, 1 000 responses/mo free.
+[StatOrigin] | `API` | REST API for sourced industry statistics with publisher and citation on every record; 1,000 requests/day without a key.
 
 ---
 
@@ -296,3 +297,4 @@ Site               | Category     | Description
 [formbricks]: https://formbricks.com
 [devtools]: https://devtools.davrapps.dev
 [imgtools]: https://imgtools.davrapps.dev
+[statorigin]: https://statorigin.org/docs/api
