@@ -149,6 +149,7 @@ Tool | Description | Pricing Tier
 [Carbon] | Convert code snippets to share-ready images. | Completely Free (Hosted, No Limits)
 [Diagrams.net] | Diagramming tool for flowcharts, architecture, org charts, and more. | Completely Free (Hosted, No Limits)
 [Fontshare] | Free, high-quality commercial-use fonts. | Completely Free (Hosted, No Limits)
+[FaviconDL] | Free favicon extractor/downloader with a no-key API (ICO/PNG/SVG, bulk ZIP). | Completely Free (Hosted, No Limits)
 [Haikei] | SVG background generator for waves, blobs, gradients, and more. | Completely Free (Hosted, No Limits)
 [Iconshock Free Bundle] | Thousands of editable, royalty-free SVG/PNG icon sets. | Completely Free (Hosted, No Limits)
 [JigsawMake] | Free online puzzle maker for jigsaw, crossword, word search, sudoku and bingo cards. | Completely Free (Hosted, No Limits)
@@ -560,6 +561,7 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 [astro]: https://astro.build
 [openui]: https://openui.org
 [fontshare]: https://www.fontshare.com
+[favicondl]: https://favicondl.com
 [mailtolink.me]: https://mailtolink.me
 [responsively app]: https://responsively.appsimultaneously.app
 [snapdrop]: https://snapdrop.net
