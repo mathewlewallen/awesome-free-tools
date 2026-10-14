@@ -60,6 +60,7 @@ Site | Category | Description
 [Carbon] | `Design` | Convert code snippets to share-ready images.
 [Diagrams.net] | `Design` | Diagramming tool for flowcharts, architecture, org charts, and more.
 [Fontshare] | `Design` | Free, high-quality commercial-use fonts.
+[FaviconDL] | `Design` | Free favicon extractor/downloader with a no-key API (ICO/PNG/SVG, bulk ZIP).
 [Haikei] | `Design` | SVG background generator for waves, blobs, gradients, and more.
 [Iconshock Free Bundle] | `Design` | Thousands of editable, royalty-free SVG/PNG icon sets.
 [JigsawMake] | `Design` | Free online puzzle maker for jigsaw, crossword, word search, sudoku and bingo cards.
@@ -293,6 +294,7 @@ Site | Category | Description
 [astro]: https://astro.build
 [openui]: https://openui.org
 [fontshare]: https://www.fontshare.com
+[favicondl]: https://favicondl.com
 [mailtolink.me]: https://mailtolink.me
 [responsively app]: https://responsively.appsimultaneously.app
 [snapdrop]: https://snapdrop.net
