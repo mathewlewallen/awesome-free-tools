@@ -58,6 +58,7 @@ Site | Category | Description
 [Microsoft Azure Free Tier] | `Cloud` | Microsoft cloud services with free quotas and credits. Look into the $$$ credit and extras.
 [Code Climate] | `Code Quality` | Automated code review and test coverage (Free for OSS).
 [Carbon] | `Design` | Convert code snippets to share-ready images.
+[Cute Font Generator] | `Design` | Free italic and cute Unicode fonts you can copy and paste. No account.
 [Diagrams.net] | `Design` | Diagramming tool for flowcharts, architecture, org charts, and more.
 [Fontshare] | `Design` | Free, high-quality commercial-use fonts.
 [Haikei] | `Design` | SVG background generator for waves, blobs, gradients, and more.
@@ -290,6 +291,7 @@ Site | Category | Description
 [freecodecamp]: https://www.freecodecamp.org
 [sourcegraph cody]: https://sourcegraph.com/cody
 [carbon]: https://carbon.now.sh
+[cute font generator]: https://cutefontgen.com/italic-text-generator/
 [astro]: https://astro.build
 [openui]: https://openui.org
 [fontshare]: https://www.fontshare.com
