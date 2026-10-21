@@ -157,7 +157,7 @@ Site | Category | Description
 [BitBucket] | `Version Control` | Git solution from Atlassian, integrates with Jira and Trello.
 [GitHub] | `Version Control` | Code hosting platform with collaboration, CI/CD, and issue tracking.
 [GitLab] | `Version Control` | Full DevOps lifecycle tool, Git hosting and pipelines.
-
+[Tool Pantry] | `Utilities` | 216 browser tools for PDF, images, video and text, plus a key-free JSON API and an MCP server. No signup, and files are processed in your browser.
 
 ---
 
