@@ -18,6 +18,7 @@ Site                | Category     | Description
 [Docker]            | `DevOps` | Container platform for building and deploying apps.
 [Laragon]           | `DevOps` | Local server for Windows.
 [XAMPP]             | `DevOps` | Local development environment for PHP and MySQL.
+[Flisk]             | `DevOps` | Generate and run your whole tech stack without the setup pain.
 [FileZilla]         | `DevOps` | FTP client for transferring files to servers.
 [FreeFileSync]      | `DevOps` | Folder comparison and synchronization tool.
 [WinSCP]            | `DevOps` | SFTP, FTP, and SCP client for file transfer.
