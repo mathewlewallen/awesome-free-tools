@@ -149,6 +149,7 @@ Site               | Category     | Description
 [ImgTools] | `Image` | Free online image tools: compress, resize, crop, convert, watermark, and background removal.
 [StackBlitz] | `Development` | Browser IDE; unlimited public projects & repos on free plan.
 [Formbricks] | `Analytics` | Surveys & product feedback; unlimited surveys, 1 000 responses/mo free.
+[Mind Elixir] | `Productivity` | Mind mapping web app with a free plan, outline mode, tags and MCP integration.
 
 ---
 
@@ -296,3 +297,4 @@ Site               | Category     | Description
 [formbricks]: https://formbricks.com
 [devtools]: https://devtools.davrapps.dev
 [imgtools]: https://imgtools.davrapps.dev
+[mind elixir]: https://app.mind-elixir.com/
