@@ -157,6 +157,7 @@ Site | Category | Description
 [BitBucket] | `Version Control` | Git solution from Atlassian, integrates with Jira and Trello.
 [GitHub] | `Version Control` | Code hosting platform with collaboration, CI/CD, and issue tracking.
 [GitLab] | `Version Control` | Full DevOps lifecycle tool, Git hosting and pipelines.
+[Vaneform] | `Analytics` | Free website traffic checker with trends, sources, and leaderboards.
 
 
 ---
@@ -270,6 +271,7 @@ Site | Category | Description
 [mistral ai playground]: https://huggingface.co/spaces/mistralai
 [open webui]: https://github.com/open-webui/open-webui
 [goatcounter]: https://www.goatcounter.com
+[vaneform]: https://vaneform.com
 [better uptime]: https://betteruptime.com
 [ray.so]: https://ray.so
 [iconshock free bundle]: https://www.iconshock.com/free-icons
