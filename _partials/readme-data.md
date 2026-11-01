@@ -149,6 +149,7 @@ Site               | Category     | Description
 [ImgTools] | `Image` | Free online image tools: compress, resize, crop, convert, watermark, and background removal.
 [StackBlitz] | `Development` | Browser IDE; unlimited public projects & repos on free plan.
 [Formbricks] | `Analytics` | Surveys & product feedback; unlimited surveys, 1 000 responses/mo free.
+[Pic2SVG] | `Design` | Image-to-SVG tracing for logos and icons; SVG download and a keyless trace API are free, PDF/EPS/AI/DXF exports are paid.
 
 ---
 
@@ -296,3 +297,4 @@ Site               | Category     | Description
 [formbricks]: https://formbricks.com
 [devtools]: https://devtools.davrapps.dev
 [imgtools]: https://imgtools.davrapps.dev
+[pic2svg]: https://pic2svg.com
