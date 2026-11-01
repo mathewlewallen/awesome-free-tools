@@ -49,6 +49,7 @@ Site | Category | Description
 [Open WebUI] | `AI` | ChatGPT-style UI for interacting with local LLMs such as LLaMA and Mistral.
 [Qodo] | `AI` | AI programming partner.
 [Sourcegraph Cody] | `AI` | AI assistant for code navigation and refactoring (VS Code & CLI).
+[MeetNewAI] | `AI` | Free directory of new AI tools, AI games, and MCP servers.
 [GoatCounter] | `Analytics` | Lightweight, privacy-respecting web analytics.
 [Hoppscotch] | `API` | Open-source API client for REST, GraphQL and WebSocket testing.
 [OpenAPI.Tools] | `API` | Directory of free tools for designing and testing OpenAPI specs.
@@ -199,6 +200,7 @@ Site | Category | Description
 [turborepo cache]: https://turbo.build/repo/docs/core-concepts/remote-caching
 [calendly embed]: https://help.calendly.com/hc/en-us/articles/223147027-Embed-options-overview
 [slack github action]: https://github.com/marketplace/actions/slack-notify
+[meetnewai]: https://meetnewai.com
 [chatgpt]: https://chatgpt.com
 [google gemini]: https://gemini.google.com
 [deepseek]: https://www.deepseek.com
