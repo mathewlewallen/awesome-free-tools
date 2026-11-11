@@ -66,6 +66,7 @@ Site | Category | Description
 [Monaspace Fonts] | `Design` | Distinctive family of monospaced fonts by GitHub.
 [OpenPeeps] | `Design` | Hand-drawn vector illustration library for UI mock-ups.
 [Ray.so] | `Design` | Create beautiful code screenshots with customizable themes.
+[ImagineHero] | `Design` | Free in-browser image editor with layers, PSD support, crop, compress, and on-device background removal.
 [Astro] | `Development` | Static-site framework that ships zero JS by default.
 [DevDocs] | `Development` | Fast, searchable documentation browser with offline mode for 100-plus languages & APIs.
 [Docker] | `DevOps` | Container platform for building and deploying apps.
@@ -195,6 +196,7 @@ Site | Category | Description
 <!-- Completely Free -->
 [dependabot]: https://github.com/dependabot
 [codeql]: https://github.com/github/codeql-action
+[imaginehero]: https://imaginehero.com
 [socket.dev]: https://socket.dev
 [turborepo cache]: https://turbo.build/repo/docs/core-concepts/remote-caching
 [calendly embed]: https://help.calendly.com/hc/en-us/articles/223147027-Embed-options-overview
@@ -411,4 +413,3 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 - [@A-4-Atom](https://github.com/A-4-Atom) - Maintainer.
 
 [↑ Back to Top](#top)
-
