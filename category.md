@@ -90,6 +90,7 @@ Tool | Description | Pricing Tier
 [Hoppscotch] | Open-source API client for REST, GraphQL and WebSocket testing. | Completely Free (Hosted, No Limits)
 [OpenAPI.Tools] | Directory of free tools for designing and testing OpenAPI specs. | Completely Free (Hosted, No Limits)
 [Public APIs] | Searchable index of free public APIs with examples. | Completely Free (Hosted, No Limits)
+[No Stairs Please MCP] | Free public MCP server and directory of 10,000+ live music venues across North America. | Completely Free (Hosted, No Limits)
 
 ## Analytics
 

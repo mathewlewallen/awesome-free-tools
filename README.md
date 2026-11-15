@@ -161,6 +161,8 @@ Site | Category | Description
 
 ---
 
+[No Stairs Please MCP] | `API` | Free public MCP server and directory of 10,000+ live music venues across North America.
+
 ## Free with Generous Tier
 
 Site | Category | Description
@@ -193,6 +195,7 @@ Site | Category | Description
 ---
 
 <!-- Completely Free -->
+[no stairs please mcp]: https://nostairsplease.com/mcp
 [dependabot]: https://github.com/dependabot
 [codeql]: https://github.com/github/codeql-action
 [socket.dev]: https://socket.dev
