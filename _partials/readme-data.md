@@ -120,6 +120,7 @@ Site                | Category     | Description
 [Web Monetization] | `Miscellaneous` | A free open web standard service that allows you to send money directly in your browser.
 [Open Source Supporters] | `Miscellaneous` | Companies that offer their tools and services for free to open source projects.
 [ZeroKit.dev] | `DevTools` | 117 free browser-based developer tools including JSON formatter, regex tester, and DNS lookup.
+[PitchCalc] | `Utilities` | Hosted roof math tools for pitch, area, rafters, and shingle quantities. No signup.
 ---
 
 ## Free with Generous Tier
@@ -292,6 +293,7 @@ Site               | Category     | Description
 [mintlify writer]: https://mintlify.com
 [simplelogin]: https://simplelogin.io
 [pinggy]: https://pinggy.io
+[pitchcalc]: https://pitchcalc.com/?utm_source=github&utm_medium=github&utm_campaign=mathewlewallen_awesome-free-tools
 [stackblitz]: https://stackblitz.com
 [formbricks]: https://formbricks.com
 [devtools]: https://devtools.davrapps.dev
