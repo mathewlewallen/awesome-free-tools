@@ -149,6 +149,7 @@ Site               | Category     | Description
 [ImgTools] | `Image` | Free online image tools: compress, resize, crop, convert, watermark, and background removal.
 [StackBlitz] | `Development` | Browser IDE; unlimited public projects & repos on free plan.
 [Formbricks] | `Analytics` | Surveys & product feedback; unlimited surveys, 1 000 responses/mo free.
+[ZoneBI] | `Monitoring` | Outside-in monitoring for domain expiry, DNS, SSL certificates, uptime, email authentication (SPF, DKIM, DMARC) and Spamhaus blocklists, with status pages. Free plan for 3 domains.
 
 ---
 
@@ -296,3 +297,4 @@ Site               | Category     | Description
 [formbricks]: https://formbricks.com
 [devtools]: https://devtools.davrapps.dev
 [imgtools]: https://imgtools.davrapps.dev
+[zonebi]: https://zonebi.com/en/
