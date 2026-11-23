@@ -77,7 +77,7 @@ Site | Category | Description
 [Turborepo Cache] | `DevOps` | Free on Vercel, speeds up builds across monorepo packages.
 [WinSCP] | `DevOps` | SFTP, FTP, and SCP client for file transfer.
 [XAMPP] | `DevOps` | Local development environment for PHP and MySQL.
-[DevBench] | `DevTools` | Free, privacy-first collection of browser-based developer utilities (JSON, regex, DNS, encoders, and more).
+[DevBench] | `DevTools` | Free developer utilities; formatting and conversion tools run locally in the browser (JSON, regex, encoders, and more).
 [Klotho] | `DevTools` | CLI that converts application code into cloud infrastructure.
 [Responsively App] | `DevTools` | Browser to test websites across multiple viewports simultaneously.
 [Snippet Generator] | `DevTools` | Generate styled code-snippet images for sharing.
