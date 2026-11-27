@@ -39,6 +39,7 @@ See [queue.md](queue.md) for tools being reviewed to add to the list.
 
 Site | Category | Description
 -----|----------|------------
+[AIAC Audio Studio] | `Audio` | Free browser-local Rust/WASM DAW, LUFS loudness meter, Fake-FLAC checker & WebGPU Whisper transcriber (zero uploads).
 [ChatGPT] | `AI` | Conversational AI model for code and productivity tasks.
 [Claude] | `AI` | AI by Anthropic with a strong focus on ethical alignment.
 [DeepSeek] | `AI` | AI-powered search and assistant.
@@ -412,3 +413,5 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 
 [↑ Back to Top](#top)
 
+
+[AIAC Audio Studio]: https://aiac.app/
